@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!assignments/files/"
+    - "!files/tutorials/"   
+
+website:
+  title: "EC306 - Wages and Employment"
+  navbar:
+    pinned: true
+    background: "#9e32a8"
+    left:
+      - href: index.qmd
+        text: Home
+      - syllabus.qmd
+      - text: "Content"
+        file: content/index.qmd
+      - text: "Assignments"
+        file: assignments/index.qmd
+
+  sidebar:
+    - title: "Content"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+      
+        - section: "Overview"
+          contents:
+            - content/index.qmd
+        - section: "Course content"
+          contents:
+            - text: "Intro to Labour Economics"
+              file: content/introtolme.qmd
+              
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      background: dark
+      contents:
+      
+        - section: "Overview"
+          contents:
+            - assignments/index.qmd
+
+format:
+  html:
+    code-overflow: wrap
+    theme: 
+      - litera
+      - html/custom.scss
+    toc: true
+
+
