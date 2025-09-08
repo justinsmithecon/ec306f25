@@ -34,6 +34,8 @@ website:
           contents:
             - text: "Intro to Labour Economics"
               file: content/introtolme.qmd
+            - text: "Labour Supply 1: Individual Attachment to the Labour Market"
+              file: content/lsupply1.qmd  
               
     - title: "Assignments"
       style: "docked"

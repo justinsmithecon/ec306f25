@@ -49,7 +49,7 @@ editor: visual
     -   Labour supply: decisions by individuals about how much to work
     -   Labour demand: decisions by firms about how many workers to hire
     -   Labour market: the interaction of labour supply and demand that determines wages and employment
-    -   Other determinants of wages: human capital, discrimination, unions, minimum wage, stc.
+    -   Other determinants of wages: human capital, discrimination, unions, minimum wage, etc.
     -   Inequality and poverty: the distribution of income and wealth
     -   Unemployment: causes and consequences
 
@@ -313,7 +313,7 @@ ggplot(filter(maindata, between(wage, 5, 100)), aes(x = wage, weight = fweight))
     bins =20,
     fill="black", col="grey"
   ) +
-  labs(x = "Hourly Earnings", y = "Share of Individuals", title = "Distribution of Annual Hours Worked",
+  labs(x = "Hourly Earnings", y = "Share of Individuals", title = "Distribution of Hourly Earnings",
         caption = "Source: Canadian Income Survey (2022). Plot includes wages from the $5 to $100") +
   scale_y_continuous(labels = percent_format()) +
   scale_x_continuous(breaks = breaks_pretty(n=10)) +
@@ -438,7 +438,7 @@ ggplot(filter(maindata, between(percent_rank(earng), .01, 0.98), immst %in% c(1,
 ::::
 
 ::: {.column width="50%"}
--   Equilibrium is where demand and supply interset
+-   Equilibrium is where demand and supply intersect
 
     -   Wage is W\* and level of employment is N\*
 
@@ -531,94 +531,93 @@ ggplot(filter(maindata, between(percent_rank(earng), .01, 0.98), immst %in% c(1,
 
 -   Graphs show a temprary imbalance in pay between hospitals and long-term care in the market for nurses
 
--  Right graph shows long term care paying more
+-   Right graph shows long term care paying more
 
-- Over time nurses move from long term care to hospitals
+-   Over time nurses move from long term care to hospitals
 
-    - Movement stops when wages are equalized
-    
-- Employment in long term care increases, employment in hospitals decreases
+    -   Movement stops when wages are equalized
 
-- Note that this depends on key assumptions
+-   Employment in long term care increases, employment in hospitals decreases
 
-    - No barriers to moving between sectors
-    - No differences in non-wage aspects of jobs
-    - Homogeneous labour
-    
-- We will explore situation in course where these assumptions do not hold
+-   Note that this depends on key assumptions
+
+    -   No barriers to moving between sectors
+    -   No differences in non-wage aspects of jobs
+    -   Homogeneous labour
+
+-   We will explore situation in course where these assumptions do not hold
 
 # Current Policy Issues
 
 ## Introduction
 
-- Most researchers in labour economics analyze various policy issues
+-   Most researchers in labour economics analyze various policy issues
 
-    - Use data to estimate their effects
-    - Some do experiments
-    - Others (not many) create theoretical models
+    -   Use data to estimate their effects
+    -   Some do experiments
+    -   Others (not many) create theoretical models
 
-- There are many policies that affect workers and firms with respect to labour
+-   There are many policies that affect workers and firms with respect to labour
 
-    - In Canada they can be at the federal, provincial, or municipal level
-    - Can be policies from other countries (e.g. U.S. tariffs)
-    
-- Below we outline some current issues
+    -   In Canada they can be at the federal, provincial, or municipal level
+    -   Can be policies from other countries (e.g. U.S. tariffs)
 
-    - Helpful for the future if you want to write a 481 paper in this area
+-   Below we outline some current issues
 
-- Textbook has an extremely long list; we will cover a few here
+    -   Helpful for the future if you want to write a 481 paper in this area
+
+-   Textbook has an extremely long list; we will cover a few here
 
 ## Issues in Labour Supply
 
-- How does income tax affect employment?
+-   How does income tax affect employment?
 
-- Do income support programs (e.g. welfare, Canada Worker Benefit) affect employment?
+-   Do income support programs (e.g. welfare, Canada Worker Benefit) affect employment?
 
-- How has the labour force participation of women changed over time?
+-   How has the labour force participation of women changed over time?
 
-- How do child care costs affect employment of mothers?
+-   How do child care costs affect employment of mothers?
 
-- How do pension programs affect retirement decisions?
+-   How do pension programs affect retirement decisions?
 
-- Do temporary foreign workers affect the wages of domestic workers?
+-   Do temporary foreign workers affect the wages of domestic workers?
 
 ## Issues in Labour Demand
 
-- How do minimum wages affect employment?
+-   How do minimum wages affect employment?
 
-- Do unions affect wages and employment?
+-   Do unions affect wages and employment?
 
-- Does technological change (e.g. Automation, AI) reduce employment?
+-   Does technological change (e.g. Automation, AI) reduce employment?
 
-- Does uncertainty (e.g. Trump tariffs, Brexit) affect hiring/firing decisions?
+-   Does uncertainty (e.g. Trump tariffs, Brexit) affect hiring/firing decisions?
 
-- Do employment subsidies (e.g. Canada Summer Jobs program) increase employment?
+-   Do employment subsidies (e.g. Canada Summer Jobs program) increase employment?
 
 ## Issues in Wage Structures
 
-- Why do men and women earn different wages? 
+-   Why do men and women earn different wages?
 
-- Why do immigrants earn lower wages on entry?
+-   Why do immigrants earn lower wages on entry?
 
-- Do immigrant wages catch up after being in Canada for a while?
+-   Do immigrant wages catch up after being in Canada for a while?
 
-- What is the return to additional schooling?
+-   What is the return to additional schooling?
 
-- Do public sector workers earn more than private sector workers?
+-   Do public sector workers earn more than private sector workers?
 
-- Do workers in more dangerous jobs earn more?
+-   Do workers in more dangerous jobs earn more?
 
-- Why are CEOs paid so much?
-
+-   Why are CEOs paid so much?
 
 ## Issues in Unemployment
 
-- What are the main causes of unemployment?
+-   What are the main causes of unemployment?
 
-- How do unemployment insurance programs affect unemployment?
+-   How do unemployment insurance programs affect unemployment?
 
-- How quickly does unemployment fall after a recession?
+-   How quickly does unemployment fall after a recession?
 
-- How long to people typically stay unemployed
+-   How long to people typically stay unemployed
 
-- Does long term unemployment hurt future job prospects?
+-   Does long term unemployment hurt future job prospects?

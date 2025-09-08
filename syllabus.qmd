@@ -185,7 +185,7 @@ remove items depending on how quickly the course proceeds. A reading
 list for each topic is available at the end of this syllabus.
 
 | Topic | Readings |
-|----|----|
+|------------------------------------|------------------------------------|
 | Introduction to Labour Market Economics | BGLRS Chapter 1 |
 | Labour Supply: Individual Attachment to the Labour Market | BGLRS Chapter 2 |
 | Labour Supply and Public Policy | BGLRS Chapter 3 |
@@ -204,7 +204,7 @@ objectives that we expect students to meet by the end of the program.
 This course covers the following
 
 | **GOAL** | **OBJECTIVE** |
-|----|----|
+|------------------------------------|------------------------------------|
 | **1. Graduates will have a broad understanding of Economic Theory and Practice.** | 1.2 Apply appropriate microeconomic models to economic problems. |
 |  | 1.4 Demonstrate understanding of empirical techniques in economics. |
 | **2. Graduates will have effective communication skills.** | 2.1 Write effectively in a range of different formats. |
