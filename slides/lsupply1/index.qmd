@@ -325,5 +325,418 @@ ggplot(lfsapr %>%
 -   Individuals have diminishing MRS
 
     -   Willing to give up less consumption for additional leisure the more leisure they already have
+
+    -   Slope gets shallower with more leisure
+:::
+::::::
+
+## Preferences
+
+-   Indifference curves do not have to be smooth curves like the one shown
+
+-   Could be straight lines
+
+    -   Means the tradeoff between consumption and leisure is constant
+
+    -   Willingness to trade away leisure for consumption does not depend on leisure
+
+-   Could be "L" shaped
+
+    -   Consumption and leisure must be consumed in fixed proportions
+
+-   Mostly we will deal with smooth preferences
+
+## Preferences
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3078736069.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Utility increases with curves further from the origin
+
+    -   $U_{2} > U_{1} > U_{0}$
+
+-   
+:::
+::::::
+
+## Constraints
+
+-   Individuals do not choose consumption and leisure bundles on preference alone
+
+-   They are constrained by their budget
+
+-   The budget is determined by
+
+    -   The wage rate
+
+    -   Total number of hours available
+
+    -   Non-labour income
+
+-   Budget constraint is also called
+
+    -   Potential income constraint
+
+    -   Full income constraint
+
+## Constraints
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-825607925.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows a linear budget constraint
+
+-   Assume no saving, so consumption = income
+
+-   There are $T$ total hours to allocate to work or leisure
+
+-   Individual earns $Y_{n}$ non-labour income
+
+    -   Earned even with zero work hours (full leisure hours)
+
+-   Each hour worked gets wage of $w$
+
+-   Person working $T$ hours (no leisure) earns $WT+Y_{n}$ income
+
+    -   Called "full income"
+:::
+::::::
+
+## Constraints
+
+-   Mathematically, the budget constraint is
+
+$$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L))$ plus non-labour income $(Y_{n})$
+
+-   The slope of the budget constraint is $-w$
+
+    -   The opportunity cost of leisure is the wage rate
+
+    -   Each hour of leisure means one less hour worked, which means $w$ less income
+
+-   Someone who works zero hours has $T$ leisure hours and $Y_{n}$ consumption
+
+-   Someone who works $T$ hours has zero leisure hours and $wT + Y_{n}$ consumption
+
+## Constraints
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1709908520.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Slope is the negative of the wage rate $w$
+
+-   A lower wage means shallower slope
+
+    -   If $w_{1} < w_{0}$, the budget line swivels down
+
+    -   They intersect at leisure = $T$ because there are no work hours
+
+-   Lower wage also means full income is lower
+
+    -   Working all hours leads to less total labour earnings
+:::
+::::::
+
+## Constraints
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-4290394048.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Often people cannot adjust their work hours freely
+-   They make only be able to work full time or part time
+-   Budget constraint is no longer a line, but a set of points
+-   Suppose an individual chooses part time work
+    -   Work hours are $h_{p} = T-L_{p}$
+    -   Labour earnings are $I_{p} = w*h_{p}$
+    -   Total consumption (and income) is $C_{p} = I_{p} + Y_{n}$
+:::
+::::::
+
+## Constraints
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-4290394048.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   A person working full time hours
+    -   Work hours are $h_{f} = T-L_{f}$
+    -   Labour earnings are $I_{f} = w*h_{f}$
+    -   Total consumption (and income) is $C_{f} = I_{f} + Y_{n}$
+-   In theory wage could also be different for full time work
+:::
+::::::
+
+## Consumer Optimum
+
+-   Work hours are chosen using the combination of preferences and constraints
+-   The consumer optimum is the point that maximizes utility subject to the budget constraint
+-   The optimum occurs where the budget constraint is tangent to an indifference curve
+-   There are two possibilities for the optimum
+    -   Non-participation: optimum occurs at the end of the budget constraint (full leisure)
+    -   Participation: optimum occurs at an interior point (some leisure, some work)
+-   Model also defines the **reservation wage** -Lowest wage rate at which a person will choose to work
+
+## Consumer Optimum
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-225087360.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows an optimum with participation
+
+-   Optimum is where indifference curve is tangent to budget constraint
+
+-   At the optimum, MRS = wage rate
+
+    -   Willingness to trade leisure for consumption (MRS) equals ability to trade them (wage)
+
+-   Optimal work hours are $h_{0} = T - L_{0}$
+
+-   Optimal consumption is $C_{0} = W_{0}h_{0}+Y_{n}$
+:::
+::::::
+
+## Consumer Optimum
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1788868047.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   The reservation wage is the lowest wage at which a person will choose to work
+
+-   It occurs where the budget constraint is tangent to the indifference curve at full leisure
+
+    -   At that point, MRS = reservation wage
+
+-   If the wage is any lower, the person will choose not to work
+
+-   If it is any higher, they will work positive hours
+
+-   The red line shows the hypothetical reservation wage
+
+    -   In this case, it is $w_{r}$
+:::
+::::::
+
+## Consumer Optimum
+
+:::::::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3088812582.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph to the left shows a non-participation optimum
+
+-   The slope of the indifference curve is steeper than the budget constraint at full leisure
+
+    -   The extra consumption you want from one less hour of leisure (MRS) is more than you can get from working an hour (wage)
+
+-   So your optimal choice is to not work at all
+
+-   Indifference curve touches the budget constraint at the kink
+
+-   Notice the wage $w_{0}$ is lower than the reservation wage $w_{r}$
+:::
+::::::
+
+# Comparative Statics
+
+## Introduction
+
+-   The model can be used to predict how changes in the environment affect work decisions
+
+-   Changes could be to the wage or non-labour income
+
+-   Often these arise because of policy changes
+
+    -   Introduction or increase in welfare payment
+    -   Wage subsidy
+    -   Tax credits
+    -   Employment insurance
+    -   Child care
+
+-   We can examine these change with our model
+
+## Increase in Non-Labour Income
+
+-   Suppose that individuals receive an increase in non-labour income
+
+    -   Could be from a government transfer program
+
+-   How does this affect optimal work hours?
+
+-   Depends on whether leisure is a normal or inferior good
+
+    -   Normal good: leisure increases when non-labour income increases
+
+    -   Inferior good: leisure decreases when non-labour income increases
+
+-   Generally economists think of leisure as normal
+
+## Increase in Non-Labour Income
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1982597966.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows an increase in non-labour income from $Y_{n0}$ to $Y_{n1}$
+
+-   Budget line shifts up vertically but parallel
+
+    -   No change in slope because wage is the same
+
+-If leisure is a normal good, optimal leisure increases from $L_{0}$ to $L_{1}$
+
+-   Means work hours decrease by the same amount
+
+-   Consumption also increases
+
+-   This illustrates a pure **income effect**
+
+    -   Increases in income increase demand for normal goods
+:::
+::::::
+
+## Increase in the Wage
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-556936835.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   If the wage changes, the budget constraint pivots
+
+-   In graph to the left, the wage increases from $w_{0}$ to $w_{1}$
+
+-   The slope becomes steeper
+
+-   Full income also increases because working all hours earns more
+
+-   Graph is drawn such that leisure falls from $L_{0}$ to $L_{1}$ at the new wage rate
+
+-   There are two effects underlying this change
+
+    -   Substitution effect
+
+    -   Income effect
+:::
+::::::
+
+## Increase in the Wage
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1709444195.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   **Substitution Effect**: change in leisure when wage changes but utility is held constant
+
+    -   When wage increases, leisure becomes more expensive
+
+    -   People substitute away from leisure and towards consumption
+
+    - To measure this, draw a hypothetical budget line with the new slope but tangent to the original indifference curve
+    
+    - Difference in leisure measures substitution effect
+
+:::
+::::::
+
+
+
+## Increase in the Wage
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1709444195.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   **Income Effect**: change in leisure when income changes but wage is held constant
+
+    -   When wage increases, workers become richer at same hours of work
+
+    -   Want to consume more of all normal goods
+
+    - To measure this, move from hypothetical budget line to new budget line
+    
+    - Difference in leisure measures income effect
+
+:::
+::::::
+
+
+
+
+## Increase in the Wage
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1709444195.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   The income and substitution effects move in opposite directions
+
+- For a wage increase
+
+    -   Substitution effect encourages more work (less leisure)
+
+    -   Income effect encourages less work (more leisure)
+    
+-  The overall effect on work hours depends on which effect is stronger
+
+- Graph on the left shows a stronger substition effect
+
+
 :::
 ::::::

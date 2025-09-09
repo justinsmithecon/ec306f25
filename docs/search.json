@@ -617,7 +617,7 @@
     "href": "slides/lsupply1/index.html#preferences-1",
     "title": "EC306 - Wages and Employment",
     "section": "Preferences",
-    "text": "Preferences\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nOn the left is a single indifference curve\nAny point represents equal utility (\\(U_{0}\\))\nMarginal Rate of Substitution (MRS): the rate at which a person is willing to trade consumption for leisure while remaining equally happy\nThe MRS is the slope of the indifference curve at a point\nIndividuals have diminishing MRS\n\nWilling to give up less consumption for additional leisure the more leisure they already have"
+    "text": "Preferences\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nOn the left is a single indifference curve\nAny point represents equal utility (\\(U_{0}\\))\nMarginal Rate of Substitution (MRS): the rate at which a person is willing to trade consumption for leisure while remaining equally happy\nThe MRS is the slope of the indifference curve at a point\nIndividuals have diminishing MRS\n\nWilling to give up less consumption for additional leisure the more leisure they already have\nSlope gets shallower with more leisure"
   },
   {
     "objectID": "content/lsupply1.html",
@@ -654,5 +654,145 @@
       "Course content",
       "Labour Supply 1: Individual Attachment to the Labour Market"
     ]
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#preferences-2",
+    "href": "slides/lsupply1/index.html#preferences-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Preferences",
+    "text": "Preferences\n\nIndifference curves do not have to be smooth curves like the one shown\nCould be straight lines\n\nMeans the tradeoff between consumption and leisure is constant\nWillingness to trade away leisure for consumption does not depend on leisure\n\nCould be “L” shaped\n\nConsumption and leisure must be consumed in fixed proportions\n\nMostly we will deal with smooth preferences"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#preferences-3",
+    "href": "slides/lsupply1/index.html#preferences-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Preferences",
+    "text": "Preferences\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nUtility increases with curves further from the origin\n\n\\(U_{2} &gt; U_{1} &gt; U_{0}\\)"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#constraints",
+    "href": "slides/lsupply1/index.html#constraints",
+    "title": "EC306 - Wages and Employment",
+    "section": "Constraints",
+    "text": "Constraints\n\nIndividuals do not choose consumption and leisure bundles on preference alone\nThey are constrained by their budget\nThe budget is determined by\n\nThe wage rate\nTotal number of hours available\nNon-labour income\n\nBudget constraint is also called\n\nPotential income constraint\nFull income constraint"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#constraints-1",
+    "href": "slides/lsupply1/index.html#constraints-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Constraints",
+    "text": "Constraints\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows a linear budget constraint\nAssume no saving, so consumption = income\nThere are \\(T\\) total hours to allocate to work or leisure\nIndividual earns \\(Y_{n}\\) non-labour income\n\nEarned even with zero work hours (full leisure hours)\n\nEach hour worked gets wage of \\(w\\)\nPerson working \\(T\\) hours (no leisure) earns \\(WT+Y_{n}\\) income\n\nCalled “full income”"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#constraints-2",
+    "href": "slides/lsupply1/index.html#constraints-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Constraints",
+    "text": "Constraints\n\nMathematically, the budget constraint is\n\n\\[C = w(T - L) + Y_{n}\\] - Consumption is equal to income from working \\((w(T - L))\\) plus non-labour income \\((Y_{n})\\)\n\nThe slope of the budget constraint is \\(-w\\)\n\nThe opportunity cost of leisure is the wage rate\nEach hour of leisure means one less hour worked, which means \\(w\\) less income\n\nSomeone who works zero hours has \\(T\\) leisure hours and \\(Y_{n}\\) consumption\nSomeone who works \\(T\\) hours has zero leisure hours and \\(wT + Y_{n}\\) consumption"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#constraints-3",
+    "href": "slides/lsupply1/index.html#constraints-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Constraints",
+    "text": "Constraints\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSlope is the negative of the wage rate \\(w\\)\nA lower wage means shallower slope\n\nIf \\(w_{1} &lt; w_{0}\\), the budget line swivels down\nThey intersect at leisure = \\(T\\) because there are no work hours\n\nLower wage also means full income is lower\n\nWorking all hours leads to less total labour earnings"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#constraints-4",
+    "href": "slides/lsupply1/index.html#constraints-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Constraints",
+    "text": "Constraints\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nOften people cannot adjust their work hours freely\nThey make only be able to work full time or part time\nBudget constraint is no longer a line, but a set of points\nSuppose an individual chooses part time work\n\nWork hours are \\(h_{p} = T-L_{p}\\)\nLabour earnings are \\(I_{p} = w*h_{p}\\)\nTotal consumption (and income) is \\(C_{p} = I_{p} + Y_{n}\\)"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#constraints-5",
+    "href": "slides/lsupply1/index.html#constraints-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Constraints",
+    "text": "Constraints\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nA person working full time hours\n\nWork hours are \\(h_{f} = T-L_{f}\\)\nLabour earnings are \\(I_{f} = w*h_{f}\\)\nTotal consumption (and income) is \\(C_{f} = I_{f} + Y_{n}\\)\n\nIn theory wage could also be different for full time work"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#consumer-optimum",
+    "href": "slides/lsupply1/index.html#consumer-optimum",
+    "title": "EC306 - Wages and Employment",
+    "section": "Consumer Optimum",
+    "text": "Consumer Optimum\n\nWork hours are chosen using the combination of preferences and constraints\nThe consumer optimum is the point that maximizes utility subject to the budget constraint\nThe optimum occurs where the budget constraint is tangent to an indifference curve\nThere are two possibilities for the optimum\n\nNon-participation: optimum occurs at the end of the budget constraint (full leisure)\nParticipation: optimum occurs at an interior point (some leisure, some work)\n\nModel also defines the reservation wage -Lowest wage rate at which a person will choose to work"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#constraints-6",
+    "href": "slides/lsupply1/index.html#constraints-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Constraints",
+    "text": "Constraints\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows an optimum with participation\nOptimum is where indifference curve is tangent to budget constraint\nAt the optimum, MRS = wage rate\n\nWillingness to trade leisure for consumption (MRS) equals ability to trade them (wage)\n\nOptimal work hours are \\(h_{0} = T - L_{0}\\)\nOptimal consumption is \\(C_{0} = W_{0}h_{0}+Y_{n}\\)"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#consumer-optimum-1",
+    "href": "slides/lsupply1/index.html#consumer-optimum-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Consumer Optimum",
+    "text": "Consumer Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows an optimum with participation\nOptimum is where indifference curve is tangent to budget constraint\nAt the optimum, MRS = wage rate\n\nWillingness to trade leisure for consumption (MRS) equals ability to trade them (wage)\n\nOptimal work hours are \\(h_{0} = T - L_{0}\\)\nOptimal consumption is \\(C_{0} = W_{0}h_{0}+Y_{n}\\)"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#consumer-optimum-2",
+    "href": "slides/lsupply1/index.html#consumer-optimum-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Consumer Optimum",
+    "text": "Consumer Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe reservation wage is the lowest wage at which a person will choose to work\nIt occurs where the budget constraint is tangent to the indifference curve at full leisure\n\nAt that point, MRS = reservation wage\n\nIf the wage is any lower, the person will choose not to work\nIf it is any higher, they will work positive hours\nThe red line shows the hypothetical reservation wage\n\nIn this case, it is \\(w_{r}\\)"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#consumer-optimum-3",
+    "href": "slides/lsupply1/index.html#consumer-optimum-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Consumer Optimum",
+    "text": "Consumer Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph to the left shows a non-participation optimum\nThe slope of the indifference curve is steeper than the budget constraint at full leisure\n\nThe extra consumption you want from one less hour of leisure (MRS) is more than you can get from working an hour (wage)\n\nSo your optimal choice is to not work at all\nIndifference curve touches the budget constraint at the kink\nNotice the wage \\(w_{0}\\) is lower than the reservation wage \\(w_{r}\\)"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#introduction-2",
+    "href": "slides/lsupply1/index.html#introduction-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nThe model can be used to predict how changes in the environment affect work decisions\nChanges could be to the wage or non-labour income\nOften these arise because of policy changes\n\nIntroduction or increase in welfare payment\nWage subsidy\nTax credits\nEmployment insurance\nChild care\n\nWe can examine these change with our model"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#increase-in-non-labour-income",
+    "href": "slides/lsupply1/index.html#increase-in-non-labour-income",
+    "title": "EC306 - Wages and Employment",
+    "section": "Increase in Non-Labour Income",
+    "text": "Increase in Non-Labour Income\n\nSuppose that individuals receive an increase in non-labour income\n\nCould be from a government transfer program\n\nHow does this affect optimal work hours?\nDepends on whether leisure is a normal or inferior good\n\nNormal good: leisure increases when non-labour income increases\nInferior good: leisure decreases when non-labour income increases\n\nGenerally economists think of leisure as normal"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#increase-in-non-labour-income-1",
+    "href": "slides/lsupply1/index.html#increase-in-non-labour-income-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Increase in Non-Labour Income",
+    "text": "Increase in Non-Labour Income\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows an increase in non-labour income from \\(Y_{n0}\\) to \\(Y_{n1}\\)\nBudget line shifts up vertically but parallel\n\nNo change in slope because wage is the same\n\n\n-If leisure is a normal good, optimal leisure increases from \\(L_{0}\\) to \\(L_{1}\\)\n\nMeans work hours decrease by the same amount\nConsumption also increases\nThis illustrates a pure income effect\n\nIncreases in income increase demand for normal goods"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#increase-in-the-wage",
+    "href": "slides/lsupply1/index.html#increase-in-the-wage",
+    "title": "EC306 - Wages and Employment",
+    "section": "Increase in the Wage",
+    "text": "Increase in the Wage\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIf the wage changes, the budget constraint pivots\nIn graph to the left, the wage increases from \\(w_{0}\\) to \\(w_{1}\\)\nThe slope becomes steeper\nFull income also increases because working all hours earns more\nGraph is drawn such that leisure falls from \\(L_{0}\\) to \\(L_{1}\\) at the new wage rate\nThere are two effects underlying this change\n\nSubstitution effect\nIncome effect"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#increase-in-the-wage-1",
+    "href": "slides/lsupply1/index.html#increase-in-the-wage-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Increase in the Wage",
+    "text": "Increase in the Wage\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSubstitution Effect: change in leisure when wage changes but utility is held constant\n\nWhen wage increases, leisure becomes more expensive\nPeople substitute away from leisure and towards consumption\nTo measure this, draw a hypothetical budget line with the new slope but tangent to the original indifference curve\nDifference in leisure measures substitution effect"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#increase-in-the-wage-2",
+    "href": "slides/lsupply1/index.html#increase-in-the-wage-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Increase in the Wage",
+    "text": "Increase in the Wage\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIncome Effect: change in leisure when income changes but wage is held constant\n\nWhen wage increases, workers become richer at same hours of work\nWant to consume more of all normal goods\nTo measure this, move from hypothetical budget line to new budget line\nDifference in leisure measures income effect"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#increase-in-the-wage-3",
+    "href": "slides/lsupply1/index.html#increase-in-the-wage-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Increase in the Wage",
+    "text": "Increase in the Wage\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe income and substitution effects move in opposite directions\nFor a wage increase\n\nSubstitution effect encourages more work (less leisure)\nIncome effect encourages less work (more leisure)\n\nThe overall effect on work hours depends on which effect is stronger\nGraph on the left shows a stronger substition effect"
   }
 ]
