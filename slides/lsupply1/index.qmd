@@ -9,6 +9,7 @@ format:
     chalkboard:
       theme: whiteboard
       src: drawings.json
+    post-render: "scripts/decktape.sh"
 editor: visual
 ---
 
@@ -552,7 +553,7 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 
 ## Consumer Optimum
 
-:::::::::: columns
+:::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
 ![](images/clipboard-3088812582.png)
@@ -680,14 +681,11 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 
     -   People substitute away from leisure and towards consumption
 
-    - To measure this, draw a hypothetical budget line with the new slope but tangent to the original indifference curve
-    
-    - Difference in leisure measures substitution effect
+    -   To measure this, draw a hypothetical budget line with the new slope but tangent to the original indifference curve
 
+    -   Difference in leisure measures substitution effect
 :::
 ::::::
-
-
 
 ## Increase in the Wage
 
@@ -705,15 +703,11 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 
     -   Want to consume more of all normal goods
 
-    - To measure this, move from hypothetical budget line to new budget line
-    
-    - Difference in leisure measures income effect
+    -   To measure this, move from hypothetical budget line to new budget line
 
+    -   Difference in leisure measures income effect
 :::
 ::::::
-
-
-
 
 ## Increase in the Wage
 
@@ -727,16 +721,14 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 ::: {.column width="50%"}
 -   The income and substitution effects move in opposite directions
 
-- For a wage increase
+-   For a wage increase
 
     -   Substitution effect encourages more work (less leisure)
 
     -   Income effect encourages less work (more leisure)
-    
--  The overall effect on work hours depends on which effect is stronger
 
-- Graph on the left shows a stronger substition effect
+-   The overall effect on work hours depends on which effect is stronger
 
-
+-   Graph on the left shows a stronger substition effect
 :::
 ::::::
