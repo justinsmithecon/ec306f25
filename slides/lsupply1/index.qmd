@@ -729,6 +729,253 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 
 -   The overall effect on work hours depends on which effect is stronger
 
--   Graph on the left shows a stronger substition effect
+-   Graph on the left shows a stronger substitution effect
+:::
+::::::
+
+## Increase in the Wage
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1483426332.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Changing the wage can also affect participation
+
+-   Recall that workers do not work if the wage is below their reservation wage
+
+-   If an increase in the wage moves it above the reservation wage, they will start working
+
+-   Graph to the right shows how this would happen
+:::
+::::::
+
+## The Individual Labour Supply Curve
+
+-   The labour supply curve shows the relationship between the wage rate and hours worked
+
+-   It is derived from the consumer optimum at different wage rates
+
+-   We will see that the labour supply curve can be backward bending
+
+    -   It is upward sloping when the substitution effect is stronger
+
+    -   It is downward sloping when the income effect is stronger
+
+    -   The curve tends to bend backwards at higher wage rates
+
+## The Individual Labour Supply Curve
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2266967012.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Suppose wage goes from $w_{0}$ to $w_{1}$ to $w_{2}$
+
+-   At $w_{0}$, work hours are $h_{0} = T - L_{0}$
+
+-   At $w_{1}$, work hours increase to $h_{1} = T - L_{1}$
+
+    -   substitution effect stronger
+
+-   At $w_{2}$, work hours decrease to $h_{2} = T - L_{2}$
+
+    -   income effect stronger
+:::
+::::::
+
+## The Individual Labour Supply Curve
+
+::::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2266967012.png)
+:::
+::::
+
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2149340392.png)
+:::
+::::
+:::::::
+
+## Summary
+
+-   We have used the labour supply model to examine changes in the wage
+
+-   For people participating, wage changes alter leisure and work hours
+
+-   If the wage goes up then
+
+    -   Work hours go up if the substition effect is strongest
+    -   Work hours go down if the income effect is strongest
+
+-   For non-participants, a wage increase can induce them to enter the labour force
+
+    -   If the wage goes above their reservation wage
+
+-   The labour supply curve maps different wages to work hours
+
+-   It slopes up at lower wages, but can bend backwards at higher wages
+
+# Empirical Evidence
+
+## Introduction
+
+-   There are many labour economists working on evidence of these theories
+
+-   We will look at a few examples of empirical evidence on labour supply
+
+-   First we look at evidence on participation
+
+    -   The **extensive margin** of labour supply
+    -   Many studies look specifically at married women
+
+-   Then at evidence on work hours
+
+    -   The **intensive margin** of labour supply
+
+## Participation
+
+-   Table below shows participation rates for married women
+
+-   Broken down by age, children, education, spousal income
+
+-   Each of these demographic factors are related to wage
+
+    -   e.g. higher education -\> higher wage
+
+-   We expect to see that where wage is higher, participation is also higher
+
+-   This is not a perfect way to examine this relationship
+
+    -   There could be other related factors that drive participation
+
+## Participation
+
+![](images/clipboard-1310882249.jpeg)
+
+## Elasticity of Labour Supply
+
+-   The **elasticity of labour supply** is the percentage change in labour supply from a 1% change in the wage
+
+-   Measures how responsive work hours are to changes in the wage
+
+-   There are different ways of measuring elasticity
+
+    -   **Uncompensated Elasticity**: measures total change in work hours from a wage change
+
+        -   Includes both income and substitution effects
+        -   Effect is theoretically ambiguous
+
+    -   **Compensated Elasticity**: measures change in work hours after removing income effect
+
+        -   Isolates the substitution effect
+        -   Should be positive
+
+## Elasticity of Labour Supply
+
+![](images/clipboard-2220222113.jpeg)
+
+## Elasticity of Labour Supply
+
+-   Table above shows summary of uncompensated and compensated elasticities from different studies
+
+-   Separates by gender
+
+    -   We might expect men and women to respond differently to wage changes
+    -   Women potentially have more flexibility in work hours and respond more
+
+-   Table shows uniformly *inelastic* labour supply
+
+    -   Elasticity less than 1 in absolute value
+
+    -   A 1% increase in wage leads to roughly 0.1% to 0.3% change in work hours
+
+-   Compensated elasticity is positive
+
+    -   Women respond more to wage changes
+
+-   Income effect is generally negative or small
+
+# Applications
+
+## Introduction
+
+-   We can use the model to analyze various situations faced by workers
+
+-   In this section we will look at
+
+    -   Changes in family income (added worker effects)
+    -   Discouraged workers
+    -   Moonlighting (holding multiple jobs)
+    -   Overtime
+    -   Flex work
+
+-   The list is not exhaustive
+
+-   In the next chapter we will look at government policies
+
+## Added Worker Effect
+
+-   The **added worker effect** occurs when a negative income shock to a family leads to increased labour supply from secondary earners
+
+    -   e.g. husband loses job, wife enters labour force or increases work hours
+
+-   Explicitly considers the family unit rather than treating labour supply as purely individual
+
+-   Spousal income is treated as a person's non-labour income
+
+-   In the model we can look at what happens when this amount falls
+
+## Added Worker Effect
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2909473170.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   When non-labour income falls, the budget constraint shifts down
+
+-   If leisure is a normal good, optimal leisure falls from $L_{0}$ to $L_{1}$
+
+-   Work hours increase from $h_{0}$ to $h_{1}$
+
+-   Means that the spouse increases work hours to compensate for lost family income
+:::
+::::::
+
+## Added Worker Effect
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-339840249.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   If the spouse was not already working, the fall in income can induce participation
+
+-   Happens because the fall in income reduces the reservation wage
+
+    -   If the wage is now above the reservation wage, they will start working
+
+-   Graph to the left shows how this happens
+
+    -   The slope if reservation wage $R_{1}$ is smaller than $R_{0}$ after the drop in non-laboir income
+
+    -   Person enters the labour market in response because wage is now above reservation wage
 :::
 ::::::

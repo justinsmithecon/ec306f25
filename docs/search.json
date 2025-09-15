@@ -254,7 +254,7 @@
   {
     "objectID": "content/lsupply1.html",
     "href": "content/lsupply1.html",
-    "title": "Labour Supply 1: Individual Attachmen to the Labour Market",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "",
     "text": "BGLRS Chapter 2",
     "crumbs": [
@@ -266,7 +266,7 @@
   {
     "objectID": "content/lsupply1.html#readings",
     "href": "content/lsupply1.html#readings",
-    "title": "Labour Supply 1: Individual Attachmen to the Labour Market",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "",
     "text": "BGLRS Chapter 2",
     "crumbs": [
@@ -278,7 +278,7 @@
   {
     "objectID": "content/lsupply1.html#slides",
     "href": "content/lsupply1.html#slides",
-    "title": "Labour Supply 1: Individual Attachmen to the Labour Market",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
@@ -611,6 +611,118 @@
     "href": "slides/lsupply1/index.html#increase-in-the-wage-3",
     "title": "EC306 - Wages and Employment",
     "section": "Increase in the Wage",
-    "text": "Increase in the Wage\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe income and substitution effects move in opposite directions\nFor a wage increase\n\nSubstitution effect encourages more work (less leisure)\nIncome effect encourages less work (more leisure)\n\nThe overall effect on work hours depends on which effect is stronger\nGraph on the left shows a stronger substition effect"
+    "text": "Increase in the Wage\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nThe income and substitution effects move in opposite directions\nFor a wage increase\n\nSubstitution effect encourages more work (less leisure)\nIncome effect encourages less work (more leisure)\n\nThe overall effect on work hours depends on which effect is stronger\nGraph on the left shows a stronger substitution effect"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html",
+    "href": "slides/lsupply1/index.html",
+    "title": "\nLabour Supply 1: Individual Attachment to the Labour Market\n",
+    "section": "",
+    "text": "Labour Supply 1: Individual Attachment to the Labour Market"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#increase-in-the-wage-4",
+    "href": "slides/lsupply1/index.html#increase-in-the-wage-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Increase in the Wage",
+    "text": "Increase in the Wage\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nChanging the wage can also affect participation\nRecall that workers do not work if the wage is below their reservation wage\nIf an increase in the wage moves it above the reservation wage, they will start working\nGraph to the right shows how this would happen"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#the-individual-labour-supply-curve",
+    "href": "slides/lsupply1/index.html#the-individual-labour-supply-curve",
+    "title": "EC306 - Wages and Employment",
+    "section": "The Individual Labour Supply Curve",
+    "text": "The Individual Labour Supply Curve\n\nThe labour supply curve shows the relationship between the wage rate and hours worked\nIt is derived from the consumer optimum at different wage rates\nWe will see that the labour supply curve can be backward bending\n\nIt is upward sloping when the substitution effect is stronger\nIt is downward sloping when the income effect is stronger\nThe curve tends to bend backwards at higher wage rates"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#the-individual-labour-supply-curve-1",
+    "href": "slides/lsupply1/index.html#the-individual-labour-supply-curve-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "The Individual Labour Supply Curve",
+    "text": "The Individual Labour Supply Curve\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSuppose wage goes from \\(w_{0}\\) to \\(w_{1}\\) to \\(w_{2}\\)\nAt \\(w_{0}\\), work hours are \\(h_{0} = T - L_{0}\\)\nAt \\(w_{1}\\), work hours increase to \\(h_{1} = T - L_{1}\\)\n\nsubstitution effect stronger\n\nAt \\(w_{2}\\), work hours decrease to \\(h_{2} = T - L_{2}\\)\n\nincome effect stronger"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#the-individual-labour-supply-curve-2",
+    "href": "slides/lsupply1/index.html#the-individual-labour-supply-curve-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "The Individual Labour Supply Curve",
+    "text": "The Individual Labour Supply Curve"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#summary",
+    "href": "slides/lsupply1/index.html#summary",
+    "title": "EC306 - Wages and Employment",
+    "section": "Summary",
+    "text": "Summary\n\nWe have used the labour supply model to examine changes in the wage\nFor people participating, wage changes alter leisure and work hours\nIf the wage goes up then\n\nWork hours go up if the substition effect is strongest\nWork hours go down if the income effect is strongest\n\nFor non-participants, a wage increase can induce them to enter the labour force\n\nIf the wage goes above their reservation wage\n\nThe labour supply curve maps different wages to work hours\nIt slopes up at lower wages, but can bend backwards at higher wages"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#introduction-3",
+    "href": "slides/lsupply1/index.html#introduction-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nThere are many labour economists working on evidence of these theories\nWe will look at a few examples of empirical evidence on labour supply\nFirst we look at evidence on participation\n\nThe extensive margin of labour supply\nMany studies look specifically at married women\n\nThen at evidence on work hours\n\nThe intensive margin of labour supply"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#participation",
+    "href": "slides/lsupply1/index.html#participation",
+    "title": "EC306 - Wages and Employment",
+    "section": "Participation",
+    "text": "Participation\n\nTable below shows participation rates for married women\nBroken down by age, children, education, spousal income\nEach of these demographic factors are related to wage\n\ne.g. higher education -&gt; higher wage\n\nWe expect to see that where wage is higher, participation is also higher\nThis is not a perfect way to examine this relationship\n\nThere could be other related factors that drive participation"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#participation-1",
+    "href": "slides/lsupply1/index.html#participation-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Participation",
+    "text": "Participation"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#elasticity-of-labour-supply",
+    "href": "slides/lsupply1/index.html#elasticity-of-labour-supply",
+    "title": "EC306 - Wages and Employment",
+    "section": "Elasticity of Labour Supply",
+    "text": "Elasticity of Labour Supply\n\nThe elasticity of labour supply is the percentage change in labour supply from a 1% change in the wage\nMeasures how responsive work hours are to changes in the wage\nThere are different ways of measuring elasticity\n\nUncompensated Elasticity: measures total change in work hours from a wage change\n\nIncludes both income and substitution effects\nEffect is theoretically ambiguous\n\nCompensated Elasticity: measures change in work hours after removing income effect\n\nIsolates the substitution effect\nShould be positive"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#elasticity-of-labour-supply-1",
+    "href": "slides/lsupply1/index.html#elasticity-of-labour-supply-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Elasticity of Labour Supply",
+    "text": "Elasticity of Labour Supply"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#elasticity-of-labour-supply-2",
+    "href": "slides/lsupply1/index.html#elasticity-of-labour-supply-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Elasticity of Labour Supply",
+    "text": "Elasticity of Labour Supply\n\nTable above shows summary of uncompensated and compensated elasticities from different studies\nSeparates by gender\n\nWe might expect men and women to respond differently to wage changes\nWomen potentially have more flexibility in work hours and respond more\n\nTable shows uniformly inelastic labour supply\n\nElasticity less than 1 in absolute value\nA 1% increase in wage leads to roughly 0.1% to 0.3% change in work hours\n\nCompensated elasticity is positive\n\nWomen respond more to wage changes\n\nIncome effect is generally negative or small"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#introduction-4",
+    "href": "slides/lsupply1/index.html#introduction-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nWe can use the model to analyze various situations faced by workers\nIn this section we will look at\n\nChanges in family income (added worker effects)\nDiscouraged workers\nMoonlighting (holding multiple jobs)\nOvertime\nFlex work\n\nThe list is not exhaustive\nIn the next chapter we will look at government policies"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#added-worker-effect",
+    "href": "slides/lsupply1/index.html#added-worker-effect",
+    "title": "EC306 - Wages and Employment",
+    "section": "Added Worker Effect",
+    "text": "Added Worker Effect\n\nThe added worker effect occurs when a negative income shock to a family leads to increased labour supply from secondary earners\n\ne.g. husband loses job, wife enters labour force or increases work hours\n\nExplicitly considers the family unit rather than treating labour supply as purely individual\nSpousal income is treated as a person’s non-labour income\nIn the model we can look at what happens when this amount falls"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#added-worker-effect-1",
+    "href": "slides/lsupply1/index.html#added-worker-effect-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Added Worker Effect",
+    "text": "Added Worker Effect\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nWhen non-labour income falls, the budget constraint shifts down\nIf leisure is a normal good, optimal leisure falls from \\(L_{0}\\) to \\(L_{1}\\)\nWork hours increase from \\(h_{0}\\) to \\(h_{1}\\)\nMeans that the spouse increases work hours to compensate for lost family income"
+  },
+  {
+    "objectID": "slides/lsupply1/index.html#added-worker-effect-2",
+    "href": "slides/lsupply1/index.html#added-worker-effect-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Added Worker Effect",
+    "text": "Added Worker Effect\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIf the spouse was not already working, the fall in income can induce participation\nHappens because the fall in income reduces the reservation wage\n\nIf the wage is now above the reservation wage, they will start working\n\nGraph to the left shows how this happens\n\nThe slope if reservation wage \\(R_{1}\\) is smaller than \\(R_{0}\\) after the drop in non-laboir income\nPerson enters the labour market in response because wage is now above reservation wage"
   }
 ]
