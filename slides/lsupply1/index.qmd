@@ -360,8 +360,6 @@ ggplot(lfsapr %>%
 -   Utility increases with curves further from the origin
 
     -   $U_{2} > U_{1} > U_{0}$
-
--   
 :::
 ::::::
 
@@ -499,7 +497,8 @@ $$C = w(T - L) + Y_{n}$$ - Consumption is equal to income from working $(w(T - L
 -   There are two possibilities for the optimum
     -   Non-participation: optimum occurs at the end of the budget constraint (full leisure)
     -   Participation: optimum occurs at an interior point (some leisure, some work)
--   Model also defines the **reservation wage** -Lowest wage rate at which a person will choose to work
+-   Model also defines the **reservation wage**
+    -   Lowest wage rate at which a person will choose to work
 
 ## Consumer Optimum
 
