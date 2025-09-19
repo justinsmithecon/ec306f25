@@ -147,7 +147,9 @@ editor: visual
 
     -   \$60/month for each child aged 6-17
 
-    -   Cancelled in 2016 and replaced with Canada Child Benefit (CCB)
+    -   Canada Child Benefit (CCB) replaced UCCB, Canada Child Tax Benefit (CCTB) and National Child Benefit Supplement (NCBS) in 2016
+
+        -   More targeted to low and middle income families
 
 -   Research (Schirle, 2015) shows that UCCB reduced labour supply of women with children under 6
 
