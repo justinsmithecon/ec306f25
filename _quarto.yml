@@ -40,7 +40,8 @@ website:
               file: content/lsupply1.qmd  
             - text: "Labour Supply 2: Labour Supply and Public Policy"
               file: content/lsupply2.qmd   
- 
+            - text: "Introduction to Stata"
+              file: content/introtostata.qmd  
               
     - title: "Assignments"
       style: "docked"
