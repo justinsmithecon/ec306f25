@@ -257,21 +257,411 @@ editor: visual
     -   Negative income tax
 
         -   Reduce the tax back rate of extra earnings
-        - Discussed in detail in a few slides
-
+        -   Discussed in detail in a few slides
 
 ## Welfare
 
-- Some evidence comes from a policy change in Quebec
+-   Some evidence comes from a policy change in Quebec
 
-- Until 1989 welfare benefits for singles or couples with no kids was based on age
+-   Until 1989 welfare benefits for singles or couples with no kids was based on age
 
     -   Under 30: \$185/month
     -   30 and over: \$507/month
-    
-- Turning 30 is associated with a big jump in welfare benefits
 
-- Compared to 29 year olds, 30 year olds were
+-   Turning 30 is associated with a big jump in welfare benefits
 
-  - Spending much longer on welfare
-  - Less likely to be employed 
+-   Compared to 29 year olds, 30 year olds were
+
+    -   Spending much longer on welfare
+    -   Less likely to be employed
+
+## Negative Income Tax
+
+-   Negative Income Tax (NIT) is a welfare program where the benefit is reduced at a rate less than one dollar for each dollar earned
+
+    -   For example, a benefit of \$10,000 that is reduced by 50 cents for each dollar earned
+
+    -   This means that if you earn \$20,000, you still get a benefit of \$5,000
+
+-   Idea is to provide income support with fewer work disincentives
+
+    -   Because the benefit is reduced at a lower rate, there is still an incentive to work
+
+-   Same as a Guaranteed Annual Income (GAI) or Basic Income
+
+    -   A minimum income level guaranteed by the government
+
+## Negative Income Tax
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-795578817.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Negative Income Tax (NIT) has two components
+
+    -   A benefit $B$ at zero hours of work
+
+    -   A tax rate $t$ on earned income until earned income exactly equals benefit
+
+-   This pivots the budget line up relative to pure welfare scheme
+
+-   Individual will reduce work hours from $H_{0}$ to $H_{1}$
+
+-   Work disincentive is less than pure welfare case
+
+    -   This person would drop out of the labour force with pure welfare, but still works some hours with NIT
+:::
+::::::
+
+## Negative Income Tax
+
+-   Introducing NIT has income and substitution effects
+
+    -   Income effects
+
+        -   The benefit increases non-labour income, so increases leisure
+
+        -   The tax has a negative income effect, so reduces leisure
+
+        -   On net, income effect of benefit will dominate
+
+    -   Substitution effect
+
+        -   Because of the tax rate, the effective wage is lower
+
+        -   This makes leisure relatively cheaper, which reduces work hours
+
+-   Overall effect on work hours is negative, but smaller than pure welfare case
+
+## Negative Income Tax
+
+-   Mathematically, the budget constraint with the NIT is
+
+$$
+C = 
+\begin{cases}
+wh + B - twh, & \text{if } B - t wh \geq 0 \\
+wh, & \text{otherwise}
+\end{cases}
+$$
+
+-   Says that consumption is
+
+    -   Earned income ($wh$) plus net benefit ($B - twh$) if net benefit is positive
+
+    -   Just earned income ($wh$) if the benefit is zero or negative
+
+-   The point at which the benefit is zero is called the break-even point
+
+    -   Occurs when $wh = \frac{B}{t}$
+
+## Negative Income Tax
+
+-   The province of Manitoba implemented a NIT program called MINCOME in the 1970s
+
+-   Randomized controlled trial
+
+    -   Some people were given NIT (treatment), others not (control)
+    -   Randomly allocated to treatment and control groups
+
+-   Conducted in the cities of Dauphin and Winnipeg
+
+    -   Dauphin is a small town, Winnipeg is a large city
+    -   Dauphin was saturated, meaning everyone got NIT
+
+-   There were 7 treatments with different benefit levels and tax rates
+
+-   Program was short lived, and ended in 1979 due to political changes
+
+## Negative Income Tax
+
+![MINCOME Treatment Groups. Source: Wikipedia](images/clipboard-3993304423.jpeg){fig-align="center"}
+
+## Negative Income Tax
+
+-   Results show small decline in hours worked
+
+    -   Mainly by mothers of newborns and women in two-parent families
+    -   No significant decline for men
+
+-   But significant improvements in health outcomes
+
+    -   Fewer hospitalizations and doctor visits
+    -   Especially for mental health and accidents
+
+-   Increase in adolescents finishing high school
+
+## Wage Subsidies
+
+-   A **wage subsidy** is a payment to workers that increases their wage rate
+
+    -   For example, a subsidy of \$5/hour increases a wage of \$15/hour to \$20/hour
+
+-   This simply increases the wage rate
+
+    -   Budget line pivots up
+
+-   There are both income and substitution effects
+
+    -   Income effect increases leisure
+
+    -   Substitution effect decreases leisure
+
+-   Overall effect on work hours is ambiguous
+
+## Wage Subsidies
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-4160848271.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Budget line pivots up with wage subsidy
+
+-   Graph shows person working more with subsidy
+
+-   But effect is ambiguous
+
+    -   Income and substitution effects work in opposite directions
+:::
+::::::
+
+## Wage Subsidies
+
+-   Wage subsidies have less negative work incentives than welfare or NIT
+
+    -   Because they do not reduce the effective wage rate
+
+-   But they do not provide income support to non-workers
+
+    -   So may not help those in most need
+
+-   Examples of pure wages subsidies in Canada mostly go to *employers*
+
+    -   Unclear if any of this gets passed on to workers
+
+## Tax Credits
+
+-   Income support is sometimes provided through the tax credits
+
+-   A **tax credit** reduces the amount of tax owed, and there are two types
+
+    -   Non-refundable: can reduce tax owed to zero, but not below zero
+
+    -   Refundable tax: can reduce tax owed below zero, resulting in a payment to the individual
+
+-   Some income maintenance programs are delivered through refundable tax credits
+
+    -   Canada Worker Benefit (CWB) in Canada
+    -   Earned Income Tax Credit (EITC) in the US
+
+-   They have a similar structure to the following graph
+
+## Tax Credits
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-479908668.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Budget line shows program similar to CWB or EITC
+
+-   Has three segments
+
+    -   Phase-in: subsidy proportional to earned income
+
+    -   Plateau: maximum benefit
+
+    -   Phase-out: benefit reduced with earned income
+
+-   Has elements of wage subsidy, demogrant, and NIT
+:::
+::::::
+
+## Tax Credits
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-4273926113.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Picture someone initially in middle range
+
+-   Tax credit gives them maximum benefit
+
+-   Acts like pure income effect
+
+-   If leisure is a normal good, they will reduce work hours
+:::
+::::::
+
+## Tax Credits
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1125348181.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Someone in the phase-in range will see an increase in the wage
+
+-   Acts like a pure wage subsidy
+
+-   Has income and substitution effects that move in opposite directions
+
+-   Effect on hours is ambiguous
+:::
+::::::
+
+## Tax Credits
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2441762854.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Finally imagine someone in the phase-out range
+
+-   This is like a negative income tax
+
+-   Income and substitution effects both reduce work hours
+
+-   Effect on work is unambiguously negative
+:::
+::::::
+
+# Unemployment Insurance
+
+## Introduction
+
+-   Unemployment insurance schemes create a safety net for workers who lose their job
+
+    -   Collect income for a period while not working
+
+-   In Canada, this is called Employment Insurance (EI)
+
+    -   Funded by payroll taxes on employers and employees
+
+-   The EI program has two main components
+
+    -   Regular benefits for those unemployed through no fault of their own
+
+    -   Special benefits for sickness, maternity, parental leave, caregiving
+
+-   For regular benefits you could get
+
+    -   55% of your average insurable weekly earnings, up to a maximum amount
+
+    -   Benefits last between 14 and 45 weeks depending on unemployment rate and hours worked in last year
+
+## Introduction
+
+-   We can analyze EI with the income-leisure diagram
+
+-   To do this, simplify the program to have two parameters
+
+    -   Must work 14 weeks in the year to qualify
+    -   Benefit is 60% of weekly wage up to a maximum of 20 weeks
+
+-   Person can therefore work up to 32 weeks in the year and get full benefits
+
+    -   For each week worked beyond 32, the lose benefits for that week
+    -   Because benefits are 60% of wage, this is like a 60% tax on earned income beyond 32 weeks
+
+-   Cannot work and get EI simultaneously
+
+## EI Budget Constraint
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2817365693.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   First 14 weeks are paid at usual wage $w_{0}$
+
+-   If person consumes 20-38 weeks of leisure (works 14 to 32 weeks), gets 20 weeks of benefits
+
+    -   Benefit is 60% of 20 weeks of wage, or $.6\times 20 \times w_{0}$
+
+-   Less than 20 weeks of leisure (more than 32 weeks of work) reduces amount of benefit week for week
+
+    -   Benefits are paid at 60% of wage
+
+    -   Work is paid at 100% of wage
+
+    -   So person keeps 40% of wage in this range
+:::
+::::::
+
+## EI Optimum
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-869943131.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Behaviour depends on position on budget line
+
+-   A non-participant might start working to get the benefit
+
+-   Happens because large increase in non-labour income happens after 14 hours of work
+:::
+::::::
+
+## EI Optimum
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1593181295.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   In the middle portion of the budget line, the person is getting full benefits
+
+-   This is like a pure income effect, so they will reduce work weeks
+:::
+::::::
+
+## EI Optimum
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2763805097.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   On the left, it again acts like a negative income tax
+
+-   Income and substitution effects both reduce work hours
+
+-   Effect on work is unambiguously negative
+:::
+::::::

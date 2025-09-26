@@ -1098,5 +1098,152 @@
     "title": "EC306 - Wages and Employment",
     "section": "Welfare",
     "text": "Welfare\n\nSome evidence comes from a policy change in Quebec\nUntil 1989 welfare benefits for singles or couples with no kids was based on age\n\nUnder 30: $185/month\n30 and over: $507/month\n\nTurning 30 is associated with a big jump in welfare benefits\nCompared to 29 year olds, 30 year olds were\n\nSpending much longer on welfare\nLess likely to be employed"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#negative-income-tax",
+    "href": "slides/lsupply2/index.html#negative-income-tax",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nNegative Income Tax (NIT) is a welfare program where the benefit is reduced at a rate less than one dollar for each dollar earned\n\nFor example, a benefit of $10,000 that is reduced by 50 cents for each dollar earned\nThis means that if you earn $20,000, you still get a benefit of $5,000\n\nIdea is to provide income support with fewer work disincentives\n\nBecause the benefit is reduced at a lower rate, there is still an incentive to work\n\nSame as a Guaranteed Annual Income (GAI) or Basic Income\n\nA minimum income level guaranteed by the government"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#negative-income-tax-1",
+    "href": "slides/lsupply2/index.html#negative-income-tax-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nNegative Income Tax (NIT) has two components\n\nA benefit \\(B\\) at zero hours of work\nA tax rate \\(t\\) on earned income until earned income exactly equals benefit\n\nThis pivots the budget line up relative to pure welfare scheme\nIndividual will reduce work hours from \\(H_{0}\\) to \\(H_{1}\\)\nWork disincentive is less than pure welfare case\n\nThis person would drop out of the labour force with pure welfare, but still works some hours with NIT"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#negative-income-tax-2",
+    "href": "slides/lsupply2/index.html#negative-income-tax-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nIntroducing NIT has income and substitution effects\n\nIncome effects\n\nThe benefit increases non-labour income, so increases leisure\nThe tax has a negative income effect, so reduces leisure\nOn net, income effect of benefit will dominate\n\nSubstitution effect\n\nBecause of the tax rate, the effective wage is lower\nThis makes leisure relatively cheaper, which reduces work hours\n\n\nOverall effect on work hours is negative, but smaller than pure welfare case"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#negative-income-tax-3",
+    "href": "slides/lsupply2/index.html#negative-income-tax-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nMathematically, the budget constraint with the NIT is\n\n\\[\nC =\n\\begin{cases}\nwh + B - twh, & \\text{if } B - t wh \\geq 0 \\\\\nwh, & \\text{otherwise}\n\\end{cases}\n\\]\n\nSays that consumption is\n\nEarned income (\\(wh\\)) plus net benefit (\\(B - twh\\)) if net benefit is positive\nJust earned income (\\(wh\\)) if the benefit is zero or negative\n\nThe point at which the benefit is zero is called the break-even point\n\nOccurs when \\(wh = \\frac{B}{t}\\)"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#negative-income-tax-4",
+    "href": "slides/lsupply2/index.html#negative-income-tax-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nThe province of Manitoba implemented a NIT program called MINCOME in the 1970s\nRandomized controlled trial\n\nSome people were given NIT (treatment), others not (control)\nRandomly allocated to treatment and control groups\n\nConducted in the cities of Dauphin and Winnipeg\n\nDauphin is a small town, Winnipeg is a large city\nDauphin was saturated, meaning everyone got NIT\n\nThere were 7 treatments with different benefit levels and tax rates\nProgram was short lived, and ended in 1979 due to political changes"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#negative-income-tax-5",
+    "href": "slides/lsupply2/index.html#negative-income-tax-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nMINCOME Treatment Groups. Source: Wikipedia"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#negative-income-tax-6",
+    "href": "slides/lsupply2/index.html#negative-income-tax-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Negative Income Tax",
+    "text": "Negative Income Tax\n\nResults show small decline in hours worked\n\nMainly by mothers of newborns and women in two-parent families\nNo significant decline for men\n\nBut significant improvements in health outcomes\n\nFewer hospitalizations and doctor visits\nEspecially for mental health and accidents\n\nIncrease in adolescents finishing high school"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#wage-subsidies",
+    "href": "slides/lsupply2/index.html#wage-subsidies",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Subsidies",
+    "text": "Wage Subsidies\n\nA wage subsidy is a payment to workers that increases their wage rate\n\nFor example, a subsidy of $5/hour increases a wage of $15/hour to $20/hour\n\nThis simply increases the wage rate\n\nBudget line pivots up\n\nThere are both income and substitution effects\n\nIncome effect increases leisure\nSubstitution effect decreases leisure\n\nOverall effect on work hours is ambiguous"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#wage-subsidies-1",
+    "href": "slides/lsupply2/index.html#wage-subsidies-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Subsidies",
+    "text": "Wage Subsidies\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBudget line pivots up with wage subsidy\nGraph shows person working more with subsidy\nBut effect is ambiguous\n\nIncome and substitution effects work in opposite directions"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#wage-subsidies-2",
+    "href": "slides/lsupply2/index.html#wage-subsidies-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Subsidies",
+    "text": "Wage Subsidies\n\nWage subsidies have less negative work incentives than welfare or NIT\n\nBecause they do not reduce the effective wage rate\n\nBut they do not provide income support to non-workers\n\nSo may not help those in most need\n\nExamples of pure wages subsidies in Canada mostly go to employers\n\nUnclear if any of this gets passed on to workers"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#tax-credits",
+    "href": "slides/lsupply2/index.html#tax-credits",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\nIncome support is sometimes provided through the tax credits\nA tax credit reduces the amount of tax owed, and there are two types\n\nNon-refundable: can reduce tax owed to zero, but not below zero\nRefundable tax: can reduce tax owed below zero, resulting in a payment to the individual\n\nSome income maintenance programs are delivered through refundable tax credits\n\nCanada Worker Benefit (CWB) in Canada\nEarned Income Tax Credit (EITC) in the US\n\nThey have a similar structure to the following graph"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#tax-credits-1",
+    "href": "slides/lsupply2/index.html#tax-credits-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBudget line shows program similar to CWB or EITC\nHas three segments\n\nPhase-in: subsidy proportional to earned income\nPlateau: maximum benefit\nPhase-out: benefit reduced with earned income\n\nHas elements of wage subsidy, demogrant, and NIT"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#tax-credits-2",
+    "href": "slides/lsupply2/index.html#tax-credits-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nPicture someone initially in middle range\nTax credit gives them maximum benefit\nActs like pure income effect\nIf leisure is a normal good, they will reduce work hours"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#tax-credits-3",
+    "href": "slides/lsupply2/index.html#tax-credits-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nSomeone in the phase-in range will see an increase in the wage\nActs like a pure wage subsidy\nHas income and substitution effects that move in opposite directions\nEffect on hours is ambiguous"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#tax-credits-4",
+    "href": "slides/lsupply2/index.html#tax-credits-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Tax Credits",
+    "text": "Tax Credits\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nFinally imagine someone in the phase-out range\nThis is like a negative income tax\nIncome and substitution effects both reduce work hours\nEffect on work is unambiguously negative"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#introduction-1",
+    "href": "slides/lsupply2/index.html#introduction-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nUnemployment insurance schemes create a safety net for workers who lose their job\n\nCollect income for a period while not working\n\nIn Canada, this is called Employment Insurance (EI)\n\nFunded by payroll taxes on employers and employees\n\nThe EI program has two main components\n\nRegular benefits for those unemployed through no fault of their own\nSpecial benefits for sickness, maternity, parental leave, caregiving\n\nFor regular benefits you could get\n\n55% of your average insurable weekly earnings, up to a maximum amount\nBenefits last between 14 and 45 weeks depending on unemployment rate and hours worked in last year"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#introduction-2",
+    "href": "slides/lsupply2/index.html#introduction-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nWe can analyze EI with the income-leisure diagram\nTo do this, simplify the program to have two parameters\n\nMust work 14 weeks in the year to qualify\nBenefit is 60% of weekly wage up to a maximum of 20 weeks\n\nPerson can therefore work up to 32 weeks in the year and get full benefits\n\nFor each week worked beyond 32, the lose benefits for that week\nBecause benefits are 60% of wage, this is like a 60% tax on earned income beyond 32 weeks\n\nCannot work and get EI simultaneously"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#ei-budget-constraint",
+    "href": "slides/lsupply2/index.html#ei-budget-constraint",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI Budget Constraint",
+    "text": "EI Budget Constraint\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nFirst 14 weeks are paid at usual wage \\(w_{0}\\)\nIf person consumes 20-38 weeks of leisure (works 14 to 32 weeks), gets 20 weeks of benefits\n\nBenefit is 60% of 20 weeks of wage, or \\(.6\\times 20 \\times w_{0}\\)\n\nLess than 20 weeks of leisure (more than 32 weeks of work) reduces amount of benefit week for week\n\nBenefits are paid at 60% of wage\nWork is paid at 100% of wage\nSo person keeps 40% of wage in this range"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#ei-optimum",
+    "href": "slides/lsupply2/index.html#ei-optimum",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI Optimum",
+    "text": "EI Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBehaviour depends on position on budget line\nA non-participant might start working to get the benefit\nHappens because large increase in non-labour income happens after 14 hours of work"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#ei-optimum-1",
+    "href": "slides/lsupply2/index.html#ei-optimum-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI Optimum",
+    "text": "EI Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn the middle portion of the budget line, the person is getting full benefits\nThis is like a pure income effect, so they will reduce work weeks"
+  },
+  {
+    "objectID": "slides/lsupply2/index.html#ei-optimum-2",
+    "href": "slides/lsupply2/index.html#ei-optimum-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "EI Optimum",
+    "text": "EI Optimum\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nOn the left, it again acts like a negative income tax\nIncome and substitution effects both reduce work hours\nEffect on work is unambiguously negative"
   }
 ]
