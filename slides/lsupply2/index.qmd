@@ -665,3 +665,293 @@ $$
 -   Effect on work is unambiguously negative
 :::
 ::::::
+
+## Evidence on EI and Labour Supply
+
+-   Maine vs New Brunswick
+
+-   Initially, had very similar employment insurance schemes
+
+-   Later, New Brunswick increased generosity of benefits relative to Maine
+
+-   Analyze with a difference-in-differences approach
+
+    -   Compare changes in labour supply in New Brunswick before and after change to Maine over same period
+
+    -   Maine acts as a control group for the change in New Brunswick
+
+        -   Cannot look just at New Brunswick over time because other factors may be changing
+        -   Changes in Maine over time capture and control for the change in these other factors
+
+## Evidence on EI and Labour Supply
+
+-   Analysis finds
+
+    -   Higher labour force participation in NB for marginally-attached workers
+    -   Lower hours for those with stronger attachments
+
+-   This corresponds exactly to the model predictions
+
+-   Highlights work disincentive effects of income maintenance programs
+
+# Disability and Workers Compensation
+
+## Introduction
+
+-   Disability insurance and workers compensation provide income support to workers who are injured or become ill
+
+    -   Can come from public and private sources
+
+    -   Premiums usually paid by both employers and employees
+
+-   In cases of sever injury or disability work incentives are not a concern
+
+    -   People are unable to work
+
+-   In others people may still be able to work
+
+## Effect of a Disability on Labour Supply
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1381248606.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Initially person chooses $L_{0}$ leisure and works $H_{0}$ hours
+
+-   If they become injured but can still work, the might choose $L_{1}$ leisure and work $H_{1}$ hours
+
+    -   Now on a lower, non-optimal indifference curve
+
+-   If they become completely disabled, they choose $T$ leisure and work zero hours
+
+    -   On an even lower indifference curve
+:::
+::::::
+
+## Effect of a Disability on Labour Supply
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-655917126.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   A disability might also change their preferences
+
+-   If work becomes more difficult, preferences would tilt towards leisure
+
+    -   Indifference curve becomes steeper
+
+    -   MRS increases at each point
+
+    -   More willing to give up consumption to get leisure
+
+-   Even if the person can still work unconstrained, they will choose more leisure
+
+    -   Person would go from $L_{0}$ to $L_{2}$
+:::
+::::::
+
+# Effect of Compensation
+
+-   If a person now receives disability insurance, their budget constraint changes
+
+-   These programs usually pay a fraction of previous earnings
+
+    -   In Ontario, the Workplace Safety and Insurance Board (WSIB) pays 85% of net earnings (up to a max)
+    -   Lasts until you can return to work or age 65
+        -   Another program would take over at that point
+
+-   Below we examine two schemes
+
+    -   An income replacement of two-thirds
+    -   Full income replacement
+
+# Effect of Compensation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2891228753.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   A two thirds compensation scheme looks like a negative income tax
+
+-   At zero hours of work, person gets two-thirds of previous income
+
+-   For each hour of work beyond zero
+
+    -   They gain their full wage
+    -   But lose the benefit (two thirds of wage)
+    -   So they keep one third of their wage
+
+-   For workers that can chooose any level or work hours, effects on labour supply match NIT
+
+    -   Negative effects on hours
+:::
+::::::
+
+# Effect of Compensation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2133115874.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   What if the worker cannot choose any level of work hours?
+
+-   Imagine they can only work $H_{0}$ hours or zero hours
+
+-   If scheme is generous enough, person chooses zero hours
+
+    -   Utility at zero hours is higher than at $H_{0}$ hours
+
+-   Strong work disincentives of such a scheme
+:::
+::::::
+
+# Effect of Compensation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3682704295.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Not providing any compensation could be problematic
+
+-   A person who can work would choose to work $H_{0}$ hours
+
+-   If the person cannot work, they get lower utility
+
+    -   End up substantially worse off
+:::
+::::::
+
+# Effect of Compensation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1350737678.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Things get worse if there are medical expenses
+
+-   These expenses act like a reduction in non-labour income
+
+-   If large enough, non-labour income could go negative
+
+    -   Would happen with non workers compensation or very low compensation
+
+-   This is an extreme scenario
+:::
+::::::
+
+# Effect of Compensation
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2397031445.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   How much compensation should we provide to someone who does not work?
+
+-   One option is full income replacement
+
+    -   Would put the person on a higher indifference curve ($U_{1}$) than working
+
+-   Could also maintain the same satisfaction level as working
+
+    -   Would put the person on the same indifference curve as working
+    -   Lower compensation than full income replacement ($Y_{p}$)
+
+-   The optimal level is a policy question
+:::
+::::::
+
+# Child Care Subsidies
+
+## Introduction
+
+-   Child care subsidies are payments to parents to help cover the cost of child care
+
+-   Canada is currently expanding child care subsidies
+
+    -   Goal is to reduce average cost of child care to \$10/day by 2026
+
+    -   To date more than half of provinces have a \$10/day average
+
+    -   In some provinces, subsidy is very substantial
+
+    -   Complicated because agreements must be reached with provinces
+
+-   Quebec has had a \$10/day child care program since 1997
+
+    -   Provides a useful case study of the effects of child care subsidies
+
+-   Here we study how this affects labour supply
+
+## Child Care Costs
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-3263449723.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   With child care costs the budget line becomes discontinuous
+
+    -   At zero hours of work, it is red dot
+    -   For any amount of work, it drops down by the amount of child care costs
+    -   Then is a straight line with slope equal to wage rate
+
+-   Child care costs increase reservation wage
+
+    -   Due to costs, person needs higher wage to induce them to work
+
+-   In this graph the person chooses not to work
+:::
+::::::
+
+## Child Care Costs
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1851752876.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   A person working would choose more hours
+
+- This person has reservation wage above the wage rate with child car are costs, so works positive hours
+
+- Child care costs act as a negative pure income effect
+
+    -   Choose less leisure, more work
+    
+- Must work more to make up income loss from child care costs
+:::
+::::::
