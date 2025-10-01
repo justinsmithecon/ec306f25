@@ -281,8 +281,6 @@ editor: visual
 
     -   For example, a benefit of \$10,000 that is reduced by 50 cents for each dollar earned
 
-    -   This means that if you earn \$20,000, you still get a benefit of \$5,000
-
 -   Idea is to provide income support with fewer work disincentives
 
     -   Because the benefit is reduced at a lower rate, there is still an incentive to work
@@ -915,7 +913,7 @@ $$
 :::::: columns
 :::: {.column width="50%"}
 ::: {layout="[[-1], [1], [-1]]"}
-![](images/clipboard-3263449723.png)
+![](images/clipboard-2110629069.png)
 :::
 ::::
 
@@ -946,12 +944,88 @@ $$
 ::: {.column width="50%"}
 -   A person working would choose more hours
 
-- This person has reservation wage above the wage rate with child car are costs, so works positive hours
+-   This person has reservation wage above the wage rate with child car are costs, so works positive hours
 
-- Child care costs act as a negative pure income effect
+-   Child care costs act as a negative pure income effect
 
     -   Choose less leisure, more work
-    
-- Must work more to make up income loss from child care costs
+
+-   Must work more to make up income loss from child care costs
 :::
 ::::::
+
+## Child Care Costs
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-2110629069.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Child care costs create a gap in the labour supply schedule
+
+-   A person who chooses to work will work a minimum of $H_{0} = T- L_{0}$ hours
+
+    -   Not worth it to work less than this amount
+    -   Due to large child care costs
+
+-   This means labour supply schedule jumps from zero hours to $H_{0}$ hours\
+:::
+::::::
+
+## Child Care Subsidies
+
+-   A child care subsidy reduces the cost of child care
+
+-   For example, a full subsidy (driving costs to zero) would
+
+    -   Move the budget line up in parallel
+
+    -   Reduce the reservation wage
+
+-   The lower reservation wage would induce participation
+
+    -   Because barrier of child care is removed
+    -   This would encourage part time work in particular
+
+-   Shift up in the budget line would reduce work hours
+
+    -   Pure positive income effect
+    -   Increases consumption of leisure, reduce work hours
+
+## Evidence on Child Care Subsidies
+
+-   Quebec implemented a \$5/day child care program in 2000
+
+    -   Now a sliding scale between \$8.25 and \$21.45 today
+
+-   Researchers used a difference in differences approach to analyze the effect
+
+    -   Compared changes in labour supply of mothers in Quebec to those in other provinces over same period
+
+    -   Other provinces act as a control group for changes in Quebec
+
+-   Found that labour force participation of mothers with young children increased by 7.7 percentage points
+
+-   Unfortunately also found negative effects on child mental health, non-cognitive behaviour, crime later in life
+
+## Evidence on Child Care Subsidies
+
+![Source: Fortin (2019)](images/clipboard-2237171618.png){fig-align="center"}
+
+# Summary
+
+## Summary
+
+-   Income maintenance programs provide income support to various groups for various reasons
+
+-   Some of these programs can create work disincentives
+
+    - Need to balance this against the need to provide income support
+    
+- We examined several different programs that exist today with labour supply model
+
+- In next section, we look at labour supply over the life cycle
+

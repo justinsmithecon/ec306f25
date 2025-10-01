@@ -41,7 +41,9 @@ website:
             - text: "Labour Supply 2: Labour Supply and Public Policy"
               file: content/lsupply2.qmd   
             - text: "Introduction to Stata"
-              file: content/introtostata.qmd  
+              file: content/introtostata.qmd
+            - text: "Labour Supply 3: Labour Supply Over the Life Cycle"
+              file: content/lsupply3.qmd   
               
     - title: "Assignments"
       style: "docked"
