@@ -39,4 +39,12 @@ a.  Earned income tax credit compared to welfare
 
 ## BGLRS Chapter 3 Problem 7
 
-a.  Wages subsidy compared to a negative income tax
+b.  Wages subsidy compared to a negative income tax
+
+## BGLRS Chapter 3 Problem 3
+
+Use the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would.
+
+## BGLRS Chapter 3 Problem 4
+
+Consider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is \$20 per hour, and that they have nonlabour income of \$100 per day. The commute takes one hour each way, and it costs \$40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from \$40 to \$60 per round trip, keeping commuting time at two hours.

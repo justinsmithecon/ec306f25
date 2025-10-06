@@ -896,6 +896,20 @@
     "text": "BGLRS Chapter 3 Problem 7\n\nWages subsidy compared to a negative income tax"
   },
   {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 3",
+    "text": "BGLRS Chapter 3 Problem 3\nUse the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would."
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 4",
+    "text": "BGLRS Chapter 3 Problem 4\nConsider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is $20 per hour, and that they have nonlabour income of $100 per day. The commute takes one hour each way, and it costs $40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from $40 to $60 per round trip, keeping commuting time at two hours."
+  },
+  {
     "objectID": "slides/lsupply1/index.html#goals-of-this-section-1",
     "href": "slides/lsupply1/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
@@ -1468,5 +1482,110 @@
     "title": "EC306 - Wages and Employment",
     "section": "Evidence on Life Cycle Labour Supply",
     "text": "Evidence on Life Cycle Labour Supply\n\nInteresting experiment on bike messengers in Zurich\nMessengers paid a percentage of daily revenues\nCan choose their own total work hours\nResearchers randomly assigned messengers to\n\n25% higher wage for one month in September of one year (group A)\nOthers to 25% higher wage for one month in November of the same year (group B)\n\nEach acted as control group for the other\nBoth get same increase in lifetime income, so difference is substitution effect\nShowed messengers shift labour supply to periods with higher wage"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#introduction-2",
+    "href": "slides/lsupply3/index.html#introduction-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nSo far we assumed that people choose between consumption and leisure\n\nLeisure is time not working for pay\nEncompasses pure leisure, household production, and other non-market activities\n\nIn reality, people also spend time on household production\n\nCooking, cleaning, childcare, home maintenance, shopping, etc.\n\nHousehold production produces goods and services that can be consumed\n\nMeals, clean clothes, child supervision, etc.\n\nIn this section we explicitly model household production"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#model-5",
+    "href": "slides/lsupply3/index.html#model-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nAssume that people gain utility from the consumption of goods and services\n\n\\[u = f(Z_{1}, Z_{2}, \\ldots, Z_{N})\\]\n\nIn this model\n\n\\(Z_1, Z_2, \\ldots, Z_n\\) are final goods and services\n\\(f(.)\\) is a function (e.g. cobb-douglas, logarithmic, etc.)\n\nEach of these goods and services are produced by the household using\n\nA set of market inputs \\(X_1, X_2, \\ldots, X_n\\)\nTime \\(h_{i}\\)\n\nIn this setup, time is divided between\n\nMarket work\nHousehold production tasks"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#model-6",
+    "href": "slides/lsupply3/index.html#model-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nWhat does it mean that households “produce” the goods they consume?\nDoes not mean that literally everyone is producing goods from raw materials\nInstead means that every good/service consumed requires some time to prepare\n\nHiring contractors to remodel a home requires a small amount of home production\n\nTime spent explaining what you need, keeping contractor on schedule\n\nRemodelling your basement by yourself requires much more time\n\nIn this model we explicitly account for substituting time between various uses\n\nWork, home production of various goods, leisure"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#model-7",
+    "href": "slides/lsupply3/index.html#model-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nExample: a household consumes two goods, nutrition and rest\n\nThese would be \\(Z_1\\) and \\(Z_2\\) in the utility function\n\nNutrition is produced using processed or raw food, and time\n\nThese are \\(X_1\\), \\(X_{2}\\) and \\(h\\)\nRaw food takes time to prepare equal to \\(h = d\\) hours\n\nEach of the three purchased goods has a price\nProcessed food\n\nPrice per unit of nutrition is \\(P_c\\)\nTakes no time to prepare\n\nRaw food\n\nPrice per unit of nutrition is \\(P_r + W_{d}\\)\nThe added time cost is valued at the wage rate \\(W\\) times \\(d\\) hours\n\nLeisure\n\nPrice is the wage rate \\(W\\)"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#comparative-statics",
+    "href": "slides/lsupply3/index.html#comparative-statics",
+    "title": "EC306 - Wages and Employment",
+    "section": "Comparative Statics",
+    "text": "Comparative Statics\n\nWhat happens when we start changing some of the prices?\nIncrease in wage rate \\(W\\)\n\nCost of time affects both rest and production of raw food\nHigher wage makes home production more expensive\n\nTime spent cooking becomes more expensive\nSubstitute away from home production to processed food\nSubstitution effect: less home production, more processed food\nIncome effect: higher wage means higher income, so more consumption of all goods\n\nEffect on rest is same as before\n\nSubstitution effect: less rest, more work\nIncome effect: higher income, so more rest"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#comparative-statics-1",
+    "href": "slides/lsupply3/index.html#comparative-statics-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Comparative Statics",
+    "text": "Comparative Statics\n\nDecrease in price of processed food \\(P_c\\)\n\nProcessed food becomes cheaper relative to other goods\nSubstitution effect: more processed food, less home production\nIncome effect: lower price of processed food means higher real income, so more consumption of all goods\n\nDecrease in price of raw food \\(P_r\\)\n\nRaw food becomes relatively cheaper\nSubstitution effect: more raw food, less processed food\nIncome effect: lower price of raw food means higher real income, so more consumption of all goods"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#comparative-statics-2",
+    "href": "slides/lsupply3/index.html#comparative-statics-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Comparative Statics",
+    "text": "Comparative Statics\n\nDecrease in time required to prepare raw food \\(d\\)\n\nExample: technology that reduces cooking time (e.g. Instant Pot)\nHome production becomes relatively cheaper (through lower time cost)\nSubstitution effect: more raw food, less processed food\nAdditional substitution effect: higher real wage (i.e. they keep more of their wage), less rest, more work\nIncome effect: lower time cost of raw food means higher real income, so more consumption of all goods"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#discussion",
+    "href": "slides/lsupply3/index.html#discussion",
+    "title": "EC306 - Wages and Employment",
+    "section": "Discussion",
+    "text": "Discussion\n\nModel adds more real world complexity to match what people actually do\nEmphaszies that people do not just choose between work and leisure\nAlso emphasizes the role of the household relative to the individual\n\nHousehold members can specialize in different tasks\nChanges for one household member can affect others\n\nDiscussion above did not mention household production function, but it is important\n\nDifferent households have different abilities to produce goods\nThis can affect their choices and responses to changes in prices"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#introduction-3",
+    "href": "slides/lsupply3/index.html#introduction-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nFertility is a key life event that affects labour supply\n\nParticularly for women, but also men to some degree\n\nChildren are typically planned to some degree\n\nTiming of children is often chosen to fit with work plans\nNumber of children is often chosen based on lifetime work plans\n\nEconomists have developed models to analyze fertility decisions\n\nThese models are similar to the life cycle labour supply model\n\nWe will not go over the model because it is a bit beyond the scope of this course\nBut we will discuss some of the key variables that affect fertility decisions"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---income",
+    "href": "slides/lsupply3/index.html#variables-affecting-fertility---income",
+    "title": "EC306 - Wages and Employment",
+    "section": "Variables Affecting Fertility - Income",
+    "text": "Variables Affecting Fertility - Income\n\nIncome is positively related to the number of children\n\nHigher income means higher ability to pay for children\nChildren are a “normal good”\n\nSome disagreement on whether children are considered a normal good in our models\n\nEmpirically, higher income families and countries have lower fertility rates\nExplanation is that substitution effect of higher income dominates income effect\n\nHigher income means higher opportunity cost of time spent on children"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-children",
+    "href": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-children",
+    "title": "EC306 - Wages and Employment",
+    "section": "Variables Affecting Fertility - Price of Children",
+    "text": "Variables Affecting Fertility - Price of Children\n\nLike goods, the demand curve for children slopes down\n\nHigher “price” of children means fewer children are chosen\n\nSeveral elements involves in the price of children\n\nDirect costs: food, clothing, housework, etc.\nOpportunity costs: time spent caring for children could be spent working for pay\n\nA higher price (wage rate) creates income and substitution effects\n\nIncome effect: higher price means higher lifetime income, so more children\nSubstitution effect: higher price means time with children is more expensive, so fewer children\n\nEffect is theoretically ambiguous, but empirically substitution effect dominates"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-related-goods",
+    "href": "slides/lsupply3/index.html#variables-affecting-fertility---price-of-related-goods",
+    "title": "EC306 - Wages and Employment",
+    "section": "Variables Affecting Fertility - Price of Related Goods",
+    "text": "Variables Affecting Fertility - Price of Related Goods\n\nMany goods are consumed as part of having children\n\nChildcare, education, etc.\n\nThese are complementary goods\n\nIf you have more children, you will consume more of these goods\nYou could also consider these direct costs of children\n\nWe know that an increase in the price of a complementary good reduces demand\n\nHigher price of childcare or education means fewer children"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---tastes",
+    "href": "slides/lsupply3/index.html#variables-affecting-fertility---tastes",
+    "title": "EC306 - Wages and Employment",
+    "section": "Variables Affecting Fertility - Tastes",
+    "text": "Variables Affecting Fertility - Tastes\n\nTastes for children vary across people and over time\n\nSome people really want children, others do not\nSome cultures value children more than others\nAttitudes towards children have changed over time\n\nA stronger taste for children means more children\n\nThis is like a shift in the demand curve for children\n\nOver time in Canada, there has been a shift away from children\n\nFertility rates have declined over time\nPeople are having fewer children than in the past"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#variables-affecting-fertility---technology",
+    "href": "slides/lsupply3/index.html#variables-affecting-fertility---technology",
+    "title": "EC306 - Wages and Employment",
+    "section": "Variables Affecting Fertility - Technology",
+    "text": "Variables Affecting Fertility - Technology\n\nTechnology in this case could mean several things\n\nCould refer to the “production” of children\nMight also relate to the goods and services used with children\n\nHome automation, disposable diapers, baby monitors, carriers\n\n\nSome key developments in the last few decades\n\nBirth control: allows people to better plan timing and number of children\nFertility treatments: allows some people to have children who otherwise could not\nMedical care: reduces infant mortality, so fewer children needed to ensure some survive\nHome technology: reduces time cost of childcare, so lower opportunity cost of children\n\nHigher technology in any of these areas tends to increase demand for children"
+  },
+  {
+    "objectID": "slides/lsupply3/index.html#empirical-evidence",
+    "href": "slides/lsupply3/index.html#empirical-evidence",
+    "title": "EC306 - Wages and Employment",
+    "section": "Empirical Evidence",
+    "text": "Empirical Evidence\n\nEconomists have examined the relationship between income and fertility\nDifficult because of omitted variables\n\nA simple correlation between income and fertility tends to be negative\nImportant to hold constant other variables that affect both income and fertility\n\nExample: education levels are positively related to income and negatively related to fertility\n\n\nWhen other variables are held constant, income tends to be positively related to fertility\n\nConsistent with children being a normal good\n\nTax incentives also tend to increase fertility"
   }
 ]

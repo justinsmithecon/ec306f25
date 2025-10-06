@@ -461,3 +461,285 @@ $$
 - Both get same increase in lifetime income, so difference is substitution effect
 
 - Showed messengers shift labour supply to periods with higher wage
+
+
+
+# Household Production
+
+## Introduction
+
+- So far we assumed that people choose between consumption and leisure
+
+    - Leisure is time not working for pay
+    - Encompasses pure leisure, household production, and other non-market activities
+    
+- In reality, people also spend time on household production
+
+    - Cooking, cleaning, childcare, home maintenance, shopping, etc.
+    
+- Household production produces goods and services that can be consumed
+
+    - Meals, clean clothes, child supervision, etc.
+    
+- In this section we explicitly model household production
+
+
+## Model
+
+- Assume that people gain utility from the consumption of goods and services
+
+
+$$u = f(Z_{1}, Z_{2}, \ldots, Z_{N})$$
+
+- In this model
+
+    - $Z_1, Z_2, \ldots, Z_n$ are final goods and services
+    - $f(.)$ is a function (e.g. cobb-douglas, logarithmic, etc.)
+    
+- Each of these goods and services are produced by the household using
+
+    - A set of market inputs $X_1, X_2, \ldots, X_n$
+    - Time $h_{i}$
+    
+- In this setup, time is divided between
+
+    - Market work
+    - Household production tasks
+    
+    
+## Model
+
+- What does it mean that households "produce" the goods they consume?
+
+- Does not mean that literally everyone is producing goods from raw materials
+
+- Instead means that every good/service consumed requires some time to prepare
+
+    -   Hiring contractors to remodel a home requires a small amount of home production
+        
+          - Time spent explaining what you need, keeping contractor on schedule
+          
+    - Remodelling your basement by yourself requires much more time
+    
+- In this model we explicitly account for substituting time between various uses
+
+  - Work, home production of various goods, leisure
+
+
+## Model
+
+- Example: a household consumes two goods, nutrition and rest
+
+    - These would be $Z_1$ and $Z_2$ in the utility function
+    
+- Nutrition is produced using processed or raw food, and time
+
+    - These are $X_1$, $X_{2}$ and $h$
+    - Raw food takes time to prepare equal to $h = d$ hours
+    
+- Each of the three purchased goods has a price
+
+- Processed food
+
+    - Price per unit of nutrition is $P_c$
+    - Takes no time to prepare 
+    
+- Raw food
+
+    - Price per unit of nutrition is $P_r + W_{d}$
+    - The added time cost is valued at the wage rate $W$ times $d$ hours 
+    
+- Leisure
+
+    - Price is the wage rate $W$
+
+    
+## Comparative Statics
+
+- What happens when we start changing some of the prices?
+
+- Increase in wage rate $W$
+
+    - Cost of time affects both rest and production of raw food
+    - Higher wage makes home production more expensive
+      
+        - Time spent cooking becomes more expensive
+        - Substitute away from home production to processed food
+        - Substitution effect: less home production, more processed food
+        - Income effect: higher wage means higher income, so more consumption of all goods
+        
+    - Effect on rest is same as before
+
+        - Substitution effect: less rest, more work
+        - Income effect: higher income, so more rest
+    
+## Comparative Statics
+
+- Decrease in price of processed food $P_c$
+
+    - Processed food becomes cheaper relative to other goods
+    - Substitution effect: more processed food, less home production
+    - Income effect: lower price of processed food means higher real income, so more consumption of all goods
+    
+- Decrease in price of raw food $P_r$
+
+    - Raw food becomes relatively cheaper
+    - Substitution effect: more raw food, less processed food
+    - Income effect: lower price of raw food means higher real income, so more consumption of all goods
+    
+    
+## Comparative Statics
+
+- Decrease in time required to prepare raw food $d$
+
+
+    - Example: technology that reduces cooking time (e.g. Instant Pot)
+    - Home production becomes relatively cheaper (through lower time cost)
+    - Substitution effect: more raw food, less processed food
+    - Additional substitution effect: higher real wage (i.e. they keep more of their wage), less rest, more work
+    - Income effect: lower time cost of raw food means higher real income, so more consumption of all goods  
+
+
+## Discussion
+
+- Model adds more real world complexity to match what people actually do
+
+- Emphaszies that people do not just choose between work and leisure
+
+- Also emphasizes the role of the household relative to the individual
+
+    - Household members can specialize in different tasks
+    - Changes for one household member can affect others
+    
+- Discussion above did not mention household production function, but it is important
+
+    - Different households have different abilities to produce goods
+    - This can affect their choices and responses to changes in prices
+    
+# Fertility and Childbearing
+
+## Introduction
+
+- Fertility is a key life event that affects labour supply
+
+    - Particularly for women, but also men to some degree
+    
+- Children are typically planned to some degree
+
+    - Timing of children is often chosen to fit with work plans
+    - Number of children is often chosen based on lifetime work plans
+    
+- Economists have developed models to analyze fertility decisions
+
+    - These models are similar to the life cycle labour supply model
+ 
+- We will not go over the model because it is a bit beyond the scope of this course
+
+- But we will discuss some of the key variables that affect fertility decisions 
+ 
+    
+    
+## Variables Affecting Fertility - Income
+
+- Income is positively related to the number of children
+
+    - Higher income means higher ability to pay for children
+    - Children are a "normal good"
+    
+- Some disagreement on whether children are considered a normal good in our models
+
+    - Empirically, higher income families and countries have lower fertility rates
+    - Explanation is that substitution effect of higher income dominates income effect
+    
+        - Higher income means higher opportunity cost of time spent on children
+        
+        
+## Variables Affecting Fertility - Price of Children
+
+- Like goods, the demand curve for children slopes down
+
+    - Higher "price" of children means fewer children are chosen
+    
+- Several elements involves in the price of children
+
+    - Direct costs: food, clothing, housework, etc.
+    - Opportunity costs: time spent caring for children could be spent working for pay
+    
+- A higher price (wage rate) creates income and substitution effects
+
+    - Income effect: higher price means higher lifetime income, so more children
+    - Substitution effect: higher price means time with children is more expensive, so fewer children
+    
+- Effect is theoretically ambiguous, but empirically substitution effect dominates
+
+
+## Variables Affecting Fertility - Price of Related Goods
+
+- Many goods are consumed as part of having children
+
+    - Childcare, education, etc.
+    
+- These are complementary goods
+
+    - If you have more children, you will consume more of these goods
+    - You could also consider these direct costs of children
+    
+- We know that an increase in the price of a complementary good reduces demand
+
+    - Higher price of childcare or education means fewer children
+    
+    
+## Variables Affecting Fertility - Tastes
+
+- Tastes for children vary across people and over time
+
+    - Some people really want children, others do not
+    - Some cultures value children more than others
+    - Attitudes towards children have changed over time
+    
+- A stronger taste for children means more children
+
+    - This is like a shift in the demand curve for children
+    
+- Over time in Canada, there has been a shift away from children
+
+    - Fertility rates have declined over time
+    - People are having fewer children than in the past
+
+
+## Variables Affecting Fertility - Technology
+
+- Technology in this case could mean several things
+
+    - Could refer to the "production" of children
+    - Might also relate to the goods and services used with children
+    
+        - Home automation, disposable diapers, baby monitors, carriers
+
+- Some key developments in the last few decades
+
+    - Birth control: allows people to better plan timing and number of children
+    - Fertility treatments: allows some people to have children who otherwise could not
+    - Medical care: reduces infant mortality, so fewer children needed to ensure some survive
+    - Home technology: reduces time cost of childcare, so lower opportunity cost of children
+    
+- Higher technology in any of these areas tends to increase demand for children
+
+## Empirical Evidence
+
+- Economists have examined the relationship between income and fertility
+
+- Difficult because of omitted variables
+
+    - A simple correlation between income and fertility tends to be negative
+    - Important to hold constant other variables that affect both income and fertility
+    
+        - Example: education levels are positively related to income and negatively related to fertility
+        
+- When other variables are held constant, income tends to be positively related to fertility
+
+    - Consistent with children being a normal good
+    
+- Tax incentives also tend to increase fertility
+
+
