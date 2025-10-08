@@ -411,7 +411,7 @@ $$
 ::: {.column width="50%"}
 -   A temporary unanticipated wage change alters wage for one period (or a small number of them) only
 
-    - e.g. bonus pay, overtime pay, short-term contract
+    - e.g. bonus pay, overtime pay
 
 - Creates a temporary blip upward in wage schedule
 
@@ -543,6 +543,9 @@ $$u = f(Z_{1}, Z_{2}, \ldots, Z_{N})$$
 
     - Price per unit of nutrition is $P_c$
     - Takes no time to prepare 
+ 
+## Model
+
     
 - Raw food
 
@@ -742,4 +745,198 @@ $$u = f(Z_{1}, Z_{2}, \ldots, Z_{N})$$
     
 - Tax incentives also tend to increase fertility
 
+# Retirement and Pensions
+
+## Introduction
+
+- Retirement is a key life event that affects labour supply
+
+    - Most people retire at some point
+    - Retirement age has been changing over time
+    
+- It can mean many things
+
+    - Permanent exit from the labour force
+    - A reduction to part-time work
+    - Retiring from one full-time job and taking another
+    
+- For most people retirement means permanent exit from the labour force
+
+
+## Determinants of Retirement - Age
+
+- Age is the most important determinant of retirement
+
+    - Most people retire between ages 60 and 70
+    - Very few people retire before age 50 or after age 75
+    
+- Some places have mandatory retirement
+
+    - In Canada it is generally illegal to force retirement based on age
+    - Except if deemed a bona fide occupational requirement (BFOR), like for pilots, police, firefighters, air traffic controllers
+    - Still exits in other parts of the world (e.g. Japan, China, parts of Europe)
+    
+## Determinants of Retirement - Wealth/Earnings
+
+- Wealth in our model entered as non-labour earnings
+
+    - Higher wealth means higher non-labour income
+    - Higher non-labour income means more leisure (less work)
+    
+- Earnings changes have income and substitution effects
+
+    - Income effect: higher earnings means higher lifetime income, so more leisure (less work)
+    - Substitution effect: higher earnings means leisure is more expensive, so less leisure (more work)
+    
+- Can also think of this in a lifecycle. model
+
+
+## Determinants of Retirement - Other
+
+- Health is an important determinant of retirement
+
+    - Poor health can force people to retire early
+    - Good health can allow people to work longer
+    - Health of family members can also play a role
+    - Might operate through non-labour income or preferences
+    
+- Changing nature of work can influence decisions
+
+  - Move towards less physically demanding jobs can prolong work life
+  - More flexible work arrangements can allow people to work longer
+  - Alternatively, more stressful jobs can lead to earlier retirement
+  - Automation might force early retirement
+  - Could affect the budget constraint or preferences
+  
+## Determinants of Retirement - Other
+
+- Changing nature of family
+
+    - There are many more two-earner families now
+    - This can lead to earlier retirement for one spouse
+    - Or could prolong work if spouses want to work together longer
+    - Children living at home for longer can also affect retirement timing
+    - Increase in caring for elderly parents can lead to earlier or later retirement
+    - Might affect budget constraint or preferences
+    
+    
+## Retirement Income
+
+- Public and private pension plans have major effect on retirement decisions
+
+  - They determine most income in retirement
+  
+- The pension system in Canada consists of
+
+1. Old Age Security (OAS)
+    
+  - A flat rate pension available to most Canadians over age 65
+  - Funded out of general tax revenues
+  - Monthly max is \$740 for those aged 65-74, \$814 for those 75+
+  - Clawback for high income earners (above $148,000 in 2024)
+  - Supplemented by the Guaranteed Income Supplement (GIS) for low income seniors
+  
+  
+## Retirement Income
+  
+2. Canada/Quebec Pension Plan (CPP/QPP)
+  
+    - Earnings-related pension available to those who have contributed
+    - Funded by contributions from employees, employers, and self-employed
+    - Monthly max is \$1,433 in 2025 (age 65)
+    - Can start receiving as early as age 60 (reduced) or as late as age 70 (increased)
+    - Based on average earnings over working life, up to a maximum limit
+  
+3. Employer Pension Plans
+
+    - Many employers offer pension plans to employees
+    - Can be defined benefit or defined contribution plans
+    - Vary widely in terms of benefits and eligibility
+    - Includes private savings from RRSPs
+
+
+## Old Age Security
+
+- What effect does OAS have on retirement decisions?
+
+- Operates as a lump sum transfer
+
+    - Increases non-labour income
+    - Creates income effect: more leisure (less work)
+    - No substitution effect because it does not change the wage rate
+    
+- GIS operates like a negative income tax
+
+    - People get a the lump sum payment
+    - Payments reduced by $0.50 for each dollar of work income
+    - Has work incentives equal to a negative income tax
+    
+## Canada/Quebec Pension Plan
+
+- The effect of pension income on retirement depends on how it is structured
+
+- In Canada currently, it is simply a fixed payment
+
+    - Increases non-labour income
+    - Creates income effect: more leisure (less work)
+    - No substitution effect because it does not change the wage rate
+    
+- In the past, there was a provision that reduced benefits if you worked
+
+    - Similar to a negative income tax
+    - If the tax back rate is 100%, then it is like pure welfare
+    - Could also not tax back until a certain income level
+
+
+## Employer Pension Plan
+
+- Generally involve a fixed payment based on years of service and earnings
+
+    - Increases non-labour income
+    - Creates income effect: more leisure (less work)
+    - No substitution effect because it does not change the wage rate
+    
+- Over time the parameters that determine the fixed payment can change
+
+    - This can alter work incentives at retirement
+    - Example: if the benefit formula is changed to require more years of service
+    
+        - Would reduce the income effect of the pension
+        - Could also create a substitution effect to work more to get the pension
+    
+## Evidence on Effect of Pensions
+
+- Studies find that pensions affect retirement in expected ways
+
+    - Pensions that increase non-labour income lead to earlier retirement
+    - Pensions that create work incentives lead to later retirement
+    
+- More recent work
+
+    - Increase in retirement age increases working-age disability claims in UK
+    - Increasing public pension participation improves health behaviours (less smoking)
+    - Pension reform allowing Japanese spouses to claim half of pension earnings increased divorce
+    
+    
+# Summary
+
+## Summary
+
+- Labour supply varies over the life cycle
+
+    - Participation highest in prime working years
+
+- A life cycle approach helps us understand these patterns
+- Dynamic life cycle models can analyze effects of wage changes
+
+    - Permanent unanticipated changes
+    - Anticipated future changes
+    - Temporary unanticipated changes
+- Household production is an important part of labour supply decisions
+
+    - People allocate time between work, household production, and leisure
+    - Changes in prices of goods and time costs affect these choices
+    
+- Fertility decisions are affected by income, prices, tastes, and technology
+- Retirement decisions are affected by age, wealth, health, family, and pensions
 
