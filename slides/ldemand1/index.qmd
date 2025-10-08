@@ -1,0 +1,143 @@
+---
+format: 
+  revealjs:
+    theme: [default, hygge.scss]
+    center-title-slide: false
+    slide-number: true
+    height: 900
+    width: 1600
+    chalkboard:
+      theme: whiteboard
+      src: drawings.json
+    post-render: "scripts/decktape.sh"
+editor: visual
+---
+
+<h1>Labour Demand 1: Competitive Labour Markets</h1>
+
+<hr>
+
+<h2>EC306- Wages and Employment</h2>
+
+<h2>Justin Smith</h2>
+
+<h2>Wilfrid Laurier University</h2>
+
+<h2>Fall 2025</h2>
+
+![](/files/img/hexEC306.png){.absolute top="300" left="900" width="550"}
+
+# Goals of This Section
+
+## Goals of This Section
+
+- Understand how firms decide how much labour to employ to produce 
+
+- Compare short-run vs. long-run labour demand decisions
+
+- Explain why labour demand is downward sloping 
+
+- Learn factors that affect the elasticity of labour demand 
+
+- Understand the impact of free trade and international competition on the Canadian labour market
+
+
+
+
+# Background
+
+## Background
+
+- Labour demand refers to the number of workers that firms want to hire at a given wage rate
+
+- It is a **derived demand**
+
+    - Linked to demand for the goods/services produced
+    - It is an input into that production
+    
+- Several factors will influence labour demand
+
+    - Firm's objectives and constraints
+    - Demand conditions in product markets
+    - State of technology
+    - Time horizon
+        - **Short run:** one or more inputs fixed (usually capital)
+        - **Long run:** all inputs variable 
+
+## Structure of Product Markets
+
+- We noted that labour demand is driven by the firm's output
+
+    - Labour is used as a input
+    
+- The structure of the product market will influence the demand for labour
+
+    - Ranges from perfect competition (many sellers) to monopoly (one seller)
+
+- By contrast, the structure of the labour market will influence the supply the firm faces
+
+    - Ranges from perfect competition (many workers) to monopsony (one buyer)
+    
+- In this section we examine the case of perfect competition in both product and labour markets
+
+
+
+
+# Demand in the Short Run
+
+## Model
+
+- As labour demand is derived from production, the model starts with a production function
+
+    - Relates inputs to outputs
+    
+$$ Q = f(K, N)$$
+
+- Where
+    - $Q$ is quantity of output
+    - $K$ is capital (fixed in short run at $K_{0}$)
+    - $N$ is labour (variable in short run)
+
+
+- Firms objective is to maximize profit
+- In the short run this means choosing $N$ given fixed $K_0$
+- Optimality is where the value of the marginal product of labour equals its price
+
+
+
+## Model
+
+- To see this mathematically, take output prices are taken as given (perfect competition).
+- Profit
+$$\pi(N)= pQ - wN - rK_{0}$$
+$$= pF(K,N) - wN - rK_{0} $$
+
+
+
+- Differentiate $\pi(N)$ w.r.t. $N$:
+
+$$\frac{d\pi}{dN}
+= p\frac{\partial F}{\partial N}(K_{0},N) - w$$
+
+
+$$= p MP_N - w$$
+
+## Model
+
+- Optimal $N^\ast$ satisfies
+
+$$pMP_N \;=\; w$$
+
+- Where
+
+    - $MP_N$ is the marginal product of labour
+    - $pMP_N$ is the value of the marginal product of labour ($VMP$) 
+    - $w$ is the wage rate (marginal cost of labour, $MC_N$)
+
+
+- Optimality requires that the value of the last unit of labour hired equals its cost
+
+
+
+
+

@@ -385,6 +385,448 @@
     "text": "Summary\n\nIncome maintenance programs provide income support to various groups for various reasons\nSome of these programs can create work disincentives\n\nNeed to balance this against the need to provide income support\n\nWe examined several different programs that exist today with labour supply model\nIn next section, we look at labour supply over the life cycle"
   },
   {
+    "objectID": "slides/ldemand1/index.html#goals-of-this-section-1",
+    "href": "slides/ldemand1/index.html#goals-of-this-section-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nUnderstand how firms decide how much labour to employ to produce\nCompare short-run vs. long-run labour demand decisions\nExplain why labour demand is downward sloping\nLearn factors that affect the elasticity of labour demand\nUnderstand the impact of free trade and international competition on the Canadian labour market"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#background-1",
+    "href": "slides/ldemand1/index.html#background-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Background",
+    "text": "Background\n\nLabour demand refers to the number of workers that firms want to hire at a given wage rate\nIt is a derived demand\n\nLinked to demand for the goods/services produced\nIt is an input into that production\n\nSeveral factors will influence labour demand\n\nFirm’s objectives and constraints\nDemand conditions in product markets\nState of technology\nTime horizon\n\nShort run: one or more inputs fixed (usually capital)\nLong run: all inputs variable"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#structure-of-product-markets",
+    "href": "slides/ldemand1/index.html#structure-of-product-markets",
+    "title": "EC306 - Wages and Employment",
+    "section": "Structure of Product Markets",
+    "text": "Structure of Product Markets\n\nWe noted that labour demand is driven by the firm’s output\n\nLabour is used as a input\n\nThe structure of the product market will influence the demand for labour\n\nRanges from perfect competition (many sellers) to monopoly (one seller)\n\nBy contrast, the structure of the labour market will influence the supply the firm faces\n\nRanges from perfect competition (many workers) to monopsony (one buyer)\n\nIn this section we examine the case of perfect competition in both product and labour markets"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#model",
+    "href": "slides/ldemand1/index.html#model",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nAs labour demand is derived from production, the model starts with a production function\n\nRelates inputs to outputs\n\n\n\\[ Q = f(K, N)\\]\n\nWhere\n\n\\(Q\\) is quantity of output\n\\(K\\) is capital (fixed in short run at \\(K_{0}\\))\n\\(N\\) is labour (variable in short run)\n\nFirms objective is to maximize profit\nIn the short run this means choosing \\(N\\) given fixed \\(K_0\\)\nOptimality is where the value of the marginal product of labour equals its price"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#model-1",
+    "href": "slides/ldemand1/index.html#model-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nTo see this mathematically, take output prices are taken as given (perfect competition).\nProfit \\[\\pi(N)= pQ - wN - rK_{0}\\] \\[= pF(K,N) - wN - rK_{0} \\]\nDifferentiate \\(\\pi(N)\\) w.r.t. \\(N\\):\n\n\\[\\frac{d\\pi}{dN}\n= p\\frac{\\partial F}{\\partial N}(K_{0},N) - w\\]\n\\[= p MP_N - w\\]"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#model-2",
+    "href": "slides/ldemand1/index.html#model-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nOptimal \\(N^\\ast\\) satisfies\n\n\\[pMP_N \\;=\\; w\\]\n\nWhere\n\n\\(MP_N\\) is the marginal product of labour\n\\(pMP_N\\) is the value of the marginal product of labour (\\(VMP\\))\n\\(w\\) is the wage rate (marginal cost of labour, \\(MC_N\\))\n\nOptimality requires that the value of the last unit of labour hired equals its cost"
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-3-problem-6",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-3-problem-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 6",
+    "text": "BGLRS Chapter 3 Problem 6\nConsider the following earnings supplement program, modelled after the Self-Sufficiency Project. An individual can work a maximum of 60 hours per week, at a wage rate of $5 per hour. Welfare benefits are fixed at $200 per week, with a 100 percent tax back on labour earnings. Finally, the earnings supplement equals half the difference between an individual’s labour earnings and the benchmark earnings of $450 per week. This supplement can be collected only if the individual forgoes welfare benefits and works a minimum of 30 hours per week. Draw the individual’s budget constraint, and analyze the work decision."
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-3-problem-7",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-3-problem-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 7",
+    "text": "BGLRS Chapter 3 Problem 7\nThe different programs discussed in this chapter often have ambiguous effects on work effort. It is, nonetheless, possible to compare the work incentives of two programs by looking at what happens when the individual is indifferent between two programs. Use this approach to compare the work incentives of the following two pairs of programs. In both cases, use graphs to show the hours of work chosen under the two programs by an individual who is indifferent between the two programs.\n\nEarned income tax credit compared to welfare"
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-3-problem-7-1",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-3-problem-7-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 7",
+    "text": "BGLRS Chapter 3 Problem 7\n\nWages subsidy compared to a negative income tax"
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-3-problem-3",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-3-problem-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 3",
+    "text": "BGLRS Chapter 3 Problem 3\nUse the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would."
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-3-problem-4",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-3-problem-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 4",
+    "text": "BGLRS Chapter 3 Problem 4\nConsider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is $20 per hour, and that they have nonlabour income of $100 per day. The commute takes one hour each way, and it costs $40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from $40 to $60 per round trip, keeping commuting time at two hours."
+  },
+  {
+    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
+    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 2 Problem 3",
+    "text": "BGLRS Chapter 2 Problem 3\nConsider two individuals with endowments of \\(T=60\\) hours (per week) if leisure, nonlabour income of Y, and a wage of $7.50 per hour. At this wage, assume that workers are constrained by their employers to work 40 hours per week, or not at all.\n\nOn a carefully labelled diagram, show the equilibrium for a worker for whom 40 hours is the optimum labour supply and a worker who would like to work 20 hours, but still prefers the 40 hour week to not working. Compare the marginal rates of substitution for these two workers at 40 hours per week."
+  },
+  {
+    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
+    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 2 Problem 3",
+    "text": "BGLRS Chapter 2 Problem 3\n\nThe average part-time wage is $7 per hour, in contrast to $7.50 for full-time workers. Using the above model, provide an explanation for this difference in wage rates."
+  },
+  {
+    "objectID": "content/lsupply3.html",
+    "href": "content/lsupply3.html",
+    "title": "Labour Supply 2: Labour Supply Over the Life Cycle",
+    "section": "",
+    "text": "BGLRS Chapter 4",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
+  },
+  {
+    "objectID": "content/lsupply3.html#readings",
+    "href": "content/lsupply3.html#readings",
+    "title": "Labour Supply 2: Labour Supply Over the Life Cycle",
+    "section": "",
+    "text": "BGLRS Chapter 4",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
+  },
+  {
+    "objectID": "content/lsupply3.html#slides",
+    "href": "content/lsupply3.html#slides",
+    "title": "Labour Supply 2: Labour Supply Over the Life Cycle",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html",
+    "href": "content/lsupply1.html",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "",
+    "text": "BGLRS Chapter 2",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html#readings",
+    "href": "content/lsupply1.html#readings",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "",
+    "text": "BGLRS Chapter 2",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html#slides",
+    "href": "content/lsupply1.html#slides",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html#sample-questions",
+    "href": "content/lsupply1.html#sample-questions",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html",
+    "href": "content/introtostata.html",
+    "title": "Introduction to Stata",
+    "section": "",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#tutorial",
+    "href": "content/introtostata.html#tutorial",
+    "title": "Introduction to Stata",
+    "section": "",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#videos",
+    "href": "content/introtostata.html#videos",
+    "title": "Introduction to Stata",
+    "section": "Videos",
+    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#other-resources",
+    "href": "content/introtostata.html#other-resources",
+    "title": "Introduction to Stata",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
+    "crumbs": [
+      "Content",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html",
+    "href": "assignments/assign1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based the labour supply responses of women to the reduction in child care availability that accompanied the COVID-19 pandemic in the United States. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#description",
+    "href": "assignments/assign1.html#description",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based the labour supply responses of women to the reduction in child care availability that accompanied the COVID-19 pandemic in the United States. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#instructions",
+    "href": "assignments/assign1.html#instructions",
+    "title": "Assignment 1",
+    "section": "Instructions",
+    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec306assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the US Current Population Survey (CPS). It contains a host of information, but for this assignment the important variables are labour force participation, unemployment, the number of children in the household, and a set of demographics. The sample for this assignment contains women aged 25–54 and spans the 9 months before and after March 2020.\nThe data file is linked below.\n ec306assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/introtolme.html",
+    "href": "content/introtolme.html",
+    "title": "Introduction to Labour Market Economics",
+    "section": "",
+    "text": "BGLRS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Labour Economics"
+    ]
+  },
+  {
+    "objectID": "content/introtolme.html#readings",
+    "href": "content/introtolme.html#readings",
+    "title": "Introduction to Labour Market Economics",
+    "section": "",
+    "text": "BGLRS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Labour Economics"
+    ]
+  },
+  {
+    "objectID": "content/introtolme.html#slides",
+    "href": "content/introtolme.html#slides",
+    "title": "Introduction to Labour Market Economics",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Labour Economics"
+    ]
+  },
+  {
+    "objectID": "content/ldemand1.html",
+    "href": "content/ldemand1.html",
+    "title": "Labour Demand 1: Competitive Labour Markets",
+    "section": "",
+    "text": "BGLRS Chapter 5",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 1: Competitive Labour Markets"
+    ]
+  },
+  {
+    "objectID": "content/ldemand1.html#readings",
+    "href": "content/ldemand1.html#readings",
+    "title": "Labour Demand 1: Competitive Labour Markets",
+    "section": "",
+    "text": "BGLRS Chapter 5",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 1: Competitive Labour Markets"
+    ]
+  },
+  {
+    "objectID": "content/ldemand1.html#slides",
+    "href": "content/ldemand1.html#slides",
+    "title": "Labour Demand 1: Competitive Labour Markets",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 1: Competitive Labour Markets"
+    ]
+  },
+  {
+    "objectID": "content/lsupply2.html",
+    "href": "content/lsupply2.html",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "",
+    "text": "BGLRS Chapter 3",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
+  },
+  {
+    "objectID": "content/lsupply2.html#readings",
+    "href": "content/lsupply2.html#readings",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "",
+    "text": "BGLRS Chapter 3",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
+  },
+  {
+    "objectID": "content/lsupply2.html#slides",
+    "href": "content/lsupply2.html#slides",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
+  },
+  {
+    "objectID": "content/lsupply2.html#sample-questions",
+    "href": "content/lsupply2.html#sample-questions",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n            Wages and Employment\n        ",
+    "section": "",
+    "text": "Labour Market Economics\n        \n        \n            EC306 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Mon/Wed\n   Sept-Dec 2025\n   2:30 - 3:50 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 6",
+    "text": "BGLRS Chapter 3 Problem 6\nConsider the following earnings supplement program, modelled after the Self-Sufficiency Project. An individual can work a maximum of 60 hours per week, at a wage rate of $5 per hour. Welfare benefits are fixed at $200 per week, with a 100 percent tax back on labour earnings. Finally, the earnings supplement equals half the difference between an individual’s labour earnings and the benchmark earnings of $450 per week. This supplement can be collected only if the individual forgoes welfare benefits and works a minimum of 30 hours per week. Draw the individual’s budget constraint, and analyze the work decision."
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 7",
+    "text": "BGLRS Chapter 3 Problem 7\nThe different programs discussed in this chapter often have ambiguous effects on work effort. It is, nonetheless, possible to compare the work incentives of two programs by looking at what happens when the individual is indifferent between two programs. Use this approach to compare the work incentives of the following two pairs of programs. In both cases, use graphs to show the hours of work chosen under the two programs by an individual who is indifferent between the two programs.\n\nEarned income tax credit compared to welfare"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 7",
+    "text": "BGLRS Chapter 3 Problem 7\n\nWages subsidy compared to a negative income tax"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 3",
+    "text": "BGLRS Chapter 3 Problem 3\nUse the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would."
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 4",
+    "text": "BGLRS Chapter 3 Problem 4\nConsider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is $20 per hour, and that they have nonlabour income of $100 per day. The commute takes one hour each way, and it costs $40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from $40 to $60 per round trip, keeping commuting time at two hours."
+  },
+  {
     "objectID": "slides/intro/index.html#goals-of-this-section-1",
     "href": "slides/intro/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
@@ -579,335 +1021,6 @@
     "title": "EC306 - Wages and Employment",
     "section": "Issues in Unemployment",
     "text": "Issues in Unemployment\n\nWhat are the main causes of unemployment?\nHow do unemployment insurance programs affect unemployment?\nHow quickly does unemployment fall after a recession?\nHow long to people typically stay unemployed\nDoes long term unemployment hurt future job prospects?"
-  },
-  {
-    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
-    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 2 Problem 3",
-    "text": "BGLRS Chapter 2 Problem 3\nConsider two individuals with endowments of \\(T=60\\) hours (per week) if leisure, nonlabour income of Y, and a wage of $7.50 per hour. At this wage, assume that workers are constrained by their employers to work 40 hours per week, or not at all.\n\nOn a carefully labelled diagram, show the equilibrium for a worker for whom 40 hours is the optimum labour supply and a worker who would like to work 20 hours, but still prefers the 40 hour week to not working. Compare the marginal rates of substitution for these two workers at 40 hours per week."
-  },
-  {
-    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
-    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 2 Problem 3",
-    "text": "BGLRS Chapter 2 Problem 3\n\nThe average part-time wage is $7 per hour, in contrast to $7.50 for full-time workers. Using the above model, provide an explanation for this difference in wage rates."
-  },
-  {
-    "objectID": "content/lsupply3.html",
-    "href": "content/lsupply3.html",
-    "title": "Labour Supply 2: Labour Supply Over the Life Cycle",
-    "section": "",
-    "text": "BGLRS Chapter 4",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
-    ]
-  },
-  {
-    "objectID": "content/lsupply3.html#readings",
-    "href": "content/lsupply3.html#readings",
-    "title": "Labour Supply 2: Labour Supply Over the Life Cycle",
-    "section": "",
-    "text": "BGLRS Chapter 4",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
-    ]
-  },
-  {
-    "objectID": "content/lsupply3.html#slides",
-    "href": "content/lsupply3.html#slides",
-    "title": "Labour Supply 2: Labour Supply Over the Life Cycle",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html",
-    "href": "content/lsupply1.html",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "",
-    "text": "BGLRS Chapter 2",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#readings",
-    "href": "content/lsupply1.html#readings",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "",
-    "text": "BGLRS Chapter 2",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#slides",
-    "href": "content/lsupply1.html#slides",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#sample-questions",
-    "href": "content/lsupply1.html#sample-questions",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/introtolme.html",
-    "href": "content/introtolme.html",
-    "title": "Introduction to Labour Market Economics",
-    "section": "",
-    "text": "BGLRS Chapter 1",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "content/introtolme.html#readings",
-    "href": "content/introtolme.html#readings",
-    "title": "Introduction to Labour Market Economics",
-    "section": "",
-    "text": "BGLRS Chapter 1",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "content/introtolme.html#slides",
-    "href": "content/introtolme.html#slides",
-    "title": "Introduction to Labour Market Economics",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
-    "crumbs": [
-      "Assignments",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html",
-    "href": "assignments/assign1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based the labour supply responses of women to the reduction in child care availability that accompanied the COVID-19 pandemic in the United States. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#description",
-    "href": "assignments/assign1.html#description",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "In this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based the labour supply responses of women to the reduction in child care availability that accompanied the COVID-19 pandemic in the United States. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#instructions",
-    "href": "assignments/assign1.html#instructions",
-    "title": "Assignment 1",
-    "section": "Instructions",
-    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec306assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the US Current Population Survey (CPS). It contains a host of information, but for this assignment the important variables are labour force participation, unemployment, the number of children in the household, and a set of demographics. The sample for this assignment contains women aged 25–54 and spans the 9 months before and after March 2020.\nThe data file is linked below.\n ec306assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
-    "crumbs": [
-      "Content",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html",
-    "href": "content/introtostata.html",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#tutorial",
-    "href": "content/introtostata.html#tutorial",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#videos",
-    "href": "content/introtostata.html#videos",
-    "title": "Introduction to Stata",
-    "section": "Videos",
-    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#other-resources",
-    "href": "content/introtostata.html#other-resources",
-    "title": "Introduction to Stata",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/lsupply2.html",
-    "href": "content/lsupply2.html",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
-    "section": "",
-    "text": "BGLRS Chapter 3",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
-    ]
-  },
-  {
-    "objectID": "content/lsupply2.html#readings",
-    "href": "content/lsupply2.html#readings",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
-    "section": "",
-    "text": "BGLRS Chapter 3",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
-    ]
-  },
-  {
-    "objectID": "content/lsupply2.html#slides",
-    "href": "content/lsupply2.html#slides",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
-    ]
-  },
-  {
-    "objectID": "content/lsupply2.html#sample-questions",
-    "href": "content/lsupply2.html#sample-questions",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\n            Wages and Employment\n        ",
-    "section": "",
-    "text": "Labour Market Economics\n        \n        \n            EC306 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Mon/Wed\n   Sept-Dec 2025\n   2:30 - 3:50 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
-  },
-  {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 6",
-    "text": "BGLRS Chapter 3 Problem 6\nConsider the following earnings supplement program, modelled after the Self-Sufficiency Project. An individual can work a maximum of 60 hours per week, at a wage rate of $5 per hour. Welfare benefits are fixed at $200 per week, with a 100 percent tax back on labour earnings. Finally, the earnings supplement equals half the difference between an individual’s labour earnings and the benchmark earnings of $450 per week. This supplement can be collected only if the individual forgoes welfare benefits and works a minimum of 30 hours per week. Draw the individual’s budget constraint, and analyze the work decision."
-  },
-  {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 7",
-    "text": "BGLRS Chapter 3 Problem 7\nThe different programs discussed in this chapter often have ambiguous effects on work effort. It is, nonetheless, possible to compare the work incentives of two programs by looking at what happens when the individual is indifferent between two programs. Use this approach to compare the work incentives of the following two pairs of programs. In both cases, use graphs to show the hours of work chosen under the two programs by an individual who is indifferent between the two programs.\n\nEarned income tax credit compared to welfare"
-  },
-  {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 7",
-    "text": "BGLRS Chapter 3 Problem 7\n\nWages subsidy compared to a negative income tax"
-  },
-  {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 3",
-    "text": "BGLRS Chapter 3 Problem 3\nUse the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would."
-  },
-  {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 4",
-    "text": "BGLRS Chapter 3 Problem 4\nConsider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is $20 per hour, and that they have nonlabour income of $100 per day. The commute takes one hour each way, and it costs $40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from $40 to $60 per round trip, keeping commuting time at two hours."
   },
   {
     "objectID": "slides/lsupply1/index.html#goals-of-this-section-1",
