@@ -13,7 +13,7 @@ format:
 editor: visual
 ---
 
-<h1>Labour Supply 2 In-Class Questions</h1>
+<h1>Labour Supply 3 In-Class Questions</h1>
 
 <hr>
 
@@ -27,24 +27,10 @@ editor: visual
 
 ![](/files/img/hexEC306.png){.absolute top="300" left="900" width="550"}
 
-## BGLRS Chapter 3 Problem 6
+## BGLRS Chapter 4 Problem 1
 
-Consider the following earnings supplement program, modelled after the Self-Sufficiency Project. An individual can work a maximum of 60 hours per week, at a wage rate of \$5 per hour. Welfare benefits are fixed at \$200 per week, with a 100 percent tax back on labour earnings. Finally, the earnings supplement equals half the difference between an individual’s labour earnings and the benchmark earnings of \$450 per week. This supplement can be collected only if the individual forgoes welfare benefits and works a minimum of 30 hours per week. Draw the individual’s budget constraint, and analyze the work decision.
+The evaluation of the labour supply response to a tax cut can be quite different in a dynamic setting from what it is in a static setting. Discuss the relative impact of a permanent versus transitory tax cut on labour supply, and compare the analysis to the static model.
 
-## BGLRS Chapter 3 Problem 7
+## BGLRS Chapter 4 Problem 2
 
-The different programs discussed in this chapter often have ambiguous effects on work effort. It is, nonetheless, possible to compare the work incentives of two programs by looking at what happens when the individual is indifferent between two programs. Use this approach to compare the work incentives of the following two pairs of programs. In both cases, use graphs to show the hours of work chosen under the two programs by an individual who is indifferent between the two programs.
-
-a.  Earned income tax credit compared to welfare
-
-## BGLRS Chapter 3 Problem 7
-
-b.  Wages subsidy compared to a negative income tax
-
-## BGLRS Chapter 3 Problem 3
-
-Use the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would.
-
-## BGLRS Chapter 3 Problem 4
-
-Consider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is \$20 per hour, and that they have nonlabour income of \$100 per day. The commute takes one hour each way, and it costs \$40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from \$40 to \$60 per round trip, keeping commuting time at two hours.
+Consider the two-period dynamic labour supply model discussed in this chapter. What, if anything, happens to current labour supply if the interest rate rises from 2 percent to 10 percent?
