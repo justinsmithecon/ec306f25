@@ -588,6 +588,116 @@ Fall 2025
 </ul></li>
 <li><p>The isoquants at the profit max will shift inward</p></li>
 </ul>
+</section>
+<section id="cost-minimization-math" class="slide level2">
+<h2>Cost Minimization – Math</h2>
+<ul>
+<li><p>Suppose production exhibits <strong>decreasing returns to scale</strong>:</p>
+<p><span class="math display">\[y = F(K,N) = K^{\alpha} N^{\beta}, \quad \alpha&gt;0,\;\beta&gt;0,\;\alpha+\beta&lt;1\]</span></p></li>
+<li><p>Input prices: <span class="math inline">\(r\)</span> (capital), <span class="math inline">\(w\)</span> (labour)</p></li>
+<li><p>The cost-minimization problem:</p>
+<p><span class="math display">\[\min_{K,N} \; C = rK + wN \quad \text{s.t.} \quad K^{\alpha} N^{\beta} \ge y\]</span></p></li>
+<li><p>Lagrangian:</p>
+<p><span class="math display">\[\mathcal{L} = rK + wN + \lambda\big(y - K^{\alpha} N^{\beta}\big)\]</span></p></li>
+</ul>
+</section>
+<section id="cost-minimization-math-1" class="slide level2">
+<h2>Cost Minimization – Math</h2>
+<ul>
+<li><p>First-order conditions:</p>
+<p><span class="math display">\[\frac{\partial \mathcal{L}}{\partial K} = r - \lambda\,\alpha\, K^{\alpha-1} N^{\beta} = 0\]</span> <span class="math display">\[\frac{\partial \mathcal{L}}{\partial N} = w - \lambda\,\beta\, K^{\alpha} N^{\beta-1} = 0\]</span> <span class="math display">\[y = K^{\alpha} N^{\beta}\]</span></p></li>
+<li><p>Divide the first two conditions to eliminate <span class="math inline">\(\lambda\)</span>:</p>
+<p><span class="math display">\[\frac{\beta}{\alpha} \frac{K}{N}=\frac{w}{r}\]</span></p></li>
+<li><p>This is the familiar result:</p>
+<p><span class="math display">\[\frac{MP_N}{MP_K} = \frac{w}{r}\]</span></p></li>
+</ul>
+</section>
+<section id="cost-minimization-math-2" class="slide level2">
+<h2>Cost Minimization – Math</h2>
+<ul>
+<li>From production <span class="math inline">\(y = K^{\alpha} N^{\beta}\)</span>:</li>
+</ul>
+<p><span class="math display">\[N = \left(\frac{y}{K^{\alpha}}\right)^{\frac{1}{\beta}}\]</span></p>
+<ul>
+<li>Then:</li>
+</ul>
+<p><span class="math display">\[\frac{K}{N} = K \left( \frac{K^\alpha}{y} \right)^{1/\beta}
+    = K^{\frac{\alpha + \beta}{\beta}}\, y^{-1/\beta}\]</span></p>
+</section>
+<section id="cost-minimization-math-3" class="slide level2">
+<h2>Cost Minimization – Math</h2>
+<ul>
+<li>Plug into <span class="math inline">\(\frac{\beta}{\alpha} \frac{K}{N}=\frac{w}{r}\)</span></li>
+</ul>
+<p><span class="math display">\[\frac{\beta}{\alpha}K^{\frac{\alpha + \beta}{\beta}}\, y^{-1/\beta} = \frac{w}{r}\]</span></p>
+<p><span class="math display">\[K^{\frac{\alpha+\beta}{\beta}}=\frac{\alpha}{\beta}\frac{w}{r}\,y^{1/\beta}\]</span></p>
+<ul>
+<li>Solving for the optimal <span class="math inline">\(K\)</span> gives</li>
+</ul>
+<p><span class="math display">\[K^*(y;w,r)=y^{\frac{1}{\alpha+\beta}}\left(\frac{\alpha\,w}{\beta\,r}\right)^{\frac{\beta}{\alpha+\beta}}\]</span></p>
+</section>
+<section id="cost-minimization-math-4" class="slide level2">
+<h2>Cost Minimization – Math</h2>
+<ul>
+<li>Use <span class="math inline">\(\dfrac{K}{N}=\dfrac{\alpha w}{\beta r}\)</span> to get <span class="math inline">\(N^*\)</span>:</li>
+</ul>
+<p><span class="math display">\[N^*(y;w,r)=\frac{\beta r}{\alpha w}\,K^* =y^{\frac{1}{\alpha+\beta}}\left(\frac{\alpha\,w}{\beta\,r}\right)^{-\frac{\alpha}{\alpha+\beta}}\]</span></p>
+<ul>
+<li>The cost function is:</li>
+</ul>
+<p><span class="math display">\[C(w,r,y)= r K^*(y;w,r) + w N^*(y;w,r)\]</span></p>
+<p><span class="math display">\[ = \phi(w,r)\, y^{\frac{1}{\alpha+\beta}}\]</span></p>
+<ul>
+<li>Where</li>
+</ul>
+<p><span class="math display">\[\phi(w,r) = r \left( \frac{\alpha w}{\beta r} \right)^{\frac{\beta}{\alpha+\beta}} + w \left( \frac{\alpha w}{\beta r} \right)^{-\frac{\alpha}{\alpha+\beta}}\]</span></p>
+</section>
+<section id="cost-minimization-math-5" class="slide level2">
+<h2>Cost Minimization – Math</h2>
+<ul>
+<li><p>Stage 2 is choosing the output level to maximize profit</p></li>
+<li><p>Suppose the firm is a price taker in the product market with price <span class="math inline">\(p\)</span></p></li>
+<li><p>Profit:</p></li>
+</ul>
+<p><span class="math display">\[\pi(y)= py - C(y;w,r) = py - \phi(w,r)\, y^{\frac{1}{\alpha+\beta}}\]</span></p>
+<ul>
+<li>Optimize profit with respect to <span class="math inline">\(y\)</span></li>
+</ul>
+<p><span class="math display">\[\frac{d\pi}{dy}=p-
+\phi(w,r) \cdot \frac{1}{\alpha+\beta}
+\cdot y^{\frac{1}{\alpha+\beta} - 1}\]</span></p>
+<ul>
+<li>The optimal output level is found by setting <span class="math inline">\(\frac{d\pi}{dy}=0\)</span></li>
+</ul>
+<p><span class="math display">\[y^*(w,r,p)=\left(\frac{(\alpha+\beta)\,p}{\phi(w,r)}\right)^{\!\frac{\alpha+\beta}{1-(\alpha+\beta)}}\]</span></p>
+</section>
+<section id="cost-minimization-math-6" class="slide level2">
+<h2>Cost Minimization – Math</h2>
+<ul>
+<li>You can then plug in to get the optimal inputs</li>
+</ul>
+<p><span class="math display">\[K^*(w,r,p)=\left(\frac{(\alpha+\beta)\,p}{\phi(w,r)}\right)^{\!\frac{1}{1-(\alpha+\beta)}}\left(\frac{\alpha\,w}{\beta\,r}\right)^{\frac{\beta}{\alpha+\beta}}\]</span> <span class="math display">\[N^*(w,r,p)=\left(\frac{(\alpha+\beta)\,p}{\phi(w,r)}\right)^{\!\frac{1}{1-(\alpha+\beta)}}\left(\frac{\alpha\,w}{\beta\,r}\right)^{-\frac{\alpha}{\alpha+\beta}}\]</span></p>
+</section>
+<section id="cost-minimization-math-7" class="slide level2">
+<h2>Cost Minimization – Math</h2>
+<ul>
+<li><p>Do not get too bogged down in the math</p>
+<ul>
+<li>I will not ask you to recreate this derivation on exams</li>
+</ul></li>
+<li><p>The key points are</p>
+<ul>
+<li><p>First minimize cost, which gives optimal inputs as function of output and input prices</p>
+<ul>
+<li>So as you vary any of those three things, the inputs change</li>
+</ul></li>
+<li><p>But given cost function, choose output to maximize profit</p>
+<ul>
+<li>Output depends on product price and input prices</li>
+<li>So changes in input prices change both optimal inputs and output level</li>
+</ul></li>
+</ul></li>
+</ul>
 </section></section>
 <section>
 <section id="deriving-labour-demand-in-long-run" class="title-slide slide level1">
@@ -741,6 +851,265 @@ Fall 2025
 </ul></li>
 </ul>
 </div></div>
+</section>
+<section id="scale-and-substitution-effects-2" class="slide level2">
+<h2>Scale and Substitution Effects</h2>
+<ul>
+<li><p>Notice that the scale and substitution effects of a wage change have opposing effects on capital</p></li>
+<li><p>When wage rises, substitution effect leads to more capital being used</p>
+<ul>
+<li>Firms substitute capital for labour</li>
+</ul></li>
+<li><p>But scale effect leads to less capital being used</p>
+<ul>
+<li>Firms reduce output, so use less of all inputs</li>
+</ul></li>
+<li><p>Effect on capital is ambiguous</p></li>
+</ul>
+</section>
+<section id="relationship-to-short-run-demand" class="slide level2">
+<h2>Relationship to Short-Run Demand</h2>
+<ul>
+<li><p>In the short run, capital is fixed</p>
+<ul>
+<li>So there is no substitution effect</li>
+</ul></li>
+<li><p>In the long run, both substitution and scale effects occur</p></li>
+<li><p>Therefore, long-run labour demand is more elastic than short-run labour demand</p>
+<ul>
+<li>Firms can adjust all inputs in the long run</li>
+<li>More responsive to wage changes</li>
+</ul></li>
+</ul>
+</section>
+<section id="relationship-to-short-run-demand-1" class="slide level2">
+<h2>Relationship to Short-Run Demand</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-layout-panel" data-layout="[[-1], [1], [-1]]">
+<div class="quarto-layout-row">
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<p><img data-src="images/clipboard-1624795109.png"></p>
+</div>
+</div>
+</div>
+</div><div class="column" style="width:50%;">
+<ul>
+<li><p>Graph shows short-run and long-run labour demand curves</p></li>
+<li><p>Start with capital fixed at <span class="math inline">\(K_0\)</span></p></li>
+<li><p>Wage goes from <span class="math inline">\(w_0\)</span> to <span class="math inline">\(w_1\)</span></p></li>
+<li><p>In short run move along SR demand curve from <span class="math inline">\(N_0\)</span> to <span class="math inline">\(N_{'}\)</span></p></li>
+<li><p>In long run firm substitutes capital for labour</p></li>
+<li><p>Short run curve shifts to the left</p></li>
+<li><p>Equilibrium is at intersection of wage and new short run demand</p></li>
+</ul>
+</div></div>
+</section></section>
+<section>
+<section id="elasticity-of-demand-for-labour" class="title-slide slide level1">
+<h1>Elasticity of Demand for Labour</h1>
+
+</section>
+<section id="elasticity-of-demand" class="slide level2">
+<h2>Elasticity of Demand</h2>
+<ul>
+<li><p>Recall that elasticity of demand measures responsiveness of quantity demanded to changes in price</p></li>
+<li><p>In this case, responsiveness of labour demanded to changes in wage rate</p></li>
+<li><p>An elastic labour demand curve means a proportionately larger change in quantity of labour demanded than change in wage</p>
+<ul>
+<li>Curve is flatter</li>
+</ul></li>
+<li><p>An inelastic labour demand curve means a proportionately smaller change in quantity of labour demanded than change in wage</p>
+<ul>
+<li>Curve is steeper</li>
+</ul></li>
+</ul>
+</section>
+<section id="factors-affecting-elasticity" class="slide level2">
+<h2>Factors Affecting Elasticity</h2>
+<ul>
+<li><p>Several factors affect the elasticity of labour demand</p>
+<ul>
+<li><p>Ease of substitution between labour and other inputs</p>
+<ul>
+<li>More or easier substitutes means more elastic demand</li>
+</ul></li>
+<li><p>Elasticity of supply of other inputs</p>
+<ul>
+<li>Inelastic supply of othe inputs makes it harder to substitute, means less elastic labour demand</li>
+<li>Happens because other inputs become more expensive when firm tries to substitute</li>
+</ul></li>
+<li><p>Elasticity of demand for the final product</p>
+<ul>
+<li>Output responding more to price changes means more elastic labour demand</li>
+</ul></li>
+<li><p>Labour share in total costs</p>
+<ul>
+<li>Higher labour cost share means more elastic labour demand</li>
+<li>Operates via scale effect</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="evidence-on-elasticity" class="slide level2">
+<h2>Evidence on Elasticity</h2>
+<ul>
+<li><p>In the USA, evidence suggests elasticity is between -0.15 and -0.75</p>
+<ul>
+<li><p>So relatively inelastic</p></li>
+<li><p>Elasticities have increased over time</p></li>
+<li><p>In the long run elasticities are larger</p></li>
+</ul></li>
+<li><p>In Canada, evidence says elasticity is between -0.1 and -0.6</p>
+<ul>
+<li>Depends on geography and industry</li>
+</ul></li>
+<li><p>Key result is that studies confirm that labour demand does slope down</p></li>
+</ul>
+</section></section>
+<section>
+<section id="globalization-and-offshoring" class="title-slide slide level1">
+<h1>Globalization and Offshoring</h1>
+
+</section>
+<section id="introduction-1" class="slide level2">
+<h2>Introduction</h2>
+<ul>
+<li><p>Over time Canadian firms have faced increasingly globalized</p></li>
+<li><p>Has lead to concerns over what happens to Canadian workers</p>
+<ul>
+<li>People worry firms will move their operations to other countries with lower wages</li>
+<li>And that this will destroy Canadian jobs</li>
+<li>This is a clear concern in the USA right now</li>
+</ul></li>
+<li><p>The effect of globalization on jobs is always a concern when trade agreements are reached</p>
+<ul>
+<li>Manufacturing is especially prominent</li>
+<li>Currently the automotive industry is a focus of concern</li>
+</ul></li>
+</ul>
+</section>
+<section id="effect-of-trade-on-single-market" class="slide level2">
+<h2>Effect of Trade on Single Market</h2>
+<ul>
+<li><p>Consider first global competition with a specific product</p></li>
+<li><p>Increased global competition lowers the price a product can sell for globally</p></li>
+<li><p>In a competitive market, this reduces the value of the marginal product</p>
+<ul>
+<li>Recall that <span class="math inline">\(VMP = p \times MP_N\)</span></li>
+</ul></li>
+<li><p>Shifts the demand for Canadian labour inward</p></li>
+</ul>
+</section>
+<section id="effect-of-trade-on-single-market-1" class="slide level2">
+<h2>Effect of Trade on Single Market</h2>
+<ul>
+<li><p>Another approach is to consider Canadian and foreign labour as two inputs to production</p>
+<ul>
+<li>Just like we did with capital and labour before</li>
+</ul></li>
+<li><p>The optimal choice of Canadian and foreign labour occurs where</p></li>
+</ul>
+<p><span class="math display">\[\frac{MP_{N_C}}{MP_{N_F}} = \frac{w_C}{w_F}\]</span></p>
+<ul>
+<li>The marginal product per dollar spent on a foreign and Canadian worker are the same</li>
+</ul>
+</section>
+<section id="effect-of-trade-on-single-market-2" class="slide level2">
+<h2>Effect of Trade on Single Market</h2>
+<ul>
+<li><p>What effect does a fall in foreign wages have on Canadian labour demand?</p></li>
+<li><p>Two effects occur</p>
+<ul>
+<li><p>Substitution effect: firms substitute foreign workers for Canadian workers</p>
+<ul>
+<li>Reduces demand for Canadian workers</li>
+</ul></li>
+<li><p>Scale effect: lower costs lead to more production</p>
+<ul>
+<li>Increases demand for Canadian workers</li>
+</ul></li>
+</ul></li>
+<li><p>So overall effect is ambigiuous</p>
+<ul>
+<li>If they are close subsitutes, substitution effect dominates and less Canadian labour is demanded</li>
+<li>If scale effect dominates, there could be more Canadian labour demanded</li>
+</ul></li>
+</ul>
+</section>
+<section id="effect-of-trade-on-single-market-3" class="slide level2">
+<h2>Effect of Trade on Single Market</h2>
+<ul>
+<li><p>Cost is not the only factor</p></li>
+<li><p>Productivity is also important</p>
+<ul>
+<li>If Canadian workers are more productive, will still want to hire them</li>
+</ul></li>
+<li><p>How productive are Canadian workers compared to foreign workers?</p></li>
+<li><p>Table on next slide shows international comparisons for OECD countries</p>
+<ul>
+<li>Also changes over time in productivity, compensation, unit labour costs</li>
+</ul></li>
+</ul>
+</section>
+<section id="effect-of-trade-on-single-market-4" class="slide level2">
+<h2>Effect of Trade on Single Market</h2>
+
+<img data-src="images/ben54842_tb0501.jpg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="effect-of-trade-on-single-market-5" class="slide level2">
+<h2>Effect of Trade on Single Market</h2>
+
+<img data-src="images/ben54842_0508.jpg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="effect-of-trade-across-sectors" class="slide level2">
+<h2>Effect of Trade Across Sectors</h2>
+<ul>
+<li><p>Focusing on a single sector misses key points</p>
+<ul>
+<li>Trade openness affects the entire economy</li>
+<li>There are adjustments across sectors due to trade</li>
+</ul></li>
+<li><p>Recall from EC120 that countries specialize in production of goods where they have a comparative advantage</p>
+<ul>
+<li>Expands the consumption possibilities of countries</li>
+</ul></li>
+<li><p>In a globalized market, countries will allocate more resources towards their comparative advantage sectors</p>
+<ul>
+<li>Labour will move from non-comparative advantage sectors to comparative advantage sectors</li>
+</ul></li>
+</ul>
+</section>
+<section id="evidence-on-trade-and-labour-demand" class="slide level2">
+<h2>Evidence on Trade and Labour Demand</h2>
+<ul>
+<li><p>There are many trade agreements with other countries</p></li>
+<li><p>Most prominent in Canada are NAFTA and more recently CUSMA</p></li>
+<li><p>These present opportunities to study the effects of trade on labour demand</p></li>
+<li><p>Evidence shows that</p>
+<ul>
+<li>About 10% of Canadian jobs lost in early 90s were due to free trade</li>
+<li>Productivity grew faster in manufacturing industries affected by trade</li>
+</ul></li>
+</ul>
+</section>
+<section id="non-trade-demand-factors" class="slide level2">
+<h2>Non-Trade Demand Factors</h2>
+<ul>
+<li><p>At the same time trade is changing, the Canadian labour market is changing</p></li>
+<li><p>Over the long term, jobs have shifted away from manufacturing</p></li>
+<li><p>Professional, managerial, and administrative service jobs hae been increasing</p></li>
+<li><p>Flex or “gig” jobs have been increasing</p></li>
+<li><p>All changing for various reasons</p>
+<ul>
+<li>Technology</li>
+<li>Consumer preferences</li>
+<li>Demographics</li>
+</ul></li>
+</ul>
 
 
 </section></section>

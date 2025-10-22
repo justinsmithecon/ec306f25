@@ -392,6 +392,126 @@ $$\frac{MP_N}{w} = \frac{MP_K}{r}$$
 
 -   The isoquants at the profit max will shift inward
 
+## Cost Minimization – Math
+
+-   Suppose production exhibits **decreasing returns to scale**:
+
+    $$y = F(K,N) = K^{\alpha} N^{\beta}, \quad \alpha>0,\;\beta>0,\;\alpha+\beta<1$$
+
+-   Input prices: $r$ (capital), $w$ (labour)
+
+-   The cost-minimization problem:
+
+    $$\min_{K,N} \; C = rK + wN \quad \text{s.t.} \quad K^{\alpha} N^{\beta} \ge y$$
+
+-   Lagrangian:
+
+    $$\mathcal{L} = rK + wN + \lambda\big(y - K^{\alpha} N^{\beta}\big)$$
+
+## Cost Minimization – Math
+
+-   First-order conditions:
+
+    $$\frac{\partial \mathcal{L}}{\partial K} = r - \lambda\,\alpha\, K^{\alpha-1} N^{\beta} = 0$$ $$\frac{\partial \mathcal{L}}{\partial N} = w - \lambda\,\beta\, K^{\alpha} N^{\beta-1} = 0$$ $$y = K^{\alpha} N^{\beta}$$
+
+-   Divide the first two conditions to eliminate $\lambda$:
+
+    $$\frac{\beta}{\alpha} \frac{K}{N}=\frac{w}{r}$$
+
+-   This is the familiar result:
+
+    $$\frac{MP_N}{MP_K} = \frac{w}{r}$$
+
+------------------------------------------------------------------------
+
+## Cost Minimization – Math
+
+-   From production $y = K^{\alpha} N^{\beta}$:
+
+$$N = \left(\frac{y}{K^{\alpha}}\right)^{\frac{1}{\beta}}$$
+
+-   Then:
+
+$$\frac{K}{N} = K \left( \frac{K^\alpha}{y} \right)^{1/\beta} 
+    = K^{\frac{\alpha + \beta}{\beta}}\, y^{-1/\beta}$$
+
+------------------------------------------------------------------------
+
+## Cost Minimization – Math
+
+-   Plug into $\frac{\beta}{\alpha} \frac{K}{N}=\frac{w}{r}$
+
+$$\frac{\beta}{\alpha}K^{\frac{\alpha + \beta}{\beta}}\, y^{-1/\beta} = \frac{w}{r}$$
+
+$$K^{\frac{\alpha+\beta}{\beta}}=\frac{\alpha}{\beta}\frac{w}{r}\,y^{1/\beta}$$
+
+-   Solving for the optimal $K$ gives
+
+$$K^*(y;w,r)=y^{\frac{1}{\alpha+\beta}}\left(\frac{\alpha\,w}{\beta\,r}\right)^{\frac{\beta}{\alpha+\beta}}$$
+
+------------------------------------------------------------------------
+
+## Cost Minimization – Math
+
+-   Use $\dfrac{K}{N}=\dfrac{\alpha w}{\beta r}$ to get $N^*$: 
+
+$$N^*(y;w,r)=\frac{\beta r}{\alpha w}\,K^* =y^{\frac{1}{\alpha+\beta}}\left(\frac{\alpha\,w}{\beta\,r}\right)^{-\frac{\alpha}{\alpha+\beta}}$$ 
+
+-   The cost function is:
+
+$$C(w,r,y)= r K^*(y;w,r) + w N^*(y;w,r)$$
+
+$$ = \phi(w,r)\, y^{\frac{1}{\alpha+\beta}}$$
+
+-   Where 
+
+$$\phi(w,r) = r \left( \frac{\alpha w}{\beta r} \right)^{\frac{\beta}{\alpha+\beta}} + w \left( \frac{\alpha w}{\beta r} \right)^{-\frac{\alpha}{\alpha+\beta}}$$
+
+------------------------------------------------------------------------
+
+## Cost Minimization – Math
+
+-   Stage 2 is choosing the output level to maximize profit
+
+-   Suppose the firm is a price taker in the product market with price $p$
+
+-   Profit:
+
+$$\pi(y)= py - C(y;w,r) = py - \phi(w,r)\, y^{\frac{1}{\alpha+\beta}}$$
+
+-   Optimize profit with respect to $y$
+
+$$\frac{d\pi}{dy}=p-
+\phi(w,r) \cdot \frac{1}{\alpha+\beta} 
+\cdot y^{\frac{1}{\alpha+\beta} - 1}$$
+
+-   The optimal output level is found by setting $\frac{d\pi}{dy}=0$
+
+$$y^*(w,r,p)=\left(\frac{(\alpha+\beta)\,p}{\phi(w,r)}\right)^{\!\frac{\alpha+\beta}{1-(\alpha+\beta)}}$$
+
+## Cost Minimization – Math
+
+-   You can then plug in to get the optimal inputs
+
+$$K^*(w,r,p)=\left(\frac{(\alpha+\beta)\,p}{\phi(w,r)}\right)^{\!\frac{1}{1-(\alpha+\beta)}}\left(\frac{\alpha\,w}{\beta\,r}\right)^{\frac{\beta}{\alpha+\beta}}$$ $$N^*(w,r,p)=\left(\frac{(\alpha+\beta)\,p}{\phi(w,r)}\right)^{\!\frac{1}{1-(\alpha+\beta)}}\left(\frac{\alpha\,w}{\beta\,r}\right)^{-\frac{\alpha}{\alpha+\beta}}$$
+
+## Cost Minimization – Math
+
+-   Do not get too bogged down in the math
+
+    -   I will not ask you to recreate this derivation on exams
+
+-   The key points are
+
+    -   First minimize cost, which gives optimal inputs as function of output and input prices
+
+        -   So as you vary any of those three things, the inputs change
+
+    -   But given cost function, choose output to maximize profit
+
+        -   Output depends on product price and input prices
+        -   So changes in input prices change both optimal inputs and output level
+
 # Deriving Labour Demand in Long Run
 
 ## Deriving Labour Demand
@@ -507,3 +627,240 @@ $$\frac{MP_N}{w} = \frac{MP_K}{r}$$
     -   Scale effect is $N_{s} \rightarrow N_{1}$
 :::
 ::::::
+
+## Scale and Substitution Effects
+
+-   Notice that the scale and substitution effects of a wage change have opposing effects on capital
+
+-   When wage rises, substitution effect leads to more capital being used
+
+    -   Firms substitute capital for labour
+
+-   But scale effect leads to less capital being used
+
+    -   Firms reduce output, so use less of all inputs
+
+-   Effect on capital is ambiguous
+
+## Relationship to Short-Run Demand
+
+-   In the short run, capital is fixed
+
+    -   So there is no substitution effect
+
+-   In the long run, both substitution and scale effects occur
+
+-   Therefore, long-run labour demand is more elastic than short-run labour demand
+
+    -   Firms can adjust all inputs in the long run
+    -   More responsive to wage changes
+
+## Relationship to Short-Run Demand
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/clipboard-1624795109.png)
+:::
+::::
+
+::: {.column width="50%"}
+-   Graph shows short-run and long-run labour demand curves
+
+-   Start with capital fixed at $K_0$
+
+-   Wage goes from $w_0$ to $w_1$
+
+-   In short run move along SR demand curve from $N_0$ to $N_{'}$
+
+-   In long run firm substitutes capital for labour
+
+-   Short run curve shifts to the left
+
+-   Equilibrium is at intersection of wage and new short run demand
+:::
+::::::
+
+# Elasticity of Demand for Labour
+
+## Elasticity of Demand
+
+-   Recall that elasticity of demand measures responsiveness of quantity demanded to changes in price
+
+-   In this case, responsiveness of labour demanded to changes in wage rate
+
+-   An elastic labour demand curve means a proportionately larger change in quantity of labour demanded than change in wage
+
+    -   Curve is flatter
+
+-   An inelastic labour demand curve means a proportionately smaller change in quantity of labour demanded than change in wage
+
+    -   Curve is steeper
+
+## Factors Affecting Elasticity
+
+-   Several factors affect the elasticity of labour demand
+
+    -   Ease of substitution between labour and other inputs
+
+        -   More or easier substitutes means more elastic demand
+
+    -   Elasticity of supply of other inputs
+
+        -   Inelastic supply of othe inputs makes it harder to substitute, means less elastic labour demand
+        -   Happens because other inputs become more expensive when firm tries to substitute
+
+    -   Elasticity of demand for the final product
+
+        -   Output responding more to price changes means more elastic labour demand
+
+    -   Labour share in total costs
+
+        -   Higher labour cost share means more elastic labour demand
+        -   Operates via scale effect
+
+## Evidence on Elasticity
+
+-   In the USA, evidence suggests elasticity is between -0.15 and -0.75
+
+    -   So relatively inelastic
+
+    -   Elasticities have increased over time
+
+    -   In the long run elasticities are larger
+
+-   In Canada, evidence says elasticity is between -0.1 and -0.6
+
+    -   Depends on geography and industry
+
+-   Key result is that studies confirm that labour demand does slope down
+
+# Globalization and Offshoring
+
+## Introduction
+
+-   Over time Canadian firms have faced increasingly globalized
+
+-   Has lead to concerns over what happens to Canadian workers
+
+    -   People worry firms will move their operations to other countries with lower wages
+    -   And that this will destroy Canadian jobs
+    -   This is a clear concern in the USA right now
+
+-   The effect of globalization on jobs is always a concern when trade agreements are reached
+
+    -   Manufacturing is especially prominent
+    -   Currently the automotive industry is a focus of concern
+
+## Effect of Trade on Single Market
+
+-   Consider first global competition with a specific product
+
+-   Increased global competition lowers the price a product can sell for globally
+
+-   In a competitive market, this reduces the value of the marginal product
+
+    -   Recall that $VMP = p \times MP_N$
+
+-   Shifts the demand for Canadian labour inward
+
+## Effect of Trade on Single Market
+
+-   Another approach is to consider Canadian and foreign labour as two inputs to production
+
+    -   Just like we did with capital and labour before
+
+-   The optimal choice of Canadian and foreign labour occurs where
+
+$$\frac{MP_{N_C}}{MP_{N_F}} = \frac{w_C}{w_F}$$
+
+-   The marginal product per dollar spent on a foreign and Canadian worker are the same
+
+## Effect of Trade on Single Market
+
+-   What effect does a fall in foreign wages have on Canadian labour demand?
+
+-   Two effects occur
+
+    -   Substitution effect: firms substitute foreign workers for Canadian workers
+
+        -   Reduces demand for Canadian workers
+
+    -   Scale effect: lower costs lead to more production
+
+        -   Increases demand for Canadian workers
+
+-   So overall effect is ambigiuous
+
+    -   If they are close subsitutes, substitution effect dominates and less Canadian labour is demanded
+    -   If scale effect dominates, there could be more Canadian labour demanded
+
+## Effect of Trade on Single Market
+
+-   Cost is not the only factor
+
+-   Productivity is also important
+
+    -   If Canadian workers are more productive, will still want to hire them
+
+-   How productive are Canadian workers compared to foreign workers?
+
+-   Table on next slide shows international comparisons for OECD countries
+
+    -   Also changes over time in productivity, compensation, unit labour costs
+
+## Effect of Trade on Single Market
+
+![](images/ben54842_tb0501.jpg){fig-align="center"}
+
+## Effect of Trade on Single Market
+
+![](images/ben54842_0508.jpg){fig-align="center"}
+
+## Effect of Trade Across Sectors
+
+- Focusing on a single sector misses key points
+
+    - Trade openness affects the entire economy
+    - There are adjustments across sectors due to trade
+    
+- Recall from EC120 that countries specialize in production of goods where they have a comparative advantage
+
+    - Expands the consumption possibilities of countries
+    
+- In a globalized market, countries will allocate more resources towards their comparative advantage sectors
+
+    - Labour will move from non-comparative advantage sectors to comparative advantage sectors
+    
+    
+## Evidence on Trade and Labour Demand
+
+- There are many trade agreements with other countries
+
+- Most prominent in Canada are NAFTA and more recently CUSMA
+
+- These present opportunities to study the effects of trade on labour demand
+
+- Evidence shows that
+
+    - About 10% of Canadian jobs lost in early 90s were due to free trade
+    - Productivity grew faster in manufacturing industries affected by trade
+    
+    
+## Non-Trade Demand Factors
+
+- At the same time trade is changing, the Canadian labour market is changing
+
+- Over the long term, jobs have shifted away from manufacturing
+
+- Professional, managerial, and administrative service jobs hae been increasing
+
+- Flex or "gig" jobs have been increasing
+
+- All changing for various reasons
+
+    - Technology
+    - Consumer preferences
+    - Demographics
+
+

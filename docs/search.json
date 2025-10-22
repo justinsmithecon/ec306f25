@@ -525,6 +525,62 @@
     "text": "Cost Minimization\n\nNote that we have only done cost minimization here\n\nLowest cost given output level \\(Q_0\\)\n\nProfit maximization involves choosing output level as well\n\nChoose \\(Q\\) to maximize profit given cost function\n\nThe second step of choosing output is not depicted here\nIf the wage rate goes up, the firm will re-optimize\n\nFirm marginal and average cost curves shift up\nEach firm reduces output\nMarket price rises\n\nThe isoquants at the profit max will shift inward"
   },
   {
+    "objectID": "slides/ldemand1/index.html#cost-minimization-math",
+    "href": "slides/ldemand1/index.html#cost-minimization-math",
+    "title": "EC306 - Wages and Employment",
+    "section": "Cost Minimization – Math",
+    "text": "Cost Minimization – Math\n\nSuppose production exhibits decreasing returns to scale:\n\\[y = F(K,N) = K^{\\alpha} N^{\\beta}, \\quad \\alpha&gt;0,\\;\\beta&gt;0,\\;\\alpha+\\beta&lt;1\\]\nInput prices: \\(r\\) (capital), \\(w\\) (labour)\nThe cost-minimization problem:\n\\[\\min_{K,N} \\; C = rK + wN \\quad \\text{s.t.} \\quad K^{\\alpha} N^{\\beta} \\ge y\\]\nLagrangian:\n\\[\\mathcal{L} = rK + wN + \\lambda\\big(y - K^{\\alpha} N^{\\beta}\\big)\\]"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#cost-minimization-math-1",
+    "href": "slides/ldemand1/index.html#cost-minimization-math-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Cost Minimization – Math",
+    "text": "Cost Minimization – Math\n\nFirst-order conditions:\n\\[\\frac{\\partial \\mathcal{L}}{\\partial K} = r - \\lambda\\,\\alpha\\, K^{\\alpha-1} N^{\\beta} = 0\\] \\[\\frac{\\partial \\mathcal{L}}{\\partial N} = w - \\lambda\\,\\beta\\, K^{\\alpha} N^{\\beta-1} = 0\\] \\[y = K^{\\alpha} N^{\\beta}\\]\nDivide the first two conditions to eliminate \\(\\lambda\\):\n\\[\\frac{\\beta}{\\alpha} \\frac{K}{N}=\\frac{w}{r}\\]\nThis is the familiar result:\n\\[\\frac{MP_N}{MP_K} = \\frac{w}{r}\\]"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#cost-minimization-math-2",
+    "href": "slides/ldemand1/index.html#cost-minimization-math-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Cost Minimization – Math",
+    "text": "Cost Minimization – Math\n\nFrom production \\(y = K^{\\alpha} N^{\\beta}\\):\n\n\\[N = \\left(\\frac{y}{K^{\\alpha}}\\right)^{\\frac{1}{\\beta}}\\]\n\nThen:\n\n\\[\\frac{K}{N} = K \\left( \\frac{K^\\alpha}{y} \\right)^{1/\\beta}\n    = K^{\\frac{\\alpha + \\beta}{\\beta}}\\, y^{-1/\\beta}\\]"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#cost-minimization-math-3",
+    "href": "slides/ldemand1/index.html#cost-minimization-math-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Cost Minimization – Math",
+    "text": "Cost Minimization – Math\n\nPlug into \\(\\frac{\\beta}{\\alpha} \\frac{K}{N}=\\frac{w}{r}\\)\n\n\\[\\frac{\\beta}{\\alpha}K^{\\frac{\\alpha + \\beta}{\\beta}}\\, y^{-1/\\beta} = \\frac{w}{r}\\]\n\\[K^{\\frac{\\alpha+\\beta}{\\beta}}=\\frac{\\alpha}{\\beta}\\frac{w}{r}\\,y^{1/\\beta}\\]\n\nSolving for the optimal \\(K\\) gives\n\n\\[K^*(y;w,r)=y^{\\frac{1}{\\alpha+\\beta}}\\left(\\frac{\\alpha\\,w}{\\beta\\,r}\\right)^{\\frac{\\beta}{\\alpha+\\beta}}\\]"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#cost-minimization-math-4",
+    "href": "slides/ldemand1/index.html#cost-minimization-math-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Cost Minimization – Math",
+    "text": "Cost Minimization – Math\n\nUse \\(\\dfrac{K}{N}=\\dfrac{\\alpha w}{\\beta r}\\) to get \\(N^*\\):\n\n\\[N^*(y;w,r)=\\frac{\\beta r}{\\alpha w}\\,K^* =y^{\\frac{1}{\\alpha+\\beta}}\\left(\\frac{\\alpha\\,w}{\\beta\\,r}\\right)^{-\\frac{\\alpha}{\\alpha+\\beta}}\\]\n\nThe cost function is:\n\n\\[C(w,r,y)= r K^*(y;w,r) + w N^*(y;w,r)\\]\n\\[ = \\phi(w,r)\\, y^{\\frac{1}{\\alpha+\\beta}}\\]\n\nWhere\n\n\\[\\phi(w,r) = r \\left( \\frac{\\alpha w}{\\beta r} \\right)^{\\frac{\\beta}{\\alpha+\\beta}} + w \\left( \\frac{\\alpha w}{\\beta r} \\right)^{-\\frac{\\alpha}{\\alpha+\\beta}}\\]"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#cost-minimization-math-5",
+    "href": "slides/ldemand1/index.html#cost-minimization-math-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Cost Minimization – Math",
+    "text": "Cost Minimization – Math\n\nStage 2 is choosing the output level to maximize profit\nSuppose the firm is a price taker in the product market with price \\(p\\)\nProfit:\n\n\\[\\pi(y)= py - C(y;w,r) = py - \\phi(w,r)\\, y^{\\frac{1}{\\alpha+\\beta}}\\]\n\nOptimize profit with respect to \\(y\\)\n\n\\[\\frac{d\\pi}{dy}=p-\n\\phi(w,r) \\cdot \\frac{1}{\\alpha+\\beta}\n\\cdot y^{\\frac{1}{\\alpha+\\beta} - 1}\\]\n\nThe optimal output level is found by setting \\(\\frac{d\\pi}{dy}=0\\)\n\n\\[y^*(w,r,p)=\\left(\\frac{(\\alpha+\\beta)\\,p}{\\phi(w,r)}\\right)^{\\!\\frac{\\alpha+\\beta}{1-(\\alpha+\\beta)}}\\]"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#cost-minimization-math-6",
+    "href": "slides/ldemand1/index.html#cost-minimization-math-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Cost Minimization – Math",
+    "text": "Cost Minimization – Math\n\nYou can then plug in to get the optimal inputs\n\n\\[K^*(w,r,p)=\\left(\\frac{(\\alpha+\\beta)\\,p}{\\phi(w,r)}\\right)^{\\!\\frac{1}{1-(\\alpha+\\beta)}}\\left(\\frac{\\alpha\\,w}{\\beta\\,r}\\right)^{\\frac{\\beta}{\\alpha+\\beta}}\\] \\[N^*(w,r,p)=\\left(\\frac{(\\alpha+\\beta)\\,p}{\\phi(w,r)}\\right)^{\\!\\frac{1}{1-(\\alpha+\\beta)}}\\left(\\frac{\\alpha\\,w}{\\beta\\,r}\\right)^{-\\frac{\\alpha}{\\alpha+\\beta}}\\]"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#cost-minimization-math-7",
+    "href": "slides/ldemand1/index.html#cost-minimization-math-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "Cost Minimization – Math",
+    "text": "Cost Minimization – Math\n\nDo not get too bogged down in the math\n\nI will not ask you to recreate this derivation on exams\n\nThe key points are\n\nFirst minimize cost, which gives optimal inputs as function of output and input prices\n\nSo as you vary any of those three things, the inputs change\n\nBut given cost function, choose output to maximize profit\n\nOutput depends on product price and input prices\nSo changes in input prices change both optimal inputs and output level"
+  },
+  {
     "objectID": "slides/ldemand1/index.html#deriving-labour-demand",
     "href": "slides/ldemand1/index.html#deriving-labour-demand",
     "title": "EC306 - Wages and Employment",
@@ -565,6 +621,118 @@
     "title": "EC306 - Wages and Employment",
     "section": "Scale and Substitution Effects",
     "text": "Scale and Substitution Effects\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nTo find substitution effect, find cost minimizing bundle at new wage and old output\n\nBlue line in the graph\nScale effect is \\(N_{0} \\rightarrow N_{s}\\)\n\nScale effect is the change from optimum at new wage and old output to new wage and new output\n\nShift from blue to red line in graph\nScale effect is \\(N_{s} \\rightarrow N_{1}\\)"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#scale-and-substitution-effects-2",
+    "href": "slides/ldemand1/index.html#scale-and-substitution-effects-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Scale and Substitution Effects",
+    "text": "Scale and Substitution Effects\n\nNotice that the scale and substitution effects of a wage change have opposing effects on capital\nWhen wage rises, substitution effect leads to more capital being used\n\nFirms substitute capital for labour\n\nBut scale effect leads to less capital being used\n\nFirms reduce output, so use less of all inputs\n\nEffect on capital is ambiguous"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#relationship-to-short-run-demand",
+    "href": "slides/ldemand1/index.html#relationship-to-short-run-demand",
+    "title": "EC306 - Wages and Employment",
+    "section": "Relationship to Short-Run Demand",
+    "text": "Relationship to Short-Run Demand\n\nIn the short run, capital is fixed\n\nSo there is no substitution effect\n\nIn the long run, both substitution and scale effects occur\nTherefore, long-run labour demand is more elastic than short-run labour demand\n\nFirms can adjust all inputs in the long run\nMore responsive to wage changes"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#relationship-to-short-run-demand-1",
+    "href": "slides/ldemand1/index.html#relationship-to-short-run-demand-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Relationship to Short-Run Demand",
+    "text": "Relationship to Short-Run Demand\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows short-run and long-run labour demand curves\nStart with capital fixed at \\(K_0\\)\nWage goes from \\(w_0\\) to \\(w_1\\)\nIn short run move along SR demand curve from \\(N_0\\) to \\(N_{'}\\)\nIn long run firm substitutes capital for labour\nShort run curve shifts to the left\nEquilibrium is at intersection of wage and new short run demand"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#elasticity-of-demand",
+    "href": "slides/ldemand1/index.html#elasticity-of-demand",
+    "title": "EC306 - Wages and Employment",
+    "section": "Elasticity of Demand",
+    "text": "Elasticity of Demand\n\nRecall that elasticity of demand measures responsiveness of quantity demanded to changes in price\nIn this case, responsiveness of labour demanded to changes in wage rate\nAn elastic labour demand curve means a proportionately larger change in quantity of labour demanded than change in wage\n\nCurve is flatter\n\nAn inelastic labour demand curve means a proportionately smaller change in quantity of labour demanded than change in wage\n\nCurve is steeper"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#factors-affecting-elasticity",
+    "href": "slides/ldemand1/index.html#factors-affecting-elasticity",
+    "title": "EC306 - Wages and Employment",
+    "section": "Factors Affecting Elasticity",
+    "text": "Factors Affecting Elasticity\n\nSeveral factors affect the elasticity of labour demand\n\nEase of substitution between labour and other inputs\n\nMore or easier substitutes means more elastic demand\n\nElasticity of supply of other inputs\n\nInelastic supply of othe inputs makes it harder to substitute, means less elastic labour demand\nHappens because other inputs become more expensive when firm tries to substitute\n\nElasticity of demand for the final product\n\nOutput responding more to price changes means more elastic labour demand\n\nLabour share in total costs\n\nHigher labour cost share means more elastic labour demand\nOperates via scale effect"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#evidence-on-elasticity",
+    "href": "slides/ldemand1/index.html#evidence-on-elasticity",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence on Elasticity",
+    "text": "Evidence on Elasticity\n\nIn the USA, evidence suggests elasticity is between -0.15 and -0.75\n\nSo relatively inelastic\nElasticities have increased over time\nIn the long run elasticities are larger\n\nIn Canada, evidence says elasticity is between -0.1 and -0.6\n\nDepends on geography and industry\n\nKey result is that studies confirm that labour demand does slope down"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#introduction-1",
+    "href": "slides/ldemand1/index.html#introduction-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nOver time Canadian firms have faced increasingly globalized\nHas lead to concerns over what happens to Canadian workers\n\nPeople worry firms will move their operations to other countries with lower wages\nAnd that this will destroy Canadian jobs\nThis is a clear concern in the USA right now\n\nThe effect of globalization on jobs is always a concern when trade agreements are reached\n\nManufacturing is especially prominent\nCurrently the automotive industry is a focus of concern"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#effect-of-trade-on-single-market",
+    "href": "slides/ldemand1/index.html#effect-of-trade-on-single-market",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effect of Trade on Single Market",
+    "text": "Effect of Trade on Single Market\n\nConsider first global competition with a specific product\nIncreased global competition lowers the price a product can sell for globally\nIn a competitive market, this reduces the value of the marginal product\n\nRecall that \\(VMP = p \\times MP_N\\)\n\nShifts the demand for Canadian labour inward"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#effect-of-trade-on-single-market-1",
+    "href": "slides/ldemand1/index.html#effect-of-trade-on-single-market-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effect of Trade on Single Market",
+    "text": "Effect of Trade on Single Market\n\nAnother approach is to consider Canadian and foreign labour as two inputs to production\n\nJust like we did with capital and labour before\n\nThe optimal choice of Canadian and foreign labour occurs where\n\n\\[\\frac{MP_{N_C}}{MP_{N_F}} = \\frac{w_C}{w_F}\\]\n\nThe marginal product per dollar spent on a foreign and Canadian worker are the same"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#effect-of-trade-on-single-market-2",
+    "href": "slides/ldemand1/index.html#effect-of-trade-on-single-market-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effect of Trade on Single Market",
+    "text": "Effect of Trade on Single Market\n\nWhat effect does a fall in foreign wages have on Canadian labour demand?\nTwo effects occur\n\nSubstitution effect: firms substitute foreign workers for Canadian workers\n\nReduces demand for Canadian workers\n\nScale effect: lower costs lead to more production\n\nIncreases demand for Canadian workers\n\n\nSo overall effect is ambigiuous\n\nIf they are close subsitutes, substitution effect dominates and less Canadian labour is demanded\nIf scale effect dominates, there could be more Canadian labour demanded"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#effect-of-trade-on-single-market-3",
+    "href": "slides/ldemand1/index.html#effect-of-trade-on-single-market-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effect of Trade on Single Market",
+    "text": "Effect of Trade on Single Market\n\nCost is not the only factor\nProductivity is also important\n\nIf Canadian workers are more productive, will still want to hire them\n\nHow productive are Canadian workers compared to foreign workers?\nTable on next slide shows international comparisons for OECD countries\n\nAlso changes over time in productivity, compensation, unit labour costs"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#effect-of-trade-on-single-market-4",
+    "href": "slides/ldemand1/index.html#effect-of-trade-on-single-market-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effect of Trade on Single Market",
+    "text": "Effect of Trade on Single Market"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#effect-of-trade-on-single-market-5",
+    "href": "slides/ldemand1/index.html#effect-of-trade-on-single-market-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effect of Trade on Single Market",
+    "text": "Effect of Trade on Single Market"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#effect-of-trade-across-sectors",
+    "href": "slides/ldemand1/index.html#effect-of-trade-across-sectors",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effect of Trade Across Sectors",
+    "text": "Effect of Trade Across Sectors\n\nFocusing on a single sector misses key points\n\nTrade openness affects the entire economy\nThere are adjustments across sectors due to trade\n\nRecall from EC120 that countries specialize in production of goods where they have a comparative advantage\n\nExpands the consumption possibilities of countries\n\nIn a globalized market, countries will allocate more resources towards their comparative advantage sectors\n\nLabour will move from non-comparative advantage sectors to comparative advantage sectors"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#evidence-on-trade-and-labour-demand",
+    "href": "slides/ldemand1/index.html#evidence-on-trade-and-labour-demand",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence on Trade and Labour Demand",
+    "text": "Evidence on Trade and Labour Demand\n\nThere are many trade agreements with other countries\nMost prominent in Canada are NAFTA and more recently CUSMA\nThese present opportunities to study the effects of trade on labour demand\nEvidence shows that\n\nAbout 10% of Canadian jobs lost in early 90s were due to free trade\nProductivity grew faster in manufacturing industries affected by trade"
+  },
+  {
+    "objectID": "slides/ldemand1/index.html#non-trade-demand-factors",
+    "href": "slides/ldemand1/index.html#non-trade-demand-factors",
+    "title": "EC306 - Wages and Employment",
+    "section": "Non-Trade Demand Factors",
+    "text": "Non-Trade Demand Factors\n\nAt the same time trade is changing, the Canadian labour market is changing\nOver the long term, jobs have shifted away from manufacturing\nProfessional, managerial, and administrative service jobs hae been increasing\nFlex or “gig” jobs have been increasing\nAll changing for various reasons\n\nTechnology\nConsumer preferences\nDemographics"
   },
   {
     "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
