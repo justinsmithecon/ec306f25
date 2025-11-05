@@ -385,837 +385,179 @@
     "text": "Summary\n\nIncome maintenance programs provide income support to various groups for various reasons\nSome of these programs can create work disincentives\n\nNeed to balance this against the need to provide income support\n\nWe examined several different programs that exist today with labour supply model\nIn next section, we look at labour supply over the life cycle"
   },
   {
-    "objectID": "slides/ldemand2/index.html#goals-of-this-section-1",
-    "href": "slides/ldemand2/index.html#goals-of-this-section-1",
+    "objectID": "slides/lmarket/index.html#goals-of-this-section-1",
+    "href": "slides/lmarket/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
     "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nDistinguish between workers and hours as an input into production\nIncorporate non-wage benefits into the labour demand model\nAlso add costs that are independent of hours worked (quasi-fixed costs)\nDiscuss the implications of quasi-fixed costs for labour demand"
+    "text": "Goals of This Section\n\nBring together demand and supply to determine wages and employment\nDiscuss the effect of market power in goods market on equilibrium wages and employment\nDiscuss the effect of market power in the labour market on equilibrium wages and employment\nAnalyze minimum wages"
   },
   {
-    "objectID": "slides/ldemand2/index.html#background-1",
-    "href": "slides/ldemand2/index.html#background-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Background",
-    "text": "Background\n\nSo far we have discussed labour as a purely variable input paid a wage per hour worked\nIn reality it is not so simple\n\nWorkers are sometimes paid other benefits besides wages\n\nCPP, EI, , retirement benefits, paid vacation, sick leave, etc.\n\nThere are costs beyond the hourly wage\n\nHiring and training costs\nCosts of dismissal\nNon-wage benefits described above\n\n\nThese benefits and costs complicate the labour demand decision"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#non-wage-benefits-1",
-    "href": "slides/ldemand2/index.html#non-wage-benefits-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Non-wage Benefits",
-    "text": "Non-wage Benefits\n\nAs discussed above, compensation typically includes more than just wages\nCommon non-wage benefits include\n\nHealth insurance (beyond public health care)\nRetirement benefits\nPaid vacation and sick leave\nOther perks (e.g. gym memberships, childcare, etc.)\n\nThese benefits have value to workers\nThey increased as a share of total compensation through the 90s and early 2000s"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#non-wage-benefits-2",
-    "href": "slides/ldemand2/index.html#non-wage-benefits-2",
-    "title": "EC306 - Wages and Employment",
-    "section": "Non-wage Benefits",
-    "text": "Non-wage Benefits"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#non-wage-benefits-3",
-    "href": "slides/ldemand2/index.html#non-wage-benefits-3",
-    "title": "EC306 - Wages and Employment",
-    "section": "Non-wage Benefits",
-    "text": "Non-wage Benefits"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#non-wage-benefits-4",
-    "href": "slides/ldemand2/index.html#non-wage-benefits-4",
-    "title": "EC306 - Wages and Employment",
-    "section": "Non-wage Benefits",
-    "text": "Non-wage Benefits\n\nWhy do firms pay these benefits instead of wages?\n\nSometimes they are not taxed\nEconomies of scale in providing benefits\n\nThings like pensions and insurance are cheaper when provided to a group\nBecause it avoids adverse selection problems\n\nWorker preferences\n\nSome workers may prefer benefits to wages\nE.g. risk-averse workers may prefer health insurance\n\nLegal requirements"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#non-wage-benefits-5",
-    "href": "slides/ldemand2/index.html#non-wage-benefits-5",
-    "title": "EC306 - Wages and Employment",
-    "section": "Non-wage Benefits",
-    "text": "Non-wage Benefits\n\nContinued…\n\nBetter firm planning\n\nSome benefits can reduce absenteeism\nContingency plans for worker illness or accidents through sick leave\n\nBetter for productivity\n\nSubsidized meals keep people working\n\nDeferred compensation\n\nRetirement benefits can help retain workers\nWorkers may accept lower wages in exchange for future benefits\nActs as a screen for good workers"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#non-wage-benefits-6",
-    "href": "slides/ldemand2/index.html#non-wage-benefits-6",
-    "title": "EC306 - Wages and Employment",
-    "section": "Non-wage Benefits",
-    "text": "Non-wage Benefits\n\nGovernments sometimes prefer (and mandate) them also\n\nFirm pensions reduce need for public pensions\nBetter health outcomes reduce public health care costs\nImprove the social safety net through sick leave and unemployment insurance\n\nWith all these reasons, it is not surprising that non-wage benefits are common"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#introduction",
-    "href": "slides/ldemand2/index.html#introduction",
+    "objectID": "slides/lmarket/index.html#introduction-1",
+    "href": "slides/lmarket/index.html#introduction-1",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nWe have been agnostic about whether labour is measured in workers or hours worked\nBut there is an important distinction\n\nSome costs are incurred per worker regardless of hours worked\nOther costs are incurred per hour worked\n\nCosts that occur per worker but are relatively independent of hours worked are quasi-fixed costs\n\nPure quasi-fixed costs do not vary with hours worked at all\nIn practice, many costs are partially quasi-fixed\nSome of these costs may be recurring (e.g. monthly EI premiums) and others one-time (e.g. hiring and training costs)"
+    "text": "Introduction\n\nWe have analyzed labour demand and supply separately in detail\nThe equilibrium wage and employment is determined by the interaction of the two\nMarket power plays an important role\n\nIn both goods markets and labour markets\n\nWith a full understanding on how wages and employment are determined, we can analyze policies\nThe minimum wage is one of the most prominent labour market policies\n\nIn theory, it leads to unemployment\nThe evidence is more mixed"
   },
   {
-    "objectID": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs",
-    "href": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs",
+    "objectID": "slides/lmarket/index.html#market-demand-and-supply",
+    "href": "slides/lmarket/index.html#market-demand-and-supply",
     "title": "EC306 - Wages and Employment",
-    "section": "Examples of Quasi-fixed Costs",
-    "text": "Examples of Quasi-fixed Costs\n\nHiring costs\n\nRecruiting, interviewing, and training are costly\nIncurred when a worker is hired regardless of hours worked\nFirms generally try to minimize hiring costs by retaining workers\n\nTermination costs\n\nSeverance pay, legal fees, and administrative costs\nInitially depend on time with company, but have a maximum so they become fixed\nFirms may be reluctant to lay off workers because of these costs"
+    "section": "Market Demand and Supply",
+    "text": "Market Demand and Supply\n\nThe market demand and supply are the sum of the individual firms’ demand and supply at each wage\nHere we determine the demand and supply curve for a single labour market\n\nCould be an specific occupation in a specific region\nExample: electricians in Ontario, professors in Canada, etc.\nHow the market is defined depends on context\nBut it is for a single type of labour"
   },
   {
-    "objectID": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs-1",
-    "href": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs-1",
+    "objectID": "slides/lmarket/index.html#market-demand-and-supply-1",
+    "href": "slides/lmarket/index.html#market-demand-and-supply-1",
     "title": "EC306 - Wages and Employment",
-    "section": "Examples of Quasi-fixed Costs",
-    "text": "Examples of Quasi-fixed Costs\n\nEmployer contributions to payroll taxes\n\nEI and CPP are initially related to work hours\nBut they have a ceiling so they become quasi-fixed for high hours worked\n\nOther non-wage benefits\n\nEmployer contributions to life insurance, medical, dental plans\nOften have a fixed component regardless of hours worked\n\nNote that if a cost always varies with hours worked it is not quasi-fixed\n\nE.g. hourly wage, overtime premiums, per-hour health and safety costs, etc."
+    "section": "Market Demand and Supply",
+    "text": "Market Demand and Supply\n\nExample is two firms with different elasticities of demand\n\nEach firm demand curve is their value of marginal product\nFirms may face different product prices if they sell different things (but hire the same labour)\n\nEach firm faces the same wage in the labour market\n\nThey perceive the supply curve as horizontal in the long run\nThey take the wage as given and can get as much laour as they want at that wage\nMarket supply is upward sloping\n\nMarket demand is horizontal sum of individual demands\n\nAdd up the quantities demanded at each wage for each firm\nRepeat for all wages"
   },
   {
-    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs",
-    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs",
+    "objectID": "slides/lmarket/index.html#market-demand-and-supply-2",
+    "href": "slides/lmarket/index.html#market-demand-and-supply-2",
     "title": "EC306 - Wages and Employment",
-    "section": "Effects of Quasi-fixed Costs",
-    "text": "Effects of Quasi-fixed Costs\n\nPreviously we saw that labour demand is determined by equating \\(MRP_L\\) to the wage rate\nThe decision is similar with quasi-fixed costs, but now the cost of hiring a worker is higher\nThere is also a dynamic component where firms amortize the costs over time\n\nFirms may pay high training costs now\nBut expect the worker to remain with the firm to recoup those costs"
+    "section": "Market Demand and Supply",
+    "text": "Market Demand and Supply"
   },
   {
-    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-1",
-    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-1",
+    "objectID": "slides/lmarket/index.html#firm-demand-and-supply-in-the-short-run",
+    "href": "slides/lmarket/index.html#firm-demand-and-supply-in-the-short-run",
     "title": "EC306 - Wages and Employment",
-    "section": "Effects of Quasi-fixed Costs",
-    "text": "Effects of Quasi-fixed Costs\n\nA profit maximizing firm will hire workers up to the point where\n\n\\[H + T + \\sum_{t=1}^{N} \\frac{w_t}{(1 + r)^t} = \\sum_{t=1}^{N} \\frac{VMP_t}{(1 + r)^t}\\]\n\nWhere\n\n\\(H\\) = hiring cost\n\\(T\\) = training cost\n\\(w_t\\) = wage in period \\(t\\)\n\\(VMP_t\\) = value of marginal product in period \\(t\\)\n\\(r\\) = discount rate\n\\(N\\) = expected tenure of worker"
+    "section": "Firm Demand and Supply in the Short Run",
+    "text": "Firm Demand and Supply in the Short Run\n\nAbove we analyzed the longer run\n\nFirms can get as much labour as they want at the going wage\n\nIn the short run, firms may face an upward sloping supply curve\n\nThey have to pay higher wages to attract more workers\nThis could be because of contracts, or other frictions\n\nIf demand rises, they would pay higher wages to attract workers\nBut because wages are high, over the long term more workers enter the market\n\nShort run supply shifts out\nWage falls back down to long run level"
   },
   {
-    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-2",
-    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-2",
+    "objectID": "slides/lmarket/index.html#firm-demand-and-supply-in-the-short-run-1",
+    "href": "slides/lmarket/index.html#firm-demand-and-supply-in-the-short-run-1",
     "title": "EC306 - Wages and Employment",
-    "section": "Effects of Quasi-fixed Costs",
-    "text": "Effects of Quasi-fixed Costs\n\nThis equation has several implications\n\nFirms will be reluctant to hire workers for short periods if hiring costs are high\nThe wage does not have to equal the marginal product of labour in each period\nFuture productivity matters, but is discounted\nFirms may be willing to pay more than the current marginal product if they expect future productivity to be high\n\nRelated to the last point, when hiring costs are a factor future productivity must exceed the total wage\n\n\\[\\sum_{t=1}^{N} \\frac{VMP_t}{(1 + r)^t} &gt; \\sum_{t=1}^{N} \\frac{w_t}{(1 + r)^t}\\]"
+    "section": "Firm Demand and Supply in the Short Run",
+    "text": "Firm Demand and Supply in the Short Run"
   },
   {
-    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-3",
-    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-3",
+    "objectID": "slides/lmarket/index.html#monopoly",
+    "href": "slides/lmarket/index.html#monopoly",
     "title": "EC306 - Wages and Employment",
-    "section": "Effects of Quasi-fixed Costs",
-    "text": "Effects of Quasi-fixed Costs\n\nThis is similar to any other investment decision\n\nFirms invest in workers when the present value of future returns exceeds the present value of costs\nHiring and training costs are like “upfront” costs of investment\nWages are like “ongoing” costs of investment\nFuture productivity is like the “returns” on that investment\nYou only make the investment if you expect to earn at least as much as you spend\n\nThe next slide presents an example"
+    "section": "Monopoly",
+    "text": "Monopoly\n\nIn competitive markets there are many sellers of a product\nIn a monopoly, there is only one\nThis gives the firm market power\n\nThe ability to set prices above marginal cost\n\nFor a monopolist, the demand curve is where wage equals marginal revenue product\n\\[w = MR \\times MPP_N\\]\nFor a monopolist, marginal revenue is less than price\n\nBecause to sell more, they have to lower price on all units sold\nSo marginal revenue product is less than value of marginal product (\\(VMP\\))"
   },
   {
-    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-4",
-    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-4",
+    "objectID": "slides/lmarket/index.html#monopoly-1",
+    "href": "slides/lmarket/index.html#monopoly-1",
     "title": "EC306 - Wages and Employment",
-    "section": "Effects of Quasi-fixed Costs",
-    "text": "Effects of Quasi-fixed Costs"
+    "section": "Monopoly",
+    "text": "Monopoly"
   },
   {
-    "objectID": "slides/ldemand2/index.html#overtime",
-    "href": "slides/ldemand2/index.html#overtime",
+    "objectID": "slides/lmarket/index.html#monopoly-2",
+    "href": "slides/lmarket/index.html#monopoly-2",
     "title": "EC306 - Wages and Employment",
-    "section": "Overtime",
-    "text": "Overtime\n\nFirms sometimes work employees longer despite higher overtime wages\nCan be explained by high quasi-fixed costs of hiring additional workers\n\nMay be cheaper paying these higher wages to incurring hiring and training costs\nEspecially the case for high skill workers who require a lot of training"
+    "section": "Monopoly",
+    "text": "Monopoly\n\nBecause monopolists have market power\n\nThey can raise the price of their product above competitive level\nThis will decrease output\nThey demand less labour\n\nMonopolists therefore will hire fewer workers\n\nCompared to a competitive firm in the same market\n\nNote that power in the product market does not mean power in the labour market\n\nThe firm is still one of many hiring workers in a particular labour market"
   },
   {
-    "objectID": "slides/ldemand2/index.html#temp-and-gig-workers",
-    "href": "slides/ldemand2/index.html#temp-and-gig-workers",
+    "objectID": "slides/lmarket/index.html#monopolistic-competition-and-oligopoly",
+    "href": "slides/lmarket/index.html#monopolistic-competition-and-oligopoly",
     "title": "EC306 - Wages and Employment",
-    "section": "Temp and Gig Workers",
-    "text": "Temp and Gig Workers\n\nFirms do not always hire part- or full-time employees directly\nThey sometimes use temp agencies, or “gig” workers\n\nLaurier hires a cleaning firm and does not employ many janitors directly\nUber classifies drivers as independent contractors\n\nBy doing this firms do not pay quasi-fixed costs"
+    "section": "Monopolistic Competition and Oligopoly",
+    "text": "Monopolistic Competition and Oligopoly\n\nMany markets are neither perfectly competitive nor pure monopoly\nMonopolistic competition\n\nMany firms selling differentiated products\nEach firm has some market power because of product differentiation\nCan set prices above marginal cost\n\nOligopoly\n\nA few firms dominate the market\nEach firm has significant market power\nBut must consider reactions of competitors when setting prices\n\nDemand for labour is still based on marginal revenue product\n\nWhich is less than value of marginal product\nSo firms hire fewer workers than in competitive markets"
   },
   {
-    "objectID": "slides/ldemand2/index.html#layoffs",
-    "href": "slides/ldemand2/index.html#layoffs",
+    "objectID": "slides/lmarket/index.html#additional-details",
+    "href": "slides/lmarket/index.html#additional-details",
     "title": "EC306 - Wages and Employment",
-    "section": "Layoffs",
-    "text": "Layoffs\n\nDuring downturns in the economy firms sometimes keep workers around\nThis can be explained by quasi-fixed costs of hiring and termination\n\nPaying severance and incurring legal fees may be costly\nFirms may prefer to keep workers on payroll if they expect a quick recovery\nFirms may also be reluctant to lay off skilled workers due to high training costs\n\nThis can lead to labour hoarding during downturns\nAlso explains why highly educated workers tend to suffer less unemployment during recessions"
+    "section": "Additional Details",
+    "text": "Additional Details\n\nAll of the previous analysis assumes that labour markets are perfectly competitive\n\nFirms can hire all labour they want at the given wage\n\nThat is not always the case in reality when firms have power in the product market\n\nEmployees may unionize\nFirms may hire a large number of the market’s workers\n\nIn these cases, firms may not face a perfectly elastic supply curve for labour\nLater we will analyze imperfect competition in the labour market"
   },
   {
-    "objectID": "slides/ldemand2/index.html#layoffs-1",
-    "href": "slides/ldemand2/index.html#layoffs-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Layoffs",
-    "text": "Layoffs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph to left illustrates labour hoarding\nTop panel is without quasi-fixed costs\nFirm hires to point where \\(VMP = w\\)\nIn economic downturn, \\(VMP\\) shifts down\n\nBecause of lower demand for output, and therefore price\n\nWith the same wage, firms hire fewer workers"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#layoffs-2",
-    "href": "slides/ldemand2/index.html#layoffs-2",
-    "title": "EC306 - Wages and Employment",
-    "section": "Layoffs",
-    "text": "Layoffs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBottom panel is with quasi-fixed costs\nQuasi-fixed costs shift VMP curve down prior to downturn\n\nFirm hires to point where \\(VMP - (H + T) = w\\)\nFewer workers are hired initially because of these costs\n\nCreates wedge between VMP and wage\n\nVMP is now higher than wage\n\nAfter downturn, VMP shifts down\n\nBut because of wedge, firm may not change employment"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#segmentation",
-    "href": "slides/ldemand2/index.html#segmentation",
-    "title": "EC306 - Wages and Employment",
-    "section": "Segmentation",
-    "text": "Segmentation\n\nHiring costs mean trained and untrained employees are different\n\nFirms may be reluctant to hire untrained workers because of high training costs\n\nWhen quasi-fixed costs are high, firms to prefer to retain or hire trained workers\nLeads to a segmentation into protected and unprotected workers in labour market\nAlso leads firms to work employees more intensively than hire new workers\n\nExample: big law firms that work associates long hours instead of hiring new associates"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#work-sharing",
-    "href": "slides/ldemand2/index.html#work-sharing",
-    "title": "EC306 - Wages and Employment",
-    "section": "Work Sharing",
-    "text": "Work Sharing\n\nSome individuals would embrace work sharing\n\nTwo or more people share a job\nHiring more people to each work less hours for the same total hours\n\nQuasi-fixed costs explain why firms do not engage more in this activity\n\nHiring costs make it costly to bring on additional workers\nFirms prefer to have fewer workers working more hours each\nEven if total hours worked is the same"
-  },
-  {
-    "objectID": "slides/ldemand2/index.html#introduction-1",
-    "href": "slides/ldemand2/index.html#introduction-1",
+    "objectID": "slides/lmarket/index.html#introduction-3",
+    "href": "slides/lmarket/index.html#introduction-3",
     "title": "EC306 - Wages and Employment",
     "section": "Introduction",
-    "text": "Introduction\n\nIn this section we expand on work sharing\nIn Canada work sharing is a government program that subsidizes employee wages during downturns\n\nAdministered through Employment Insurance\nAllows firms to reduce hours of employees instead of laying them off\nEmployees form a “work sharing group” and agree to reduce hours\nMaximum duration of 26 weeks, with possible extensions\n\nThe key idea is to avoid layoffs and employ more people\n\nThis is why the government is involved"
+    "text": "Introduction\n\nWe know that market equilibrium is where demand and supply are equal\nYou can do that graphically or mathematically\nIn this section we cover both\nTo make the math easier, we use linear demand and supply curves\n\nThis is just for simplicity\nThe same principles apply with non-linear curves"
   },
   {
-    "objectID": "slides/ldemand2/index.html#introduction-2",
-    "href": "slides/ldemand2/index.html#introduction-2",
+    "objectID": "slides/lmarket/index.html#demand-and-supply-functions",
+    "href": "slides/lmarket/index.html#demand-and-supply-functions",
     "title": "EC306 - Wages and Employment",
-    "section": "Introduction",
-    "text": "Introduction\n\nThere are other possible work sharing schemes\n\nDelayed entry into the labour force\nEarly retirement\nShort work weeks\nReduced overtime\nIncreased vacation time\n\nDo any of these schemes increase the number of jobs?"
+    "section": "Demand and Supply Functions",
+    "text": "Demand and Supply Functions\n\nThe demand and supply for labour are functions of wages and other factors\n\nDemand: \\(N^D = f(w, Z)\\)\n\n\\(Z\\) is a list of other factors affecting demand\n\nSupply: \\(N^S = g(w, X)\\)\n\n\\(X\\) is a list of other factors affecting supply\n\n\n\\(Z\\) and \\(X\\) are things that shift the curves\n\nFor example, technology, prices of other inputs, preferences, demographics, etc.\nWe call these exogenous variables\n\nDetermined outside the model\n\n\n\\(N^D\\), \\(N^S\\), and \\(w\\) are endogenous\n\nDetermined within the model"
   },
   {
-    "objectID": "slides/ldemand2/index.html#overtime-restrictions",
-    "href": "slides/ldemand2/index.html#overtime-restrictions",
+    "objectID": "slides/lmarket/index.html#demand-and-supply-functions-1",
+    "href": "slides/lmarket/index.html#demand-and-supply-functions-1",
     "title": "EC306 - Wages and Employment",
-    "section": "Overtime Restrictions",
-    "text": "Overtime Restrictions\n\nAs noted above, one way to share work is to restrict overtime\n\nFirms do not like this because as noted it could increase costs\n\nSome governments have enacted legislation to prevent excessive overtime\nIt is not clear that these laws increase employment\n\nFirms may not hire more workers\nThe increased costs reduce overall demand for labour\nNew workers may not be as productive as existing workers, so firms may not want to hire them\nThere may not be enough employable workers available"
+    "section": "Demand and Supply Functions",
+    "text": "Demand and Supply Functions\n\nAssume the demand and supply functions are linear\n\nDemand: \\(N^D = a + b w\\)\n\n\\(a\\), \\(b\\) are constants\n\nSupply: \\(N^S = c + f w\\)\n\n\\(c\\), \\(f\\) are constants\n\n\nTo find equilibrium, set demand equal to supply\n\n\\[a + b w^* = c + f w^*\\]"
   },
   {
-    "objectID": "slides/ldemand2/index.html#overtime-restrictions-1",
-    "href": "slides/ldemand2/index.html#overtime-restrictions-1",
+    "objectID": "slides/lmarket/index.html#demand-and-supply-functions-2",
+    "href": "slides/lmarket/index.html#demand-and-supply-functions-2",
     "title": "EC306 - Wages and Employment",
-    "section": "Overtime Restrictions",
-    "text": "Overtime Restrictions\n\nAlso the possibility that part of reason for work sharing is based on a fallacy\n\nLump of Labour Fallacy is that there is a fixed number of jobs in the economy\nLeads people to believe that employees working longer hours are taking jobs away from others\nBut in reality the number of jobs is not fixed\nAs people become employed, the economy grows, and more jobs are created\nFallacy is commonly used to argue against immigration\n\nStudies show that restricting work hours does not lead to increased employment\nBut may still be useful in the short term in economic downturns"
+    "section": "Demand and Supply Functions",
+    "text": "Demand and Supply Functions\n\nRearranging to solve for equilibrium wage:\n\n\\[w^* = \\frac{c - a}{b - f}\\]\n\nRearranging to solve for equilibrium employment:\n\n\\[N^* = \\frac{b c - a f }{b - f}\\]\n\nUse these equations to analyze how changes in exogenous variables\n\nChanging \\(a\\) would shift the demand curve\n\nExample: increase in product price\n\nChanging \\(c\\) would shift the supply curve\n\nExample: increase in population"
   },
   {
-    "objectID": "slides/ldemand2/index.html#subsidized-work-sharing",
-    "href": "slides/ldemand2/index.html#subsidized-work-sharing",
+    "objectID": "slides/lmarket/index.html#demand-and-supply-functions-3",
+    "href": "slides/lmarket/index.html#demand-and-supply-functions-3",
     "title": "EC306 - Wages and Employment",
-    "section": "Subsidized Work Sharing",
-    "text": "Subsidized Work Sharing\n\nAs noted, Canada subsidizes work sharing programs for economic downturns\nMain goal is to keep people employed during recessions\nBut would be good if it also protect jobs longer term\nEvidence suggests that\n\nMany firms use the program\nIt does help keep people employed during downturns\nBut there is little evidence that it increases employment longer term\n\nEmployees were laid off when subsidy ran out"
+    "section": "Demand and Supply Functions",
+    "text": "Demand and Supply Functions\n\nTo draw the demand and supply curves, we need \\(w\\) on the left side\nRearranging the demand function:\n\n\\[w = \\frac{N^D - a}{b}\\]\n\nRearranging the supply function:\n\n\\[w = \\frac{N^S - c}{f}\\]\n\nNext slide plots these functions"
   },
   {
-    "objectID": "slides/ldemand2/index.html#employee-demand-for-work-sharing",
-    "href": "slides/ldemand2/index.html#employee-demand-for-work-sharing",
+    "objectID": "slides/lmarket/index.html#demand-and-supply-functions-4",
+    "href": "slides/lmarket/index.html#demand-and-supply-functions-4",
     "title": "EC306 - Wages and Employment",
-    "section": "Employee Demand for Work Sharing",
-    "text": "Employee Demand for Work Sharing\n\nWe have been discussing work sharing from persepective of employer\nEmployees need to also buy in for it to be successful\nIt is not clear that they do in many cases\nExample: union jobs\n\nUnions often resist work sharing programs\nPrefer to keep full-time jobs with benefits\nMay see work sharing as a threat to job security\nMay also see it as a way for employers to reduce wages and benefits"
+    "section": "Demand and Supply Functions",
+    "text": "Demand and Supply Functions"
   },
   {
-    "objectID": "slides/ldemand2/index.html#summary-1",
-    "href": "slides/ldemand2/index.html#summary-1",
+    "objectID": "slides/lmarket/index.html#payroll-tax",
+    "href": "slides/lmarket/index.html#payroll-tax",
     "title": "EC306 - Wages and Employment",
-    "section": "Summary",
-    "text": "Summary\n\nIn this section we expanded the labour demand model\nWe incorporated non-wage benefits and quasi-fixed costs\nNon-wage benefits are common and have many justifications\nQuasi-fixed costs complicate the labour demand decision\nThese costs can explain many labour market phenomena\nWork sharing is one possible response to quasi-fixed costs\nBut it is not clear that work sharing increases employment longer term"
+    "section": "Payroll Tax",
+    "text": "Payroll Tax\n\nWe can use this model to analyze various policies\nOne common policy is a payroll tax on employers\n\nExamples: Canada Pension Plan (CPP), Employment Insurance (EI)\n\nThese are typically a percentage of wages paid by employers\nBut we will analyze a fixed amount per hour for simplicity\n\nSuppose the tax is \\(T\\) per hour\n\nThis drives a “wedge” between the wage paid by employers and the wage received by workers in equilibrium\n\n\\[w_r = w_e - T\\]"
   },
   {
-    "objectID": "slides/intro/index.html#goals-of-this-section-1",
-    "href": "slides/intro/index.html#goals-of-this-section-1",
+    "objectID": "slides/lmarket/index.html#payroll-tax-1",
+    "href": "slides/lmarket/index.html#payroll-tax-1",
     "title": "EC306 - Wages and Employment",
-    "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nDefine Labour Economics\nDescribe basic facts about the labour market\nIntroduce the main economic model used in labour economics\nDiscuss some current policy issues"
+    "section": "Payroll Tax",
+    "text": "Payroll Tax\n\nThe demand function is:\n\n\\[w_e = \\frac{N^D - a}{b} \\]\n\nThe supply function is:\n\n\\[w_r = \\frac{N^S - c}{f}\\]"
   },
   {
-    "objectID": "slides/intro/index.html#defining-labour-economics",
-    "href": "slides/intro/index.html#defining-labour-economics",
+    "objectID": "slides/lmarket/index.html#payroll-tax-2",
+    "href": "slides/lmarket/index.html#payroll-tax-2",
     "title": "EC306 - Wages and Employment",
-    "section": "Defining Labour Economics",
-    "text": "Defining Labour Economics\n\nLabour Economics is the study of the interaction between workers, employers, and government that determine outcomes like wages and employment\nKey aspects of labour economics\n\nLabour supply: decisions by individuals about how much to work\nLabour demand: decisions by firms about how many workers to hire\nLabour market: the interaction of labour supply and demand that determines wages and employment\nOther determinants of wages: human capital, discrimination, unions, minimum wage, etc.\nInequality and poverty: the distribution of income and wealth\nUnemployment: causes and consequences"
+    "section": "Payroll Tax",
+    "text": "Payroll Tax\n\nSubstitute into the equilibrium price equation and set quantity demanded equal to quantity supplied:\n\n\\[\\frac{N^* - c}{f} = \\frac{N^* - a}{b} - T \\]\n\nRearranging to solve for equilibrium employment:\n\n\\[N^* = \\frac{b c - a f - b f T}{b - f} \\]"
   },
   {
-    "objectID": "slides/intro/index.html#labour-supply",
-    "href": "slides/intro/index.html#labour-supply",
+    "objectID": "slides/lmarket/index.html#payroll-tax-3",
+    "href": "slides/lmarket/index.html#payroll-tax-3",
     "title": "EC306 - Wages and Employment",
-    "section": "Labour Supply",
-    "text": "Labour Supply\n\nStudies decisions by individuals about how much to work\nThere are many key determinants\n\nWages: higher wages increase the opportunity cost of leisure, leading to more work\n\nCan also lead to less work if wages are already very high\n\nNon-labour income: higher non-labour income reduces the need to work, leading to less work\nPreferences: some people may prefer more leisure or more work\nPublic policy: taxes, transfers, and regulations can affect labour supply\n\nExamples: income tax, welfare programs, minimum wage, pension, workers compensation"
+    "section": "Payroll Tax",
+    "text": "Payroll Tax\n\nThe equilibrium wage received by workers is\n\n\\[w_r^* = \\frac{c-a}{b-f} - \\frac{b}{b-f} T \\]\n\nThe equilibrium wage paid by employers is\n\n\\[w_e^* = \\frac{c-a}{b-f} - \\frac{f}{b-f} T \\]"
   },
   {
-    "objectID": "slides/intro/index.html#labour-demand",
-    "href": "slides/intro/index.html#labour-demand",
+    "objectID": "slides/lmarket/index.html#payroll-tax-4",
+    "href": "slides/lmarket/index.html#payroll-tax-4",
     "title": "EC306 - Wages and Employment",
-    "section": "Labour Demand",
-    "text": "Labour Demand\n\nStudies decision by firms about how many workers to hire\nKey determinants\n\nWages: higher wages increase the cost of labour, leading to less hiring\nOther labour costs: benefits, training, and other costs increase the cost of labour, leading to less hiring\nProductivity: more productive workers are more valuable, leading to more hiring\nOutput prices: higher output prices increase revenue, leading to more hiring\nTechnology: new technology can change the demand for different types of workers\nPublic policy: taxes, subsidies, and regulations can affect labour demand\n\nExamples: corporate tax, employment subsidies, minimum wage, occupational licensing"
+    "section": "Payroll Tax",
+    "text": "Payroll Tax"
   },
   {
-    "objectID": "slides/intro/index.html#relative-wages",
-    "href": "slides/intro/index.html#relative-wages",
+    "objectID": "slides/lmarket/index.html#payroll-tax-5",
+    "href": "slides/lmarket/index.html#payroll-tax-5",
     "title": "EC306 - Wages and Employment",
-    "section": "Relative Wages",
-    "text": "Relative Wages\n\nAcross the economy, different groups of workers earn different wages\n\nMen earn more than women\nEducation is positively related to wages\nMore dangerous jobs tend to pay more\nPublic sector jobs pay differently than private sector ones\nImmigrants earn less than non-immigrants\n\nLabour economics uses supply, demand and other models to explain these differences\n\nReturns to schooling explained by human capital theory\nGender and immigrant wage gaps partly explained by discrimination"
+    "section": "Payroll Tax",
+    "text": "Payroll Tax\n\nThe previous slide highlights the difference between the statutory and economic incdidence of a tax\n\nStatutory incidence: who is legally responsible for paying the tax\n\nIn this case, firms\n\nEconomic incidence: who actually bears the burden of the tax\n\nShared between firms and workers\nWorkers receive a lower wage than before\nFirms pay a higher one\n\n\nEconomic incidence depends on elasticities of supply and demand\n\nMore elastic supply means workers bear less of the tax burden\nMore elastic demand means firms bear less of the tax burden"
   },
   {
-    "objectID": "slides/intro/index.html#unions",
-    "href": "slides/intro/index.html#unions",
+    "objectID": "slides/lmarket/index.html#evidence",
+    "href": "slides/lmarket/index.html#evidence",
     "title": "EC306 - Wages and Employment",
-    "section": "Unions",
-    "text": "Unions\n\nUnions are organizations that represent workers in collective bargaining with employers\nUnions increase worker power, and can affect wages and employment\nTypically wages of unionized workers are determined by collective bargaining\n\nLeads to a collective bargaining agreement, renegotiated every few years\n\nTo study unionized workers, labour economists incorporate bargaining theory into their models\nUnions can also affect non-wage aspects of jobs, such as benefits, working conditions, and job security"
-  },
-  {
-    "objectID": "slides/intro/index.html#unemployment",
-    "href": "slides/intro/index.html#unemployment",
-    "title": "EC306 - Wages and Employment",
-    "section": "Unemployment",
-    "text": "Unemployment\n\nMost topics in labour economics use microeconomic models to explain behaviour\nUnemployment is studied using both microeconomic and macroeconomic models\nTypical microeconomic topics include:\n\nJob search: how workers find jobs and how firms find workers\nImplicit contracts: agreements between workers and firms that are not formal contracts\nEfficiency wages: wages that are above the market-clearing level to increase productivity and reduce turnover\nEmployment insurance: government programs that provide income support to unemployed workers"
-  },
-  {
-    "objectID": "slides/intro/index.html#unemployment-1",
-    "href": "slides/intro/index.html#unemployment-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Unemployment",
-    "text": "Unemployment\n\nTypical macroeconomic topics include:\n\nBusiness cycles: fluctuations in economic activity that affect employment\nInflation: the general increase in prices that can affect real wages and employment\nProductivity: the amount of output produced per worker that can affect wages and employment"
-  },
-  {
-    "objectID": "slides/intro/index.html#income-sources",
-    "href": "slides/intro/index.html#income-sources",
-    "title": "EC306 - Wages and Employment",
-    "section": "Income Sources",
-    "text": "Income Sources\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariable\n\nAll\n\n\nMen\n\n\nWomen\n\n\n\nMean\n% Positive\nMean\n% Positive\nMean\n% Positive\n\n\n\n\nEarnings\n50,326\n84.0\n60,216\n86.6\n40,408\n81.5\n\n\nInvestment Income\n2,706\n28.5\n3,291\n28.6\n2,120\n28.3\n\n\nPension\n1,561\n8.2\n1,556\n7.3\n1,567\n9.1\n\n\nOther Income\n2,069\n17.7\n1,926\n16.0\n2,212\n19.4\n\n\nGovernment Transfers\n4,671\n82.6\n3,252\n78.0\n6,094\n87.2\n\n\nIncome Taxes\n11,012\n72.8\n14,191\n77.2\n7,824\n68.5\n\n\nAnnual Hours Worked\n1,385\n82.0\n1,546\n85.6\n1,223\n78.4\n\n\nWage\n40\n75.6\n44\n78.4\n36\n72.9"
-  },
-  {
-    "objectID": "slides/intro/index.html#distribution-of-earnings",
-    "href": "slides/intro/index.html#distribution-of-earnings",
-    "title": "EC306 - Wages and Employment",
-    "section": "Distribution of Earnings",
-    "text": "Distribution of Earnings"
-  },
-  {
-    "objectID": "slides/intro/index.html#distribution-of-hours-worked",
-    "href": "slides/intro/index.html#distribution-of-hours-worked",
-    "title": "EC306 - Wages and Employment",
-    "section": "Distribution of Hours Worked",
-    "text": "Distribution of Hours Worked"
-  },
-  {
-    "objectID": "slides/intro/index.html#distribution-of-hourly-earnings",
-    "href": "slides/intro/index.html#distribution-of-hourly-earnings",
-    "title": "EC306 - Wages and Employment",
-    "section": "Distribution of Hourly Earnings",
-    "text": "Distribution of Hourly Earnings"
-  },
-  {
-    "objectID": "slides/intro/index.html#earnings-by-highest-level-of-schooling",
-    "href": "slides/intro/index.html#earnings-by-highest-level-of-schooling",
-    "title": "EC306 - Wages and Employment",
-    "section": "Earnings by Highest Level of Schooling",
-    "text": "Earnings by Highest Level of Schooling"
-  },
-  {
-    "objectID": "slides/intro/index.html#earnings-by-gender",
-    "href": "slides/intro/index.html#earnings-by-gender",
-    "title": "EC306 - Wages and Employment",
-    "section": "Earnings by Gender",
-    "text": "Earnings by Gender"
-  },
-  {
-    "objectID": "slides/intro/index.html#earnings-by-immigration-status",
-    "href": "slides/intro/index.html#earnings-by-immigration-status",
-    "title": "EC306 - Wages and Employment",
-    "section": "Earnings by Immigration Status",
-    "text": "Earnings by Immigration Status"
-  },
-  {
-    "objectID": "slides/intro/index.html#introduction",
-    "href": "slides/intro/index.html#introduction",
-    "title": "EC306 - Wages and Employment",
-    "section": "Introduction",
-    "text": "Introduction\n\nThe basic economic model of the labour market is based on supply and demand\nThe labour market is an input market\n\nFirms demand labour to produce goods and services\nWorkers supply labour in exchange for wages\nDifferent from output markets where firms supply goods and services, and consumers demand them\n\nThe interaction of labour supply and demand determines the equilibrium wage and employment level\nWe will cover the basics here, and fill in details through the course"
-  },
-  {
-    "objectID": "slides/intro/index.html#competitive-labour-market",
-    "href": "slides/intro/index.html#competitive-labour-market",
-    "title": "EC306 - Wages and Employment",
-    "section": "Competitive Labour Market",
-    "text": "Competitive Labour Market\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows demand curve (ND) and supply curve (NS) for labour\nSupply curve is upward sloping\n\nShows how much labour people will sell at each wage all else equal\nThe higher the wage, the higher the quantity of labour supplied\n\nDemand curve is downward sloping\n\nShows how much labour a firm wants to hire at each wage all else equal\nThe higher the wage, the lower the quantity of labour demanded"
-  },
-  {
-    "objectID": "slides/intro/index.html#competitive-labour-market-1",
-    "href": "slides/intro/index.html#competitive-labour-market-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Competitive Labour Market",
-    "text": "Competitive Labour Market\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nEquilibrium is where demand and supply intersect\n\nWage is W* and level of employment is N*\n\nWhy is this equilibrium?\n\nIf W &gt; W*, excess supply of labour\n\nUnemployed workers willing to work for less\nPuts downward pressure on wage\n\nIf W &lt; W*, excess demand for labour\n\nFirms cannot find enough workers\nPuts upward pressure on wage"
-  },
-  {
-    "objectID": "slides/intro/index.html#competitive-labour-market-2",
-    "href": "slides/intro/index.html#competitive-labour-market-2",
-    "title": "EC306 - Wages and Employment",
-    "section": "Competitive Labour Market",
-    "text": "Competitive Labour Market\n\nThere are some key considerations of this model\n\n\nAssumes many buyers and sellers\n\nNo single firm or worker can influence the wage\nNeed a different model for labour markets with a single buyer (monopsony)\n\nImplies no involuntary unemployment\n\nEveryone who wants to work at the equilibrium wage can find a job\nPeople who are unemployed are choosing to be\nNot very realistic because we know the involuntary unemployed exist\n\nAssumes homogeneous set of workers\n\nSame in terms of their productive characteristics"
-  },
-  {
-    "objectID": "slides/intro/index.html#competitive-labour-market-3",
-    "href": "slides/intro/index.html#competitive-labour-market-3",
-    "title": "EC306 - Wages and Employment",
-    "section": "Competitive Labour Market",
-    "text": "Competitive Labour Market\n\nAn implication of homogeneous labour is that different sectors that hire the same labour pay them the same\nExample: Nurses\n\nNurses in hospitals and long-term care facilities have similar skills and training\nIf hospitals pay more, nurses will leave long-term care to work in hospitals\nThis will continue until wages are equalized\n\nOther examples\n\nTeachers in public and private schools\nElectricians in construction and manufacturing\nData scientists in tech firms and banks"
-  },
-  {
-    "objectID": "slides/intro/index.html#competitive-labour-market-4",
-    "href": "slides/intro/index.html#competitive-labour-market-4",
-    "title": "EC306 - Wages and Employment",
-    "section": "Competitive Labour Market",
-    "text": "Competitive Labour Market"
-  },
-  {
-    "objectID": "slides/intro/index.html#competitive-labour-market-5",
-    "href": "slides/intro/index.html#competitive-labour-market-5",
-    "title": "EC306 - Wages and Employment",
-    "section": "Competitive Labour Market",
-    "text": "Competitive Labour Market"
-  },
-  {
-    "objectID": "slides/intro/index.html#competitive-labour-market-6",
-    "href": "slides/intro/index.html#competitive-labour-market-6",
-    "title": "EC306 - Wages and Employment",
-    "section": "Competitive Labour Market",
-    "text": "Competitive Labour Market\n\nGraphs show a temprary imbalance in pay between hospitals and long-term care in the market for nurses\nRight graph shows long term care paying more\nOver time nurses move from long term care to hospitals\n\nMovement stops when wages are equalized\n\nEmployment in long term care increases, employment in hospitals decreases\nNote that this depends on key assumptions\n\nNo barriers to moving between sectors\nNo differences in non-wage aspects of jobs\nHomogeneous labour\n\nWe will explore situation in course where these assumptions do not hold"
-  },
-  {
-    "objectID": "slides/intro/index.html#introduction-1",
-    "href": "slides/intro/index.html#introduction-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Introduction",
-    "text": "Introduction\n\nMost researchers in labour economics analyze various policy issues\n\nUse data to estimate their effects\nSome do experiments\nOthers (not many) create theoretical models\n\nThere are many policies that affect workers and firms with respect to labour\n\nIn Canada they can be at the federal, provincial, or municipal level\nCan be policies from other countries (e.g. U.S. tariffs)\n\nBelow we outline some current issues\n\nHelpful for the future if you want to write a 481 paper in this area\n\nTextbook has an extremely long list; we will cover a few here"
-  },
-  {
-    "objectID": "slides/intro/index.html#issues-in-labour-supply",
-    "href": "slides/intro/index.html#issues-in-labour-supply",
-    "title": "EC306 - Wages and Employment",
-    "section": "Issues in Labour Supply",
-    "text": "Issues in Labour Supply\n\nHow does income tax affect employment?\nDo income support programs (e.g. welfare, Canada Worker Benefit) affect employment?\nHow has the labour force participation of women changed over time?\nHow do child care costs affect employment of mothers?\nHow do pension programs affect retirement decisions?\nDo temporary foreign workers affect the wages of domestic workers?"
-  },
-  {
-    "objectID": "slides/intro/index.html#issues-in-labour-demand",
-    "href": "slides/intro/index.html#issues-in-labour-demand",
-    "title": "EC306 - Wages and Employment",
-    "section": "Issues in Labour Demand",
-    "text": "Issues in Labour Demand\n\nHow do minimum wages affect employment?\nDo unions affect wages and employment?\nDoes technological change (e.g. Automation, AI) reduce employment?\nDoes uncertainty (e.g. Trump tariffs, Brexit) affect hiring/firing decisions?\nDo employment subsidies (e.g. Canada Summer Jobs program) increase employment?"
-  },
-  {
-    "objectID": "slides/intro/index.html#issues-in-wage-structures",
-    "href": "slides/intro/index.html#issues-in-wage-structures",
-    "title": "EC306 - Wages and Employment",
-    "section": "Issues in Wage Structures",
-    "text": "Issues in Wage Structures\n\nWhy do men and women earn different wages?\nWhy do immigrants earn lower wages on entry?\nDo immigrant wages catch up after being in Canada for a while?\nWhat is the return to additional schooling?\nDo public sector workers earn more than private sector workers?\nDo workers in more dangerous jobs earn more?\nWhy are CEOs paid so much?"
-  },
-  {
-    "objectID": "slides/intro/index.html#issues-in-unemployment",
-    "href": "slides/intro/index.html#issues-in-unemployment",
-    "title": "EC306 - Wages and Employment",
-    "section": "Issues in Unemployment",
-    "text": "Issues in Unemployment\n\nWhat are the main causes of unemployment?\nHow do unemployment insurance programs affect unemployment?\nHow quickly does unemployment fall after a recession?\nHow long to people typically stay unemployed\nDoes long term unemployment hurt future job prospects?"
-  },
-  {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 6",
-    "text": "BGLRS Chapter 3 Problem 6\nConsider the following earnings supplement program, modelled after the Self-Sufficiency Project. An individual can work a maximum of 60 hours per week, at a wage rate of $5 per hour. Welfare benefits are fixed at $200 per week, with a 100 percent tax back on labour earnings. Finally, the earnings supplement equals half the difference between an individual’s labour earnings and the benchmark earnings of $450 per week. This supplement can be collected only if the individual forgoes welfare benefits and works a minimum of 30 hours per week. Draw the individual’s budget constraint, and analyze the work decision."
-  },
-  {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 7",
-    "text": "BGLRS Chapter 3 Problem 7\nThe different programs discussed in this chapter often have ambiguous effects on work effort. It is, nonetheless, possible to compare the work incentives of two programs by looking at what happens when the individual is indifferent between two programs. Use this approach to compare the work incentives of the following two pairs of programs. In both cases, use graphs to show the hours of work chosen under the two programs by an individual who is indifferent between the two programs.\n\nEarned income tax credit compared to welfare"
-  },
-  {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 7",
-    "text": "BGLRS Chapter 3 Problem 7\n\nWages subsidy compared to a negative income tax"
-  },
-  {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 3",
-    "text": "BGLRS Chapter 3 Problem 3\nUse the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would."
-  },
-  {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 4",
-    "text": "BGLRS Chapter 3 Problem 4\nConsider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is $20 per hour, and that they have nonlabour income of $100 per day. The commute takes one hour each way, and it costs $40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from $40 to $60 per round trip, keeping commuting time at two hours."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\n            Wages and Employment\n        ",
-    "section": "",
-    "text": "Labour Market Economics\n        \n        \n            EC306 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Mon/Wed\n   Sept-Dec 2025\n   2:30 - 3:50 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
-  },
-  {
-    "objectID": "content/lsupply2.html",
-    "href": "content/lsupply2.html",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
-    "section": "",
-    "text": "BGLRS Chapter 3",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
-    ]
-  },
-  {
-    "objectID": "content/lsupply2.html#readings",
-    "href": "content/lsupply2.html#readings",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
-    "section": "",
-    "text": "BGLRS Chapter 3",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
-    ]
-  },
-  {
-    "objectID": "content/lsupply2.html#slides",
-    "href": "content/lsupply2.html#slides",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
-    ]
-  },
-  {
-    "objectID": "content/lsupply2.html#sample-questions",
-    "href": "content/lsupply2.html#sample-questions",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
-    ]
-  },
-  {
-    "objectID": "content/ldemand2.html",
-    "href": "content/ldemand2.html",
-    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
-    "section": "",
-    "text": "BGLRS Chapter 6",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
-    ]
-  },
-  {
-    "objectID": "content/ldemand2.html#readings",
-    "href": "content/ldemand2.html#readings",
-    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
-    "section": "",
-    "text": "BGLRS Chapter 6",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
-    ]
-  },
-  {
-    "objectID": "content/ldemand2.html#slides",
-    "href": "content/ldemand2.html#slides",
-    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html",
-    "href": "content/introtostata.html",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#tutorial",
-    "href": "content/introtostata.html#tutorial",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#videos",
-    "href": "content/introtostata.html#videos",
-    "title": "Introduction to Stata",
-    "section": "Videos",
-    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#other-resources",
-    "href": "content/introtostata.html#other-resources",
-    "title": "Introduction to Stata",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
-    "crumbs": [
-      "Content",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html",
-    "href": "assignments/assign1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "Answer Key\n\n\n\nYou can download the solutions using the links below\n ec306assign1key.do\n ec306assign1key.docx",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#description",
-    "href": "assignments/assign1.html#description",
-    "title": "Assignment 1",
-    "section": "Description",
-    "text": "Description\nIn this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based the labour supply responses of women to the reduction in child care availability that accompanied the COVID-19 pandemic in the United States. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#instructions",
-    "href": "assignments/assign1.html#instructions",
-    "title": "Assignment 1",
-    "section": "Instructions",
-    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec306assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the US Current Population Survey (CPS). It contains a host of information, but for this assignment the important variables are labour force participation, unemployment, the number of children in the household, and a set of demographics. The sample for this assignment contains women aged 25–54 and spans the 9 months before and after March 2020.\nThe data file is linked below.\n ec306assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
-    "crumbs": [
-      "Assignments",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "content/introtolme.html",
-    "href": "content/introtolme.html",
-    "title": "Introduction to Labour Market Economics",
-    "section": "",
-    "text": "BGLRS Chapter 1",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "content/introtolme.html#readings",
-    "href": "content/introtolme.html#readings",
-    "title": "Introduction to Labour Market Economics",
-    "section": "",
-    "text": "BGLRS Chapter 1",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "content/introtolme.html#slides",
-    "href": "content/introtolme.html#slides",
-    "title": "Introduction to Labour Market Economics",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "content/ldemand1.html",
-    "href": "content/ldemand1.html",
-    "title": "Labour Demand 1: Competitive Labour Markets",
-    "section": "",
-    "text": "BGLRS Chapter 5",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 1: Competitive Labour Markets"
-    ]
-  },
-  {
-    "objectID": "content/ldemand1.html#readings",
-    "href": "content/ldemand1.html#readings",
-    "title": "Labour Demand 1: Competitive Labour Markets",
-    "section": "",
-    "text": "BGLRS Chapter 5",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 1: Competitive Labour Markets"
-    ]
-  },
-  {
-    "objectID": "content/ldemand1.html#slides",
-    "href": "content/ldemand1.html#slides",
-    "title": "Labour Demand 1: Competitive Labour Markets",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 1: Competitive Labour Markets"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html",
-    "href": "content/lsupply1.html",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "",
-    "text": "BGLRS Chapter 2",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#readings",
-    "href": "content/lsupply1.html#readings",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "",
-    "text": "BGLRS Chapter 2",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#slides",
-    "href": "content/lsupply1.html#slides",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#sample-questions",
-    "href": "content/lsupply1.html#sample-questions",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply3.html",
-    "href": "content/lsupply3.html",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
-    "section": "",
-    "text": "BGLRS Chapter 4",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
-    ]
-  },
-  {
-    "objectID": "content/lsupply3.html#readings",
-    "href": "content/lsupply3.html#readings",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
-    "section": "",
-    "text": "BGLRS Chapter 4",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
-    ]
-  },
-  {
-    "objectID": "content/lsupply3.html#slides",
-    "href": "content/lsupply3.html#slides",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
-    ]
-  },
-  {
-    "objectID": "content/lsupply3.html#sample-questions",
-    "href": "content/lsupply3.html#sample-questions",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
-    ]
-  },
-  {
-    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
-    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 2 Problem 3",
-    "text": "BGLRS Chapter 2 Problem 3\nConsider two individuals with endowments of \\(T=60\\) hours (per week) if leisure, nonlabour income of Y, and a wage of $7.50 per hour. At this wage, assume that workers are constrained by their employers to work 40 hours per week, or not at all.\n\nOn a carefully labelled diagram, show the equilibrium for a worker for whom 40 hours is the optimum labour supply and a worker who would like to work 20 hours, but still prefers the 40 hour week to not working. Compare the marginal rates of substitution for these two workers at 40 hours per week."
-  },
-  {
-    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
-    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 2 Problem 3",
-    "text": "BGLRS Chapter 2 Problem 3\n\nThe average part-time wage is $7 per hour, in contrast to $7.50 for full-time workers. Using the above model, provide an explanation for this difference in wage rates."
-  },
-  {
-    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
-    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 4 Problem 1",
-    "text": "BGLRS Chapter 4 Problem 1\nThe evaluation of the labour supply response to a tax cut can be quite different in a dynamic setting from what it is in a static setting. Discuss the relative impact of a permanent versus transitory tax cut on labour supply, and compare the analysis to the static model."
-  },
-  {
-    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
-    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 4 Problem 2",
-    "text": "BGLRS Chapter 4 Problem 2\nConsider the two-period dynamic labour supply model discussed in this chapter. What, if anything, happens to current labour supply if the interest rate rises from 2 percent to 10 percent?"
+    "section": "Evidence",
+    "text": "Evidence\n\nTheory predicts lower employment from a payroll tax\nAlso predicts economic incidence may be shared between firms and workers\nEvidence based on empirical studies is\n\nIn the long run, workers bear most of the burden of the tax through lower wages\nEmployment effects are small"
   },
   {
     "objectID": "slides/ldemand1/index.html#goals-of-this-section-1",
@@ -1566,6 +908,875 @@
     "title": "EC306 - Wages and Employment",
     "section": "Non-Trade Demand Factors",
     "text": "Non-Trade Demand Factors\n\nAt the same time trade is changing, the Canadian labour market is changing\nOver the long term, jobs have shifted away from manufacturing\nProfessional, managerial, and administrative service jobs hae been increasing\nFlex or “gig” jobs have been increasing\nAll changing for various reasons\n\nTechnology\nConsumer preferences\nDemographics"
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 4 Problem 1",
+    "text": "BGLRS Chapter 4 Problem 1\nThe evaluation of the labour supply response to a tax cut can be quite different in a dynamic setting from what it is in a static setting. Discuss the relative impact of a permanent versus transitory tax cut on labour supply, and compare the analysis to the static model."
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 4 Problem 2",
+    "text": "BGLRS Chapter 4 Problem 2\nConsider the two-period dynamic labour supply model discussed in this chapter. What, if anything, happens to current labour supply if the interest rate rises from 2 percent to 10 percent?"
+  },
+  {
+    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
+    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 2 Problem 3",
+    "text": "BGLRS Chapter 2 Problem 3\nConsider two individuals with endowments of \\(T=60\\) hours (per week) if leisure, nonlabour income of Y, and a wage of $7.50 per hour. At this wage, assume that workers are constrained by their employers to work 40 hours per week, or not at all.\n\nOn a carefully labelled diagram, show the equilibrium for a worker for whom 40 hours is the optimum labour supply and a worker who would like to work 20 hours, but still prefers the 40 hour week to not working. Compare the marginal rates of substitution for these two workers at 40 hours per week."
+  },
+  {
+    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
+    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 2 Problem 3",
+    "text": "BGLRS Chapter 2 Problem 3\n\nThe average part-time wage is $7 per hour, in contrast to $7.50 for full-time workers. Using the above model, provide an explanation for this difference in wage rates."
+  },
+  {
+    "objectID": "content/lsupply3.html",
+    "href": "content/lsupply3.html",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "section": "",
+    "text": "BGLRS Chapter 4",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
+  },
+  {
+    "objectID": "content/lsupply3.html#readings",
+    "href": "content/lsupply3.html#readings",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "section": "",
+    "text": "BGLRS Chapter 4",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
+  },
+  {
+    "objectID": "content/lsupply3.html#slides",
+    "href": "content/lsupply3.html#slides",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
+  },
+  {
+    "objectID": "content/lsupply3.html#sample-questions",
+    "href": "content/lsupply3.html#sample-questions",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html",
+    "href": "content/lsupply1.html",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "",
+    "text": "BGLRS Chapter 2",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html#readings",
+    "href": "content/lsupply1.html#readings",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "",
+    "text": "BGLRS Chapter 2",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html#slides",
+    "href": "content/lsupply1.html#slides",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html#sample-questions",
+    "href": "content/lsupply1.html#sample-questions",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/ldemand2.html",
+    "href": "content/ldemand2.html",
+    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
+    "section": "",
+    "text": "BGLRS Chapter 6",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+    ]
+  },
+  {
+    "objectID": "content/ldemand2.html#readings",
+    "href": "content/ldemand2.html#readings",
+    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
+    "section": "",
+    "text": "BGLRS Chapter 6",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+    ]
+  },
+  {
+    "objectID": "content/ldemand2.html#slides",
+    "href": "content/ldemand2.html#slides",
+    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html",
+    "href": "content/introtostata.html",
+    "title": "Introduction to Stata",
+    "section": "",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#tutorial",
+    "href": "content/introtostata.html#tutorial",
+    "title": "Introduction to Stata",
+    "section": "",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#videos",
+    "href": "content/introtostata.html#videos",
+    "title": "Introduction to Stata",
+    "section": "Videos",
+    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#other-resources",
+    "href": "content/introtostata.html#other-resources",
+    "title": "Introduction to Stata",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
+    "crumbs": [
+      "Content",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html",
+    "href": "assignments/assign1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Answer Key\n\n\n\nYou can download the solutions using the links below\n ec306assign1key.do\n ec306assign1key.docx",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#description",
+    "href": "assignments/assign1.html#description",
+    "title": "Assignment 1",
+    "section": "Description",
+    "text": "Description\nIn this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based the labour supply responses of women to the reduction in child care availability that accompanied the COVID-19 pandemic in the United States. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#instructions",
+    "href": "assignments/assign1.html#instructions",
+    "title": "Assignment 1",
+    "section": "Instructions",
+    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec306assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the US Current Population Survey (CPS). It contains a host of information, but for this assignment the important variables are labour force participation, unemployment, the number of children in the household, and a set of demographics. The sample for this assignment contains women aged 25–54 and spans the 9 months before and after March 2020.\nThe data file is linked below.\n ec306assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/introtolme.html",
+    "href": "content/introtolme.html",
+    "title": "Introduction to Labour Market Economics",
+    "section": "",
+    "text": "BGLRS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Labour Economics"
+    ]
+  },
+  {
+    "objectID": "content/introtolme.html#readings",
+    "href": "content/introtolme.html#readings",
+    "title": "Introduction to Labour Market Economics",
+    "section": "",
+    "text": "BGLRS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Labour Economics"
+    ]
+  },
+  {
+    "objectID": "content/introtolme.html#slides",
+    "href": "content/introtolme.html#slides",
+    "title": "Introduction to Labour Market Economics",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Labour Economics"
+    ]
+  },
+  {
+    "objectID": "content/ldemand1.html",
+    "href": "content/ldemand1.html",
+    "title": "Labour Demand 1: Competitive Labour Markets",
+    "section": "",
+    "text": "BGLRS Chapter 5",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 1: Competitive Labour Markets"
+    ]
+  },
+  {
+    "objectID": "content/ldemand1.html#readings",
+    "href": "content/ldemand1.html#readings",
+    "title": "Labour Demand 1: Competitive Labour Markets",
+    "section": "",
+    "text": "BGLRS Chapter 5",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 1: Competitive Labour Markets"
+    ]
+  },
+  {
+    "objectID": "content/ldemand1.html#slides",
+    "href": "content/ldemand1.html#slides",
+    "title": "Labour Demand 1: Competitive Labour Markets",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 1: Competitive Labour Markets"
+    ]
+  },
+  {
+    "objectID": "content/lmarket.html",
+    "href": "content/lmarket.html",
+    "title": "Wages and Employment in a Single Labour Market",
+    "section": "",
+    "text": "BGLRS Chapter 7",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lmarket.html#readings",
+    "href": "content/lmarket.html#readings",
+    "title": "Wages and Employment in a Single Labour Market",
+    "section": "",
+    "text": "BGLRS Chapter 7",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lmarket.html#slides",
+    "href": "content/lmarket.html#slides",
+    "title": "Wages and Employment in a Single Labour Market",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lsupply2.html",
+    "href": "content/lsupply2.html",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "",
+    "text": "BGLRS Chapter 3",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
+  },
+  {
+    "objectID": "content/lsupply2.html#readings",
+    "href": "content/lsupply2.html#readings",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "",
+    "text": "BGLRS Chapter 3",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
+  },
+  {
+    "objectID": "content/lsupply2.html#slides",
+    "href": "content/lsupply2.html#slides",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
+  },
+  {
+    "objectID": "content/lsupply2.html#sample-questions",
+    "href": "content/lsupply2.html#sample-questions",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n            Wages and Employment\n        ",
+    "section": "",
+    "text": "Labour Market Economics\n        \n        \n            EC306 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Mon/Wed\n   Sept-Dec 2025\n   2:30 - 3:50 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 6",
+    "text": "BGLRS Chapter 3 Problem 6\nConsider the following earnings supplement program, modelled after the Self-Sufficiency Project. An individual can work a maximum of 60 hours per week, at a wage rate of $5 per hour. Welfare benefits are fixed at $200 per week, with a 100 percent tax back on labour earnings. Finally, the earnings supplement equals half the difference between an individual’s labour earnings and the benchmark earnings of $450 per week. This supplement can be collected only if the individual forgoes welfare benefits and works a minimum of 30 hours per week. Draw the individual’s budget constraint, and analyze the work decision."
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 7",
+    "text": "BGLRS Chapter 3 Problem 7\nThe different programs discussed in this chapter often have ambiguous effects on work effort. It is, nonetheless, possible to compare the work incentives of two programs by looking at what happens when the individual is indifferent between two programs. Use this approach to compare the work incentives of the following two pairs of programs. In both cases, use graphs to show the hours of work chosen under the two programs by an individual who is indifferent between the two programs.\n\nEarned income tax credit compared to welfare"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 7",
+    "text": "BGLRS Chapter 3 Problem 7\n\nWages subsidy compared to a negative income tax"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 3",
+    "text": "BGLRS Chapter 3 Problem 3\nUse the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would."
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 4",
+    "text": "BGLRS Chapter 3 Problem 4\nConsider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is $20 per hour, and that they have nonlabour income of $100 per day. The commute takes one hour each way, and it costs $40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from $40 to $60 per round trip, keeping commuting time at two hours."
+  },
+  {
+    "objectID": "slides/intro/index.html#goals-of-this-section-1",
+    "href": "slides/intro/index.html#goals-of-this-section-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nDefine Labour Economics\nDescribe basic facts about the labour market\nIntroduce the main economic model used in labour economics\nDiscuss some current policy issues"
+  },
+  {
+    "objectID": "slides/intro/index.html#defining-labour-economics",
+    "href": "slides/intro/index.html#defining-labour-economics",
+    "title": "EC306 - Wages and Employment",
+    "section": "Defining Labour Economics",
+    "text": "Defining Labour Economics\n\nLabour Economics is the study of the interaction between workers, employers, and government that determine outcomes like wages and employment\nKey aspects of labour economics\n\nLabour supply: decisions by individuals about how much to work\nLabour demand: decisions by firms about how many workers to hire\nLabour market: the interaction of labour supply and demand that determines wages and employment\nOther determinants of wages: human capital, discrimination, unions, minimum wage, etc.\nInequality and poverty: the distribution of income and wealth\nUnemployment: causes and consequences"
+  },
+  {
+    "objectID": "slides/intro/index.html#labour-supply",
+    "href": "slides/intro/index.html#labour-supply",
+    "title": "EC306 - Wages and Employment",
+    "section": "Labour Supply",
+    "text": "Labour Supply\n\nStudies decisions by individuals about how much to work\nThere are many key determinants\n\nWages: higher wages increase the opportunity cost of leisure, leading to more work\n\nCan also lead to less work if wages are already very high\n\nNon-labour income: higher non-labour income reduces the need to work, leading to less work\nPreferences: some people may prefer more leisure or more work\nPublic policy: taxes, transfers, and regulations can affect labour supply\n\nExamples: income tax, welfare programs, minimum wage, pension, workers compensation"
+  },
+  {
+    "objectID": "slides/intro/index.html#labour-demand",
+    "href": "slides/intro/index.html#labour-demand",
+    "title": "EC306 - Wages and Employment",
+    "section": "Labour Demand",
+    "text": "Labour Demand\n\nStudies decision by firms about how many workers to hire\nKey determinants\n\nWages: higher wages increase the cost of labour, leading to less hiring\nOther labour costs: benefits, training, and other costs increase the cost of labour, leading to less hiring\nProductivity: more productive workers are more valuable, leading to more hiring\nOutput prices: higher output prices increase revenue, leading to more hiring\nTechnology: new technology can change the demand for different types of workers\nPublic policy: taxes, subsidies, and regulations can affect labour demand\n\nExamples: corporate tax, employment subsidies, minimum wage, occupational licensing"
+  },
+  {
+    "objectID": "slides/intro/index.html#relative-wages",
+    "href": "slides/intro/index.html#relative-wages",
+    "title": "EC306 - Wages and Employment",
+    "section": "Relative Wages",
+    "text": "Relative Wages\n\nAcross the economy, different groups of workers earn different wages\n\nMen earn more than women\nEducation is positively related to wages\nMore dangerous jobs tend to pay more\nPublic sector jobs pay differently than private sector ones\nImmigrants earn less than non-immigrants\n\nLabour economics uses supply, demand and other models to explain these differences\n\nReturns to schooling explained by human capital theory\nGender and immigrant wage gaps partly explained by discrimination"
+  },
+  {
+    "objectID": "slides/intro/index.html#unions",
+    "href": "slides/intro/index.html#unions",
+    "title": "EC306 - Wages and Employment",
+    "section": "Unions",
+    "text": "Unions\n\nUnions are organizations that represent workers in collective bargaining with employers\nUnions increase worker power, and can affect wages and employment\nTypically wages of unionized workers are determined by collective bargaining\n\nLeads to a collective bargaining agreement, renegotiated every few years\n\nTo study unionized workers, labour economists incorporate bargaining theory into their models\nUnions can also affect non-wage aspects of jobs, such as benefits, working conditions, and job security"
+  },
+  {
+    "objectID": "slides/intro/index.html#unemployment",
+    "href": "slides/intro/index.html#unemployment",
+    "title": "EC306 - Wages and Employment",
+    "section": "Unemployment",
+    "text": "Unemployment\n\nMost topics in labour economics use microeconomic models to explain behaviour\nUnemployment is studied using both microeconomic and macroeconomic models\nTypical microeconomic topics include:\n\nJob search: how workers find jobs and how firms find workers\nImplicit contracts: agreements between workers and firms that are not formal contracts\nEfficiency wages: wages that are above the market-clearing level to increase productivity and reduce turnover\nEmployment insurance: government programs that provide income support to unemployed workers"
+  },
+  {
+    "objectID": "slides/intro/index.html#unemployment-1",
+    "href": "slides/intro/index.html#unemployment-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Unemployment",
+    "text": "Unemployment\n\nTypical macroeconomic topics include:\n\nBusiness cycles: fluctuations in economic activity that affect employment\nInflation: the general increase in prices that can affect real wages and employment\nProductivity: the amount of output produced per worker that can affect wages and employment"
+  },
+  {
+    "objectID": "slides/intro/index.html#income-sources",
+    "href": "slides/intro/index.html#income-sources",
+    "title": "EC306 - Wages and Employment",
+    "section": "Income Sources",
+    "text": "Income Sources\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariable\n\nAll\n\n\nMen\n\n\nWomen\n\n\n\nMean\n% Positive\nMean\n% Positive\nMean\n% Positive\n\n\n\n\nEarnings\n50,326\n84.0\n60,216\n86.6\n40,408\n81.5\n\n\nInvestment Income\n2,706\n28.5\n3,291\n28.6\n2,120\n28.3\n\n\nPension\n1,561\n8.2\n1,556\n7.3\n1,567\n9.1\n\n\nOther Income\n2,069\n17.7\n1,926\n16.0\n2,212\n19.4\n\n\nGovernment Transfers\n4,671\n82.6\n3,252\n78.0\n6,094\n87.2\n\n\nIncome Taxes\n11,012\n72.8\n14,191\n77.2\n7,824\n68.5\n\n\nAnnual Hours Worked\n1,385\n82.0\n1,546\n85.6\n1,223\n78.4\n\n\nWage\n40\n75.6\n44\n78.4\n36\n72.9"
+  },
+  {
+    "objectID": "slides/intro/index.html#distribution-of-earnings",
+    "href": "slides/intro/index.html#distribution-of-earnings",
+    "title": "EC306 - Wages and Employment",
+    "section": "Distribution of Earnings",
+    "text": "Distribution of Earnings"
+  },
+  {
+    "objectID": "slides/intro/index.html#distribution-of-hours-worked",
+    "href": "slides/intro/index.html#distribution-of-hours-worked",
+    "title": "EC306 - Wages and Employment",
+    "section": "Distribution of Hours Worked",
+    "text": "Distribution of Hours Worked"
+  },
+  {
+    "objectID": "slides/intro/index.html#distribution-of-hourly-earnings",
+    "href": "slides/intro/index.html#distribution-of-hourly-earnings",
+    "title": "EC306 - Wages and Employment",
+    "section": "Distribution of Hourly Earnings",
+    "text": "Distribution of Hourly Earnings"
+  },
+  {
+    "objectID": "slides/intro/index.html#earnings-by-highest-level-of-schooling",
+    "href": "slides/intro/index.html#earnings-by-highest-level-of-schooling",
+    "title": "EC306 - Wages and Employment",
+    "section": "Earnings by Highest Level of Schooling",
+    "text": "Earnings by Highest Level of Schooling"
+  },
+  {
+    "objectID": "slides/intro/index.html#earnings-by-gender",
+    "href": "slides/intro/index.html#earnings-by-gender",
+    "title": "EC306 - Wages and Employment",
+    "section": "Earnings by Gender",
+    "text": "Earnings by Gender"
+  },
+  {
+    "objectID": "slides/intro/index.html#earnings-by-immigration-status",
+    "href": "slides/intro/index.html#earnings-by-immigration-status",
+    "title": "EC306 - Wages and Employment",
+    "section": "Earnings by Immigration Status",
+    "text": "Earnings by Immigration Status"
+  },
+  {
+    "objectID": "slides/intro/index.html#introduction",
+    "href": "slides/intro/index.html#introduction",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nThe basic economic model of the labour market is based on supply and demand\nThe labour market is an input market\n\nFirms demand labour to produce goods and services\nWorkers supply labour in exchange for wages\nDifferent from output markets where firms supply goods and services, and consumers demand them\n\nThe interaction of labour supply and demand determines the equilibrium wage and employment level\nWe will cover the basics here, and fill in details through the course"
+  },
+  {
+    "objectID": "slides/intro/index.html#competitive-labour-market",
+    "href": "slides/intro/index.html#competitive-labour-market",
+    "title": "EC306 - Wages and Employment",
+    "section": "Competitive Labour Market",
+    "text": "Competitive Labour Market\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph shows demand curve (ND) and supply curve (NS) for labour\nSupply curve is upward sloping\n\nShows how much labour people will sell at each wage all else equal\nThe higher the wage, the higher the quantity of labour supplied\n\nDemand curve is downward sloping\n\nShows how much labour a firm wants to hire at each wage all else equal\nThe higher the wage, the lower the quantity of labour demanded"
+  },
+  {
+    "objectID": "slides/intro/index.html#competitive-labour-market-1",
+    "href": "slides/intro/index.html#competitive-labour-market-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Competitive Labour Market",
+    "text": "Competitive Labour Market\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nEquilibrium is where demand and supply intersect\n\nWage is W* and level of employment is N*\n\nWhy is this equilibrium?\n\nIf W &gt; W*, excess supply of labour\n\nUnemployed workers willing to work for less\nPuts downward pressure on wage\n\nIf W &lt; W*, excess demand for labour\n\nFirms cannot find enough workers\nPuts upward pressure on wage"
+  },
+  {
+    "objectID": "slides/intro/index.html#competitive-labour-market-2",
+    "href": "slides/intro/index.html#competitive-labour-market-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Competitive Labour Market",
+    "text": "Competitive Labour Market\n\nThere are some key considerations of this model\n\n\nAssumes many buyers and sellers\n\nNo single firm or worker can influence the wage\nNeed a different model for labour markets with a single buyer (monopsony)\n\nImplies no involuntary unemployment\n\nEveryone who wants to work at the equilibrium wage can find a job\nPeople who are unemployed are choosing to be\nNot very realistic because we know the involuntary unemployed exist\n\nAssumes homogeneous set of workers\n\nSame in terms of their productive characteristics"
+  },
+  {
+    "objectID": "slides/intro/index.html#competitive-labour-market-3",
+    "href": "slides/intro/index.html#competitive-labour-market-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Competitive Labour Market",
+    "text": "Competitive Labour Market\n\nAn implication of homogeneous labour is that different sectors that hire the same labour pay them the same\nExample: Nurses\n\nNurses in hospitals and long-term care facilities have similar skills and training\nIf hospitals pay more, nurses will leave long-term care to work in hospitals\nThis will continue until wages are equalized\n\nOther examples\n\nTeachers in public and private schools\nElectricians in construction and manufacturing\nData scientists in tech firms and banks"
+  },
+  {
+    "objectID": "slides/intro/index.html#competitive-labour-market-4",
+    "href": "slides/intro/index.html#competitive-labour-market-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Competitive Labour Market",
+    "text": "Competitive Labour Market"
+  },
+  {
+    "objectID": "slides/intro/index.html#competitive-labour-market-5",
+    "href": "slides/intro/index.html#competitive-labour-market-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Competitive Labour Market",
+    "text": "Competitive Labour Market"
+  },
+  {
+    "objectID": "slides/intro/index.html#competitive-labour-market-6",
+    "href": "slides/intro/index.html#competitive-labour-market-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Competitive Labour Market",
+    "text": "Competitive Labour Market\n\nGraphs show a temprary imbalance in pay between hospitals and long-term care in the market for nurses\nRight graph shows long term care paying more\nOver time nurses move from long term care to hospitals\n\nMovement stops when wages are equalized\n\nEmployment in long term care increases, employment in hospitals decreases\nNote that this depends on key assumptions\n\nNo barriers to moving between sectors\nNo differences in non-wage aspects of jobs\nHomogeneous labour\n\nWe will explore situation in course where these assumptions do not hold"
+  },
+  {
+    "objectID": "slides/intro/index.html#introduction-1",
+    "href": "slides/intro/index.html#introduction-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nMost researchers in labour economics analyze various policy issues\n\nUse data to estimate their effects\nSome do experiments\nOthers (not many) create theoretical models\n\nThere are many policies that affect workers and firms with respect to labour\n\nIn Canada they can be at the federal, provincial, or municipal level\nCan be policies from other countries (e.g. U.S. tariffs)\n\nBelow we outline some current issues\n\nHelpful for the future if you want to write a 481 paper in this area\n\nTextbook has an extremely long list; we will cover a few here"
+  },
+  {
+    "objectID": "slides/intro/index.html#issues-in-labour-supply",
+    "href": "slides/intro/index.html#issues-in-labour-supply",
+    "title": "EC306 - Wages and Employment",
+    "section": "Issues in Labour Supply",
+    "text": "Issues in Labour Supply\n\nHow does income tax affect employment?\nDo income support programs (e.g. welfare, Canada Worker Benefit) affect employment?\nHow has the labour force participation of women changed over time?\nHow do child care costs affect employment of mothers?\nHow do pension programs affect retirement decisions?\nDo temporary foreign workers affect the wages of domestic workers?"
+  },
+  {
+    "objectID": "slides/intro/index.html#issues-in-labour-demand",
+    "href": "slides/intro/index.html#issues-in-labour-demand",
+    "title": "EC306 - Wages and Employment",
+    "section": "Issues in Labour Demand",
+    "text": "Issues in Labour Demand\n\nHow do minimum wages affect employment?\nDo unions affect wages and employment?\nDoes technological change (e.g. Automation, AI) reduce employment?\nDoes uncertainty (e.g. Trump tariffs, Brexit) affect hiring/firing decisions?\nDo employment subsidies (e.g. Canada Summer Jobs program) increase employment?"
+  },
+  {
+    "objectID": "slides/intro/index.html#issues-in-wage-structures",
+    "href": "slides/intro/index.html#issues-in-wage-structures",
+    "title": "EC306 - Wages and Employment",
+    "section": "Issues in Wage Structures",
+    "text": "Issues in Wage Structures\n\nWhy do men and women earn different wages?\nWhy do immigrants earn lower wages on entry?\nDo immigrant wages catch up after being in Canada for a while?\nWhat is the return to additional schooling?\nDo public sector workers earn more than private sector workers?\nDo workers in more dangerous jobs earn more?\nWhy are CEOs paid so much?"
+  },
+  {
+    "objectID": "slides/intro/index.html#issues-in-unemployment",
+    "href": "slides/intro/index.html#issues-in-unemployment",
+    "title": "EC306 - Wages and Employment",
+    "section": "Issues in Unemployment",
+    "text": "Issues in Unemployment\n\nWhat are the main causes of unemployment?\nHow do unemployment insurance programs affect unemployment?\nHow quickly does unemployment fall after a recession?\nHow long to people typically stay unemployed\nDoes long term unemployment hurt future job prospects?"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#goals-of-this-section-1",
+    "href": "slides/ldemand2/index.html#goals-of-this-section-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nDistinguish between workers and hours as an input into production\nIncorporate non-wage benefits into the labour demand model\nAlso add costs that are independent of hours worked (quasi-fixed costs)\nDiscuss the implications of quasi-fixed costs for labour demand"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#background-1",
+    "href": "slides/ldemand2/index.html#background-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Background",
+    "text": "Background\n\nSo far we have discussed labour as a purely variable input paid a wage per hour worked\nIn reality it is not so simple\n\nWorkers are sometimes paid other benefits besides wages\n\nCPP, EI, , retirement benefits, paid vacation, sick leave, etc.\n\nThere are costs beyond the hourly wage\n\nHiring and training costs\nCosts of dismissal\nNon-wage benefits described above\n\n\nThese benefits and costs complicate the labour demand decision"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#non-wage-benefits-1",
+    "href": "slides/ldemand2/index.html#non-wage-benefits-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Non-wage Benefits",
+    "text": "Non-wage Benefits\n\nAs discussed above, compensation typically includes more than just wages\nCommon non-wage benefits include\n\nHealth insurance (beyond public health care)\nRetirement benefits\nPaid vacation and sick leave\nOther perks (e.g. gym memberships, childcare, etc.)\n\nThese benefits have value to workers\nThey increased as a share of total compensation through the 90s and early 2000s"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#non-wage-benefits-2",
+    "href": "slides/ldemand2/index.html#non-wage-benefits-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Non-wage Benefits",
+    "text": "Non-wage Benefits"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#non-wage-benefits-3",
+    "href": "slides/ldemand2/index.html#non-wage-benefits-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Non-wage Benefits",
+    "text": "Non-wage Benefits"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#non-wage-benefits-4",
+    "href": "slides/ldemand2/index.html#non-wage-benefits-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Non-wage Benefits",
+    "text": "Non-wage Benefits\n\nWhy do firms pay these benefits instead of wages?\n\nSometimes they are not taxed\nEconomies of scale in providing benefits\n\nThings like pensions and insurance are cheaper when provided to a group\nBecause it avoids adverse selection problems\n\nWorker preferences\n\nSome workers may prefer benefits to wages\nE.g. risk-averse workers may prefer health insurance\n\nLegal requirements"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#non-wage-benefits-5",
+    "href": "slides/ldemand2/index.html#non-wage-benefits-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Non-wage Benefits",
+    "text": "Non-wage Benefits\n\nContinued…\n\nBetter firm planning\n\nSome benefits can reduce absenteeism\nContingency plans for worker illness or accidents through sick leave\n\nBetter for productivity\n\nSubsidized meals keep people working\n\nDeferred compensation\n\nRetirement benefits can help retain workers\nWorkers may accept lower wages in exchange for future benefits\nActs as a screen for good workers"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#non-wage-benefits-6",
+    "href": "slides/ldemand2/index.html#non-wage-benefits-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Non-wage Benefits",
+    "text": "Non-wage Benefits\n\nGovernments sometimes prefer (and mandate) them also\n\nFirm pensions reduce need for public pensions\nBetter health outcomes reduce public health care costs\nImprove the social safety net through sick leave and unemployment insurance\n\nWith all these reasons, it is not surprising that non-wage benefits are common"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#introduction",
+    "href": "slides/ldemand2/index.html#introduction",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nWe have been agnostic about whether labour is measured in workers or hours worked\nBut there is an important distinction\n\nSome costs are incurred per worker regardless of hours worked\nOther costs are incurred per hour worked\n\nCosts that occur per worker but are relatively independent of hours worked are quasi-fixed costs\n\nPure quasi-fixed costs do not vary with hours worked at all\nIn practice, many costs are partially quasi-fixed\nSome of these costs may be recurring (e.g. monthly EI premiums) and others one-time (e.g. hiring and training costs)"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs",
+    "href": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs",
+    "title": "EC306 - Wages and Employment",
+    "section": "Examples of Quasi-fixed Costs",
+    "text": "Examples of Quasi-fixed Costs\n\nHiring costs\n\nRecruiting, interviewing, and training are costly\nIncurred when a worker is hired regardless of hours worked\nFirms generally try to minimize hiring costs by retaining workers\n\nTermination costs\n\nSeverance pay, legal fees, and administrative costs\nInitially depend on time with company, but have a maximum so they become fixed\nFirms may be reluctant to lay off workers because of these costs"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs-1",
+    "href": "slides/ldemand2/index.html#examples-of-quasi-fixed-costs-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Examples of Quasi-fixed Costs",
+    "text": "Examples of Quasi-fixed Costs\n\nEmployer contributions to payroll taxes\n\nEI and CPP are initially related to work hours\nBut they have a ceiling so they become quasi-fixed for high hours worked\n\nOther non-wage benefits\n\nEmployer contributions to life insurance, medical, dental plans\nOften have a fixed component regardless of hours worked\n\nNote that if a cost always varies with hours worked it is not quasi-fixed\n\nE.g. hourly wage, overtime premiums, per-hour health and safety costs, etc."
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs",
+    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effects of Quasi-fixed Costs",
+    "text": "Effects of Quasi-fixed Costs\n\nPreviously we saw that labour demand is determined by equating \\(MRP_L\\) to the wage rate\nThe decision is similar with quasi-fixed costs, but now the cost of hiring a worker is higher\nThere is also a dynamic component where firms amortize the costs over time\n\nFirms may pay high training costs now\nBut expect the worker to remain with the firm to recoup those costs"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-1",
+    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effects of Quasi-fixed Costs",
+    "text": "Effects of Quasi-fixed Costs\n\nA profit maximizing firm will hire workers up to the point where\n\n\\[H + T + \\sum_{t=1}^{N} \\frac{w_t}{(1 + r)^t} = \\sum_{t=1}^{N} \\frac{VMP_t}{(1 + r)^t}\\]\n\nWhere\n\n\\(H\\) = hiring cost\n\\(T\\) = training cost\n\\(w_t\\) = wage in period \\(t\\)\n\\(VMP_t\\) = value of marginal product in period \\(t\\)\n\\(r\\) = discount rate\n\\(N\\) = expected tenure of worker"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-2",
+    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effects of Quasi-fixed Costs",
+    "text": "Effects of Quasi-fixed Costs\n\nThis equation has several implications\n\nFirms will be reluctant to hire workers for short periods if hiring costs are high\nThe wage does not have to equal the marginal product of labour in each period\nFuture productivity matters, but is discounted\nFirms may be willing to pay more than the current marginal product if they expect future productivity to be high\n\nRelated to the last point, when hiring costs are a factor future productivity must exceed the total wage\n\n\\[\\sum_{t=1}^{N} \\frac{VMP_t}{(1 + r)^t} &gt; \\sum_{t=1}^{N} \\frac{w_t}{(1 + r)^t}\\]"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-3",
+    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effects of Quasi-fixed Costs",
+    "text": "Effects of Quasi-fixed Costs\n\nThis is similar to any other investment decision\n\nFirms invest in workers when the present value of future returns exceeds the present value of costs\nHiring and training costs are like “upfront” costs of investment\nWages are like “ongoing” costs of investment\nFuture productivity is like the “returns” on that investment\nYou only make the investment if you expect to earn at least as much as you spend\n\nThe next slide presents an example"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-4",
+    "href": "slides/ldemand2/index.html#effects-of-quasi-fixed-costs-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Effects of Quasi-fixed Costs",
+    "text": "Effects of Quasi-fixed Costs"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#overtime",
+    "href": "slides/ldemand2/index.html#overtime",
+    "title": "EC306 - Wages and Employment",
+    "section": "Overtime",
+    "text": "Overtime\n\nFirms sometimes work employees longer despite higher overtime wages\nCan be explained by high quasi-fixed costs of hiring additional workers\n\nMay be cheaper paying these higher wages to incurring hiring and training costs\nEspecially the case for high skill workers who require a lot of training"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#temp-and-gig-workers",
+    "href": "slides/ldemand2/index.html#temp-and-gig-workers",
+    "title": "EC306 - Wages and Employment",
+    "section": "Temp and Gig Workers",
+    "text": "Temp and Gig Workers\n\nFirms do not always hire part- or full-time employees directly\nThey sometimes use temp agencies, or “gig” workers\n\nLaurier hires a cleaning firm and does not employ many janitors directly\nUber classifies drivers as independent contractors\n\nBy doing this firms do not pay quasi-fixed costs"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#layoffs",
+    "href": "slides/ldemand2/index.html#layoffs",
+    "title": "EC306 - Wages and Employment",
+    "section": "Layoffs",
+    "text": "Layoffs\n\nDuring downturns in the economy firms sometimes keep workers around\nThis can be explained by quasi-fixed costs of hiring and termination\n\nPaying severance and incurring legal fees may be costly\nFirms may prefer to keep workers on payroll if they expect a quick recovery\nFirms may also be reluctant to lay off skilled workers due to high training costs\n\nThis can lead to labour hoarding during downturns\nAlso explains why highly educated workers tend to suffer less unemployment during recessions"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#layoffs-1",
+    "href": "slides/ldemand2/index.html#layoffs-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Layoffs",
+    "text": "Layoffs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph to left illustrates labour hoarding\nTop panel is without quasi-fixed costs\nFirm hires to point where \\(VMP = w\\)\nIn economic downturn, \\(VMP\\) shifts down\n\nBecause of lower demand for output, and therefore price\n\nWith the same wage, firms hire fewer workers"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#layoffs-2",
+    "href": "slides/ldemand2/index.html#layoffs-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Layoffs",
+    "text": "Layoffs\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nBottom panel is with quasi-fixed costs\nQuasi-fixed costs shift VMP curve down prior to downturn\n\nFirm hires to point where \\(VMP - (H + T) = w\\)\nFewer workers are hired initially because of these costs\n\nCreates wedge between VMP and wage\n\nVMP is now higher than wage\n\nAfter downturn, VMP shifts down\n\nBut because of wedge, firm may not change employment"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#segmentation",
+    "href": "slides/ldemand2/index.html#segmentation",
+    "title": "EC306 - Wages and Employment",
+    "section": "Segmentation",
+    "text": "Segmentation\n\nHiring costs mean trained and untrained employees are different\n\nFirms may be reluctant to hire untrained workers because of high training costs\n\nWhen quasi-fixed costs are high, firms to prefer to retain or hire trained workers\nLeads to a segmentation into protected and unprotected workers in labour market\nAlso leads firms to work employees more intensively than hire new workers\n\nExample: big law firms that work associates long hours instead of hiring new associates"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#work-sharing",
+    "href": "slides/ldemand2/index.html#work-sharing",
+    "title": "EC306 - Wages and Employment",
+    "section": "Work Sharing",
+    "text": "Work Sharing\n\nSome individuals would embrace work sharing\n\nTwo or more people share a job\nHiring more people to each work less hours for the same total hours\n\nQuasi-fixed costs explain why firms do not engage more in this activity\n\nHiring costs make it costly to bring on additional workers\nFirms prefer to have fewer workers working more hours each\nEven if total hours worked is the same"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#introduction-1",
+    "href": "slides/ldemand2/index.html#introduction-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nIn this section we expand on work sharing\nIn Canada work sharing is a government program that subsidizes employee wages during downturns\n\nAdministered through Employment Insurance\nAllows firms to reduce hours of employees instead of laying them off\nEmployees form a “work sharing group” and agree to reduce hours\nMaximum duration of 26 weeks, with possible extensions\n\nThe key idea is to avoid layoffs and employ more people\n\nThis is why the government is involved"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#introduction-2",
+    "href": "slides/ldemand2/index.html#introduction-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nThere are other possible work sharing schemes\n\nDelayed entry into the labour force\nEarly retirement\nShort work weeks\nReduced overtime\nIncreased vacation time\n\nDo any of these schemes increase the number of jobs?"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#overtime-restrictions",
+    "href": "slides/ldemand2/index.html#overtime-restrictions",
+    "title": "EC306 - Wages and Employment",
+    "section": "Overtime Restrictions",
+    "text": "Overtime Restrictions\n\nAs noted above, one way to share work is to restrict overtime\n\nFirms do not like this because as noted it could increase costs\n\nSome governments have enacted legislation to prevent excessive overtime\nIt is not clear that these laws increase employment\n\nFirms may not hire more workers\nThe increased costs reduce overall demand for labour\nNew workers may not be as productive as existing workers, so firms may not want to hire them\nThere may not be enough employable workers available"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#overtime-restrictions-1",
+    "href": "slides/ldemand2/index.html#overtime-restrictions-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Overtime Restrictions",
+    "text": "Overtime Restrictions\n\nAlso the possibility that part of reason for work sharing is based on a fallacy\n\nLump of Labour Fallacy is that there is a fixed number of jobs in the economy\nLeads people to believe that employees working longer hours are taking jobs away from others\nBut in reality the number of jobs is not fixed\nAs people become employed, the economy grows, and more jobs are created\nFallacy is commonly used to argue against immigration\n\nStudies show that restricting work hours does not lead to increased employment\nBut may still be useful in the short term in economic downturns"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#subsidized-work-sharing",
+    "href": "slides/ldemand2/index.html#subsidized-work-sharing",
+    "title": "EC306 - Wages and Employment",
+    "section": "Subsidized Work Sharing",
+    "text": "Subsidized Work Sharing\n\nAs noted, Canada subsidizes work sharing programs for economic downturns\nMain goal is to keep people employed during recessions\nBut would be good if it also protect jobs longer term\nEvidence suggests that\n\nMany firms use the program\nIt does help keep people employed during downturns\nBut there is little evidence that it increases employment longer term\n\nEmployees were laid off when subsidy ran out"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#employee-demand-for-work-sharing",
+    "href": "slides/ldemand2/index.html#employee-demand-for-work-sharing",
+    "title": "EC306 - Wages and Employment",
+    "section": "Employee Demand for Work Sharing",
+    "text": "Employee Demand for Work Sharing\n\nWe have been discussing work sharing from persepective of employer\nEmployees need to also buy in for it to be successful\nIt is not clear that they do in many cases\nExample: union jobs\n\nUnions often resist work sharing programs\nPrefer to keep full-time jobs with benefits\nMay see work sharing as a threat to job security\nMay also see it as a way for employers to reduce wages and benefits"
+  },
+  {
+    "objectID": "slides/ldemand2/index.html#summary-1",
+    "href": "slides/ldemand2/index.html#summary-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Summary",
+    "text": "Summary\n\nIn this section we expanded the labour demand model\nWe incorporated non-wage benefits and quasi-fixed costs\nNon-wage benefits are common and have many justifications\nQuasi-fixed costs complicate the labour demand decision\nThese costs can explain many labour market phenomena\nWork sharing is one possible response to quasi-fixed costs\nBut it is not clear that work sharing increases employment longer term"
   },
   {
     "objectID": "slides/lsupply1/index.html#goals-of-this-section-1",
