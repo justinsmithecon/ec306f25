@@ -560,6 +560,209 @@
     "text": "Evidence\n\nTheory predicts lower employment from a payroll tax\nAlso predicts economic incidence may be shared between firms and workers\nEvidence based on empirical studies is\n\nIn the long run, workers bear most of the burden of the tax through lower wages\nEmployment effects are small"
   },
   {
+    "objectID": "slides/lmarket/index.html#introduction-4",
+    "href": "slides/lmarket/index.html#introduction-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nMarket power can be a feature on both the buying and selling side of markets\n\nMonopoly: single seller with market power\nMonopsony: single buyer with market power\n\nTypically we discuss monopoly in the goods market, but monopsony in the labour market\n\nBut you can have power in both buying and selling in both markets\n\nIn this section we will consider monopsony in the labour market"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#introduction-5",
+    "href": "slides/lmarket/index.html#introduction-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nSome examples of monopsony in the labour market\n\nCompany/factory towns\nHospital labour markets\nUniversity professor labour markets\nPublic sector in small areas\n\nIn all case there is a large buyer of labour\nThis gives the buyer power to set wages\nAffects both wages and employment\n\nTo attract labour, it must raise wages"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#simple-monopsony",
+    "href": "slides/lmarket/index.html#simple-monopsony",
+    "title": "EC306 - Wages and Employment",
+    "section": "Simple Monopsony",
+    "text": "Simple Monopsony\n\nIn a monopsony, the firm faces the market supply curve for labour\n\nSupply is upward sloping\nContrast to perfect competition where supply is horizontal\nTo hire more workers, the firm must pay a higher wage\n\nThe firms marginal cost of labour is above the supply curve\n\nBecause to hire an additional worker, the firm must raise the wage for all workers\nSo MC is equal to cost of additional worker plus the increase in wage paid to existing workers\nAnalogous to how monopolists face MR below demand"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#simple-monopsony-1",
+    "href": "slides/lmarket/index.html#simple-monopsony-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Simple Monopsony",
+    "text": "Simple Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMonopsony depicted to the left\nFirm demand is its value of marginal product\nFaces upward sloping supply curve\nMC is above supply\nOptimal labour is where MC = VMP\nWage comes from supply curve at that quantity of labour"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#simple-monopsony-2",
+    "href": "slides/lmarket/index.html#simple-monopsony-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Simple Monopsony",
+    "text": "Simple Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFor monopsony\n\nWage is below VMP\nWage is below competitive wage\nEmployment is below competitive employment\n\nMonopsony profit is rectangle \\((VMP_m - W_m) \\times N_m\\)\n\nWage bill is \\(W_m \\times N_m\\)\nRevenue contributed by workers is \\(VMP_m \\times N_m\\)"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#simple-monopsony-3",
+    "href": "slides/lmarket/index.html#simple-monopsony-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Simple Monopsony",
+    "text": "Simple Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMonopsonies also leave jobs vacant\n\nBecause they restrict employment to raise wages\nThis creates inefficiency in the labour market\n\nVacancies are \\(V_m - S_m\\)\nAt wage \\(W_m\\)\n\nVMP is above wage\nFirms would like to hire more -But to hire it must raise wages, so it is optimal to not hire more"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#characteristics-of-monopsonies",
+    "href": "slides/lmarket/index.html#characteristics-of-monopsonies",
+    "title": "EC306 - Wages and Employment",
+    "section": "Characteristics of Monopsonies",
+    "text": "Characteristics of Monopsonies\n\nMore prevalent in the short run\n\nIn the long run, workers can move to find other jobs\nIn the short run, frictions may prevent this\n\nLarge relative to the labour market\n\nDoes not have to be a big firm, just large relative to the market\nIf the market is small, the firm does not have to be large to have power\nExample: a restaurant in a seasonal tourist town\n\nWorkers have specialized skills\n\nMay naturally be few employers for specialized labour\nLike academia, sports teams"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#characteristics-of-monopsonies-1",
+    "href": "slides/lmarket/index.html#characteristics-of-monopsonies-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Characteristics of Monopsonies",
+    "text": "Characteristics of Monopsonies\n\nWages are lower than competitive equilibrium, but not necessarily low in an absolute sense\n\nExample: sports players\nNot paid low wages, but market power makes them lower than they would be otherwise"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#wage-differentiation",
+    "href": "slides/lmarket/index.html#wage-differentiation",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Differentiation",
+    "text": "Wage Differentiation\n\nIn previous analysis, we assumed all workers are the same\n\nSingle supply curve for labour\n\nThis leaves some surplus for workers\n\nThere are workers willing to work for less than the equilibrium wage\n\nFirm can capture that surplus by differentiating wages\n\nPaying different workers different wages based on their reservation wage"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#wage-differentiation-1",
+    "href": "slides/lmarket/index.html#wage-differentiation-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Wage Differentiation",
+    "text": "Wage Differentiation\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf the firm can pay different wages\n\nIt can pay each worker their reservation wage\nMC curve and supply curve become equal to supply curve\n\nFirm will hire up to competitive level\n\nBecause it does not have to increase wage for all workers to hire more\n\nTo do this, firms would try to make wages secret\n\nPrevent workers from knowing what others are paid\nCould do this with non-wage benefits for specific workers"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#evidence-of-monopsonies",
+    "href": "slides/lmarket/index.html#evidence-of-monopsonies",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence of Monopsonies",
+    "text": "Evidence of Monopsonies\n\nPro sports\n\nBaseball: free agency increased wages significantly\n\nIncreases competition among teams\n\nHockey: not much evidence of monopsony power\n\nAcademia and nursing\n\nSome evidence of monopsony power\nIn Canada, a bargaining model may be more appropriate given these labour markets are unionized\n\nSome academics argue that monopsonies are relatively common\n\nFirms can set wages only if they have some market power\nEvidence that this is widespread"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#introduction-6",
+    "href": "slides/lmarket/index.html#introduction-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nMinimum wages are a common policy tool\n\nSet a legal minimum wage that employers must pay workers\n\nIntended to raise wages of low-wage workers\n\nReduce poverty\nIncrease standard of living\n\nStandard economic theory predicts that minimum wages lead to unemployment\n\nBecause they set a wage above the equilibrium wage\nQuantity of labour supplied exceeds quantity demanded\n\nBut statistical evidence is much more mixed"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#minimum-wages-by-province",
+    "href": "slides/lmarket/index.html#minimum-wages-by-province",
+    "title": "EC306 - Wages and Employment",
+    "section": "Minimum Wages by Province",
+    "text": "Minimum Wages by Province"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#minimum-wages-by-province-1",
+    "href": "slides/lmarket/index.html#minimum-wages-by-province-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Minimum Wages by Province",
+    "text": "Minimum Wages by Province"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#minimum-wages-in-canada-and-usa",
+    "href": "slides/lmarket/index.html#minimum-wages-in-canada-and-usa",
+    "title": "EC306 - Wages and Employment",
+    "section": "Minimum Wages in Canada and USA",
+    "text": "Minimum Wages in Canada and USA"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market",
+    "href": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market",
+    "title": "EC306 - Wages and Employment",
+    "section": "Minimum Wages in Competitive Labour Market",
+    "text": "Minimum Wages in Competitive Labour Market\n\nSuppose the labour market is competitive\nThe market demand is downward sloping\nThe market supply is upward sloping\nMinimum wages are introduced as a wage floor\n\nAbove the competitive equilibrium wage\n\nCreates excess supply of labour\n\nLeads to unemployment"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market-1",
+    "href": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Minimum Wages in Competitive Labour Market",
+    "text": "Minimum Wages in Competitive Labour Market\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImpact of minimum wage illustrated to the left\nMinimum wage is \\(W_m\\) above competitive level \\(W_c\\)\nCreates excess supply of labour\nLeads to unemployment \\(N_s - N_m\\)\n\nPeople who would have been employed at competitive equilibrium \\(N_c - N_m\\)\nOthers drawn into market by higher wage \\(N_s - N_c\\)"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market-2",
+    "href": "slides/lmarket/index.html#minimum-wages-in-competitive-labour-market-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Minimum Wages in Competitive Labour Market",
+    "text": "Minimum Wages in Competitive Labour Market\n\nEmployment effects depend on elasticity of demand\n\nMore elastic demand means larger employment effects\n\nIn real world, industries with minimum wage tend to have elastic demands\n\nLots of substitutes for low-wage labour\nLabour costs are a large share of total costs\n\nNevertheless, we will see that minimum wages may not affect employment much in practice"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#minimum-wages-in-monopsony",
+    "href": "slides/lmarket/index.html#minimum-wages-in-monopsony",
+    "title": "EC306 - Wages and Employment",
+    "section": "Minimum Wages in Monopsony",
+    "text": "Minimum Wages in Monopsony\n\nEffects of minimum wages are different in monopsonistic labour markets\nIt is possible that minimum wages increase both wages and employment\n\nDepending on where the minimum wage is set\n\nGraph on next slide illustrates this"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#minimum-wages-in-monopsony-1",
+    "href": "slides/lmarket/index.html#minimum-wages-in-monopsony-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Minimum Wages in Monopsony",
+    "text": "Minimum Wages in Monopsony\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraph shows standard monopsony\nPrior to minimum wage, wage is \\(W_0\\) and employment is \\(N_0\\)\nImagine minimum wage set above \\(W_0\\) but below competitive wage\nMC curve is minimum wage up to \\(S_{1}\\)\n\nThen jumps up to previous MC curve\n\nOptimize where MC = VMP\n\nEmployment increases to \\(N_1\\)"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#minimum-wages-in-monopsony-2",
+    "href": "slides/lmarket/index.html#minimum-wages-in-monopsony-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Minimum Wages in Monopsony",
+    "text": "Minimum Wages in Monopsony\n\nWhy would minimum wages cause employment to increase?\n\nPreviously, firm had to increase wages to attract more labour\nWith minimum wage, it does not\n\nEveryone is paid the same wage\nWage increases no longer inhibit employment growth\n\nEffectively, minimum wage lowers marginal cost\n\nThis may be partly why we do not see large employment effects of minimum wages\nNote that monopsonists do not like minimum wages\n\nThey reduce their market power\nIncreases costs, reduces profits"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#offsetting-factors-for-minimum-wage",
+    "href": "slides/lmarket/index.html#offsetting-factors-for-minimum-wage",
+    "title": "EC306 - Wages and Employment",
+    "section": "Offsetting Factors for Minimum Wage",
+    "text": "Offsetting Factors for Minimum Wage\n\nAs usual, in models we hold all else equal\nBut in reality, many things are changing at once\n\nMinimum wage could be accompanied by changes in demand\n\nFor example, fiscal stimulus increasing demand for goods and labour\n\nMinimum wage could lead to changes in technology\n\nMay change demand for labour\n\nFirms might choose to absorb minimum wage costs"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#evidence-1",
+    "href": "slides/lmarket/index.html#evidence-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence",
+    "text": "Evidence\n\nMinimum wages are one of the most researched areas in labour economics\nLarge amounts of evidence goes back at least 50 years\nEarly studies looked at time trends in employment and minimum wages\n\nSubject to a lot of bias\nThings often trend together over time without direct causation\n\nResearch in early 1990s used better methods\n\nNatural experiments\nDifference-in-differences"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#evidence-2",
+    "href": "slides/lmarket/index.html#evidence-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence",
+    "text": "Evidence\n\nMost prominent study is Card and Krueger (1994)\n\nLooked at fast food restaurants in New Jersey and Pennsylvania\nNew Jersey increased minimum wage, Pennsylvania did not\nUsed difference-in-differences to estimate employment effects\nFound no negative employment effects from minimum wage increase\n\nHas been reevaluated several times\n\nConclusion remains that employment effects are small or non-existent"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#evidence-3",
+    "href": "slides/lmarket/index.html#evidence-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence",
+    "text": "Evidence\n\nIn Canada, minimum wages increase youth unemployment\n\nStudies looked at minimum wage changes across provinces in 1990s\n\nSome Canadian studies look deeper at labour market dynamics\n\nIn any month, there is a lot of turnover in the labour market\nEach month roughly 6% of employed people separate, 8% of non-employed people hired\nEvidence shows minimum wages reduce both hiring and separations\nLeads to no effect overall"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#evidence-4",
+    "href": "slides/lmarket/index.html#evidence-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence",
+    "text": "Evidence"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#evidence-5",
+    "href": "slides/lmarket/index.html#evidence-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence",
+    "text": "Evidence"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#evidence-6",
+    "href": "slides/lmarket/index.html#evidence-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence",
+    "text": "Evidence\n\nAlso recall that one point of miminum wage is to reduce poverty\nEvidence shows they are generally not successful\n\nBoth Canada and US studies show no link\n\nWhy do they not work?\n\nMany poor individuals do not work\nMany people on minimum wages are not poor\n\nYouth living in high income families"
+  },
+  {
+    "objectID": "slides/lmarket/index.html#summary-1",
+    "href": "slides/lmarket/index.html#summary-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Summary",
+    "text": "Summary\n\nWe analyzed how wages and employment are determined in a single labour market\nMarket power in the goods market reduces both wages and employment\nMarket power in the labour market reduces wages and employment\nMinimum wages may reduce employment in competitive markets\nMinimum wages may increase employment in monopsonistic markets\nEmpirical evidence shows minimum wages have small effects on employment"
+  },
+  {
     "objectID": "slides/ldemand1/index.html#goals-of-this-section-1",
     "href": "slides/ldemand1/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
@@ -1276,6 +1479,18 @@
     "title": "Wages and Employment in a Single Labour Market",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lmarket.html#sample-questions",
+    "href": "content/lmarket.html#sample-questions",
+    "title": "Wages and Employment in a Single Labour Market",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
     "crumbs": [
       "Content",
       "Course content",
