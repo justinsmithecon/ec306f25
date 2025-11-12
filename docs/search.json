@@ -1113,340 +1113,338 @@
     "text": "Non-Trade Demand Factors\n\nAt the same time trade is changing, the Canadian labour market is changing\nOver the long term, jobs have shifted away from manufacturing\nProfessional, managerial, and administrative service jobs hae been increasing\nFlex or “gig” jobs have been increasing\nAll changing for various reasons\n\nTechnology\nConsumer preferences\nDemographics"
   },
   {
-    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
-    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
+    "objectID": "slides/hcapital/index.html#goals-of-this-section-1",
+    "href": "slides/hcapital/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 4 Problem 1",
-    "text": "BGLRS Chapter 4 Problem 1\nThe evaluation of the labour supply response to a tax cut can be quite different in a dynamic setting from what it is in a static setting. Discuss the relative impact of a permanent versus transitory tax cut on labour supply, and compare the analysis to the static model."
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nBring together demand and supply to determine wages and employment\nDiscuss the effect of market power in goods market on equilibrium wages and employment\nDiscuss the effect of market power in the labour market on equilibrium wages and employment\nAnalyze minimum wages"
   },
   {
-    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
-    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
+    "objectID": "slides/hcapital/index.html#educational-attainment",
+    "href": "slides/hcapital/index.html#educational-attainment",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 4 Problem 2",
-    "text": "BGLRS Chapter 4 Problem 2\nConsider the two-period dynamic labour supply model discussed in this chapter. What, if anything, happens to current labour supply if the interest rate rises from 2 percent to 10 percent?"
+    "section": "Educational Attainment",
+    "text": "Educational Attainment"
   },
   {
-    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
-    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
+    "objectID": "slides/hcapital/index.html#unemployment-rate",
+    "href": "slides/hcapital/index.html#unemployment-rate",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 2 Problem 3",
-    "text": "BGLRS Chapter 2 Problem 3\nConsider two individuals with endowments of \\(T=60\\) hours (per week) if leisure, nonlabour income of Y, and a wage of $7.50 per hour. At this wage, assume that workers are constrained by their employers to work 40 hours per week, or not at all.\n\nOn a carefully labelled diagram, show the equilibrium for a worker for whom 40 hours is the optimum labour supply and a worker who would like to work 20 hours, but still prefers the 40 hour week to not working. Compare the marginal rates of substitution for these two workers at 40 hours per week."
+    "section": "Unemployment Rate",
+    "text": "Unemployment Rate"
   },
   {
-    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
-    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
+    "objectID": "slides/hcapital/index.html#participation-rate",
+    "href": "slides/hcapital/index.html#participation-rate",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 2 Problem 3",
-    "text": "BGLRS Chapter 2 Problem 3\n\nThe average part-time wage is $7 per hour, in contrast to $7.50 for full-time workers. Using the above model, provide an explanation for this difference in wage rates."
+    "section": "Participation Rate",
+    "text": "Participation Rate"
   },
   {
-    "objectID": "content/lsupply3.html",
-    "href": "content/lsupply3.html",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "objectID": "slides/hcapital/index.html#human-capital-theory-1",
+    "href": "slides/hcapital/index.html#human-capital-theory-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Human Capital Theory",
+    "text": "Human Capital Theory\n\nFirms often invest in physical capital (e.g., machines, tools, buildings)\n\nIncur some cost today to invest in capital\n\nBoosts the productive ability of workers\n\nIncreases the output flow in the future\n\nDecision to invest is made by comparing costs to benefits\n\nInvest if benefits outweigh costs\n\nCosts are usually upfront, while benefits occur slowly over time"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#human-capital-theory-2",
+    "href": "slides/hcapital/index.html#human-capital-theory-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Human Capital Theory",
+    "text": "Human Capital Theory\n\nIndividuals make similar investments in human capital\n\nHuman Capital: An individual’s stock of productive skills, knowledge, and abilities\n\nPeople incur upfront costs for education, training, etc.\n\nTraining improves productivity, and therefore income\n\nIndividuals earn higher income streams in the future\n\nWe will study investments in human capital in a similar way to physical capital"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#human-capital-theory-3",
+    "href": "slides/hcapital/index.html#human-capital-theory-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Human Capital Theory",
+    "text": "Human Capital Theory\n\nHuman capital investments involve some special considerations\n\nNon-wage benefits\n\nConsumption value\nDifferences in risk of unemployment in downturns\n\nIt is more difficult to finance education investments\n\nNo collateral\n\n\nSocial versus private costs/benefits\n\nPrivate costs and benefits are specific to the individual\nBut there may be social costs and benefits as well\n\nE.g., positive externalities from education"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#introduction-1",
+    "href": "slides/hcapital/index.html#introduction-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nThe human capital investment decision boils down to comparing lifetime income streams\n\nDifferent streams of income are associated with different levels of schooling\n\nHigher levels of schooling usually lead to higher income streams\n\nWe will outline a process to decide which stream to choose\n\nTo make the model tractable, we assume:\n\nNo direct utility or disutility from schooling\n\nHours of work are held fixed\n\nCertainty of income streams\n\nIndividuals can borrow and lend at interest rate \\(r\\)"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#attending-university",
+    "href": "slides/hcapital/index.html#attending-university",
+    "title": "EC306 - Wages and Employment",
+    "section": "Attending University",
+    "text": "Attending University\n\nSuppose we want to analyze whether it is financially worthwhile to attend university\n\nStart from the perspective of an 18-year-old high school graduate\n\nThis student is deciding whether or not to attend university\n\nStudents who do not attend university move immediately into the workforce\n\nThe graph on next slide depicts two income streams:\n\nBlack line: university path\n\nBlue line: high school path\n\nRed and yellow: costs of attending university\n\nGreen: benefits of university education"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#attending-university-1",
+    "href": "slides/hcapital/index.html#attending-university-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Attending University",
+    "text": "Attending University\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nDirect costs are in red\n\nBooks, fees, tuition\n\nForegone wages are in yellow\n\nIncome not earned during the time in university\n\nNet gains in wages are in green\n\nEarnings of university grad above a high school grad\n\nBeneficial to attend if present value of green exceeds present value of yellow plus red"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#attending-university-2",
+    "href": "slides/hcapital/index.html#attending-university-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Attending University",
+    "text": "Attending University\n\nPeople will choose the level of schooling that maximizes the net present value of lifetime earnings\nWe illustrated that graphically above\nMathematically, express the present value of earnings for a high school graduate as\n\n\\[PV = \\frac{Y}{(1+r)^0} + \\frac{Y}{(1+r)^1} + \\ldots + \\frac{Y}{(1+r)^{T-18}}\\]\n\nIn this equation\n\n\\(Y\\) = annual earnings of high school graduate\n\\(r\\) = interest rate\n\\(T\\) = expected retirement age"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#attending-university-3",
+    "href": "slides/hcapital/index.html#attending-university-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Attending University",
+    "text": "Attending University\n\nWe can approximate the present value of earnings for a high school graduate as\n\n\\[PV \\approx Y + \\frac{Y}{r} \\]\n\nApproximation works if \\(T\\) is long enough\nNow consider a person who attends one year of university\nThey incur direct costs \\(D\\) in the first year and earn no income in that year\nEvery year they work, they gain an amount \\(\\Delta Y\\) above the high school graduate"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#attending-university-4",
+    "href": "slides/hcapital/index.html#attending-university-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Attending University",
+    "text": "Attending University\n\nTheir income stream is\n\n\\[PV^* = \\frac{-D}{(1+r)^0} + \\frac{Y + \\Delta Y}{(1+r)^1} + \\ldots + \\frac{Y + \\Delta Y}{(1+r)^{T-18}}\\]\n\nThis can be approximated as\n\n\\[PV^* \\approx -D + \\frac{Y + \\Delta Y}{r} \\]\n\nThe net present value of attending this additional year of university is\n\n\\[NPV = PV^* - PV \\approx -(D + Y) + \\frac{\\Delta Y}{r} \\]"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#attending-university-5",
+    "href": "slides/hcapital/index.html#attending-university-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Attending University",
+    "text": "Attending University\n\nThe term \\(D + Y\\) is the marginal cost of attending university for one year\nThe term \\(\\frac{\\Delta Y}{r}\\) is the marginal benefit of attending university for one year\nAttending university for one year is worthwhile if\n\n\\[NPV &gt; 0 \\implies \\frac{\\Delta Y}{r} &gt; D + Y \\]\n\nA person will continue to attend more years of schooling until \\(MB = MC\\), or\n\n\\[ \\frac{\\Delta Y}{r} = D + Y \\]"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#attending-university-6",
+    "href": "slides/hcapital/index.html#attending-university-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Attending University",
+    "text": "Attending University\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph on left illustrates optimal schooling decision\nMarginal benefit curve is downward sloping\n\nEach additional year of schooling yields a smaller increase in wages\n\nMarginal cost curve is upward sloping\n\nEach additional year of schooling incurs higher direct costs, foregone wages, psychic costs\n\nOptimum is where MB = MC"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#attending-university-7",
+    "href": "slides/hcapital/index.html#attending-university-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "Attending University",
+    "text": "Attending University\n\nAnother way to look at the schooling decision is through the rate of return to schooling\nThis method uses the concept of the internal rate of return (IRR)\nThe IRR is the interest rate that makes the NPV of an investment equal to zero\nIn our setup, the IRR is the interest rate that satisfies\n\n\\[ 0 = -(D + Y) + \\frac{\\Delta Y}{IRR} \\]\n\nRearranging gives\n\n\\[ IRR = \\frac{\\Delta Y}{D + Y} \\]\n\nThe IRR is the percentage return on the investment in schooling"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#attending-university-8",
+    "href": "slides/hcapital/index.html#attending-university-8",
+    "title": "EC306 - Wages and Employment",
+    "section": "Attending University",
+    "text": "Attending University\n\nThe alternative to attending university is to invest the money \\(D + Y\\) at the market interest rate \\(r\\)\n\nOpportunity cost of investing in schooling is \\(r\\)\n\nIf the IRR exceeds \\(r\\), then investing in schooling is worthwhile\nA person would continue to attend more years of schooling until\n\n\\[ IRR = r \\implies \\frac{\\Delta Y}{D + Y} = r \\]"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#attending-university-9",
+    "href": "slides/hcapital/index.html#attending-university-9",
+    "title": "EC306 - Wages and Employment",
+    "section": "Attending University",
+    "text": "Attending University\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nGraph on left illustrates alternative optimal schooling decision\nMarket interest rate is \\(r\\)\nInternal rate of return IRR is decreasing in schooling\n\nEach additional year of schooling yields a smaller increase in wages\n\nOptimum is where IRR = r\nYields same optimal schooling level as previous method"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#comparative-statics",
+    "href": "slides/hcapital/index.html#comparative-statics",
+    "title": "EC306 - Wages and Employment",
+    "section": "Comparative Statics",
+    "text": "Comparative Statics\n\nWe can use this framework to see how changes in parameters and policies affect schooling decisions\nSuppose the direct costs \\(D\\) of attending university decrease\n\nE.g., government introduces tuition subsidies\nThis decreases the marginal cost of schooling\nLeads to an increase in optimal schooling level\n\nSuppose the market interest rate \\(r\\) decreases\n\nE.g., due to monetary policy\nThis increases the present value of future earnings\nLeads to an increase in optimal schooling level"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#comparative-statics-1",
+    "href": "slides/hcapital/index.html#comparative-statics-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Comparative Statics",
+    "text": "Comparative Statics\n\nWhat if the income tax system becomes more progressive?\n\nHigher taxes on high income earners\nDecreases the after-tax increase in earnings \\(\\Delta Y\\)\nLeads to a decrease in optimal schooling level\n\nSuppose the pay for jobs in the oil sector increases substantially\n\nE.g., due to a boom in oil prices\nIncreases the earnings of high school graduates \\(Y\\)\nLeads to a decrease in optimal schooling level"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#complications",
+    "href": "slides/hcapital/index.html#complications",
+    "title": "EC306 - Wages and Employment",
+    "section": "Complications",
+    "text": "Complications\n\nInformation asymmetries\n\nStudents may not know the true costs and benefits of schooling\nMay lead to under- or over-investment in schooling\n\nDisutility of schooling\n\nStudents may dislike attending school\nThis adds to the marginal cost of schooling\n\nDifferent degrees have different returns\n\nSome fields of study lead to higher earnings than others\nStudents must choose not only how much schooling, but what type"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#complications-1",
+    "href": "slides/hcapital/index.html#complications-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Complications",
+    "text": "Complications\n\nA major complication is financing/credit constraints\n\nMany students cannot afford the upfront costs of schooling\nMay not be able to borrow against future earnings\nLeads to under-investment in schooling compared to optimal level"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#introduction-2",
+    "href": "slides/hcapital/index.html#introduction-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nIn the Human Capital model, there are key assumptions that make the model work:\n\nEducation increases productivity\n\nProductivity is perfectly observed by employers\n\nWages are paid according to productivity\n\nThe signalling model emphasizes an alternative view:\n\nEducation may not increase productivity\nInstead, it reveals productivity to employers\nIt acts as a signal of worker ability\nPeople only invest in education to signal their ability to employers"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model",
+    "href": "slides/hcapital/index.html#model",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nThe basics of the model are\n\nEmployers do not observe productivity until after a worker is hired\n\nEmployees know their own ability but find it difficult to credibly reveal it to employers\n\nWithout knowing productivity, firms pay employees according to average productivity in the population\n\nUnder certain conditions, obtaining education can serve as a signal of productivity, allowing workers to be paid accordingly"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-1",
+    "href": "slides/hcapital/index.html#model-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nFor education to actually be informative about ability:\n\nIt must be costly to acquire\n\nIt must be sufficiently more costly for low-ability individuals than for high-ability individuals\n\nOtherwise, low-ability workers might find it profitable to fake high ability by acquiring education\n\n\nEmployers’ beliefs must be confirmed in the future\n\nOtherwise, they will update their wage offers\n\n\nGiven the conditions above, education helps solve an information problem:\n\nIt correctly reveals ability through educational attainment\n\nHigh- and low-ability workers are then correctly paid according to their productivity"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-2",
+    "href": "slides/hcapital/index.html#model-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nBelow we do a more formal treatment of the model\nAssume that:\n\nThere are two types of workers: low ability (L) and high ability (H)\n\nA fraction \\(q\\) are Type L, and \\((1 - q)\\) are Type H\nFor Type L workers:\n\nCost of education: \\(c_L(s) = s\\)\n\nMarginal Product (MP): \\(1\\)\n\nFor Type H workers:\n\nCost of education: \\(c_H(s) = \\frac{s}{2}\\)\n\nMarginal Product (MP): \\(2\\)"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-3",
+    "href": "slides/hcapital/index.html#model-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nEmployees know their own ability, but employers do not\n\nEmployers instead form beliefs about employee ability based on observed education levels\nWhat would happen if there were no way to signal ability?\n\nFirms would have no way of knowing who is high or low ability\n\nSo they offer everyone the same wage.\n\nThe wage equals the average productivity:\n\n\\[\\bar{w} = 1 \\cdot q + 2 \\cdot (1 - q) = 2 - q\\]"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-4",
+    "href": "slides/hcapital/index.html#model-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nExample: 50% Low-Ability Workers\n\nIf 50% of the population are low ability \\(( q = 0.5)\\):\n\n\n\\[\\bar{w} = 2 - q = 1.5\\]\n\nRecall that\n\nType L workers produce \\(MP = 1\\)\n\nType H workers produce \\(MP = 2\\)\n\nTherefore:\n\nType L is paid more than they produce\n\nType H is paid less than they produce\n\nOn average, total pay equals total production"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-5",
+    "href": "slides/hcapital/index.html#model-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nSuppose employers observe education\nThey form beliefs about how it relates to ability, and pay according to those beliefs.\nOne possible set of employer beliefs:\n\nWorkers with education \\(s &gt; s^*\\) are Type H\n\nWorkers with education \\(s \\le s^*\\) are Type L\n\n\\(s^\\) is some cutoff level of education\n\nFirms pay wages according to the believed type:\n\n\\[w =\n\\begin{cases}\n2, & \\text{if } s &gt; s^* \\\\\n1, & \\text{if } s \\le s^*\n\\end{cases}\\]"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-6",
+    "href": "slides/hcapital/index.html#model-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nIn this model, workers decide how much education to acquire.\n\nA worker of type ( t ) maximizes utility:\n\n\\[\nU_t(s) = w(s) - c_t(s)\n\\]\n\nAll workers can obtain \\(U_t(s) = 1\\) by acquiring no education.\n\nTherefore, the payoff to acquiring any education must satisfy \\(U_t(s) \\ge 1\\)\n\nWorkers will never find it useful to obtain more than \\(s^*\\) years of education.\n\nDoing so increases costs without increasing payoffs.\n\n\nThus, the decision is binary: either 0 or \\(s^*\\) years of education."
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-7",
+    "href": "slides/hcapital/index.html#model-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nType H Workers\n\n\\[\nU_H(0) = w(0) - c_H(0) = 1 - 0 = 1\n\\]\n\\[\nU_H(s^*) = w(s^*) - c_H(s^*) = 2 - \\frac{s^*}{2}\n\\]\n\nA Type H worker will acquire \\(s^*\\) years of education if:\n\n\\[\nU_H(s^*) &gt; U_H(0)\n\\]\n\\[\n2 - \\frac{s^*}{2} &gt; 1\n\\]\n\\[\ns^* &lt; 2\n\\]"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-8",
+    "href": "slides/hcapital/index.html#model-8",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nFor Type L Workers\n\n\\[\nU_L(0) = w(0) - c_L(0) = 1 - 0 = 1\n\\]\n\\[\nU_L(s^*) = w(s^*) - c_L(s^*) = 2 - s^*\n\\]\n\nA Type L worker will acquire \\(s^*\\) years of education if:\n\n\\[\nU_L(s^*) &gt; U_L(0)\n\\]\n\\[\n2 - s^* &gt; 1\n\\]\n\\[\ns^* &lt; 1\n\\]"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-9",
+    "href": "slides/hcapital/index.html#model-9",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nIf \\(s^* &lt; 1\\):\n\nBoth Type L and Type H acquire education \\(s^*\\)\nThe signal is not informative\n\nIf \\(s^* &gt; 2\\):\n\nBoth Type L and Type H acquire no education\n\nThe signal is not informative\n\nIf \\(1 &lt; s^* &lt; 2\\):\n\nType H obtains education \\(s^*\\)\n\nType L obtains no education\n\nEducation reveals worker type"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-10",
+    "href": "slides/hcapital/index.html#model-10",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nEquilibrium\nOccurs when \\(s^*\\) lies between 1 and 2.\n\nThis is an equilibrium because the beliefs based on this strategy are correct\n\nA firm can only maintain beliefs if they are validated by observed behaviour\n\nAny \\(s^*\\) between 1 and 2 will satisfy equilibrium conditions\n\nThe equilibrium with the highest welfare is the one closer to \\(s^* = 1\\)\n\nThis is called a separating equilibrium.\n\nWhen everyone gets the same level of education, it is a pooling equilibrium.\n\nThe case where there is no education signal is one example of a pooling equilibrium."
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-11",
+    "href": "slides/hcapital/index.html#model-11",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 6",
+    "text": "BGLRS Chapter 3 Problem 6\nConsider the following earnings supplement program, modelled after the Self-Sufficiency Project. An individual can work a maximum of 60 hours per week, at a wage rate of $5 per hour. Welfare benefits are fixed at $200 per week, with a 100 percent tax back on labour earnings. Finally, the earnings supplement equals half the difference between an individual’s labour earnings and the benchmark earnings of $450 per week. This supplement can be collected only if the individual forgoes welfare benefits and works a minimum of 30 hours per week. Draw the individual’s budget constraint, and analyze the work decision."
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 7",
+    "text": "BGLRS Chapter 3 Problem 7\nThe different programs discussed in this chapter often have ambiguous effects on work effort. It is, nonetheless, possible to compare the work incentives of two programs by looking at what happens when the individual is indifferent between two programs. Use this approach to compare the work incentives of the following two pairs of programs. In both cases, use graphs to show the hours of work chosen under the two programs by an individual who is indifferent between the two programs.\n\nEarned income tax credit compared to welfare"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 7",
+    "text": "BGLRS Chapter 3 Problem 7\n\nWages subsidy compared to a negative income tax"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 3",
+    "text": "BGLRS Chapter 3 Problem 3\nUse the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would."
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 4",
+    "text": "BGLRS Chapter 3 Problem 4\nConsider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is $20 per hour, and that they have nonlabour income of $100 per day. The commute takes one hour each way, and it costs $40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from $40 to $60 per round trip, keeping commuting time at two hours."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n            Wages and Employment\n        ",
     "section": "",
-    "text": "BGLRS Chapter 4",
+    "text": "Labour Market Economics\n        \n        \n            EC306 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Mon/Wed\n   Sept-Dec 2025\n   2:30 - 3:50 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
+  },
+  {
+    "objectID": "content/lsupply2.html",
+    "href": "content/lsupply2.html",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "",
+    "text": "BGLRS Chapter 3",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
+      "Labour Supply 2: Labour Supply and Public Policy"
     ]
   },
   {
-    "objectID": "content/lsupply3.html#readings",
-    "href": "content/lsupply3.html#readings",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "objectID": "content/lsupply2.html#readings",
+    "href": "content/lsupply2.html#readings",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
     "section": "",
-    "text": "BGLRS Chapter 4",
+    "text": "BGLRS Chapter 3",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
+      "Labour Supply 2: Labour Supply and Public Policy"
     ]
   },
   {
-    "objectID": "content/lsupply3.html#slides",
-    "href": "content/lsupply3.html#slides",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "objectID": "content/lsupply2.html#slides",
+    "href": "content/lsupply2.html#slides",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
+      "Labour Supply 2: Labour Supply and Public Policy"
     ]
   },
   {
-    "objectID": "content/lsupply3.html#sample-questions",
-    "href": "content/lsupply3.html#sample-questions",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "objectID": "content/lsupply2.html#sample-questions",
+    "href": "content/lsupply2.html#sample-questions",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
     "section": "Sample Questions",
     "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html",
-    "href": "content/lsupply1.html",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "",
-    "text": "BGLRS Chapter 2",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#readings",
-    "href": "content/lsupply1.html#readings",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "",
-    "text": "BGLRS Chapter 2",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#slides",
-    "href": "content/lsupply1.html#slides",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#sample-questions",
-    "href": "content/lsupply1.html#sample-questions",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/ldemand2.html",
-    "href": "content/ldemand2.html",
-    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
-    "section": "",
-    "text": "BGLRS Chapter 6",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
-    ]
-  },
-  {
-    "objectID": "content/ldemand2.html#readings",
-    "href": "content/ldemand2.html#readings",
-    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
-    "section": "",
-    "text": "BGLRS Chapter 6",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
-    ]
-  },
-  {
-    "objectID": "content/ldemand2.html#slides",
-    "href": "content/ldemand2.html#slides",
-    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html",
-    "href": "content/introtostata.html",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#tutorial",
-    "href": "content/introtostata.html#tutorial",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#videos",
-    "href": "content/introtostata.html#videos",
-    "title": "Introduction to Stata",
-    "section": "Videos",
-    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#other-resources",
-    "href": "content/introtostata.html#other-resources",
-    "title": "Introduction to Stata",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
-    "crumbs": [
-      "Content",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html",
-    "href": "assignments/assign1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "Answer Key\n\n\n\nYou can download the solutions using the links below\n ec306assign1key.do\n ec306assign1key.docx",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#description",
-    "href": "assignments/assign1.html#description",
-    "title": "Assignment 1",
-    "section": "Description",
-    "text": "Description\nIn this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based the labour supply responses of women to the reduction in child care availability that accompanied the COVID-19 pandemic in the United States. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/assign1.html#instructions",
-    "href": "assignments/assign1.html#instructions",
-    "title": "Assignment 1",
-    "section": "Instructions",
-    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec306assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the US Current Population Survey (CPS). It contains a host of information, but for this assignment the important variables are labour force participation, unemployment, the number of children in the household, and a set of demographics. The sample for this assignment contains women aged 25–54 and spans the 9 months before and after March 2020.\nThe data file is linked below.\n ec306assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
-    "crumbs": [
-      "Assignments",
-      "Assignment 1"
-    ]
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
-    "crumbs": [
-      "Assignments",
-      "Overview",
-      "Summary"
-    ]
-  },
-  {
-    "objectID": "content/introtolme.html",
-    "href": "content/introtolme.html",
-    "title": "Introduction to Labour Market Economics",
-    "section": "",
-    "text": "BGLRS Chapter 1",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "content/introtolme.html#readings",
-    "href": "content/introtolme.html#readings",
-    "title": "Introduction to Labour Market Economics",
-    "section": "",
-    "text": "BGLRS Chapter 1",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "content/introtolme.html#slides",
-    "href": "content/introtolme.html#slides",
-    "title": "Introduction to Labour Market Economics",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "content/ldemand1.html",
-    "href": "content/ldemand1.html",
-    "title": "Labour Demand 1: Competitive Labour Markets",
-    "section": "",
-    "text": "BGLRS Chapter 5",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 1: Competitive Labour Markets"
-    ]
-  },
-  {
-    "objectID": "content/ldemand1.html#readings",
-    "href": "content/ldemand1.html#readings",
-    "title": "Labour Demand 1: Competitive Labour Markets",
-    "section": "",
-    "text": "BGLRS Chapter 5",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 1: Competitive Labour Markets"
-    ]
-  },
-  {
-    "objectID": "content/ldemand1.html#slides",
-    "href": "content/ldemand1.html#slides",
-    "title": "Labour Demand 1: Competitive Labour Markets",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 1: Competitive Labour Markets"
+      "Labour Supply 2: Labour Supply and Public Policy"
     ]
   },
   {
@@ -1498,94 +1496,377 @@
     ]
   },
   {
-    "objectID": "content/lsupply2.html",
-    "href": "content/lsupply2.html",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "objectID": "content/ldemand1.html",
+    "href": "content/ldemand1.html",
+    "title": "Labour Demand 1: Competitive Labour Markets",
     "section": "",
-    "text": "BGLRS Chapter 3",
+    "text": "BGLRS Chapter 5",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
+      "Labour Demand 1: Competitive Labour Markets"
     ]
   },
   {
-    "objectID": "content/lsupply2.html#readings",
-    "href": "content/lsupply2.html#readings",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "objectID": "content/ldemand1.html#readings",
+    "href": "content/ldemand1.html#readings",
+    "title": "Labour Demand 1: Competitive Labour Markets",
     "section": "",
-    "text": "BGLRS Chapter 3",
+    "text": "BGLRS Chapter 5",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
+      "Labour Demand 1: Competitive Labour Markets"
     ]
   },
   {
-    "objectID": "content/lsupply2.html#slides",
-    "href": "content/lsupply2.html#slides",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "objectID": "content/ldemand1.html#slides",
+    "href": "content/ldemand1.html#slides",
+    "title": "Labour Demand 1: Competitive Labour Markets",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
+      "Labour Demand 1: Competitive Labour Markets"
     ]
   },
   {
-    "objectID": "content/lsupply2.html#sample-questions",
-    "href": "content/lsupply2.html#sample-questions",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "objectID": "content/introtolme.html",
+    "href": "content/introtolme.html",
+    "title": "Introduction to Labour Market Economics",
+    "section": "",
+    "text": "BGLRS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Labour Economics"
+    ]
+  },
+  {
+    "objectID": "content/introtolme.html#readings",
+    "href": "content/introtolme.html#readings",
+    "title": "Introduction to Labour Market Economics",
+    "section": "",
+    "text": "BGLRS Chapter 1",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Labour Economics"
+    ]
+  },
+  {
+    "objectID": "content/introtolme.html#slides",
+    "href": "content/introtolme.html#slides",
+    "title": "Introduction to Labour Market Economics",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Intro to Labour Economics"
+    ]
+  },
+  {
+    "objectID": "content/hcapital.html",
+    "href": "content/hcapital.html",
+    "title": "Huaman Capital Theory",
+    "section": "",
+    "text": "BGLRS Chapter 9",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Human Capital Theory"
+    ]
+  },
+  {
+    "objectID": "content/hcapital.html#readings",
+    "href": "content/hcapital.html#readings",
+    "title": "Huaman Capital Theory",
+    "section": "",
+    "text": "BGLRS Chapter 9",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Human Capital Theory"
+    ]
+  },
+  {
+    "objectID": "content/hcapital.html#slides",
+    "href": "content/hcapital.html#slides",
+    "title": "Huaman Capital Theory",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Human Capital Theory"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html",
+    "href": "assignments/assign1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Answer Key\n\n\n\nYou can download the solutions using the links below\n ec306assign1key.do\n ec306assign1key.docx",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#description",
+    "href": "assignments/assign1.html#description",
+    "title": "Assignment 1",
+    "section": "Description",
+    "text": "Description\nIn this assignment you are asked to manipulate data, estimate statistical relationships, and interpret the findings. The questions are based the labour supply responses of women to the reduction in child care availability that accompanied the COVID-19 pandemic in the United States. The assignment is designed to give you practice with data analysis in Stata, and to help you understand how economists use data to answer questions about economic behavior.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assign1.html#instructions",
+    "href": "assignments/assign1.html#instructions",
+    "title": "Assignment 1",
+    "section": "Instructions",
+    "text": "Instructions\n\nQuestions\nThe document below contains the assignment questions. Please provide all answers in the space below each question. If the question requires any Stata code, please include the code relevant to that question in the space provided. Also include the relevant output. Note: output must be reformatted into a professional-looking table or figure. Do not simply copy and paste (or screenshot) the Stata output.\n ec306assign1.docx\nWhen you save the file to your computer, please rename it with your family name and student number, with no spaces.\n\n\nData analysis\nThe data come from the US Current Population Survey (CPS). It contains a host of information, but for this assignment the important variables are labour force participation, unemployment, the number of children in the household, and a set of demographics. The sample for this assignment contains women aged 25–54 and spans the 9 months before and after March 2020.\nThe data file is linked below.\n ec306assign1.dta\n\n\nSubmission\nWhen you are finished, you are required to submit three documents according to the following instructions:\n\nYour .do and .log file. Submit this in MyLearningSpace only.\nA rendered PDF of your answers to the questions. Submit this in both MyLearningSpace and Gradescope.\n\n\n\nPlagiarism\nThis is an independent assignment, which I expect you to complete on your own. It is plagiarism to copy someone else’s work verbatim, which includes Stata code. Any work you submit should be yours only. However, you are encouraged to talk to each other to try to figure out how to do the assignment.",
+    "crumbs": [
+      "Assignments",
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find the problem sets for all your assignments, and any other information related to your assignments.",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
+    "crumbs": [
+      "Content",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html",
+    "href": "content/introtostata.html",
+    "title": "Introduction to Stata",
+    "section": "",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#tutorial",
+    "href": "content/introtostata.html#tutorial",
+    "title": "Introduction to Stata",
+    "section": "",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#videos",
+    "href": "content/introtostata.html#videos",
+    "title": "Introduction to Stata",
+    "section": "Videos",
+    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#other-resources",
+    "href": "content/introtostata.html#other-resources",
+    "title": "Introduction to Stata",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/ldemand2.html",
+    "href": "content/ldemand2.html",
+    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
+    "section": "",
+    "text": "BGLRS Chapter 6",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+    ]
+  },
+  {
+    "objectID": "content/ldemand2.html#readings",
+    "href": "content/ldemand2.html#readings",
+    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
+    "section": "",
+    "text": "BGLRS Chapter 6",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+    ]
+  },
+  {
+    "objectID": "content/ldemand2.html#slides",
+    "href": "content/ldemand2.html#slides",
+    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html",
+    "href": "content/lsupply1.html",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "",
+    "text": "BGLRS Chapter 2",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html#readings",
+    "href": "content/lsupply1.html#readings",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "",
+    "text": "BGLRS Chapter 2",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html#slides",
+    "href": "content/lsupply1.html#slides",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 1: Individual Attachment to the Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lsupply1.html#sample-questions",
+    "href": "content/lsupply1.html#sample-questions",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "Sample Questions",
     "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
+      "Labour Supply 1: Individual Attachment to the Labour Market"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\n            Wages and Employment\n        ",
+    "objectID": "content/lsupply3.html",
+    "href": "content/lsupply3.html",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
     "section": "",
-    "text": "Labour Market Economics\n        \n        \n            EC306 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Mon/Wed\n   Sept-Dec 2025\n   2:30 - 3:50 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
+    "text": "BGLRS Chapter 4",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
   },
   {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 6",
-    "text": "BGLRS Chapter 3 Problem 6\nConsider the following earnings supplement program, modelled after the Self-Sufficiency Project. An individual can work a maximum of 60 hours per week, at a wage rate of $5 per hour. Welfare benefits are fixed at $200 per week, with a 100 percent tax back on labour earnings. Finally, the earnings supplement equals half the difference between an individual’s labour earnings and the benchmark earnings of $450 per week. This supplement can be collected only if the individual forgoes welfare benefits and works a minimum of 30 hours per week. Draw the individual’s budget constraint, and analyze the work decision."
+    "objectID": "content/lsupply3.html#readings",
+    "href": "content/lsupply3.html#readings",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "section": "",
+    "text": "BGLRS Chapter 4",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
   },
   {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 7",
-    "text": "BGLRS Chapter 3 Problem 7\nThe different programs discussed in this chapter often have ambiguous effects on work effort. It is, nonetheless, possible to compare the work incentives of two programs by looking at what happens when the individual is indifferent between two programs. Use this approach to compare the work incentives of the following two pairs of programs. In both cases, use graphs to show the hours of work chosen under the two programs by an individual who is indifferent between the two programs.\n\nEarned income tax credit compared to welfare"
+    "objectID": "content/lsupply3.html#slides",
+    "href": "content/lsupply3.html#slides",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
   },
   {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 7",
-    "text": "BGLRS Chapter 3 Problem 7\n\nWages subsidy compared to a negative income tax"
+    "objectID": "content/lsupply3.html#sample-questions",
+    "href": "content/lsupply3.html#sample-questions",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
+    ]
   },
   {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
+    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 3",
-    "text": "BGLRS Chapter 3 Problem 3\nUse the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would."
+    "section": "BGLRS Chapter 2 Problem 3",
+    "text": "BGLRS Chapter 2 Problem 3\nConsider two individuals with endowments of \\(T=60\\) hours (per week) if leisure, nonlabour income of Y, and a wage of $7.50 per hour. At this wage, assume that workers are constrained by their employers to work 40 hours per week, or not at all.\n\nOn a carefully labelled diagram, show the equilibrium for a worker for whom 40 hours is the optimum labour supply and a worker who would like to work 20 hours, but still prefers the 40 hour week to not working. Compare the marginal rates of substitution for these two workers at 40 hours per week."
   },
   {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
+    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 4",
-    "text": "BGLRS Chapter 3 Problem 4\nConsider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is $20 per hour, and that they have nonlabour income of $100 per day. The commute takes one hour each way, and it costs $40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from $40 to $60 per round trip, keeping commuting time at two hours."
+    "section": "BGLRS Chapter 2 Problem 3",
+    "text": "BGLRS Chapter 2 Problem 3\n\nThe average part-time wage is $7 per hour, in contrast to $7.50 for full-time workers. Using the above model, provide an explanation for this difference in wage rates."
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 4 Problem 1",
+    "text": "BGLRS Chapter 4 Problem 1\nThe evaluation of the labour supply response to a tax cut can be quite different in a dynamic setting from what it is in a static setting. Discuss the relative impact of a permanent versus transitory tax cut on labour supply, and compare the analysis to the static model."
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 4 Problem 2",
+    "text": "BGLRS Chapter 4 Problem 2\nConsider the two-period dynamic labour supply model discussed in this chapter. What, if anything, happens to current labour supply if the interest rate rises from 2 percent to 10 percent?"
   },
   {
     "objectID": "slides/intro/index.html#goals-of-this-section-1",
