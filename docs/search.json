@@ -1358,6 +1358,209 @@
     "text": "Model"
   },
   {
+    "objectID": "slides/hcapital/index.html#model-12",
+    "href": "slides/hcapital/index.html#model-12",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nSometimes everyone is worse off under the separating equilibrium:\nRecall inn the pooling equilibrium, nobody gets education.\n\nEveryone is paid \\(\\bar{w} = 2 - q\\)\n\nUnder the separating equilibrium:\n\nType L are paid $1 — they are worse off unless \\(q = 1\\)\n\nType H are paid \\(2 - \\frac{s^*}{2}\\) — they are worse off unless \\(2 - q &gt; 2 - \\frac{s^*}{2} \\rightarrow s^* &gt; 2q\\)\n\nIn our previous example where \\(q = 0.5\\)\n\nType H individuals are worse off for any \\(s^* &gt; 1\\)"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#model-13",
+    "href": "slides/hcapital/index.html#model-13",
+    "title": "EC306 - Wages and Employment",
+    "section": "Model",
+    "text": "Model\n\nKey Ideas of the Signalling Model\nDepending on firm beliefs about the relationship between education and ability, it may be worthwhile to acquire education.\n\nThere must be a difference in the cost of acquiring education for high- and low-ability workers.\n\nIf firms’ beliefs are not confirmed, they are not sustainable in equilibrium."
+  },
+  {
+    "objectID": "slides/hcapital/index.html#introduction-3",
+    "href": "slides/hcapital/index.html#introduction-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nWe studied two theories of private education investment\n\nThese theories explain why individuals might invest in education\n\nEmpirical economists estimate the size of the return using data\nWe will study how empirical economists approach estimation\n\nMostly based on the Human Capital Earnings Function\n\nWe then discuss results from existing research\n\nRates of return to additional education are large\n\nSome evidence they are rising over time\nReturns are mostly attributed to human capital, but there is some evidence of signalling effects"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function",
+    "href": "slides/hcapital/index.html#the-human-capital-earnings-function",
+    "title": "EC306 - Wages and Employment",
+    "section": "The Human Capital Earnings Function",
+    "text": "The Human Capital Earnings Function\n\nMost estimates of the return to education are based on variations of the Human Capital Earnings Function (also known as the Mincer Equation)\n\n\\[\\ln Y = \\beta_0 + \\beta_1\\,schl + \\beta_2\\,exp + \\beta_3\\,exp^{2} + \\epsilon\\]\n\nThe variables are\n\n\\(Y\\) is some measure of earnings, income, or wages\n\n\\(schl\\) is years of schooling\n\n\\(exp\\) is potential experience\n\n\\(exp = age - schl - 5\\)\n\nUsed because actual experience is not always observed"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-1",
+    "href": "slides/hcapital/index.html#the-human-capital-earnings-function-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "The Human Capital Earnings Function",
+    "text": "The Human Capital Earnings Function\n\nThe Mincer equation uses the natural logarithm of \\(Y\\) as the dependent variable\nWhen we use the natural log of the dependent variable, coefficients measure the percent change in the dependent variable per unit change in the independent variable\n\n\\[\\beta_{1} = \\frac{\\partial \\ln Y}{\\partial schl}\\]\n\\[= \\frac{\\partial \\ln Y}{\\partial Y} \\cdot \\frac{\\partial Y}{\\partial schl}\\]\n\\[= \\frac{1}{Y} \\cdot \\frac{\\partial Y}{\\partial schl}\\]\n\nThis is the percent change in \\(Y\\) per additional year of schooling\n\\(\\beta_{1}\\) is interpreted as the IRR\n\nThe percent change in yearly earnings per additional year of schooling"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-2",
+    "href": "slides/hcapital/index.html#the-human-capital-earnings-function-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "The Human Capital Earnings Function",
+    "text": "The Human Capital Earnings Function\n\nOne way to estimate this equation is to use Ordinary Least Squares (OLS) regression\nThere are two main data sources in Canada for this\n\nThe Canadian Census\n\nLarge sample sizes\n\nDetailed information on education and income\n\nOnly conducted every 5 years\n\n\nThe Labour Force Survey (LFS)\n\nMonthly survey\n\nSmaller sample sizes\n\nLess detailed information on education and income"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-3",
+    "href": "slides/hcapital/index.html#the-human-capital-earnings-function-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "The Human Capital Earnings Function",
+    "text": "The Human Capital Earnings Function"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-4",
+    "href": "slides/hcapital/index.html#the-human-capital-earnings-function-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "The Human Capital Earnings Function",
+    "text": "The Human Capital Earnings Function\n\nGraph above shows data on schooling and hourly earnings from the LFS in September 2025 (black dots)\nAlso shows the fitted OLS regression line (blue line)\nThere is a clear positive relationship between schooling and earnings\nIssues with this graph\n\nDoes not control for experience\nEducation data not actually stored in years of schooling\n\nActually stored in categories (e.g., high school graduate, some university, university degree)\nI converted categories to approximate years"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-5",
+    "href": "slides/hcapital/index.html#the-human-capital-earnings-function-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "The Human Capital Earnings Function",
+    "text": "The Human Capital Earnings Function\n\nThe more accurate way is to\n\nRun the full Mincer equation regression\n\nControl for experience or age\n\nUse categorical education variables instead of years of schooling\n\nNeed to omit one group\nThis forms the “reference category”\nCoefficients on the education categories measure the percent difference in earnings relative to the reference category\n\n\nSlide below shows results from a Mincer equation regression using September LFS data"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#the-human-capital-earnings-function-6",
+    "href": "slides/hcapital/index.html#the-human-capital-earnings-function-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "The Human Capital Earnings Function",
+    "text": "The Human Capital Earnings Function\n\n\n\n\n    \n\n    \n    \n      \n        \n        \n              \n                 \n                Men\n                Women\n              \n        \n        \n        \n                \n                  0–8 years\n                  -0.125 (0.019)\n                  -0.178 (0.024)\n                \n                \n                  Some high school\n                  -0.073 (0.010)\n                  -0.103 (0.012)\n                \n                \n                  Some postsecondary\n                  0.065 (0.012)\n                  0.076 (0.012)\n                \n                \n                  Postsecondary certificate\n                  0.163 (0.007)\n                  0.141 (0.007)\n                \n                \n                  Bachelor’s degree\n                  0.296 (0.008)\n                  0.366 (0.007)\n                \n                \n                  Graduate degree\n                  0.397 (0.009)\n                  0.485 (0.009)\n                \n                \n                  Num.Obs.\n                  28560\n                  28320\n                \n                \n                  R2\n                  0.268\n                  0.296\n                \n                \n                  RMSE\n                  0.40\n                  0.37"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#ability-bias",
+    "href": "slides/hcapital/index.html#ability-bias",
+    "title": "EC306 - Wages and Employment",
+    "section": "Ability Bias",
+    "text": "Ability Bias\n\nMajor problem with estimating returns to schooling is ability bias\n\nHigher ability people choose more schooling but would earn higher wages even without schooling\n\nSo OLS estimate reflects both the return to schooling and the return to ability\n\nAbility bias is thought to be positive\n\nHigher ability people choose more schooling on average\n\nThis leads to overestimating the return to schooling\n\nWe can illustrate this with a model"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#ability-bias-1",
+    "href": "slides/hcapital/index.html#ability-bias-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Ability Bias",
+    "text": "Ability Bias\n\nSuppose the true earnings equation is\n\n\\[\n\\ln Y = \\beta_{0} + \\beta_1 schl + \\beta_2 abil + \\epsilon\n\\]\n\n\\(s\\): schooling\n\n\\(a\\): ability\n\n\\(\\epsilon\\): other factors with \\(E[\\epsilon \\mid s, a] = 0\\)\nAssume schooling increases with ability through a linear relationship\n\n\\[\nabil = \\alpha_0 + \\alpha_1 schl + v\n\\]\nwith \\(v\\) uncorrelated with \\(a\\)"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#ability-bias-2",
+    "href": "slides/hcapital/index.html#ability-bias-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Ability Bias",
+    "text": "Ability Bias\n\nIf we estimate a regression omitting ability\n\n\\[\n\\ln Y = \\tilde{\\beta}_1 schl + e\n\\]\n\nThe OLS coefficient on schooling equals\n\n\\[\n\\tilde{\\beta}_s\n= \\frac{Cov(lnY, s)}{Var(s)}\n\\]"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#ability-bias-3",
+    "href": "slides/hcapital/index.html#ability-bias-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Ability Bias",
+    "text": "Ability Bias\n\nPlug \\(\\ln Y = \\beta_1 schl + \\beta_2 abil + \\epsilon\\) into formula for \\(\\tilde{\\beta}_s\\)\n\n\\[\n\\tilde{\\beta}_s\n= \\frac{Cov(lnY, schl)}{Var(schl)} = \\frac{Cov(\\beta_{0} + \\beta_1 schl + \\beta_2 abil + \\epsilon, schl)}{Var(schl)}\n\\]\n\nBecause \\(\\beta_0\\) is constant and \\(\\epsilon\\) is uncorrelated with \\(schl\\)\n\n\\[\n\\tilde{\\beta}_s = \\frac{\\beta_1 Var(schl) + \\beta_2 Cov(abil, schl)}{Var(schl)} = \\beta_1 + \\beta_2 \\alpha_1\n\\]"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#ability-bias-4",
+    "href": "slides/hcapital/index.html#ability-bias-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Ability Bias",
+    "text": "Ability Bias\n\nThe term \\(\\beta_2 \\alpha_1\\) is the ability bias\nIt depends on\n\n\\(\\beta_2\\): the earnings return to ability\n\\(\\alpha_1\\): the relationship between ability and schooling\n\nIf both terms are positive, then ability bias is positive\nThis means that OLS overestimates the return to schooling\n\nEstimates partly reflect the return to ability, partly the return to schooling"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#addressing-ability-bias",
+    "href": "slides/hcapital/index.html#addressing-ability-bias",
+    "title": "EC306 - Wages and Employment",
+    "section": "Addressing Ability Bias",
+    "text": "Addressing Ability Bias\n\nEconomists have developed methods to address ability bias\n\nTwin Studies: Compare earnings of identical twins with different schooling levels\n\nPresumably, twins have same level of ability\nComparing them avoids ability bias\n\nInstrumental Variables (IV): Method that isolates variation in schooling unrelated to ability\n\nE.g., changes in compulsory schooling laws, proximity to university\nThese changes affect schooling but are unrelated to ability"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#twin-studies",
+    "href": "slides/hcapital/index.html#twin-studies",
+    "title": "EC306 - Wages and Employment",
+    "section": "Twin Studies",
+    "text": "Twin Studies\n\nTwin studies compare earnings of identical twins with different schooling levels\nAshenfelter and Rouse (1998) use data on identical twins in the US\n\nAttended Twins festival and collected data on schooling and earnings\nVerified it with outside data\n\nUsing OLS, they estimate a biased return to schooling of about 11% per year\nUsing twin differences, they estimate a return of about 7% per year\n\nSuggests ability bias of about 4 percentage points"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#compulsory-schooling",
+    "href": "slides/hcapital/index.html#compulsory-schooling",
+    "title": "EC306 - Wages and Employment",
+    "section": "Compulsory Schooling",
+    "text": "Compulsory Schooling\n\nAnother method is to use changes in compulsory schooling laws as an instrument for schooling\nSeveral US states have a minimum school leaving age\n\nGenerally around 16 years old\n\nMeans that students born earlier in the year can leave school earlier\n\nSomeone born in January can leave earlier than someone born in December of the same year\nMeans that on average people born later in the year have more schooling\n\nAngrist and Krueger (1991) use this variation to estimate returns to schooling\n\nEstimate a return of about 7-10% per year of schooling"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#compulsory-schooling-1",
+    "href": "slides/hcapital/index.html#compulsory-schooling-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Compulsory Schooling",
+    "text": "Compulsory Schooling\n\nCan use compulsory schooling laws in a different way\nCanada has maximum school entry laws and minimum school leaving laws\n\nOver time, students mandated to enter school earlier and leave later\nThis increases average schooling levels, unrelated to ability\n\nOreopoulos (2006) uses this variation to estimate returns to schooling in Canada\n\nFinds that an additional year of compulsory schooling increases earnings by about 7-12%"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#compulsory-schooling-2",
+    "href": "slides/hcapital/index.html#compulsory-schooling-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Compulsory Schooling",
+    "text": "Compulsory Schooling"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#signalling-1",
+    "href": "slides/hcapital/index.html#signalling-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Signalling",
+    "text": "Signalling\n\nAll studies cited so far have attributed the returns to schooling to human capital accumulation\nSome studies have attempted to separate human capital from signalling effects\nFerrer and Riddell (2002) use Canadian data to estimate credential effects\n\nLook at people with same years of schooling, but different credentials\nE.g., Someone with a high school diploma versus someone with same years but did not graduate\n\nFind that obtaining the credential does matter"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#social-returns-to-education-1",
+    "href": "slides/hcapital/index.html#social-returns-to-education-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Social Returns to Education",
+    "text": "Social Returns to Education\n\nMost of the discussion so far has focused on private returns to education\n\nReturns to individuals of obtaining more schooling\n\nWe know there are spillovers to society as a whole\n\nPositive externalities from education\n\nStudies show that\n\nStates with higher average education levels have higher earnings in excess of the private return\nThe number of highly educated immiggrants in STEM has a positive effect on productivity of other workers\nMore highly educated populations have lower crime rates, better health outcomes, more civic participation"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#education-and-inequality-1",
+    "href": "slides/hcapital/index.html#education-and-inequality-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Education and Inequality",
+    "text": "Education and Inequality\n\nEarnings inequality has increased in many countries over the past few decades\nIn Canada\n\nRose over the 80s, 90s\nHas been stable since\n\nA couple of different sources for this\n\nReturns to schooling\nGrowth in inequality among people with the same level of schooling\n\nIn Canada, much of it is related to inequality within education groups\n\nBut still partly related to returns to schooling"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#education-and-inequality-2",
+    "href": "slides/hcapital/index.html#education-and-inequality-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Education and Inequality",
+    "text": "Education and Inequality"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#education-and-inequality-3",
+    "href": "slides/hcapital/index.html#education-and-inequality-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Education and Inequality",
+    "text": "Education and Inequality"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#education-and-inequality-4",
+    "href": "slides/hcapital/index.html#education-and-inequality-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Education and Inequality",
+    "text": "Education and Inequality\n\nWhy has the return to education increased?\n\nSkill Biased Technological Change: New technologies increase demand for skilled workers\n\nIncreases wage premium for higher education\n\nGlobalization: Increased trade and outsourcing\n\nReduces demand for lower-skilled workers locally\n\nInstitutional Changes: Decline in unionization, changes in labor market policies\n\nNegatively affects bargaining power of lower-skilled workers\n\n\nSkill biased technical change is thought to be major driver in the 80s"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#introduction-4",
+    "href": "slides/hcapital/index.html#introduction-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nFormal schooling is one way to develop human capital\nAnother important way is through job training\n\n** General Training**: Skills that are useful at many firms\n** Specific Training**: Skills that are only useful at a specific firm\n\nTraining helps develop skills that increase human capital\nIn this section we evaluate the economics of job training"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#who-pays-for-job-training",
+    "href": "slides/hcapital/index.html#who-pays-for-job-training",
+    "title": "EC306 - Wages and Employment",
+    "section": "Who Pays for Job Training",
+    "text": "Who Pays for Job Training\n\nIt is not uncommon for firms to pay for job training\n\nSome companies provide training to all employees\nOther will fund things like MBA\n\nUnder what circumstance would the firm pay versus the individual?\nDiffers for general versus specific training"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#who-pays-for-job-training-1",
+    "href": "slides/hcapital/index.html#who-pays-for-job-training-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Who Pays for Job Training",
+    "text": "Who Pays for Job Training\n\nGeneral training increases productivity at many firms\n\nEmployees can take skills to other firms\n\nFirms will offer higher wages to employees with general training\n\nVery similar to schooling\n\nBut employees fund then training themselves\n\nPay for it as long as the lifetime wage increase exceeds the cost of training"
+  },
+  {
     "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
     "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
     "title": "EC306 - Wages and Employment",
@@ -1597,6 +1800,18 @@
     "title": "Human Capital Theory",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Human Capital Theory"
+    ]
+  },
+  {
+    "objectID": "content/hcapital.html#sample-questions",
+    "href": "content/hcapital.html#sample-questions",
+    "title": "Human Capital Theory",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
     "crumbs": [
       "Content",
       "Course content",

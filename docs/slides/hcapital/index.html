@@ -813,9 +813,620 @@ s^* &lt; 1
 <section id="model-11" class="slide level2">
 <h2>Model</h2>
 
+<img data-src="images/clipboard-3697593668.png" class="r-stretch"></section>
+<section id="model-12" class="slide level2">
+<h2>Model</h2>
+<ul>
+<li><p>Sometimes everyone is worse off under the separating equilibrium:</p></li>
+<li><p>Recall inn the pooling equilibrium, nobody gets education.</p>
+<ul>
+<li>Everyone is paid <span class="math inline">\(\bar{w} = 2 - q\)</span></li>
+</ul></li>
+<li><p>Under the separating equilibrium:</p>
+<ul>
+<li>Type L are paid $1 — they are worse off unless <span class="math inline">\(q = 1\)</span><br>
+</li>
+<li>Type H are paid <span class="math inline">\(2 - \frac{s^*}{2}\)</span> — they are worse off unless <span class="math inline">\(2 - q &gt; 2 - \frac{s^*}{2} \rightarrow s^* &gt; 2q\)</span></li>
+</ul></li>
+<li><p>In our previous example where <span class="math inline">\(q = 0.5\)</span></p>
+<ul>
+<li>Type H individuals are worse off for any <span class="math inline">\(s^* &gt; 1\)</span></li>
+</ul></li>
+</ul>
+</section>
+<section id="model-13" class="slide level2">
+<h2>Model</h2>
+<ul>
+<li><p>Key Ideas of the Signalling Model</p></li>
+<li><p>Depending on firm beliefs about the relationship between education and ability, it may be worthwhile to acquire education.<br>
+</p></li>
+<li><p>There must be a difference in the cost of acquiring education for high- and low-ability workers.<br>
+</p></li>
+<li><p>If firms’ beliefs are not confirmed, they are not sustainable in equilibrium.</p></li>
+</ul>
+</section></section>
+<section>
+<section id="estimating-returns-to-schooling" class="title-slide slide level1">
+<h1>Estimating Returns to Schooling</h1>
+
+</section>
+<section id="introduction-3" class="slide level2">
+<h2>Introduction</h2>
+<ul>
+<li><p>We studied two theories of private education investment</p>
+<ul>
+<li>These theories explain why individuals might invest in education</li>
+</ul></li>
+<li><p>Empirical economists estimate the size of the return using data</p></li>
+<li><p>We will study how empirical economists approach estimation</p>
+<ul>
+<li>Mostly based on the <strong>Human Capital Earnings Function</strong></li>
+</ul></li>
+<li><p>We then discuss results from existing research</p>
+<ul>
+<li>Rates of return to additional education are large<br>
+</li>
+<li>Some evidence they are rising over time</li>
+<li>Returns are mostly attributed to human capital, but there is some evidence of signalling effects</li>
+</ul></li>
+</ul>
+</section>
+<section id="the-human-capital-earnings-function" class="slide level2">
+<h2>The Human Capital Earnings Function</h2>
+<ul>
+<li>Most estimates of the return to education are based on variations of the Human Capital Earnings Function (also known as the Mincer Equation)</li>
+</ul>
+<p><span class="math display">\[\ln Y = \beta_0 + \beta_1\,schl + \beta_2\,exp + \beta_3\,exp^{2} + \epsilon\]</span></p>
+<ul>
+<li>The variables are
+<ul>
+<li><span class="math inline">\(Y\)</span> is some measure of earnings, income, or wages<br>
+</li>
+<li><span class="math inline">\(schl\)</span> is years of schooling<br>
+</li>
+<li><span class="math inline">\(exp\)</span> is potential experience
+<ul>
+<li><span class="math inline">\(exp = age - schl - 5\)</span><br>
+</li>
+<li>Used because actual experience is not always observed</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="the-human-capital-earnings-function-1" class="slide level2">
+<h2>The Human Capital Earnings Function</h2>
+<ul>
+<li><p>The Mincer equation uses the natural logarithm of <span class="math inline">\(Y\)</span> as the dependent variable</p></li>
+<li><p>When we use the natural log of the dependent variable, coefficients measure the percent change in the dependent variable per unit change in the independent variable</p></li>
+</ul>
+<p><span class="math display">\[\beta_{1} = \frac{\partial \ln Y}{\partial schl}\]</span></p>
+<p><span class="math display">\[= \frac{\partial \ln Y}{\partial Y} \cdot \frac{\partial Y}{\partial schl}\]</span></p>
+<p><span class="math display">\[= \frac{1}{Y} \cdot \frac{\partial Y}{\partial schl}\]</span></p>
+<ul>
+<li><p>This is the percent change in <span class="math inline">\(Y\)</span> per additional year of schooling</p></li>
+<li><p><span class="math inline">\(\beta_{1}\)</span> is interpreted as the IRR</p>
+<ul>
+<li>The percent change in yearly earnings per additional year of schooling</li>
+</ul></li>
+</ul>
+</section>
+<section id="the-human-capital-earnings-function-2" class="slide level2">
+<h2>The Human Capital Earnings Function</h2>
+<ul>
+<li><p>One way to estimate this equation is to use Ordinary Least Squares (OLS) regression</p></li>
+<li><p>There are two main data sources in Canada for this</p>
+<ul>
+<li>The Canadian Census
+<ul>
+<li>Large sample sizes<br>
+</li>
+<li>Detailed information on education and income<br>
+</li>
+<li>Only conducted every 5 years<br>
+</li>
+</ul></li>
+<li>The Labour Force Survey (LFS)
+<ul>
+<li>Monthly survey<br>
+</li>
+<li>Smaller sample sizes<br>
+</li>
+<li>Less detailed information on education and income</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="the-human-capital-earnings-function-3" class="slide level2">
+<h2>The Human Capital Earnings Function</h2>
+
+<img data-src="index_files/figure-revealjs/unnamed-chunk-4-1.png" width="960" class="r-stretch"></section>
+<section id="the-human-capital-earnings-function-4" class="slide level2">
+<h2>The Human Capital Earnings Function</h2>
+<ul>
+<li><p>Graph above shows data on schooling and hourly earnings from the LFS in September 2025 (black dots)</p></li>
+<li><p>Also shows the fitted OLS regression line (blue line)</p></li>
+<li><p>There is a clear positive relationship between schooling and earnings</p></li>
+<li><p>Issues with this graph</p>
+<ul>
+<li><p>Does not control for experience</p></li>
+<li><p>Education data not actually stored in years of schooling</p>
+<ul>
+<li>Actually stored in categories (e.g., high school graduate, some university, university degree)</li>
+<li>I converted categories to approximate years</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="the-human-capital-earnings-function-5" class="slide level2">
+<h2>The Human Capital Earnings Function</h2>
+<ul>
+<li><p>The more accurate way is to</p>
+<ul>
+<li><p>Run the full Mincer equation regression</p>
+<ul>
+<li>Control for experience or age</li>
+</ul></li>
+<li><p>Use categorical education variables instead of years of schooling</p>
+<ul>
+<li>Need to omit one group</li>
+<li>This forms the “reference category”</li>
+<li>Coefficients on the education categories measure the percent difference in earnings relative to the reference category</li>
+</ul></li>
+</ul></li>
+<li><p>Slide below shows results from a Mincer equation regression using September LFS data</p></li>
+</ul>
+</section>
+<section id="the-human-capital-earnings-function-6" class="slide level2">
+<h2>The Human Capital Earnings Function</h2>
+<div class="cell">
+<div class="cell-output-display">
+<!-- preamble start -->
+
+    <script>
+
+      function styleCell_gdrpn76e25tq8tefob4c(i, j, css_id) {
+          var table = document.getElementById("tinytable_gdrpn76e25tq8tefob4c");
+          var cell = table.rows[i]?.cells[j];  // Safe navigation to avoid errors
+          if (cell) {
+              console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
+              cell.classList.add(css_id);
+          } else {
+              console.warn(`Cell at (${i}, ${j}) not found.`);
+          }
+      }
+      function insertSpanRow(i, colspan, content) {
+        var table = document.getElementById('tinytable_gdrpn76e25tq8tefob4c');
+        var newRow = table.insertRow(i);
+        var newCell = newRow.insertCell(0);
+        newCell.setAttribute("colspan", colspan);
+        // newCell.innerText = content;
+        // this may be unsafe, but innerText does not interpret <br>
+        newCell.innerHTML = content;
+      }
+      function spanCell_gdrpn76e25tq8tefob4c(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_gdrpn76e25tq8tefob4c");
+        const targetRow = table.rows[i];
+        const targetCell = targetRow.cells[j];
+        for (let r = 0; r < rowspan; r++) {
+          // Only start deleting cells to the right for the first row (r == 0)
+          if (r === 0) {
+            // Delete cells to the right of the target cell in the first row
+            for (let c = colspan - 1; c > 0; c--) {
+              if (table.rows[i + r].cells[j + c]) {
+                table.rows[i + r].deleteCell(j + c);
+              }
+            }
+          }
+          // For rows below the first, delete starting from the target column
+          if (r > 0) {
+            for (let c = colspan - 1; c >= 0; c--) {
+              if (table.rows[i + r] && table.rows[i + r].cells[j]) {
+                table.rows[i + r].deleteCell(j);
+              }
+            }
+          }
+        }
+        // Set rowspan and colspan of the target cell
+        targetCell.rowSpan = rowspan;
+        targetCell.colSpan = colspan;
+      }
+      // tinytable span after
+      window.addEventListener('load', function () {
+          var cellsToStyle = [
+            // tinytable style arrays after
+          { positions: [ { i: 9, j: 1 }, { i: 9, j: 2 },  ], css_id: 'tinytable_css_k2ca9dqpcqd8se3hclgf',}, 
+          { positions: [ { i: 6, j: 2 }, { i: 6, j: 1 },  ], css_id: 'tinytable_css_loisc0qs53x3r9f1cuns',}, 
+          { positions: [ { i: 1, j: 1 }, { i: 3, j: 1 }, { i: 4, j: 1 }, { i: 5, j: 1 }, { i: 2, j: 1 }, { i: 7, j: 1 }, { i: 8, j: 1 }, { i: 3, j: 2 }, { i: 4, j: 2 }, { i: 1, j: 2 }, { i: 2, j: 2 }, { i: 7, j: 2 }, { i: 8, j: 2 }, { i: 5, j: 2 },  ], css_id: 'tinytable_css_2rrmtjoyydod8vruokvp',}, 
+          { positions: [ { i: 0, j: 1 }, { i: 0, j: 2 },  ], css_id: 'tinytable_css_518lidegza4lgicr4twp',}, 
+          { positions: [ { i: 9, j: 0 },  ], css_id: 'tinytable_css_jux60kgtl4q7foagtvfl',}, 
+          { positions: [ { i: 6, j: 0 },  ], css_id: 'tinytable_css_0cj2z29nnt7drsmzfcbt',}, 
+          { positions: [ { i: 1, j: 0 }, { i: 2, j: 0 }, { i: 3, j: 0 }, { i: 4, j: 0 }, { i: 5, j: 0 }, { i: 7, j: 0 }, { i: 8, j: 0 },  ], css_id: 'tinytable_css_p0u5ozkv7xndx04mgnc7',}, 
+          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_tf8gmpv4ekitwnzs0ls7',}, 
+          ];
+
+          // Loop over the arrays to style the cells
+          cellsToStyle.forEach(function (group) {
+              group.positions.forEach(function (cell) {
+                  styleCell_gdrpn76e25tq8tefob4c(cell.i, cell.j, group.css_id);
+              });
+          });
+      });
+    </script>
+
+    <style>
+      /* tinytable css entries after */
+      .table td.tinytable_css_k2ca9dqpcqd8se3hclgf, .table th.tinytable_css_k2ca9dqpcqd8se3hclgf { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_loisc0qs53x3r9f1cuns, .table th.tinytable_css_loisc0qs53x3r9f1cuns { text-align: center; border-bottom: solid black 0.05em; }
+      .table td.tinytable_css_2rrmtjoyydod8vruokvp, .table th.tinytable_css_2rrmtjoyydod8vruokvp { text-align: center; }
+      .table td.tinytable_css_518lidegza4lgicr4twp, .table th.tinytable_css_518lidegza4lgicr4twp { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_jux60kgtl4q7foagtvfl, .table th.tinytable_css_jux60kgtl4q7foagtvfl { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_0cj2z29nnt7drsmzfcbt, .table th.tinytable_css_0cj2z29nnt7drsmzfcbt { text-align: left; border-bottom: solid black 0.05em; }
+      .table td.tinytable_css_p0u5ozkv7xndx04mgnc7, .table th.tinytable_css_p0u5ozkv7xndx04mgnc7 { text-align: left; }
+      .table td.tinytable_css_tf8gmpv4ekitwnzs0ls7, .table th.tinytable_css_tf8gmpv4ekitwnzs0ls7 { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+    </style>
+    <div class="container">
+      <table class="table table-borderless" id="tinytable_gdrpn76e25tq8tefob4c" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+        <thead>
+        
+              <tr>
+                <th scope="col"> </th>
+                <th scope="col">Men</th>
+                <th scope="col">Women</th>
+              </tr>
+        </thead>
+        
+        <tbody>
+                <tr>
+                  <td>0–8 years</td>
+                  <td>-0.125 (0.019)</td>
+                  <td>-0.178 (0.024)</td>
+                </tr>
+                <tr>
+                  <td>Some high school</td>
+                  <td>-0.073 (0.010)</td>
+                  <td>-0.103 (0.012)</td>
+                </tr>
+                <tr>
+                  <td>Some postsecondary</td>
+                  <td>0.065 (0.012)</td>
+                  <td>0.076 (0.012)</td>
+                </tr>
+                <tr>
+                  <td>Postsecondary certificate</td>
+                  <td>0.163 (0.007)</td>
+                  <td>0.141 (0.007)</td>
+                </tr>
+                <tr>
+                  <td>Bachelor’s degree</td>
+                  <td>0.296 (0.008)</td>
+                  <td>0.366 (0.007)</td>
+                </tr>
+                <tr>
+                  <td>Graduate degree</td>
+                  <td>0.397 (0.009)</td>
+                  <td>0.485 (0.009)</td>
+                </tr>
+                <tr>
+                  <td>Num.Obs.</td>
+                  <td>28560</td>
+                  <td>28320</td>
+                </tr>
+                <tr>
+                  <td>R2</td>
+                  <td>0.268</td>
+                  <td>0.296</td>
+                </tr>
+                <tr>
+                  <td>RMSE</td>
+                  <td>0.40</td>
+                  <td>0.37</td>
+                </tr>
+        </tbody>
+      </table>
+    </div>
+<!-- hack to avoid NA insertion in last line -->
+</div>
+</div>
+</section>
+<section id="ability-bias" class="slide level2">
+<h2>Ability Bias</h2>
+<ul>
+<li><p>Major problem with estimating returns to schooling is <strong>ability bias</strong></p>
+<ul>
+<li>Higher ability people choose more schooling but would earn higher wages even without schooling<br>
+</li>
+<li>So OLS estimate reflects both the return to schooling and the return to ability</li>
+</ul></li>
+<li><p>Ability bias is thought to be positive</p>
+<ul>
+<li>Higher ability people choose more schooling on average<br>
+</li>
+<li>This leads to overestimating the return to schooling</li>
+</ul></li>
+<li><p>We can illustrate this with a model</p></li>
+</ul>
+</section>
+<section id="ability-bias-1" class="slide level2">
+<h2>Ability Bias</h2>
+<ul>
+<li>Suppose the true earnings equation is</li>
+</ul>
+<p><span class="math display">\[
+\ln Y = \beta_{0} + \beta_1 schl + \beta_2 abil + \epsilon
+\]</span></p>
+<ul>
+<li><p><span class="math inline">\(s\)</span>: schooling<br>
+</p></li>
+<li><p><span class="math inline">\(a\)</span>: ability<br>
+</p></li>
+<li><p><span class="math inline">\(\epsilon\)</span>: other factors with <span class="math inline">\(E[\epsilon \mid s, a] = 0\)</span></p></li>
+<li><p>Assume schooling increases with ability through a linear relationship</p></li>
+</ul>
+<p><span class="math display">\[
+abil = \alpha_0 + \alpha_1 schl + v
+\]</span></p>
+<p>with <span class="math inline">\(v\)</span> uncorrelated with <span class="math inline">\(a\)</span></p>
+</section>
+<section id="ability-bias-2" class="slide level2">
+<h2>Ability Bias</h2>
+<ul>
+<li>If we estimate a regression omitting ability</li>
+</ul>
+<p><span class="math display">\[
+\ln Y = \tilde{\beta}_1 schl + e
+\]</span></p>
+<ul>
+<li>The OLS coefficient on schooling equals</li>
+</ul>
+<p><span class="math display">\[
+\tilde{\beta}_s
+= \frac{Cov(lnY, s)}{Var(s)}
+\]</span></p>
+</section>
+<section id="ability-bias-3" class="slide level2">
+<h2>Ability Bias</h2>
+<ul>
+<li>Plug <span class="math inline">\(\ln Y = \beta_1 schl + \beta_2 abil + \epsilon\)</span> into formula for <span class="math inline">\(\tilde{\beta}_s\)</span></li>
+</ul>
+<p><span class="math display">\[
+\tilde{\beta}_s
+= \frac{Cov(lnY, schl)}{Var(schl)} = \frac{Cov(\beta_{0} + \beta_1 schl + \beta_2 abil + \epsilon, schl)}{Var(schl)}
+\]</span></p>
+<ul>
+<li>Because <span class="math inline">\(\beta_0\)</span> is constant and <span class="math inline">\(\epsilon\)</span> is uncorrelated with <span class="math inline">\(schl\)</span></li>
+</ul>
+<p><span class="math display">\[
+\tilde{\beta}_s = \frac{\beta_1 Var(schl) + \beta_2 Cov(abil, schl)}{Var(schl)} = \beta_1 + \beta_2 \alpha_1
+\]</span></p>
+</section>
+<section id="ability-bias-4" class="slide level2">
+<h2>Ability Bias</h2>
+<ul>
+<li><p>The term <span class="math inline">\(\beta_2 \alpha_1\)</span> is the ability bias</p></li>
+<li><p>It depends on</p>
+<ul>
+<li><span class="math inline">\(\beta_2\)</span>: the earnings return to ability</li>
+<li><span class="math inline">\(\alpha_1\)</span>: the relationship between ability and schooling</li>
+</ul></li>
+<li><p>If both terms are positive, then ability bias is positive</p></li>
+<li><p>This means that OLS overestimates the return to schooling</p>
+<ul>
+<li>Estimates partly reflect the return to ability, partly the return to schooling</li>
+</ul></li>
+</ul>
+</section>
+<section id="addressing-ability-bias" class="slide level2">
+<h2>Addressing Ability Bias</h2>
+<ul>
+<li><p>Economists have developed methods to address ability bias</p>
+<ul>
+<li><p><strong>Twin Studies:</strong> Compare earnings of identical twins with different schooling levels</p>
+<ul>
+<li>Presumably, twins have same level of ability</li>
+<li>Comparing them avoids ability bias</li>
+</ul></li>
+<li><p><strong>Instrumental Variables (IV):</strong> Method that isolates variation in schooling unrelated to ability</p>
+<ul>
+<li>E.g., changes in compulsory schooling laws, proximity to university</li>
+<li>These changes affect schooling but are unrelated to ability</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="twin-studies" class="slide level2">
+<h2>Twin Studies</h2>
+<ul>
+<li><p>Twin studies compare earnings of identical twins with different schooling levels</p></li>
+<li><p>Ashenfelter and Rouse (1998) use data on identical twins in the US</p>
+<ul>
+<li>Attended Twins festival and collected data on schooling and earnings</li>
+<li>Verified it with outside data</li>
+</ul></li>
+<li><p>Using OLS, they estimate a biased return to schooling of about 11% per year</p></li>
+<li><p>Using twin differences, they estimate a return of about 7% per year</p>
+<ul>
+<li>Suggests ability bias of about 4 percentage points</li>
+</ul></li>
+</ul>
+</section>
+<section id="compulsory-schooling" class="slide level2">
+<h2>Compulsory Schooling</h2>
+<ul>
+<li><p>Another method is to use changes in compulsory schooling laws as an instrument for schooling</p></li>
+<li><p>Several US states have a minimum school leaving age</p>
+<ul>
+<li>Generally around 16 years old</li>
+</ul></li>
+<li><p>Means that students born earlier in the year can leave school earlier</p>
+<ul>
+<li>Someone born in January can leave earlier than someone born in December of the same year</li>
+<li>Means that on average people born later in the year have more schooling</li>
+</ul></li>
+<li><p>Angrist and Krueger (1991) use this variation to estimate returns to schooling</p>
+<ul>
+<li>Estimate a return of about 7-10% per year of schooling</li>
+</ul></li>
+</ul>
+</section>
+<section id="compulsory-schooling-1" class="slide level2">
+<h2>Compulsory Schooling</h2>
+<ul>
+<li><p>Can use compulsory schooling laws in a different way</p></li>
+<li><p>Canada has maximum school entry laws and minimum school leaving laws</p>
+<ul>
+<li>Over time, students mandated to enter school earlier and leave later</li>
+<li>This increases average schooling levels, unrelated to ability</li>
+</ul></li>
+<li><p>Oreopoulos (2006) uses this variation to estimate returns to schooling in Canada</p>
+<ul>
+<li>Finds that an additional year of compulsory schooling increases earnings by about 7-12%</li>
+</ul></li>
+</ul>
+</section>
+<section id="compulsory-schooling-2" class="slide level2">
+<h2>Compulsory Schooling</h2>
+
+<img data-src="images/schlaws_oreop.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="signalling-1" class="slide level2">
+<h2>Signalling</h2>
+<ul>
+<li><p>All studies cited so far have attributed the returns to schooling to human capital accumulation</p></li>
+<li><p>Some studies have attempted to separate human capital from signalling effects</p></li>
+<li><p>Ferrer and Riddell (2002) use Canadian data to estimate credential effects</p>
+<ul>
+<li>Look at people with same years of schooling, but different credentials</li>
+<li>E.g., Someone with a high school diploma versus someone with same years but did not graduate</li>
+</ul></li>
+<li><p>Find that obtaining the credential does matter</p></li>
+</ul>
+</section></section>
+<section>
+<section id="social-returns-to-education" class="title-slide slide level1">
+<h1>Social Returns to Education</h1>
+
+</section>
+<section id="social-returns-to-education-1" class="slide level2">
+<h2>Social Returns to Education</h2>
+<ul>
+<li><p>Most of the discussion so far has focused on private returns to education</p>
+<ul>
+<li>Returns to individuals of obtaining more schooling</li>
+</ul></li>
+<li><p>We know there are spillovers to society as a whole</p>
+<ul>
+<li>Positive externalities from education</li>
+</ul></li>
+<li><p>Studies show that</p>
+<ul>
+<li>States with higher average education levels have higher earnings in excess of the private return</li>
+<li>The number of highly educated immiggrants in STEM has a positive effect on productivity of other workers</li>
+<li>More highly educated populations have lower crime rates, better health outcomes, more civic participation</li>
+</ul></li>
+</ul>
+</section></section>
+<section>
+<section id="education-and-inequality" class="title-slide slide level1">
+<h1>Education and Inequality</h1>
+
+</section>
+<section id="education-and-inequality-1" class="slide level2">
+<h2>Education and Inequality</h2>
+<ul>
+<li><p>Earnings inequality has increased in many countries over the past few decades</p></li>
+<li><p>In Canada</p>
+<ul>
+<li>Rose over the 80s, 90s</li>
+<li>Has been stable since</li>
+</ul></li>
+<li><p>A couple of different sources for this</p>
+<ul>
+<li>Returns to schooling</li>
+<li>Growth in inequality among people with the same level of schooling</li>
+</ul></li>
+<li><p>In Canada, much of it is related to inequality within education groups</p>
+<ul>
+<li>But still partly related to returns to schooling</li>
+</ul></li>
+</ul>
+</section>
+<section id="education-and-inequality-2" class="slide level2">
+<h2>Education and Inequality</h2>
+
+<img data-src="images/Screenshot 2025-11-17 at 1.08.32 PM.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="education-and-inequality-3" class="slide level2">
+<h2>Education and Inequality</h2>
+
+<img data-src="images/Screenshot 2025-11-17 at 1.08.42 PM.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="education-and-inequality-4" class="slide level2">
+<h2>Education and Inequality</h2>
+<ul>
+<li><p>Why has the return to education increased?</p>
+<ul>
+<li><strong>Skill Biased Technological Change</strong>: New technologies increase demand for skilled workers
+<ul>
+<li>Increases wage premium for higher education</li>
+</ul></li>
+<li><strong>Globalization</strong>: Increased trade and outsourcing
+<ul>
+<li>Reduces demand for lower-skilled workers locally</li>
+</ul></li>
+<li><strong>Institutional Changes</strong>: Decline in unionization, changes in labor market policies
+<ul>
+<li>Negatively affects bargaining power of lower-skilled workers</li>
+</ul></li>
+</ul></li>
+<li><p>Skill biased technical change is thought to be major driver in the 80s</p></li>
+</ul>
+</section></section>
+<section>
+<section id="training" class="title-slide slide level1">
+<h1>Training</h1>
+
+</section>
+<section id="introduction-4" class="slide level2">
+<h2>Introduction</h2>
+<ul>
+<li><p>Formal schooling is one way to develop human capital</p></li>
+<li><p>Another important way is through job training</p>
+<ul>
+<li>** General Training**: Skills that are useful at many firms</li>
+<li>** Specific Training**: Skills that are only useful at a specific firm</li>
+</ul></li>
+<li><p>Training helps develop skills that increase human capital</p></li>
+<li><p>In this section we evaluate the economics of job training</p></li>
+</ul>
+</section>
+<section id="who-pays-for-job-training" class="slide level2">
+<h2>Who Pays for Job Training</h2>
+<ul>
+<li><p>It is not uncommon for firms to pay for job training</p>
+<ul>
+<li>Some companies provide training to all employees</li>
+<li>Other will fund things like MBA</li>
+</ul></li>
+<li><p>Under what circumstance would the firm pay versus the individual?</p></li>
+<li><p>Differs for general versus specific training</p></li>
+</ul>
+</section>
+<section id="who-pays-for-job-training-1" class="slide level2">
+<h2>Who Pays for Job Training</h2>
+<ul>
+<li><p>General training increases productivity at many firms</p>
+<ul>
+<li>Employees can take skills to other firms</li>
+</ul></li>
+<li><p>Firms will offer higher wages to employees with general training</p>
+<ul>
+<li>Very similar to schooling</li>
+</ul></li>
+<li><p>But employees fund then training themselves</p>
+<ul>
+<li>Pay for it as long as the lifetime wage increase exceeds the cost of training</li>
+</ul></li>
+</ul>
 
 
-<img data-src="images/clipboard-3697593668.png" class="r-stretch"></section></section>
+</section></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">

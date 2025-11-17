@@ -631,3 +631,487 @@ $$
 ## Model
 
 ![](images/clipboard-3697593668.png)
+
+## Model
+
+-   Sometimes everyone is worse off under the separating equilibrium:
+
+-   Recall inn the pooling equilibrium, nobody gets education.
+
+    -   Everyone is paid $\bar{w} = 2 - q$
+
+-   Under the separating equilibrium:
+
+    -   Type L are paid \$1 — they are worse off unless $q = 1$\
+    -   Type H are paid $2 - \frac{s^*}{2}$ — they are worse off unless $2 - q > 2 - \frac{s^*}{2} \rightarrow s^* > 2q$
+
+-   In our previous example where $q = 0.5$
+
+    -   Type H individuals are worse off for any $s^* > 1$
+
+## Model
+
+-   Key Ideas of the Signalling Model
+
+-   Depending on firm beliefs about the relationship between education and ability, it may be worthwhile to acquire education.\
+
+-   There must be a difference in the cost of acquiring education for high- and low-ability workers.\
+
+-   If firms’ beliefs are not confirmed, they are not sustainable in equilibrium.
+
+# Estimating Returns to Schooling
+
+## Introduction
+
+-   We studied two theories of private education investment
+
+    -   These theories explain why individuals might invest in education
+
+-   Empirical economists estimate the size of the return using data
+
+-   We will study how empirical economists approach estimation
+
+    -   Mostly based on the **Human Capital Earnings Function**
+
+-   We then discuss results from existing research
+
+    -   Rates of return to additional education are large\
+    -   Some evidence they are rising over time
+    -   Returns are mostly attributed to human capital, but there is some evidence of signalling effects
+
+## The Human Capital Earnings Function
+
+-   Most estimates of the return to education are based on variations of the Human Capital Earnings Function (also known as the Mincer Equation)
+
+$$\ln Y = \beta_0 + \beta_1\,schl + \beta_2\,exp + \beta_3\,exp^{2} + \epsilon$$
+
+-   The variables are
+    -   $Y$ is some measure of earnings, income, or wages\
+    -   $schl$ is years of schooling\
+    -   $exp$ is potential experience
+        -   $exp = age - schl - 5$\
+        -   Used because actual experience is not always observed
+
+## The Human Capital Earnings Function
+
+-   The Mincer equation uses the natural logarithm of $Y$ as the dependent variable
+
+-   When we use the natural log of the dependent variable, coefficients measure the percent change in the dependent variable per unit change in the independent variable
+
+$$\beta_{1} = \frac{\partial \ln Y}{\partial schl}$$
+
+$$= \frac{\partial \ln Y}{\partial Y} \cdot \frac{\partial Y}{\partial schl}$$
+
+$$= \frac{1}{Y} \cdot \frac{\partial Y}{\partial schl}$$
+
+-   This is the percent change in $Y$ per additional year of schooling
+
+-   $\beta_{1}$ is interpreted as the IRR
+
+    -   The percent change in yearly earnings per additional year of schooling
+
+## The Human Capital Earnings Function
+
+-   One way to estimate this equation is to use Ordinary Least Squares (OLS) regression
+
+-   There are two main data sources in Canada for this
+
+    -   The Canadian Census
+        -   Large sample sizes\
+        -   Detailed information on education and income\
+        -   Only conducted every 5 years\
+    -   The Labour Force Survey (LFS)
+        -   Monthly survey\
+        -   Smaller sample sizes\
+        -   Less detailed information on education and income
+
+## The Human Capital Earnings Function
+
+```{r}
+lfs <- read_csv("pub0925.csv") %>% clean_names() %>%
+  mutate(educyrs = case_when(
+    educ == 0 ~ 8,
+    educ == 1 ~ 11,
+    educ == 2 ~ 12,
+    educ == 3 ~ 13,
+    educ == 4 ~ 14,
+    educ == 5 ~ 16,
+    educ == 6 ~ 18,
+    TRUE ~ NA_real_
+  ),
+  hrlyearn = hrlyearn/100) %>%
+  filter(hrlyearn > 0) %>%
+  mutate(
+    educ_f = factor(
+      educ,
+      labels = c(
+        "0–8 years",
+        "Some high school",
+        "High school graduate",
+        "Some postsecondary",
+        "Postsecondary certificate",
+        "Bachelor’s degree",
+        "Graduate degree"
+      )
+    ),
+    educ_f = relevel(educ_f, ref = "High school graduate")
+  )
+
+
+
+
+library(broom)
+
+# Run the regression
+mod <- lm(log(hrlyearn) ~ educyrs, data = lfs)
+
+# Extract coefficients
+b <- coef(mod)
+
+# Build equation label
+eq_label <- paste0(
+  "ln(Y) = ",
+  round(b[1], 3), " + ",
+  round(b[2], 3), " * S"
+)
+
+ggplot(filter(lfs, age_12 == "05"), aes(x = educyrs, y = log(hrlyearn))) +
+  geom_point(alpha = 0.3) +
+  geom_smooth(method = "lm", color = "blue", size = 1.2) +
+  annotate("text",
+           x = min(lfs$educyrs, na.rm = TRUE),
+           y = max(log(lfs$hrlyearn), na.rm = TRUE),
+           label = eq_label,
+           hjust = 0, vjust = 1,
+           size = 5
+  ) +
+  labs(
+    title = "Hourly Earnings by Years of Education for Canadians Aged 25 to 44",
+    x = "Years of Education",
+    y = "Log Hourly Earnings",
+    caption = "Data Source: Statistics Canada Labour Force Survey"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(size = 16, face = "bold"),
+    plot.subtitle = element_text(size = 12),
+    axis.title = element_text(size = 12)
+  )
+
+  
+```
+
+## The Human Capital Earnings Function
+
+-   Graph above shows data on schooling and hourly earnings from the LFS in September 2025 (black dots)
+
+-   Also shows the fitted OLS regression line (blue line)
+
+-   There is a clear positive relationship between schooling and earnings
+
+-   Issues with this graph
+
+    -   Does not control for experience
+
+    -   Education data not actually stored in years of schooling
+
+        -   Actually stored in categories (e.g., high school graduate, some university, university degree)
+        -   I converted categories to approximate years
+
+## The Human Capital Earnings Function
+
+-   The more accurate way is to
+
+    -   Run the full Mincer equation regression
+
+        -   Control for experience or age
+
+    -   Use categorical education variables instead of years of schooling
+
+        -   Need to omit one group
+        -   This forms the "reference category"
+        -   Coefficients on the education categories measure the percent difference in earnings relative to the reference category
+
+-   Slide below shows results from a Mincer equation regression using September LFS data
+
+## The Human Capital Earnings Function
+
+```{r}
+library(modelsummary)
+
+
+mod_men <- lm(log(hrlyearn) ~ educ_f + factor(age_12), data = filter(lfs, gender== 1))
+mod_women <- lm(log(hrlyearn) ~ educ_f + factor(age_12), data = filter(lfs, gender == 2))
+
+
+
+
+modelsummary(
+  list(
+    "Men"   = mod_men,
+    "Women" = mod_women
+  ),
+  estimate    = "{estimate} ({std.error})",
+  statistic   = NULL,
+  coef_omit   = "factor\\(age_12\\)|\\(Intercept\\)",
+  coef_rename = function(x) gsub("^educ_f", "", x),
+  gof_omit    = "IC|Log|Adj|AIC|BIC|F"
+)
+
+```
+
+## Ability Bias
+
+-   Major problem with estimating returns to schooling is **ability bias**
+
+    -   Higher ability people choose more schooling but would earn higher wages even without schooling\
+    -   So OLS estimate reflects both the return to schooling and the return to ability
+
+-   Ability bias is thought to be positive
+
+    -   Higher ability people choose more schooling on average\
+    -   This leads to overestimating the return to schooling
+
+-   We can illustrate this with a model
+
+## Ability Bias
+
+-   Suppose the true earnings equation is
+
+$$
+\ln Y = \beta_{0} + \beta_1 schl + \beta_2 abil + \epsilon
+$$
+
+-   $s$: schooling\
+
+-   $a$: ability\
+
+-   $\epsilon$: other factors with $E[\epsilon \mid s, a] = 0$
+
+-   Assume schooling increases with ability through a linear relationship
+
+$$
+abil = \alpha_0 + \alpha_1 schl + v
+$$
+
+with $v$ uncorrelated with $a$
+
+## Ability Bias
+
+-   If we estimate a regression omitting ability
+
+$$
+\ln Y = \tilde{\beta}_1 schl + e
+$$
+
+-   The OLS coefficient on schooling equals
+
+$$
+\tilde{\beta}_s
+= \frac{Cov(lnY, s)}{Var(s)}
+$$
+
+## Ability Bias
+
+-   Plug $\ln Y = \beta_1 schl + \beta_2 abil + \epsilon$ into formula for $\tilde{\beta}_s$
+
+$$
+\tilde{\beta}_s
+= \frac{Cov(lnY, schl)}{Var(schl)} = \frac{Cov(\beta_{0} + \beta_1 schl + \beta_2 abil + \epsilon, schl)}{Var(schl)}
+$$
+
+-   Because $\beta_0$ is constant and $\epsilon$ is uncorrelated with $schl$
+
+$$
+\tilde{\beta}_s = \frac{\beta_1 Var(schl) + \beta_2 Cov(abil, schl)}{Var(schl)} = \beta_1 + \beta_2 \alpha_1
+$$
+
+## Ability Bias
+
+-   The term $\beta_2 \alpha_1$ is the ability bias
+
+-   It depends on
+
+    -   $\beta_2$: the earnings return to ability
+    -   $\alpha_1$: the relationship between ability and schooling
+
+-   If both terms are positive, then ability bias is positive
+
+-   This means that OLS overestimates the return to schooling
+
+    -   Estimates partly reflect the return to ability, partly the return to schooling
+
+## Addressing Ability Bias
+
+-   Economists have developed methods to address ability bias
+
+    -   **Twin Studies:** Compare earnings of identical twins with different schooling levels
+
+        -   Presumably, twins have same level of ability
+        -   Comparing them avoids ability bias
+
+    -   **Instrumental Variables (IV):** Method that isolates variation in schooling unrelated to ability
+
+        -   E.g., changes in compulsory schooling laws, proximity to university
+        -   These changes affect schooling but are unrelated to ability
+
+## Twin Studies
+
+-   Twin studies compare earnings of identical twins with different schooling levels
+
+-   Ashenfelter and Rouse (1998) use data on identical twins in the US
+
+    -   Attended Twins festival and collected data on schooling and earnings
+    -   Verified it with outside data
+
+-   Using OLS, they estimate a biased return to schooling of about 11% per year
+
+-   Using twin differences, they estimate a return of about 7% per year
+
+    -   Suggests ability bias of about 4 percentage points
+
+## Compulsory Schooling
+
+-   Another method is to use changes in compulsory schooling laws as an instrument for schooling
+
+-   Several US states have a minimum school leaving age
+
+    -   Generally around 16 years old
+
+-   Means that students born earlier in the year can leave school earlier
+
+    -   Someone born in January can leave earlier than someone born in December of the same year
+    -   Means that on average people born later in the year have more schooling
+
+-   Angrist and Krueger (1991) use this variation to estimate returns to schooling
+
+    -   Estimate a return of about 7-10% per year of schooling
+
+## Compulsory Schooling
+
+-   Can use compulsory schooling laws in a different way
+
+-   Canada has maximum school entry laws and minimum school leaving laws
+
+    -   Over time, students mandated to enter school earlier and leave later
+    -   This increases average schooling levels, unrelated to ability
+
+-   Oreopoulos (2006) uses this variation to estimate returns to schooling in Canada
+
+    -   Finds that an additional year of compulsory schooling increases earnings by about 7-12%
+
+## Compulsory Schooling
+
+![](images/schlaws_oreop.png){fig-align="center"}
+
+## Signalling
+
+-   All studies cited so far have attributed the returns to schooling to human capital accumulation
+
+-   Some studies have attempted to separate human capital from signalling effects
+
+-   Ferrer and Riddell (2002) use Canadian data to estimate credential effects
+
+    -   Look at people with same years of schooling, but different credentials
+    -   E.g., Someone with a high school diploma versus someone with same years but did not graduate
+
+-   Find that obtaining the credential does matter
+
+# Social Returns to Education
+
+## Social Returns to Education
+
+-   Most of the discussion so far has focused on private returns to education
+
+    -   Returns to individuals of obtaining more schooling
+
+-   We know there are spillovers to society as a whole
+
+    -   Positive externalities from education
+
+-   Studies show that
+
+    -   States with higher average education levels have higher earnings in excess of the private return
+    -   The number of highly educated immiggrants in STEM has a positive effect on productivity of other workers
+    -   More highly educated populations have lower crime rates, better health outcomes, more civic participation
+
+# Education and Inequality
+
+## Education and Inequality
+
+-   Earnings inequality has increased in many countries over the past few decades
+
+-   In Canada
+
+    -   Rose over the 80s, 90s
+    -   Has been stable since
+
+-   A couple of different sources for this
+
+    -   Returns to schooling
+    -   Growth in inequality among people with the same level of schooling
+
+-   In Canada, much of it is related to inequality within education groups
+
+    -   But still partly related to returns to schooling
+
+## Education and Inequality
+
+![](images/Screenshot%202025-11-17%20at%201.08.32%20PM.png){fig-align="center"}
+
+## Education and Inequality
+
+![](images/Screenshot%202025-11-17%20at%201.08.42%20PM.png){fig-align="center"}
+
+## Education and Inequality
+
+-   Why has the return to education increased?
+
+    -   **Skill Biased Technological Change**: New technologies increase demand for skilled workers
+        -   Increases wage premium for higher education
+    -   **Globalization**: Increased trade and outsourcing
+        -   Reduces demand for lower-skilled workers locally
+    -   **Institutional Changes**: Decline in unionization, changes in labor market policies
+        -   Negatively affects bargaining power of lower-skilled workers
+
+-   Skill biased technical change is thought to be major driver in the 80s
+
+# Training
+
+## Introduction
+
+-   Formal schooling is one way to develop human capital
+
+-   Another important way is through job training
+
+    -   \*\* General Training\*\*: Skills that are useful at many firms
+    -   \*\* Specific Training\*\*: Skills that are only useful at a specific firm
+
+-   Training helps develop skills that increase human capital
+
+-   In this section we evaluate the economics of job training
+
+## Who Pays for Job Training
+
+-   It is not uncommon for firms to pay for job training
+
+    -   Some companies provide training to all employees
+    -   Other will fund things like MBA
+
+-   Under what circumstance would the firm pay versus the individual?
+
+-   Differs for general versus specific training
+
+## Who Pays for Job Training
+
+-   General training increases productivity at many firms
+
+    -   Employees can take skills to other firms
+
+-   Firms will offer higher wages to employees with general training
+
+    -   Very similar to schooling
+
+-   But employees fund then training themselves
+
+    -   Pay for it as long as the lifetime wage increase exceeds the cost of training
