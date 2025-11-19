@@ -15,7 +15,7 @@ The slides are embedded in this page, and you can scroll through them with the a
 <div>
 
 ```{=html}
-<p align="center"><iframe width="890" height="500" class="slide-deck" src="/discrim/hcapital/"></iframe></p>
+<p align="center"><iframe width="890" height="500" class="slide-deck" src="/slides/discrim/"></iframe></p>
 ```
 
 </div>

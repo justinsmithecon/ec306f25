@@ -37,11 +37,11 @@ editor: visual
 
 -   Introduce Signalling Model of education investment
 
-- Discuss empirical methods to estimate returns to schooling
+-   Discuss empirical methods to estimate returns to schooling
 
-- Review empirical evidence on returns to schooling
+-   Review empirical evidence on returns to schooling
 
-- Discuss job training
+-   Discuss job training
 
 # Introduction
 
@@ -1061,11 +1061,11 @@ $$
 
 ## Education and Inequality
 
-![](images/Screenshot%202025-11-17%20at%201.08.32%20PM.png){fig-align="center"}
+![](images/ineq1.png){fig-align="center"}
 
 ## Education and Inequality
 
-![](images/Screenshot%202025-11-17%20at%201.08.42%20PM.png){fig-align="center"}
+![](images/ineq2.png){fig-align="center"}
 
 ## Education and Inequality
 
@@ -1261,56 +1261,54 @@ $$
 :::
 ::::::
 
-
 ## Training and Government
 
 -   Governments often subsidize job training programs
 
     -   Provide funding to firms to encourage them to train workers
     -   Provide funding directly to individuals to help pay for training
-    
-- Several rationales for public funding of training
 
-  -  Positive externalities 
-  - Individuals may underinvest in training due to credit constraints
-  - Imperfect information about training benefits
-  
-- Some current government funding initiatives
+-   Several rationales for public funding of training
 
-    -   Canada-Ontario Job Grant funds businesses to train employees 
+    -   Positive externalities
+    -   Individuals may underinvest in training due to credit constraints
+    -   Imperfect information about training benefits
+
+-   Some current government funding initiatives
+
+    -   Canada-Ontario Job Grant funds businesses to train employees
     -   NPower Canada: registered charity providing tech training, funded by government
-    
-    
+
 ## Training and Government
 
-- An active area of labour economics is evaluating the effectiveness of government training programs
+-   An active area of labour economics is evaluating the effectiveness of government training programs
 
-  - Called **Program Evaluation**
-  
-- In some cases, people are randomly allocated to training programs
+    -   Called **Program Evaluation**
 
-  - Can compare outcomes of those who received training to those who did not
-  - Identifies the causal effect of training
-  
-- In most cases, people self-select into training programs
+-   In some cases, people are randomly allocated to training programs
 
-  - People in training and comparison groups differ in many ways besides training
-  - Makes it difficult to isolate the effect of training itself
-  
+    -   Can compare outcomes of those who received training to those who did not
+    -   Identifies the causal effect of training
+
+-   In most cases, people self-select into training programs
+
+    -   People in training and comparison groups differ in many ways besides training
+    -   Makes it difficult to isolate the effect of training itself
+
 ## Training and Government
 
-- Program evaluation uses econometric techniques to address selection issues
+-   Program evaluation uses econometric techniques to address selection issues
 
-  - **Difference-in-Differences (DiD)**: Compare changes in outcomes over time between treatment and control groups
-  - **Propensity Score Matching (PSM)**: Match individuals in treatment and control groups based on observable characteristics
-  - **Instrumental Variables (IV)**: Use external factors that affect training participation but not outcomes directly
-  
-- Program evaluation literature shows
+    -   **Difference-in-Differences (DiD)**: Compare changes in outcomes over time between treatment and control groups
+    -   **Propensity Score Matching (PSM)**: Match individuals in treatment and control groups based on observable characteristics
+    -   **Instrumental Variables (IV)**: Use external factors that affect training participation but not outcomes directly
 
-  - U.S. training programs have positive results for young women from poorer backgrounds
-  - But no effect for men
-  - The more successful programs emphasize human capital investment over job search assistance
-  
+-   Program evaluation literature shows
+
+    -   U.S. training programs have positive results for young women from poorer backgrounds
+    -   But no effect for men
+    -   The more successful programs emphasize human capital investment over job search assistance
+
 # Summary
 
 ## Summary
@@ -1318,17 +1316,17 @@ $$
 -   Education is an investment in human capital
 
     -   Increases productivity and earnings potential
-    
+
 -   The Human Capital model explains schooling decisions based on costs and benefits
 
     -   People invest in schooling until marginal benefit equals marginal cost
-    
+
 -   The Signalling model emphasizes education as a signal of ability
 
     -   Education reveals productivity to employers
-    
+
 -   Empirical estimates of returns to schooling are around 7-10% per year
 
     -   Ability bias may lead to overestimation
-    
+
 -   Job training is another important way to develop human capital
