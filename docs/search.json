@@ -1117,7 +1117,7 @@
     "href": "slides/hcapital/index.html#goals-of-this-section-1",
     "title": "EC306 - Wages and Employment",
     "section": "Goals of This Section",
-    "text": "Goals of This Section\n\nBring together demand and supply to determine wages and employment\nDiscuss the effect of market power in goods market on equilibrium wages and employment\nDiscuss the effect of market power in the labour market on equilibrium wages and employment\nAnalyze minimum wages"
+    "text": "Goals of This Section\n\nDiscuss trends in educational attainment in Canada\nIntroduce Human Capital Theory of education investment\nIntroduce Signalling Model of education investment\nDiscuss empirical methods to estimate returns to schooling\nReview empirical evidence on returns to schooling\nDiscuss job training"
   },
   {
     "objectID": "slides/hcapital/index.html#educational-attainment",
@@ -1561,261 +1561,336 @@
     "text": "Who Pays for Job Training\n\nGeneral training increases productivity at many firms\n\nEmployees can take skills to other firms\n\nFirms will offer higher wages to employees with general training\n\nVery similar to schooling\n\nBut employees fund then training themselves\n\nPay for it as long as the lifetime wage increase exceeds the cost of training"
   },
   {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
+    "objectID": "slides/hcapital/index.html#who-pays-for-job-training-2",
+    "href": "slides/hcapital/index.html#who-pays-for-job-training-2",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 6",
-    "text": "BGLRS Chapter 3 Problem 6\nConsider the following earnings supplement program, modelled after the Self-Sufficiency Project. An individual can work a maximum of 60 hours per week, at a wage rate of $5 per hour. Welfare benefits are fixed at $200 per week, with a 100 percent tax back on labour earnings. Finally, the earnings supplement equals half the difference between an individual’s labour earnings and the benchmark earnings of $450 per week. This supplement can be collected only if the individual forgoes welfare benefits and works a minimum of 30 hours per week. Draw the individual’s budget constraint, and analyze the work decision."
+    "section": "Who Pays for Job Training",
+    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeneral training illustrated to left\nWithout training, employee earns wage \\(W_a\\)\nEquals VMP without training\nEmployee who gets training\n\nEarns lower wage equal to \\(VMP_t\\) during training period\nAfter training, earns higher wage equal to \\(VMP^*\\)\nTraining raises the productivity of the worker\n\nWorth it for employee to get training if present value of wage increase exceeds cost of training"
   },
   {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
+    "objectID": "slides/hcapital/index.html#who-pays-for-job-training-3",
+    "href": "slides/hcapital/index.html#who-pays-for-job-training-3",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 7",
-    "text": "BGLRS Chapter 3 Problem 7\nThe different programs discussed in this chapter often have ambiguous effects on work effort. It is, nonetheless, possible to compare the work incentives of two programs by looking at what happens when the individual is indifferent between two programs. Use this approach to compare the work incentives of the following two pairs of programs. In both cases, use graphs to show the hours of work chosen under the two programs by an individual who is indifferent between the two programs.\n\nEarned income tax credit compared to welfare"
+    "section": "Who Pays for Job Training",
+    "text": "Who Pays for Job Training\n\nDifferent for specific training\nSpecific training only increases productivity at one firm\n\nSkills not transferable to other firms\n\nCompany would pay if benefits exceed costs\n\nBenefits are higher productivity of employee\nCosts are wages paid during training period\n\nWould not have to pay higher wages\n\nThere is no competition for workers"
   },
   {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
+    "objectID": "slides/hcapital/index.html#who-pays-for-job-training-4",
+    "href": "slides/hcapital/index.html#who-pays-for-job-training-4",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 7",
-    "text": "BGLRS Chapter 3 Problem 7\n\nWages subsidy compared to a negative income tax"
+    "section": "Who Pays for Job Training",
+    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpecific training illustrated to left\nBefore and after training, employee earns wage \\(W_a\\)\nFirm costs are \\(W_a - VMP_t\\) during training period\nFirm benefits are \\(VMP^* - W_a\\) after training period\nWorth it if the present value of benefits exceeds present value of costs"
   },
   {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "objectID": "slides/hcapital/index.html#who-pays-for-job-training-5",
+    "href": "slides/hcapital/index.html#who-pays-for-job-training-5",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 3",
-    "text": "BGLRS Chapter 3 Problem 3\nUse the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would."
+    "section": "Who Pays for Job Training",
+    "text": "Who Pays for Job Training\n\nIndividuals and firms may also share the investment\n\nHappens when there is a risk of individual leaving after training\n\nFirms pay below \\(W_a\\) during the training period\n\nBut still above the VMP during the training period\n\nPay above \\(W_a\\) after training\n\nBut below the employee’s VMP\n\nIn this way the employee and employer share the costs"
   },
   {
-    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
-    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "objectID": "slides/hcapital/index.html#who-pays-for-job-training-6",
+    "href": "slides/hcapital/index.html#who-pays-for-job-training-6",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 3 Problem 4",
-    "text": "BGLRS Chapter 3 Problem 4\nConsider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is $20 per hour, and that they have nonlabour income of $100 per day. The commute takes one hour each way, and it costs $40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from $40 to $60 per round trip, keeping commuting time at two hours."
+    "section": "Who Pays for Job Training",
+    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShared specific training is depicted to the left\nDuring the training period, employers pay a premium above VMP but below \\(W_a\\)\n\nCosts are shared between employer and employee\nEmployee cost: earning less than \\(W_a\\) during training\nEmployer cost: pay above VMP during training\n\nAfter training, employers pay a premium above \\(W_a\\) but below VMP\n\nBenefits are shared between employer and employee\nEmployee benefit: earning more than \\(W_a\\) after training\nEmployer benefit: pay below VMP after training"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\n            Wages and Employment\n        ",
+    "objectID": "slides/hcapital/index.html#who-pays-for-job-training-7",
+    "href": "slides/hcapital/index.html#who-pays-for-job-training-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "Who Pays for Job Training",
+    "text": "Who Pays for Job Training\n\nFor illustrative purposes, we have depicted training as a one-time event\n\nIn reality, training is often ongoing throughout a worker’s career\nWorkers may receive multiple types of training at different times\nFirms may have formal training programs or informal on-the-job training\n\nA more gradual training leads to smoother curves\n\nBut lesson is still the same"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#who-pays-for-job-training-8",
+    "href": "slides/hcapital/index.html#who-pays-for-job-training-8",
+    "title": "EC306 - Wages and Employment",
+    "section": "Who Pays for Job Training",
+    "text": "Who Pays for Job Training\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure depicts gradual shared training\nLesson is still the same, except\n\nCosts gradually fall over time during training\nBenefits gradually get larger\n\nWorth it for employer and employee if benefits exceed costs"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#training-and-government",
+    "href": "slides/hcapital/index.html#training-and-government",
+    "title": "EC306 - Wages and Employment",
+    "section": "Training and Government",
+    "text": "Training and Government\n\nGovernments often subsidize job training programs\n\nProvide funding to firms to encourage them to train workers\nProvide funding directly to individuals to help pay for training\n\nSeveral rationales for public funding of training\n\nPositive externalities\nIndividuals may underinvest in training due to credit constraints\nImperfect information about training benefits\n\nSome current government funding initiatives\n\nCanada-Ontario Job Grant funds businesses to train employees\nNPower Canada: registered charity providing tech training, funded by government"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#training-and-government-1",
+    "href": "slides/hcapital/index.html#training-and-government-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Training and Government",
+    "text": "Training and Government\n\nAn active area of labour economics is evaluating the effectiveness of government training programs\n\nCalled Program Evaluation\n\nIn some cases, people are randomly allocated to training programs\n\nCan compare outcomes of those who received training to those who did not\nIdentifies the causal effect of training\n\nIn most cases, people self-select into training programs\n\nPeople in training and comparison groups differ in many ways besides training\nMakes it difficult to isolate the effect of training itself"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#training-and-government-2",
+    "href": "slides/hcapital/index.html#training-and-government-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Training and Government",
+    "text": "Training and Government\n\nProgram evaluation uses econometric techniques to address selection issues\n\nDifference-in-Differences (DiD): Compare changes in outcomes over time between treatment and control groups\nPropensity Score Matching (PSM): Match individuals in treatment and control groups based on observable characteristics\nInstrumental Variables (IV): Use external factors that affect training participation but not outcomes directly\n\nProgram evaluation literature shows\n\nU.S. training programs have positive results for young women from poorer backgrounds\nBut no effect for men\nThe more successful programs emphasize human capital investment over job search assistance"
+  },
+  {
+    "objectID": "slides/hcapital/index.html#summary-1",
+    "href": "slides/hcapital/index.html#summary-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Summary",
+    "text": "Summary\n\nEducation is an investment in human capital\n\nIncreases productivity and earnings potential\n\nThe Human Capital model explains schooling decisions based on costs and benefits\n\nPeople invest in schooling until marginal benefit equals marginal cost\n\nThe Signalling model emphasizes education as a signal of ability\n\nEducation reveals productivity to employers\n\nEmpirical estimates of returns to schooling are around 7-10% per year\n\nAbility bias may lead to overestimation\n\nJob training is another important way to develop human capital"
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 4 Problem 1",
+    "text": "BGLRS Chapter 4 Problem 1\nThe evaluation of the labour supply response to a tax cut can be quite different in a dynamic setting from what it is in a static setting. Discuss the relative impact of a permanent versus transitory tax cut on labour supply, and compare the analysis to the static model."
+  },
+  {
+    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
+    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 4 Problem 2",
+    "text": "BGLRS Chapter 4 Problem 2\nConsider the two-period dynamic labour supply model discussed in this chapter. What, if anything, happens to current labour supply if the interest rate rises from 2 percent to 10 percent?"
+  },
+  {
+    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
+    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 2 Problem 3",
+    "text": "BGLRS Chapter 2 Problem 3\nConsider two individuals with endowments of \\(T=60\\) hours (per week) if leisure, nonlabour income of Y, and a wage of $7.50 per hour. At this wage, assume that workers are constrained by their employers to work 40 hours per week, or not at all.\n\nOn a carefully labelled diagram, show the equilibrium for a worker for whom 40 hours is the optimum labour supply and a worker who would like to work 20 hours, but still prefers the 40 hour week to not working. Compare the marginal rates of substitution for these two workers at 40 hours per week."
+  },
+  {
+    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
+    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 2 Problem 3",
+    "text": "BGLRS Chapter 2 Problem 3\n\nThe average part-time wage is $7 per hour, in contrast to $7.50 for full-time workers. Using the above model, provide an explanation for this difference in wage rates."
+  },
+  {
+    "objectID": "content/lsupply3.html",
+    "href": "content/lsupply3.html",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
     "section": "",
-    "text": "Labour Market Economics\n        \n        \n            EC306 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Mon/Wed\n   Sept-Dec 2025\n   2:30 - 3:50 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
-  },
-  {
-    "objectID": "content/lsupply2.html",
-    "href": "content/lsupply2.html",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
-    "section": "",
-    "text": "BGLRS Chapter 3",
+    "text": "BGLRS Chapter 4",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
     ]
   },
   {
-    "objectID": "content/lsupply2.html#readings",
-    "href": "content/lsupply2.html#readings",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "objectID": "content/lsupply3.html#readings",
+    "href": "content/lsupply3.html#readings",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
     "section": "",
-    "text": "BGLRS Chapter 3",
+    "text": "BGLRS Chapter 4",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
     ]
   },
   {
-    "objectID": "content/lsupply2.html#slides",
-    "href": "content/lsupply2.html#slides",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "objectID": "content/lsupply3.html#slides",
+    "href": "content/lsupply3.html#slides",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
     ]
   },
   {
-    "objectID": "content/lsupply2.html#sample-questions",
-    "href": "content/lsupply2.html#sample-questions",
-    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "objectID": "content/lsupply3.html#sample-questions",
+    "href": "content/lsupply3.html#sample-questions",
+    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
     "section": "Sample Questions",
     "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 2: Labour Supply and Public Policy"
+      "Labour Supply 3: Labour Supply Over the Life Cycle"
     ]
   },
   {
-    "objectID": "content/lmarket.html",
-    "href": "content/lmarket.html",
-    "title": "Wages and Employment in a Single Labour Market",
+    "objectID": "content/lsupply1.html",
+    "href": "content/lsupply1.html",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "",
-    "text": "BGLRS Chapter 7",
+    "text": "BGLRS Chapter 2",
     "crumbs": [
       "Content",
       "Course content",
-      "Wages and Employment in a Single Labour Market"
+      "Labour Supply 1: Individual Attachment to the Labour Market"
     ]
   },
   {
-    "objectID": "content/lmarket.html#readings",
-    "href": "content/lmarket.html#readings",
-    "title": "Wages and Employment in a Single Labour Market",
+    "objectID": "content/lsupply1.html#readings",
+    "href": "content/lsupply1.html#readings",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "",
-    "text": "BGLRS Chapter 7",
+    "text": "BGLRS Chapter 2",
     "crumbs": [
       "Content",
       "Course content",
-      "Wages and Employment in a Single Labour Market"
+      "Labour Supply 1: Individual Attachment to the Labour Market"
     ]
   },
   {
-    "objectID": "content/lmarket.html#slides",
-    "href": "content/lmarket.html#slides",
-    "title": "Wages and Employment in a Single Labour Market",
+    "objectID": "content/lsupply1.html#slides",
+    "href": "content/lsupply1.html#slides",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Wages and Employment in a Single Labour Market"
+      "Labour Supply 1: Individual Attachment to the Labour Market"
     ]
   },
   {
-    "objectID": "content/lmarket.html#sample-questions",
-    "href": "content/lmarket.html#sample-questions",
-    "title": "Wages and Employment in a Single Labour Market",
+    "objectID": "content/lsupply1.html#sample-questions",
+    "href": "content/lsupply1.html#sample-questions",
+    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
     "section": "Sample Questions",
     "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
     "crumbs": [
       "Content",
       "Course content",
-      "Wages and Employment in a Single Labour Market"
+      "Labour Supply 1: Individual Attachment to the Labour Market"
     ]
   },
   {
-    "objectID": "content/ldemand1.html",
-    "href": "content/ldemand1.html",
-    "title": "Labour Demand 1: Competitive Labour Markets",
+    "objectID": "content/ldemand2.html",
+    "href": "content/ldemand2.html",
+    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
     "section": "",
-    "text": "BGLRS Chapter 5",
+    "text": "BGLRS Chapter 6",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Demand 1: Competitive Labour Markets"
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
     ]
   },
   {
-    "objectID": "content/ldemand1.html#readings",
-    "href": "content/ldemand1.html#readings",
-    "title": "Labour Demand 1: Competitive Labour Markets",
+    "objectID": "content/ldemand2.html#readings",
+    "href": "content/ldemand2.html#readings",
+    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
     "section": "",
-    "text": "BGLRS Chapter 5",
+    "text": "BGLRS Chapter 6",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Demand 1: Competitive Labour Markets"
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
     ]
   },
   {
-    "objectID": "content/ldemand1.html#slides",
-    "href": "content/ldemand1.html#slides",
-    "title": "Labour Demand 1: Competitive Labour Markets",
+    "objectID": "content/ldemand2.html#slides",
+    "href": "content/ldemand2.html#slides",
+    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Demand 1: Competitive Labour Markets"
+      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
     ]
   },
   {
-    "objectID": "content/introtolme.html",
-    "href": "content/introtolme.html",
-    "title": "Introduction to Labour Market Economics",
+    "objectID": "content/introtostata.html",
+    "href": "content/introtostata.html",
+    "title": "Introduction to Stata",
     "section": "",
-    "text": "BGLRS Chapter 1",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
     "crumbs": [
       "Content",
       "Course content",
-      "Intro to Labour Economics"
+      "Introduction to Stata"
     ]
   },
   {
-    "objectID": "content/introtolme.html#readings",
-    "href": "content/introtolme.html#readings",
-    "title": "Introduction to Labour Market Economics",
+    "objectID": "content/introtostata.html#tutorial",
+    "href": "content/introtostata.html#tutorial",
+    "title": "Introduction to Stata",
     "section": "",
-    "text": "BGLRS Chapter 1",
+    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
     "crumbs": [
       "Content",
       "Course content",
-      "Intro to Labour Economics"
+      "Introduction to Stata"
     ]
   },
   {
-    "objectID": "content/introtolme.html#slides",
-    "href": "content/introtolme.html#slides",
-    "title": "Introduction to Labour Market Economics",
+    "objectID": "content/introtostata.html#videos",
+    "href": "content/introtostata.html#videos",
+    "title": "Introduction to Stata",
+    "section": "Videos",
+    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/introtostata.html#other-resources",
+    "href": "content/introtostata.html#other-resources",
+    "title": "Introduction to Stata",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Introduction to Stata"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Summary",
+    "section": "",
+    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
+    "crumbs": [
+      "Content",
+      "Overview",
+      "Summary"
+    ]
+  },
+  {
+    "objectID": "content/discrim.html",
+    "href": "content/discrim.html",
+    "title": "Discrimination and Male-Female Earnings Differentials",
+    "section": "",
+    "text": "BGLRS Chapter 12",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Discrimination and Male-Female Earnings Differentials"
+    ]
+  },
+  {
+    "objectID": "content/discrim.html#readings",
+    "href": "content/discrim.html#readings",
+    "title": "Discrimination and Male-Female Earnings Differentials",
+    "section": "",
+    "text": "BGLRS Chapter 12",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Discrimination and Male-Female Earnings Differentials"
+    ]
+  },
+  {
+    "objectID": "content/discrim.html#slides",
+    "href": "content/discrim.html#slides",
+    "title": "Discrimination and Male-Female Earnings Differentials",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Intro to Labour Economics"
-    ]
-  },
-  {
-    "objectID": "content/hcapital.html",
-    "href": "content/hcapital.html",
-    "title": "Human Capital Theory",
-    "section": "",
-    "text": "BGLRS Chapter 9",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Human Capital Theory"
-    ]
-  },
-  {
-    "objectID": "content/hcapital.html#readings",
-    "href": "content/hcapital.html#readings",
-    "title": "Human Capital Theory",
-    "section": "",
-    "text": "BGLRS Chapter 9",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Human Capital Theory"
-    ]
-  },
-  {
-    "objectID": "content/hcapital.html#slides",
-    "href": "content/hcapital.html#slides",
-    "title": "Human Capital Theory",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Human Capital Theory"
-    ]
-  },
-  {
-    "objectID": "content/hcapital.html#sample-questions",
-    "href": "content/hcapital.html#sample-questions",
-    "title": "Human Capital Theory",
-    "section": "Sample Questions",
-    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Human Capital Theory"
+      "Discrimination and Male-Female Earnings Differentials"
     ]
   },
   {
@@ -1897,224 +1972,416 @@
     ]
   },
   {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "Summary",
+    "objectID": "content/hcapital.html",
+    "href": "content/hcapital.html",
+    "title": "Human Capital Theory",
     "section": "",
-    "text": "Here you will find lecture notes, recommended readings, and other useful materials for each section of the course. Use the sidebar to navigate to the appropriate section. You can go through the lecture slides directly on the page, or pop them out to a separate page. Please review each section before the lecture to familiarize yourself with the material.",
+    "text": "BGLRS Chapter 9",
     "crumbs": [
       "Content",
-      "Overview",
-      "Summary"
+      "Course content",
+      "Human Capital Theory"
     ]
   },
   {
-    "objectID": "content/introtostata.html",
-    "href": "content/introtostata.html",
-    "title": "Introduction to Stata",
+    "objectID": "content/hcapital.html#readings",
+    "href": "content/hcapital.html#readings",
+    "title": "Human Capital Theory",
     "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
+    "text": "BGLRS Chapter 9",
     "crumbs": [
       "Content",
       "Course content",
-      "Introduction to Stata"
+      "Human Capital Theory"
     ]
   },
   {
-    "objectID": "content/introtostata.html#tutorial",
-    "href": "content/introtostata.html#tutorial",
-    "title": "Introduction to Stata",
-    "section": "",
-    "text": "In class, we will go through a dofile that introduces the basics of using Stata. Please first download the instructions on using the virutual computer lab and downloading the data in the first link below. The second link has the dofile itself, which we will download in class inside of the virtual lab.\n introstatainst.pdf\n introtostata.do",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#videos",
-    "href": "content/introtostata.html#videos",
-    "title": "Introduction to Stata",
-    "section": "Videos",
-    "text": "Videos\n\nStataCorp Instructional Videos\n\nThe Stata Corporation maintains a large set of instructional videos that, thankfully, are short and to the point. In this link, there is a search feature that you can use to find specific videos for the command you are looking for.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/introtostata.html#other-resources",
-    "href": "content/introtostata.html#other-resources",
-    "title": "Introduction to Stata",
-    "section": "Other Resources",
-    "text": "Other Resources\n\nStata Cheat Sheets\n\nThese provide a quick reference sheet for common commands in Stata. A very valuable resource for both beginners and advanced users.\n\nGraphing in Stata\n\nA useful overview of the different types of graphs in Stata, and how to use them.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Introduction to Stata"
-    ]
-  },
-  {
-    "objectID": "content/ldemand2.html",
-    "href": "content/ldemand2.html",
-    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
-    "section": "",
-    "text": "BGLRS Chapter 6",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
-    ]
-  },
-  {
-    "objectID": "content/ldemand2.html#readings",
-    "href": "content/ldemand2.html#readings",
-    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
-    "section": "",
-    "text": "BGLRS Chapter 6",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
-    ]
-  },
-  {
-    "objectID": "content/ldemand2.html#slides",
-    "href": "content/ldemand2.html#slides",
-    "title": "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs",
+    "objectID": "content/hcapital.html#slides",
+    "href": "content/hcapital.html#slides",
+    "title": "Human Capital Theory",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Demand 2: Non-wage Benefits and Quasi-fixed Costs"
+      "Human Capital Theory"
     ]
   },
   {
-    "objectID": "content/lsupply1.html",
-    "href": "content/lsupply1.html",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "",
-    "text": "BGLRS Chapter 2",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#readings",
-    "href": "content/lsupply1.html#readings",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "",
-    "text": "BGLRS Chapter 2",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#slides",
-    "href": "content/lsupply1.html#slides",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
-    "section": "Slides",
-    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
-    "crumbs": [
-      "Content",
-      "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
-    ]
-  },
-  {
-    "objectID": "content/lsupply1.html#sample-questions",
-    "href": "content/lsupply1.html#sample-questions",
-    "title": "Labour Supply 1: Individual Attachment to the Labour Market",
+    "objectID": "content/hcapital.html#sample-questions",
+    "href": "content/hcapital.html#sample-questions",
+    "title": "Human Capital Theory",
     "section": "Sample Questions",
     "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 1: Individual Attachment to the Labour Market"
+      "Human Capital Theory"
     ]
   },
   {
-    "objectID": "content/lsupply3.html",
-    "href": "content/lsupply3.html",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "objectID": "content/introtolme.html",
+    "href": "content/introtolme.html",
+    "title": "Introduction to Labour Market Economics",
     "section": "",
-    "text": "BGLRS Chapter 4",
+    "text": "BGLRS Chapter 1",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
+      "Intro to Labour Economics"
     ]
   },
   {
-    "objectID": "content/lsupply3.html#readings",
-    "href": "content/lsupply3.html#readings",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "objectID": "content/introtolme.html#readings",
+    "href": "content/introtolme.html#readings",
+    "title": "Introduction to Labour Market Economics",
     "section": "",
-    "text": "BGLRS Chapter 4",
+    "text": "BGLRS Chapter 1",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
+      "Intro to Labour Economics"
     ]
   },
   {
-    "objectID": "content/lsupply3.html#slides",
-    "href": "content/lsupply3.html#slides",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "objectID": "content/introtolme.html#slides",
+    "href": "content/introtolme.html#slides",
+    "title": "Introduction to Labour Market Economics",
     "section": "Slides",
     "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
+      "Intro to Labour Economics"
     ]
   },
   {
-    "objectID": "content/lsupply3.html#sample-questions",
-    "href": "content/lsupply3.html#sample-questions",
-    "title": "Labour Supply 3: Labour Supply Over the Life Cycle",
+    "objectID": "content/ldemand1.html",
+    "href": "content/ldemand1.html",
+    "title": "Labour Demand 1: Competitive Labour Markets",
+    "section": "",
+    "text": "BGLRS Chapter 5",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 1: Competitive Labour Markets"
+    ]
+  },
+  {
+    "objectID": "content/ldemand1.html#readings",
+    "href": "content/ldemand1.html#readings",
+    "title": "Labour Demand 1: Competitive Labour Markets",
+    "section": "",
+    "text": "BGLRS Chapter 5",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 1: Competitive Labour Markets"
+    ]
+  },
+  {
+    "objectID": "content/ldemand1.html#slides",
+    "href": "content/ldemand1.html#slides",
+    "title": "Labour Demand 1: Competitive Labour Markets",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Demand 1: Competitive Labour Markets"
+    ]
+  },
+  {
+    "objectID": "content/lmarket.html",
+    "href": "content/lmarket.html",
+    "title": "Wages and Employment in a Single Labour Market",
+    "section": "",
+    "text": "BGLRS Chapter 7",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lmarket.html#readings",
+    "href": "content/lmarket.html#readings",
+    "title": "Wages and Employment in a Single Labour Market",
+    "section": "",
+    "text": "BGLRS Chapter 7",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lmarket.html#slides",
+    "href": "content/lmarket.html#slides",
+    "title": "Wages and Employment in a Single Labour Market",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Wages and Employment in a Single Labour Market"
+    ]
+  },
+  {
+    "objectID": "content/lmarket.html#sample-questions",
+    "href": "content/lmarket.html#sample-questions",
+    "title": "Wages and Employment in a Single Labour Market",
     "section": "Sample Questions",
     "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
     "crumbs": [
       "Content",
       "Course content",
-      "Labour Supply 3: Labour Supply Over the Life Cycle"
+      "Wages and Employment in a Single Labour Market"
     ]
   },
   {
-    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
-    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 2 Problem 3",
-    "text": "BGLRS Chapter 2 Problem 3\nConsider two individuals with endowments of \\(T=60\\) hours (per week) if leisure, nonlabour income of Y, and a wage of $7.50 per hour. At this wage, assume that workers are constrained by their employers to work 40 hours per week, or not at all.\n\nOn a carefully labelled diagram, show the equilibrium for a worker for whom 40 hours is the optimum labour supply and a worker who would like to work 20 hours, but still prefers the 40 hour week to not working. Compare the marginal rates of substitution for these two workers at 40 hours per week."
+    "objectID": "content/lsupply2.html",
+    "href": "content/lsupply2.html",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "",
+    "text": "BGLRS Chapter 3",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
   },
   {
-    "objectID": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
-    "href": "questions/lsupply1/index.html#bglrs-chapter-2-problem-3-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 2 Problem 3",
-    "text": "BGLRS Chapter 2 Problem 3\n\nThe average part-time wage is $7 per hour, in contrast to $7.50 for full-time workers. Using the above model, provide an explanation for this difference in wage rates."
+    "objectID": "content/lsupply2.html#readings",
+    "href": "content/lsupply2.html#readings",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "",
+    "text": "BGLRS Chapter 3",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
   },
   {
-    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
-    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 4 Problem 1",
-    "text": "BGLRS Chapter 4 Problem 1\nThe evaluation of the labour supply response to a tax cut can be quite different in a dynamic setting from what it is in a static setting. Discuss the relative impact of a permanent versus transitory tax cut on labour supply, and compare the analysis to the static model."
+    "objectID": "content/lsupply2.html#slides",
+    "href": "content/lsupply2.html#slides",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "Slides",
+    "text": "Slides\nThe slides are embedded in this page, and you can scroll through them with the arrow keys. If you prefer you can instead pop them out in a new window or download a PDF.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
   },
   {
-    "objectID": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
-    "href": "questions/lsupply3/index.html#bglrs-chapter-4-problem-2",
+    "objectID": "content/lsupply2.html#sample-questions",
+    "href": "content/lsupply2.html#sample-questions",
+    "title": "Labour Supply 2: Labour Supply and Public Policy",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Labour Supply 2: Labour Supply and Public Policy"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n            Wages and Employment\n        ",
+    "section": "",
+    "text": "Labour Market Economics\n        \n        \n            EC306 • Fall 2025Department of EconomicsLazaridis School of Business and EconomicsWilfrid Laurier University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\n\n\n\n\nInstructor\n\n   Prof. Justin Smith\n   Lazaridis Hall 3091\n   jusmith@wlu.ca\n\n\n\nCourse details\n\n   Mon/Wed\n   Sept-Dec 2025\n   2:30 - 3:50 PM\n   LH2066\n\n\n\nOffice Hours\n\n   Thur 12:30 PM - 2:30 PM\n   Schedule an appointment"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-6",
     "title": "EC306 - Wages and Employment",
-    "section": "BGLRS Chapter 4 Problem 2",
-    "text": "BGLRS Chapter 4 Problem 2\nConsider the two-period dynamic labour supply model discussed in this chapter. What, if anything, happens to current labour supply if the interest rate rises from 2 percent to 10 percent?"
+    "section": "BGLRS Chapter 3 Problem 6",
+    "text": "BGLRS Chapter 3 Problem 6\nConsider the following earnings supplement program, modelled after the Self-Sufficiency Project. An individual can work a maximum of 60 hours per week, at a wage rate of $5 per hour. Welfare benefits are fixed at $200 per week, with a 100 percent tax back on labour earnings. Finally, the earnings supplement equals half the difference between an individual’s labour earnings and the benchmark earnings of $450 per week. This supplement can be collected only if the individual forgoes welfare benefits and works a minimum of 30 hours per week. Draw the individual’s budget constraint, and analyze the work decision."
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 7",
+    "text": "BGLRS Chapter 3 Problem 7\nThe different programs discussed in this chapter often have ambiguous effects on work effort. It is, nonetheless, possible to compare the work incentives of two programs by looking at what happens when the individual is indifferent between two programs. Use this approach to compare the work incentives of the following two pairs of programs. In both cases, use graphs to show the hours of work chosen under the two programs by an individual who is indifferent between the two programs.\n\nEarned income tax credit compared to welfare"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-7-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 7",
+    "text": "BGLRS Chapter 3 Problem 7\n\nWages subsidy compared to a negative income tax"
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 3",
+    "text": "BGLRS Chapter 3 Problem 3\nUse the work-leisure framework to illustrate that if we hold the post-subsidy income of the recipients constant, or the size of the subsidy constant, a negative income tax will involve more adverse work incentives than a wage subsidy would."
+  },
+  {
+    "objectID": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "href": "questions/lsupply2/index.html#bglrs-chapter-3-problem-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "BGLRS Chapter 3 Problem 4",
+    "text": "BGLRS Chapter 3 Problem 4\nConsider an individual who must drive to their place of work. Assume that there are 16 available hours in the day, that their wage rate is $20 per hour, and that they have nonlabour income of $100 per day. The commute takes one hour each way, and it costs $40 in expenses for the round trip. Using a work-leisure diagram, depict the individual’s labour supply choice, including their reservation wage. Analyze the impact of an increase in commuting costs on their participation and hours decision. Analyze the impact, first, of an increase in commuting time from two to four hours per day, and, second, of an increase in driving expenses from $40 to $60 per round trip, keeping commuting time at two hours."
+  },
+  {
+    "objectID": "slides/discrim/index.html#goals-of-this-section-1",
+    "href": "slides/discrim/index.html#goals-of-this-section-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Goals of This Section",
+    "text": "Goals of This Section\n\nDiscuss trends in educational attainment in Canada\nIntroduce Human Capital Theory of education investment\nIntroduce Signalling Model of education investment\nDiscuss empirical methods to estimate returns to schooling\nReview empirical evidence on returns to schooling\nDiscuss job training"
+  },
+  {
+    "objectID": "slides/discrim/index.html#male-and-female-earnings",
+    "href": "slides/discrim/index.html#male-and-female-earnings",
+    "title": "EC306 - Wages and Employment",
+    "section": "Male and Female Earnings",
+    "text": "Male and Female Earnings"
+  },
+  {
+    "objectID": "slides/discrim/index.html#male-and-female-earnings-1",
+    "href": "slides/discrim/index.html#male-and-female-earnings-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Male and Female Earnings",
+    "text": "Male and Female Earnings"
+  },
+  {
+    "objectID": "slides/discrim/index.html#male-and-female-earnings-2",
+    "href": "slides/discrim/index.html#male-and-female-earnings-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Male and Female Earnings",
+    "text": "Male and Female Earnings"
+  },
+  {
+    "objectID": "slides/discrim/index.html#male-and-female-earnings-3",
+    "href": "slides/discrim/index.html#male-and-female-earnings-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Male and Female Earnings",
+    "text": "Male and Female Earnings\n\nClearly men and women earn different amounts on average\nThere are two broad explanations for this gap:\n\nDifferences in characteristics (education, experience, occupation, industry, hours worked, etc.)\nDifferences in the returns to those characteristics (discrimination)\n\nOur models so far have not left room for discrimination\n\nWe treated all workers as the same\nSo there should not be any differences in returns"
+  },
+  {
+    "objectID": "slides/discrim/index.html#male-and-female-earnings-4",
+    "href": "slides/discrim/index.html#male-and-female-earnings-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Male and Female Earnings",
+    "text": "Male and Female Earnings\n\nIn this section, we explore economic theories of discrimination\n\nCan come from employers, customers, co-workers\nCan be statistical or taste-based\n\nIt is difficult empirically to estimate discrimination\n\nNeed to control for all relevant characteristics\nNeed to separate out differences in characteristics from differences in returns\n\nThere are methods that can help us estimate discrimination\n\nOaxaca-Blinder decomposition\nAudit studies\nExperiments"
+  },
+  {
+    "objectID": "slides/discrim/index.html#demand-side-theories",
+    "href": "slides/discrim/index.html#demand-side-theories",
+    "title": "EC306 - Wages and Employment",
+    "section": "Demand-Side Theories",
+    "text": "Demand-Side Theories\n\nDemand theories focus on the behavior of employers in demanding labor\nCan happen for various reasons:\n\nPure prejudice\nCustomer preference to buy from male workers\nMale aversion to working with women\n\nThese all cause a fall in the demand for women relative to men in the labour market\n\nReduces wages and employment of female workers"
+  },
+  {
+    "objectID": "slides/discrim/index.html#taste-based-discrimination",
+    "href": "slides/discrim/index.html#taste-based-discrimination",
+    "title": "EC306 - Wages and Employment",
+    "section": "Taste-Based Discrimination",
+    "text": "Taste-Based Discrimination\n\nTheory of taste-based discrimination pioneered by Becker (1957)\nImagine that firms produce according to the production function:\n\n\\[y = f(N_m + N_w)\\]\n\nWith \\(N_m\\) indicating the number of male workers, and \\(N_f\\) indicating the number of female workers\nSo in a competitive market their profits are\n\n\\[ \\pi = p \\cdot f(N_m + N_w) - w_m N_m - w_w N_w \\]\n\nWith \\(w_m\\) indicating the wage of male workers, and \\(w_f\\) indicating the wage of female workers"
+  },
+  {
+    "objectID": "slides/discrim/index.html#taste-based-discrimination-1",
+    "href": "slides/discrim/index.html#taste-based-discrimination-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Taste-Based Discrimination",
+    "text": "Taste-Based Discrimination\n\nFirms do not maximize profit strictly, but instead maximize a utility function\n\n\\[ U = \\pi - d \\cdot N_w \\]\n\nUtility is partly a function of profit\nBut also includes \\(d\\), which measures the degree of discrimination\n\nif \\(d = 0\\), no discrimination and maximizing utility is the same as maximizing profit\nif \\(d=0\\) firms get a disutility from hiring women"
+  },
+  {
+    "objectID": "slides/discrim/index.html#taste-based-discrimination-2",
+    "href": "slides/discrim/index.html#taste-based-discrimination-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Taste-Based Discrimination",
+    "text": "Taste-Based Discrimination\n\nThe first order conditions for utility maximization are: \\[ p \\cdot MP_{N_m} = w_m \\] \\[ p \\cdot MP_{N_w} = w_w + d \\]\nFor both men and women, firms hire up to the point where the value of the marginal product equals the cost of hiring\n\nBut for women, there is an additional cost \\(d\\) due to discrimination\n\nIf \\(w_m = w_f\\), and men and women are equally productive, this implies the firm hires less women\n\nDiscrimination drives a wedge between wages and the MRP"
+  },
+  {
+    "objectID": "slides/discrim/index.html#taste-based-discrimination-3",
+    "href": "slides/discrim/index.html#taste-based-discrimination-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Taste-Based Discrimination",
+    "text": "Taste-Based Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraph plots labour demand for women\nDiscrimination shifts demand curve left\nWithout discrimination, firm hires where \\(w_f = MRP_{ND}\\)\n\n\\(ND\\) = non-discriminatory\n\nWith discrimination, firm hires where \\(w_f + d = MRP_D\\)\n\nOr equivalently \\(w_f = MRP_D - d\\)\n\nImplies a lower level of female labour"
+  },
+  {
+    "objectID": "slides/discrim/index.html#taste-based-discrimination-4",
+    "href": "slides/discrim/index.html#taste-based-discrimination-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Taste-Based Discrimination",
+    "text": "Taste-Based Discrimination\n\nAbove analysis is for a single employer\nEmployers discriminate along a spectrum\n\nSome have a high \\(d\\), some have a low or no \\(d\\)\n\nSuppose women are able to seek out the non-discriminating employers\nIf we order the firms from lowest to highest by the amount of discrimination\n\nWe can get the market demand curve by summing the individual demand curves horizontally\n\nThis demand curve is plotted on the next slide"
+  },
+  {
+    "objectID": "slides/discrim/index.html#taste-based-discrimination-5",
+    "href": "slides/discrim/index.html#taste-based-discrimination-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Taste-Based Discrimination",
+    "text": "Taste-Based Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraph plots demand for female labour in the market\nOn the vertical axis is the ration of female to male wages\nFor non-discriminating firms, this ratio is 1\n\nA certain set of firms will hire women at this ratio\nThis is the flat portion of the demand curve\n\nAs the supply of women grows, they must work at more discriminating firms\n\nThese firms will only hire when the wage ratio falls"
+  },
+  {
+    "objectID": "slides/discrim/index.html#taste-based-discrimination-6",
+    "href": "slides/discrim/index.html#taste-based-discrimination-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Taste-Based Discrimination",
+    "text": "Taste-Based Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIf the supply of female labour is small enough, they can work at non-discriminating firms\n\nWage ratio is 1\n\nWith a larger supply, some will have to work at discriminating firms\n\nWage ratio falls below 1\nThis is where the demand curve slopes downwards\nWage gap emerges"
+  },
+  {
+    "objectID": "slides/discrim/index.html#statistical-discrimination",
+    "href": "slides/discrim/index.html#statistical-discrimination",
+    "title": "EC306 - Wages and Employment",
+    "section": "Statistical Discrimination",
+    "text": "Statistical Discrimination\n\nTaste-based discrimination relies on employers having a “taste” for discrimination\n\nOvert prejudice\n\nSome discrimination may happen because of imperfect information\n\nEmployers do not know the productivity of workers perfectly\n\nInstead they use signals to infer worker quality\nWith statistical discrimination firms use group characteristics to infer individual productivity\n\nIf one group has lower average productivity, firms may pay them less on average"
+  },
+  {
+    "objectID": "slides/discrim/index.html#statistical-discrimination-1",
+    "href": "slides/discrim/index.html#statistical-discrimination-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Statistical Discrimination",
+    "text": "Statistical Discrimination"
+  },
+  {
+    "objectID": "slides/discrim/index.html#theory",
+    "href": "slides/discrim/index.html#theory",
+    "title": "EC306 - Wages and Employment",
+    "section": "Theory",
+    "text": "Theory\n\nAssume that the abilities of male and female workers are distributed with means \\(\\bar{a}_{m}\\) and \\(\\bar{a}_{f}\\)\nSuppose the firm has access to a signal of ability \\(x\\) for each person\nActual ability is not known with certainty, but expected ability is\n\n\\[a(x) = \\bar{a} + \\alpha (x - \\bar{a})\\]\n\nwhere \\(\\alpha\\) is the reliability of the signal\n\nIf \\(\\alpha = 0\\), the signal provides no information beyond the average\n\nIf \\(\\alpha = 1\\), the signal is perfectly informative\n\nWorkers are paid a wage equal to their marginal revenue product"
+  },
+  {
+    "objectID": "slides/discrim/index.html#statistical-discrimination-2",
+    "href": "slides/discrim/index.html#statistical-discrimination-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Statistical Discrimination",
+    "text": "Statistical Discrimination\n\nPaying workers their marginal revenue product implies\n\n\\[w(x) = p a(x) = p \\bar{a} + p \\alpha (x - \\bar{a})\\]\n\nTo analyze discrimination, assume \\(\\bar{a}_{m} = \\bar{a}_{f}\\)\n\nMen and women are equally productive on average\n\nAssume the signal is more reliable for men than for women\n\nIf \\(\\alpha_m &gt; \\alpha_f\\)\n\nDifferences arise between workers who score the same on the signal\n\nIf a man and woman score above average \\((x - \\bar{a} &gt; 0)\\), then \\(w(x)_m &gt; w(x)_f\\)\nIf a man and woman score below average \\((x - \\bar{a} &lt; 0)\\), then \\(w(x)_m &lt; w(x)_f\\)"
+  },
+  {
+    "objectID": "slides/discrim/index.html#statistical-discrimination-3",
+    "href": "slides/discrim/index.html#statistical-discrimination-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Statistical Discrimination",
+    "text": "Statistical Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn this graph we have wages as a function of the signal\nThe male line is steeper because the signal is more reliable (\\(\\alpha_m &gt; \\alpha_f\\))\nFor test scores above average, men are paid more\nFor test scores below average, women are paid more\nAt the average, they are paid the same"
+  },
+  {
+    "objectID": "slides/discrim/index.html#statistical-discrimination-4",
+    "href": "slides/discrim/index.html#statistical-discrimination-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Statistical Discrimination",
+    "text": "Statistical Discrimination\n\nThere are no underlying differences between males and females\n\nDifferences in wages arise because of differences in the quality of the signal\nFirms place more weight on average ability for female workers\nFirms place more weight on the actual signal for male workers\n\nAt low levels of the signal, women are paid more than men\nBut where does the assumption \\(\\alpha_m &gt; \\alpha_f\\) come from\n\nPossibly related to prejudicial attitudes of firms\nSome believe standardized tests favour males"
+  },
+  {
+    "objectID": "slides/discrim/index.html#statistical-discrimination-5",
+    "href": "slides/discrim/index.html#statistical-discrimination-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Statistical Discrimination",
+    "text": "Statistical Discrimination\n\nThere may also be differences in \\(\\bar{a}_m\\) and \\(\\bar{a}_f\\)\n\nPossibly due to pre-market discrimination leading to lower human capital among women\n\nIn this case, males are paid more at every signal level\nWage differences do not necessarily arise from overt discrimination\n\nThey may originate in differences in information signals\nBut it is difficult to explain why such differences in signal quality exist"
+  },
+  {
+    "objectID": "slides/discrim/index.html#statistical-discrimination-6",
+    "href": "slides/discrim/index.html#statistical-discrimination-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Statistical Discrimination",
+    "text": "Statistical Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn this graph the quality of the signal is the same\nSlopes of the lines are the same\nBut there are differences in average productivity\n\nMale line lies above female line\n\nMen will be paid more because of the average difference"
   },
   {
     "objectID": "slides/intro/index.html#goals-of-this-section-1",

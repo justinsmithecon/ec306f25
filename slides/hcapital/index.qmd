@@ -31,13 +31,17 @@ editor: visual
 
 ## Goals of This Section
 
--   Bring together demand and supply to determine wages and employment
+-   Discuss trends in educational attainment in Canada
 
--   Discuss the effect of market power in goods market on equilibrium wages and employment
+-   Introduce Human Capital Theory of education investment
 
--   Discuss the effect of market power in the labour market on equilibrium wages and employment
+-   Introduce Signalling Model of education investment
 
--   Analyze minimum wages
+- Discuss empirical methods to estimate returns to schooling
+
+- Review empirical evidence on returns to schooling
+
+- Discuss job training
 
 # Introduction
 
@@ -1115,3 +1119,216 @@ $$
 -   But employees fund then training themselves
 
     -   Pay for it as long as the lifetime wage increase exceeds the cost of training
+
+## Who Pays for Job Training
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/costsbenefitstrain.png){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   General training illustrated to left
+
+-   Without training, employee earns wage $W_a$
+
+-   Equals VMP without training
+
+-   Employee who gets training
+
+    -   Earns lower wage equal to $VMP_t$ during training period
+    -   After training, earns higher wage equal to $VMP^*$
+    -   Training raises the productivity of the worker
+
+-   Worth it for employee to get training if present value of wage increase exceeds cost of training
+:::
+::::::
+
+## Who Pays for Job Training
+
+-   Different for specific training
+
+-   Specific training only increases productivity at one firm
+
+    -   Skills not transferable to other firms
+
+-   Company would pay if benefits exceed costs
+
+    -   Benefits are higher productivity of employee
+    -   Costs are wages paid during training period
+
+-   Would not have to pay higher wages
+
+    -   There is no competition for workers
+
+## Who Pays for Job Training
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/costsbenefitstrain.png){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   Specific training illustrated to left
+
+-   Before and after training, employee earns wage $W_a$
+
+-   Firm costs are $W_a - VMP_t$ during training period
+
+-   Firm benefits are $VMP^* - W_a$ after training period
+
+-   Worth it if the present value of benefits exceeds present value of costs
+:::
+::::::
+
+## Who Pays for Job Training
+
+-   Individuals and firms may also share the investment
+
+    -   Happens when there is a risk of individual leaving after training
+
+-   Firms pay below $W_a$ during the training period
+
+    -   But still above the VMP during the training period
+
+-   Pay above $W_a$ after training
+
+    -   But below the employee's VMP
+
+-   In this way the employee and employer share the costs
+
+## Who Pays for Job Training
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/specifictrain.png){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   Shared specific training is depicted to the left
+
+-   During the training period, employers pay a premium above VMP but below $W_a$
+
+    -   Costs are shared between employer and employee
+    -   Employee cost: earning less than $W_a$ during training
+    -   Employer cost: pay above VMP during training
+
+-   After training, employers pay a premium above $W_a$ but below VMP
+
+    -   Benefits are shared between employer and employee
+    -   Employee benefit: earning more than $W_a$ after training
+    -   Employer benefit: pay below VMP after training
+:::
+::::::
+
+## Who Pays for Job Training
+
+-   For illustrative purposes, we have depicted training as a one-time event
+
+    -   In reality, training is often ongoing throughout a worker's career
+    -   Workers may receive multiple types of training at different times
+    -   Firms may have formal training programs or informal on-the-job training
+
+-   A more gradual training leads to smoother curves
+
+    -   But lesson is still the same
+
+## Who Pays for Job Training
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/earngrowth.png){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   Figure depicts gradual shared training
+
+-   Lesson is still the same, except
+
+    -   Costs gradually fall over time during training
+
+    -   Benefits gradually get larger
+
+-   Worth it for employer and employee if benefits exceed costs
+:::
+::::::
+
+
+## Training and Government
+
+-   Governments often subsidize job training programs
+
+    -   Provide funding to firms to encourage them to train workers
+    -   Provide funding directly to individuals to help pay for training
+    
+- Several rationales for public funding of training
+
+  -  Positive externalities 
+  - Individuals may underinvest in training due to credit constraints
+  - Imperfect information about training benefits
+  
+- Some current government funding initiatives
+
+    -   Canada-Ontario Job Grant funds businesses to train employees 
+    -   NPower Canada: registered charity providing tech training, funded by government
+    
+    
+## Training and Government
+
+- An active area of labour economics is evaluating the effectiveness of government training programs
+
+  - Called **Program Evaluation**
+  
+- In some cases, people are randomly allocated to training programs
+
+  - Can compare outcomes of those who received training to those who did not
+  - Identifies the causal effect of training
+  
+- In most cases, people self-select into training programs
+
+  - People in training and comparison groups differ in many ways besides training
+  - Makes it difficult to isolate the effect of training itself
+  
+## Training and Government
+
+- Program evaluation uses econometric techniques to address selection issues
+
+  - **Difference-in-Differences (DiD)**: Compare changes in outcomes over time between treatment and control groups
+  - **Propensity Score Matching (PSM)**: Match individuals in treatment and control groups based on observable characteristics
+  - **Instrumental Variables (IV)**: Use external factors that affect training participation but not outcomes directly
+  
+- Program evaluation literature shows
+
+  - U.S. training programs have positive results for young women from poorer backgrounds
+  - But no effect for men
+  - The more successful programs emphasize human capital investment over job search assistance
+  
+# Summary
+
+## Summary
+
+-   Education is an investment in human capital
+
+    -   Increases productivity and earnings potential
+    
+-   The Human Capital model explains schooling decisions based on costs and benefits
+
+    -   People invest in schooling until marginal benefit equals marginal cost
+    
+-   The Signalling model emphasizes education as a signal of ability
+
+    -   Education reveals productivity to employers
+    
+-   Empirical estimates of returns to schooling are around 7-10% per year
+
+    -   Ability bias may lead to overestimation
+    
+-   Job training is another important way to develop human capital

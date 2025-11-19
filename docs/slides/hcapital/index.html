@@ -156,10 +156,12 @@ Fall 2025
 <section id="goals-of-this-section-1" class="slide level2">
 <h2>Goals of This Section</h2>
 <ul>
-<li><p>Bring together demand and supply to determine wages and employment</p></li>
-<li><p>Discuss the effect of market power in goods market on equilibrium wages and employment</p></li>
-<li><p>Discuss the effect of market power in the labour market on equilibrium wages and employment</p></li>
-<li><p>Analyze minimum wages</p></li>
+<li><p>Discuss trends in educational attainment in Canada</p></li>
+<li><p>Introduce Human Capital Theory of education investment</p></li>
+<li><p>Introduce Signalling Model of education investment</p></li>
+<li><p>Discuss empirical methods to estimate returns to schooling</p></li>
+<li><p>Review empirical evidence on returns to schooling</p></li>
+<li><p>Discuss job training</p></li>
 </ul>
 </section></section>
 <section>
@@ -984,8 +986,8 @@ s^* &lt; 1
 
     <script>
 
-      function styleCell_gdrpn76e25tq8tefob4c(i, j, css_id) {
-          var table = document.getElementById("tinytable_gdrpn76e25tq8tefob4c");
+      function styleCell_r0bnuupvja7mit6yq90l(i, j, css_id) {
+          var table = document.getElementById("tinytable_r0bnuupvja7mit6yq90l");
           var cell = table.rows[i]?.cells[j];  // Safe navigation to avoid errors
           if (cell) {
               console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
@@ -995,7 +997,7 @@ s^* &lt; 1
           }
       }
       function insertSpanRow(i, colspan, content) {
-        var table = document.getElementById('tinytable_gdrpn76e25tq8tefob4c');
+        var table = document.getElementById('tinytable_r0bnuupvja7mit6yq90l');
         var newRow = table.insertRow(i);
         var newCell = newRow.insertCell(0);
         newCell.setAttribute("colspan", colspan);
@@ -1003,8 +1005,8 @@ s^* &lt; 1
         // this may be unsafe, but innerText does not interpret <br>
         newCell.innerHTML = content;
       }
-      function spanCell_gdrpn76e25tq8tefob4c(i, j, rowspan, colspan) {
-        var table = document.getElementById("tinytable_gdrpn76e25tq8tefob4c");
+      function spanCell_r0bnuupvja7mit6yq90l(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_r0bnuupvja7mit6yq90l");
         const targetRow = table.rows[i];
         const targetCell = targetRow.cells[j];
         for (let r = 0; r < rowspan; r++) {
@@ -1034,20 +1036,20 @@ s^* &lt; 1
       window.addEventListener('load', function () {
           var cellsToStyle = [
             // tinytable style arrays after
-          { positions: [ { i: 9, j: 1 }, { i: 9, j: 2 },  ], css_id: 'tinytable_css_k2ca9dqpcqd8se3hclgf',}, 
-          { positions: [ { i: 6, j: 2 }, { i: 6, j: 1 },  ], css_id: 'tinytable_css_loisc0qs53x3r9f1cuns',}, 
-          { positions: [ { i: 1, j: 1 }, { i: 3, j: 1 }, { i: 4, j: 1 }, { i: 5, j: 1 }, { i: 2, j: 1 }, { i: 7, j: 1 }, { i: 8, j: 1 }, { i: 3, j: 2 }, { i: 4, j: 2 }, { i: 1, j: 2 }, { i: 2, j: 2 }, { i: 7, j: 2 }, { i: 8, j: 2 }, { i: 5, j: 2 },  ], css_id: 'tinytable_css_2rrmtjoyydod8vruokvp',}, 
-          { positions: [ { i: 0, j: 1 }, { i: 0, j: 2 },  ], css_id: 'tinytable_css_518lidegza4lgicr4twp',}, 
-          { positions: [ { i: 9, j: 0 },  ], css_id: 'tinytable_css_jux60kgtl4q7foagtvfl',}, 
-          { positions: [ { i: 6, j: 0 },  ], css_id: 'tinytable_css_0cj2z29nnt7drsmzfcbt',}, 
-          { positions: [ { i: 1, j: 0 }, { i: 2, j: 0 }, { i: 3, j: 0 }, { i: 4, j: 0 }, { i: 5, j: 0 }, { i: 7, j: 0 }, { i: 8, j: 0 },  ], css_id: 'tinytable_css_p0u5ozkv7xndx04mgnc7',}, 
-          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_tf8gmpv4ekitwnzs0ls7',}, 
+          { positions: [ { i: 9, j: 1 }, { i: 9, j: 2 },  ], css_id: 'tinytable_css_e2fyuzy5fqijk2st31ne',}, 
+          { positions: [ { i: 6, j: 2 }, { i: 6, j: 1 },  ], css_id: 'tinytable_css_p6qzplvabem7mxw7i38s',}, 
+          { positions: [ { i: 1, j: 1 }, { i: 3, j: 1 }, { i: 4, j: 1 }, { i: 5, j: 1 }, { i: 2, j: 1 }, { i: 7, j: 1 }, { i: 8, j: 1 }, { i: 3, j: 2 }, { i: 4, j: 2 }, { i: 1, j: 2 }, { i: 2, j: 2 }, { i: 7, j: 2 }, { i: 8, j: 2 }, { i: 5, j: 2 },  ], css_id: 'tinytable_css_3wzzl5qurmdl81f4tys3',}, 
+          { positions: [ { i: 0, j: 1 }, { i: 0, j: 2 },  ], css_id: 'tinytable_css_mcjkoipgo0b53mkth8lp',}, 
+          { positions: [ { i: 9, j: 0 },  ], css_id: 'tinytable_css_wsxailpb7q1tkxzkktam',}, 
+          { positions: [ { i: 6, j: 0 },  ], css_id: 'tinytable_css_pup09aql76hzllxys3zh',}, 
+          { positions: [ { i: 1, j: 0 }, { i: 2, j: 0 }, { i: 3, j: 0 }, { i: 4, j: 0 }, { i: 5, j: 0 }, { i: 7, j: 0 }, { i: 8, j: 0 },  ], css_id: 'tinytable_css_6r6z1wl8nbqvnfw4uel5',}, 
+          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_73oqfvbosse3qtqamqh3',}, 
           ];
 
           // Loop over the arrays to style the cells
           cellsToStyle.forEach(function (group) {
               group.positions.forEach(function (cell) {
-                  styleCell_gdrpn76e25tq8tefob4c(cell.i, cell.j, group.css_id);
+                  styleCell_r0bnuupvja7mit6yq90l(cell.i, cell.j, group.css_id);
               });
           });
       });
@@ -1055,17 +1057,17 @@ s^* &lt; 1
 
     <style>
       /* tinytable css entries after */
-      .table td.tinytable_css_k2ca9dqpcqd8se3hclgf, .table th.tinytable_css_k2ca9dqpcqd8se3hclgf { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
-      .table td.tinytable_css_loisc0qs53x3r9f1cuns, .table th.tinytable_css_loisc0qs53x3r9f1cuns { text-align: center; border-bottom: solid black 0.05em; }
-      .table td.tinytable_css_2rrmtjoyydod8vruokvp, .table th.tinytable_css_2rrmtjoyydod8vruokvp { text-align: center; }
-      .table td.tinytable_css_518lidegza4lgicr4twp, .table th.tinytable_css_518lidegza4lgicr4twp { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
-      .table td.tinytable_css_jux60kgtl4q7foagtvfl, .table th.tinytable_css_jux60kgtl4q7foagtvfl { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
-      .table td.tinytable_css_0cj2z29nnt7drsmzfcbt, .table th.tinytable_css_0cj2z29nnt7drsmzfcbt { text-align: left; border-bottom: solid black 0.05em; }
-      .table td.tinytable_css_p0u5ozkv7xndx04mgnc7, .table th.tinytable_css_p0u5ozkv7xndx04mgnc7 { text-align: left; }
-      .table td.tinytable_css_tf8gmpv4ekitwnzs0ls7, .table th.tinytable_css_tf8gmpv4ekitwnzs0ls7 { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_e2fyuzy5fqijk2st31ne, .table th.tinytable_css_e2fyuzy5fqijk2st31ne { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_p6qzplvabem7mxw7i38s, .table th.tinytable_css_p6qzplvabem7mxw7i38s { text-align: center; border-bottom: solid black 0.05em; }
+      .table td.tinytable_css_3wzzl5qurmdl81f4tys3, .table th.tinytable_css_3wzzl5qurmdl81f4tys3 { text-align: center; }
+      .table td.tinytable_css_mcjkoipgo0b53mkth8lp, .table th.tinytable_css_mcjkoipgo0b53mkth8lp { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_wsxailpb7q1tkxzkktam, .table th.tinytable_css_wsxailpb7q1tkxzkktam { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_pup09aql76hzllxys3zh, .table th.tinytable_css_pup09aql76hzllxys3zh { text-align: left; border-bottom: solid black 0.05em; }
+      .table td.tinytable_css_6r6z1wl8nbqvnfw4uel5, .table th.tinytable_css_6r6z1wl8nbqvnfw4uel5 { text-align: left; }
+      .table td.tinytable_css_73oqfvbosse3qtqamqh3, .table th.tinytable_css_73oqfvbosse3qtqamqh3 { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
     </style>
     <div class="container">
-      <table class="table table-borderless" id="tinytable_gdrpn76e25tq8tefob4c" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+      <table class="table table-borderless" id="tinytable_r0bnuupvja7mit6yq90l" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
         <thead>
         
               <tr>
@@ -1423,6 +1425,277 @@ abil = \alpha_0 + \alpha_1 schl + v
 <ul>
 <li>Pay for it as long as the lifetime wage increase exceeds the cost of training</li>
 </ul></li>
+</ul>
+</section>
+<section id="who-pays-for-job-training-2" class="slide level2">
+<h2>Who Pays for Job Training</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-layout-panel" data-layout="[[-1], [1], [-1]]">
+<div class="quarto-layout-row">
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/costsbenefitstrain.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div><div class="column" style="width:50%;">
+<ul>
+<li><p>General training illustrated to left</p></li>
+<li><p>Without training, employee earns wage <span class="math inline">\(W_a\)</span></p></li>
+<li><p>Equals VMP without training</p></li>
+<li><p>Employee who gets training</p>
+<ul>
+<li>Earns lower wage equal to <span class="math inline">\(VMP_t\)</span> during training period</li>
+<li>After training, earns higher wage equal to <span class="math inline">\(VMP^*\)</span></li>
+<li>Training raises the productivity of the worker</li>
+</ul></li>
+<li><p>Worth it for employee to get training if present value of wage increase exceeds cost of training</p></li>
+</ul>
+</div></div>
+</section>
+<section id="who-pays-for-job-training-3" class="slide level2">
+<h2>Who Pays for Job Training</h2>
+<ul>
+<li><p>Different for specific training</p></li>
+<li><p>Specific training only increases productivity at one firm</p>
+<ul>
+<li>Skills not transferable to other firms</li>
+</ul></li>
+<li><p>Company would pay if benefits exceed costs</p>
+<ul>
+<li>Benefits are higher productivity of employee</li>
+<li>Costs are wages paid during training period</li>
+</ul></li>
+<li><p>Would not have to pay higher wages</p>
+<ul>
+<li>There is no competition for workers</li>
+</ul></li>
+</ul>
+</section>
+<section id="who-pays-for-job-training-4" class="slide level2">
+<h2>Who Pays for Job Training</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-layout-panel" data-layout="[[-1], [1], [-1]]">
+<div class="quarto-layout-row">
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/costsbenefitstrain.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div><div class="column" style="width:50%;">
+<ul>
+<li><p>Specific training illustrated to left</p></li>
+<li><p>Before and after training, employee earns wage <span class="math inline">\(W_a\)</span></p></li>
+<li><p>Firm costs are <span class="math inline">\(W_a - VMP_t\)</span> during training period</p></li>
+<li><p>Firm benefits are <span class="math inline">\(VMP^* - W_a\)</span> after training period</p></li>
+<li><p>Worth it if the present value of benefits exceeds present value of costs</p></li>
+</ul>
+</div></div>
+</section>
+<section id="who-pays-for-job-training-5" class="slide level2">
+<h2>Who Pays for Job Training</h2>
+<ul>
+<li><p>Individuals and firms may also share the investment</p>
+<ul>
+<li>Happens when there is a risk of individual leaving after training</li>
+</ul></li>
+<li><p>Firms pay below <span class="math inline">\(W_a\)</span> during the training period</p>
+<ul>
+<li>But still above the VMP during the training period</li>
+</ul></li>
+<li><p>Pay above <span class="math inline">\(W_a\)</span> after training</p>
+<ul>
+<li>But below the employee’s VMP</li>
+</ul></li>
+<li><p>In this way the employee and employer share the costs</p></li>
+</ul>
+</section>
+<section id="who-pays-for-job-training-6" class="slide level2">
+<h2>Who Pays for Job Training</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-layout-panel" data-layout="[[-1], [1], [-1]]">
+<div class="quarto-layout-row">
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/specifictrain.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div><div class="column" style="width:50%;">
+<ul>
+<li><p>Shared specific training is depicted to the left</p></li>
+<li><p>During the training period, employers pay a premium above VMP but below <span class="math inline">\(W_a\)</span></p>
+<ul>
+<li>Costs are shared between employer and employee</li>
+<li>Employee cost: earning less than <span class="math inline">\(W_a\)</span> during training</li>
+<li>Employer cost: pay above VMP during training</li>
+</ul></li>
+<li><p>After training, employers pay a premium above <span class="math inline">\(W_a\)</span> but below VMP</p>
+<ul>
+<li>Benefits are shared between employer and employee</li>
+<li>Employee benefit: earning more than <span class="math inline">\(W_a\)</span> after training</li>
+<li>Employer benefit: pay below VMP after training</li>
+</ul></li>
+</ul>
+</div></div>
+</section>
+<section id="who-pays-for-job-training-7" class="slide level2">
+<h2>Who Pays for Job Training</h2>
+<ul>
+<li><p>For illustrative purposes, we have depicted training as a one-time event</p>
+<ul>
+<li>In reality, training is often ongoing throughout a worker’s career</li>
+<li>Workers may receive multiple types of training at different times</li>
+<li>Firms may have formal training programs or informal on-the-job training</li>
+</ul></li>
+<li><p>A more gradual training leads to smoother curves</p>
+<ul>
+<li>But lesson is still the same</li>
+</ul></li>
+</ul>
+</section>
+<section id="who-pays-for-job-training-8" class="slide level2">
+<h2>Who Pays for Job Training</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-layout-panel" data-layout="[[-1], [1], [-1]]">
+<div class="quarto-layout-row">
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/earngrowth.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div><div class="column" style="width:50%;">
+<ul>
+<li><p>Figure depicts gradual shared training</p></li>
+<li><p>Lesson is still the same, except</p>
+<ul>
+<li><p>Costs gradually fall over time during training</p></li>
+<li><p>Benefits gradually get larger</p></li>
+</ul></li>
+<li><p>Worth it for employer and employee if benefits exceed costs</p></li>
+</ul>
+</div></div>
+</section>
+<section id="training-and-government" class="slide level2">
+<h2>Training and Government</h2>
+<ul>
+<li><p>Governments often subsidize job training programs</p>
+<ul>
+<li>Provide funding to firms to encourage them to train workers</li>
+<li>Provide funding directly to individuals to help pay for training</li>
+</ul></li>
+<li><p>Several rationales for public funding of training</p>
+<ul>
+<li>Positive externalities</li>
+<li>Individuals may underinvest in training due to credit constraints</li>
+<li>Imperfect information about training benefits</li>
+</ul></li>
+<li><p>Some current government funding initiatives</p>
+<ul>
+<li>Canada-Ontario Job Grant funds businesses to train employees</li>
+<li>NPower Canada: registered charity providing tech training, funded by government</li>
+</ul></li>
+</ul>
+</section>
+<section id="training-and-government-1" class="slide level2">
+<h2>Training and Government</h2>
+<ul>
+<li><p>An active area of labour economics is evaluating the effectiveness of government training programs</p>
+<ul>
+<li>Called <strong>Program Evaluation</strong></li>
+</ul></li>
+<li><p>In some cases, people are randomly allocated to training programs</p>
+<ul>
+<li>Can compare outcomes of those who received training to those who did not</li>
+<li>Identifies the causal effect of training</li>
+</ul></li>
+<li><p>In most cases, people self-select into training programs</p>
+<ul>
+<li>People in training and comparison groups differ in many ways besides training</li>
+<li>Makes it difficult to isolate the effect of training itself</li>
+</ul></li>
+</ul>
+</section>
+<section id="training-and-government-2" class="slide level2">
+<h2>Training and Government</h2>
+<ul>
+<li><p>Program evaluation uses econometric techniques to address selection issues</p>
+<ul>
+<li><strong>Difference-in-Differences (DiD)</strong>: Compare changes in outcomes over time between treatment and control groups</li>
+<li><strong>Propensity Score Matching (PSM)</strong>: Match individuals in treatment and control groups based on observable characteristics</li>
+<li><strong>Instrumental Variables (IV)</strong>: Use external factors that affect training participation but not outcomes directly</li>
+</ul></li>
+<li><p>Program evaluation literature shows</p>
+<ul>
+<li>U.S. training programs have positive results for young women from poorer backgrounds</li>
+<li>But no effect for men</li>
+<li>The more successful programs emphasize human capital investment over job search assistance</li>
+</ul></li>
+</ul>
+</section></section>
+<section>
+<section id="summary" class="title-slide slide level1">
+<h1>Summary</h1>
+
+</section>
+<section id="summary-1" class="slide level2">
+<h2>Summary</h2>
+<ul>
+<li><p>Education is an investment in human capital</p>
+<ul>
+<li>Increases productivity and earnings potential</li>
+</ul></li>
+<li><p>The Human Capital model explains schooling decisions based on costs and benefits</p>
+<ul>
+<li>People invest in schooling until marginal benefit equals marginal cost</li>
+</ul></li>
+<li><p>The Signalling model emphasizes education as a signal of ability</p>
+<ul>
+<li>Education reveals productivity to employers</li>
+</ul></li>
+<li><p>Empirical estimates of returns to schooling are around 7-10% per year</p>
+<ul>
+<li>Ability bias may lead to overestimation</li>
+</ul></li>
+<li><p>Job training is another important way to develop human capital</p></li>
 </ul>
 
 
