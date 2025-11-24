@@ -90,7 +90,7 @@ editor: visual
     -   Audit studies
     -   Experiments
 
-# Theories of Discrimination
+# Demand Theories of Discrimination
 
 ## Demand-Side Theories
 
@@ -269,7 +269,6 @@ $$a(x) = \bar{a} + \alpha (x - \bar{a})$$
 
 ## Statistical Discrimination
 
-
 -   Paying workers their marginal revenue product implies
 
 $$w(x) = p a(x) = p \bar{a} + p \alpha (x - \bar{a})$$
@@ -344,12 +343,487 @@ $$w(x) = p a(x) = p \bar{a} + p \alpha (x - \bar{a})$$
 ::: {.column width="50%"}
 -   In this graph the quality of the signal is the same
 
-  - Slopes of the lines are the same
+-   Slopes of the lines are the same
 
-- But there are differences in average productivity
+-   But there are differences in average productivity
 
-  - Male line lies above female line
+    -   Male line lies above female line
 
-- Men will be paid more because of the average difference
+-   Men will be paid more because of the average difference
 :::
 ::::::
+
+# Supply Theories of Discrimination
+
+## Supply-Side Theories
+
+-   We discussed demand-side theories of discrimination
+
+    -   Focused on employer behaviour
+
+-   Discrimination may also arise on the labour supply side
+
+    -   Factors that affect where women choose or are able to work
+
+## Crowding Hypothesis
+
+-   Older theory emphasizing that women are overrepresented in certain occupations
+
+-   This pushes up their labour supply in those occupations
+
+    -   Which depresses wages relative to men
+
+-   Discrimination comes from the supply side
+
+    -   Women are paid their marginal product
+    -   But are corralled into a small set of jobs, which depresses wages
+
+## Dual Labour Market Theory
+
+-   Similar in spirit to the crowding hypothesis
+
+-   Theory says there are two labour markets
+
+    -   Primary market
+
+        -   High wages, good working conditions, opportunities for advancement
+        -   Unionized, stable, expanding
+
+    -   Secondary market
+
+        -   Low wages, poor working conditions, little opportunity for advancement
+        -   Non-unionized, highly competitive, declining
+
+-   Theory posits that women are concentrated in the secondary market
+
+-   Prejudice prevents women from entering primary market
+
+## Lower Reservation Wages
+
+-   One theory is that female reservation wages are lower because
+
+    -   Costly to search for non-discriminating employers
+    -   Job search is limited by strong household ties
+    -   Ability to negotiate higher pay limited by lower threat of leaving
+
+-   With a lower reservation wage, women are more likely to be paid less
+
+    -   Contributes to pay gap
+
+-   Some evidence of this in empirical studies
+
+## Risk Aversion
+
+-   Large literature documenting that women are less aggressive/competitive in bargaining
+
+-   Also less confident in their abilities
+
+-   Evidence of this in many studies in economics and psychology
+
+-   Might mean women are less likely to compete for higher paying jobs
+
+## Differences in Preferences
+
+-   May be differences in preferences for
+
+    -   Education
+    -   Training
+    -   Hours
+    -   Work conditions
+    -   Occupation
+
+-   All of these are correlated with pay
+
+-   Issue is that these choices are sometimes a product of discrimination
+
+    -   STEM fields are an example
+    -   History of discrimination in this field may lead women not to choose it
+
+-   Hard to separate out preferences from discrimination effects
+
+    We will cover this in more detail in a few slides
+
+# Non-Competitive Theories of Discrimination
+
+## Non-Competitive Theories
+
+-   One issue with the above theories is that they assume competitive markets
+
+-   Men and women are assumed to have equal productivity
+
+-   Discriminating firms hire less women because of prejudice
+
+-   But non-discriminating firms can hire more women at lower wages
+
+    -   Would increase their profits
+
+-   Non-discriminating firms would bid up the wages of women
+
+    -   Should close the gap
+
+## Non-Competitive Theories
+
+-   But the gap continues to exist
+
+-   Non-competitive theories of discrimination try to explain this
+
+-   The unifying theme is that markets are not perfectly competitive
+
+    -   May be monopsony power, imperfect information, search frictions, etc.
+
+-   This can lead to persistent wage gaps
+
+## Imperfect Information
+
+-   Even if firms know that they can increase profits by hiring more women, they might not be able to immediately change workforce
+
+-   Hiring and recruiting are costly
+
+    -   There are search frictions
+    -   Quasi-fixed costs
+
+-   Firms may be slow to adjust to profit opportunities
+
+-   This can lead to persistent wage gaps
+
+-   But does not explain why the gaps have persisted for so long
+
+## Queueing Theory
+
+-   Some firms pay **efficiency wages**
+
+    -   Wages above the market clearing level to increase productivity
+
+-   This results in a queue of workers wanting to work at the firm
+
+    -   Due to the higher wages
+
+-   While rationing jobs, firms may discriminate
+
+## Political Pressure
+
+-   It is sometimes the case that markets decisions are overriden by political pressures
+
+-   A male-centric government or union may
+
+    -   Hire more men in government jobs
+    -   Be discriminatory with education and training
+
+-   The political pressure could come from interest groups
+
+    -   May have a lot of money to lobby the government
+
+## Monopsony Power
+
+-   Monopsony gives firms power to set wages
+
+-   Monopsonies may take advantage of relative immobility of women to lower their wages
+
+    -   Recall they may have stronger ties to household
+
+-   They may also try to pit men and women against each other
+
+    -   Create competition between the groups to lower wages
+
+## Systemic Discrimination
+
+-   Idea is that discrimination is embedded in social and economic systems
+
+-   Has been going on for so long, that it is now self-perpetuating
+
+-   Could come from
+
+    -   Existence of "old boys" mentality
+    -   Old job requirements that implicitly discriminate but continue to exist
+
+# Productivity Differences
+
+## Productivity Differences
+
+-   It may be the case that men and women have productivity differences
+
+    -   This could determine pay differences even in competitive markets
+
+-   Note: not *innate* productivity differences
+
+-   Differences coming from acquisision of human capital over time
+
+    -   Education
+    -   Training
+    -   Work experience
+
+-   If human capital investments are a choice, then pay differences are not discrimination
+
+-   But it could be that choices are influenced by discrimination
+
+## Dual Role
+
+-   Traditionally women have more of a dual role than men
+
+    -   Balance household and market work
+
+-   If this continues to be true, then women
+
+    -   Have less continuity in work (mainly from interruptions for children)
+    -   Are more likely to have periods of paid work and labour force withdrawals
+
+-   This leads to lower accumulation of human capital
+
+    -   Because there is less time to recoup the costs
+
+-   In some sense this is a rational choice
+
+    -   But is rooted in a society that does not accommodate enough for working mothers
+
+## Pre-Market Discrimination
+
+-   Discrimination may influence choices in
+
+    -   Education
+    -   Training
+    -   Career path
+
+-   Thus what looks like a rational choice is itself affected by discrimination
+
+    -   In the literature this is called **pre-market discrimination**
+
+-   Example: STEM jobs
+
+    -   Pay well, but are male dominated
+    -   Women are discouraged from entering these fields
+    -   Thus do not have access to the higher pay that comes with these jobs
+
+# Measuring Discrimination
+
+## Introduction
+
+-   Now that we have discussed theories of discrimination, how do we measure it?
+
+-   Difficult because in most cases discrimination is not directly observable
+
+    -   There is not a "discrimination" variable in datasets
+
+-   Can design experiments to measure discrimination
+
+    -   Audit studies
+    -   Field experiments
+
+-   But in most cases we have to rely on observational data
+
+## Introduction
+
+-   Measuring discrimination involves comparing people of equal productivity
+
+    -   So that any left over wage differences could be due to discrimination
+
+-   But we do not observe productivity directly
+
+-   Instead, hold constant variables related to productivity
+
+    -   Education
+    -   Experience
+    -   Occupation
+    -   Industry
+    -   Hours worked
+
+-   Then decompose wage difference into part due to characteristics and part due to other factors
+
+## Blinder-Oaxaca Decomposition
+
+-   Method to decompose differences in average earnings between any two groups into
+
+    -   Part due to differences in characteristics (explained)
+    -   Part due to differences in returns to those characteristics (unexplained)
+
+-   Suppose we estimate a regression of log earnings on observed characteristics for men and women
+
+-   The predicted value (which is also equal to the mean of log earnings) is
+
+$$ \ln(Y_m) =\hat\beta_m  \bar{X}_m $$
+
+$$ \ln(Y_f) =\hat\beta_f  \bar{X}_f $$
+
+## Blinder-Oaxaca Decomposition
+
+-   The difference in average log earnings is
+
+$$ \ln(Y_m) - \ln(Y_f) = \hat\beta_m  \bar{X}_m - \hat\beta_f  \bar{X}_f $$
+
+-   We can add and subtract $\hat\beta_m  \bar{X}_f$ to get
+
+$$ \ln(Y_m) - \ln(Y_f) = \hat\beta_m  (\bar{X}_m - \bar{X}_f) + \bar{X}_f (\hat\beta_m - \hat\beta_f) $$
+
+-   Doing this allows us to separate the difference into two parts
+
+-   The first part is the explained part
+
+    -   Due to differences in characteristics
+    -   Holds the slope constant at $\hat\beta_m$ and looks at differences in average $X$
+
+## Blinder-Oaxaca Decomposition
+
+-   The second part is the unexplained part
+
+    -   Due to differences in returns to characteristics
+    -   Holds the average characteristics constant at $\bar{X}_f$ and looks at differences in slopes
+    -   The slopes are the returns to characteristics
+
+-   Traditionally, the unexplained part is interpreted as discrimination
+
+    -   But could also be due to unobserved productivity differences
+
+## Blinder-Oaxaca Decomposition
+
+![](images/oaxaca.png){fig-align="center"}
+
+## Blinder-Oaxaca Decomposition
+
+- Here is an example of how this works
+
+- Suppose we have run the following regression separately for men and women
+
+$$
+\ln Y  = \beta_0 + \beta_1 \text{Educ} + \beta_2 \text{Experience}
+$$
+
+- The estimated coefficients are:
+
+- Men: $\beta^M = (\beta_0^M, \beta_1^M, \beta_2^M) = (2.0,\; 0.10,\; 0.02)$  
+- Women: $\beta^F = (\beta_0^F, \beta_1^F, \beta_2^F) = (1.8,\; 0.08,\; 0.015)$
+
+
+## Blinder-Oaxaca Decomposition
+
+- The mean of the observed characteristics are
+
+- Men: $\bar{\text{Educ}}_M = 14$, $\bar{\text{Exp}}_M = 15$  
+- Women: $\bar{\text{Educ}}_F = 13$, $\bar{\text{Exp}}_F = 12$
+
+
+- The average predicted log wage for men
+
+$$
+\bar{ln Y}_M
+= 2.0 + 0.10 \cdot 14 + 0.02 \cdot 15
+= 2.0 + 1.4 + 0.3
+= 3.7
+$$
+
+
+## Blinder-Oaxaca Decomposition
+
+- The average predicted log wage for women
+
+$$
+\bar{ln Y}_F
+= 1.8 + 0.08 \cdot 13 + 0.015 \cdot 12
+= 1.8 + 1.04 + 0.18
+= 3.02
+$$
+
+- The wage gap us therefore
+
+$$
+\bar{ln Y}_M - \bar{ln Y}_F = 3.70 - 3.02 = 0.68
+$$
+
+- This says that the wage gap is about $0.68$ log points
+
+  - Roughly a 68% higher wage for men
+
+## Blinder-Oaxaca Decomposition
+
+We decompose:
+
+$$
+\bar{\ln Y}_M - \bar{\ln Y}_F = \text{Explained} + \text{Unexplained}
+$$
+
+
+- Explained (due to characteristics) component is
+
+$$
+\text{Explained} 
+= (\bar{X}_M - \bar{X}_F)\beta^M
+$$
+
+- Compute differences in means:
+
+- Education: $14 - 13 = 1$  
+- Experience: $15 - 12 = 3$
+
+## Blinder-Oaxaca Decomposition
+
+
+- Then:
+
+$$
+\text{Explained}
+= 1 \cdot 0.10 + 3 \cdot 0.02
+= 0.10 + 0.06
+= 0.16
+$$
+
+-About $0.16$ log points of the gap are due to men having more education and experience.
+
+
+
+-Unexplained (slopes) component is
+
+$$
+\text{Unexplained (slopes)}
+= \bar{X}_F \left(\beta_M - \beta_F\right)
+$$
+
+- Coefficient differences:
+
+- Education: $0.10 - 0.08 = 0.02$  
+- Experience: $0.02 - 0.015 = 0.005$
+
+
+## Blinder-Oaxaca Decomposition
+
+
+- Then:
+
+$$
+\text{Unexplained (slopes)}
+= 13 \cdot 0.02 + 12 \cdot 0.005
+= 0.26 + 0.06
+= 0.32
+$$
+
+
+
+- Intercept difference:
+
+
+$$
+\beta_{0M} - \beta_{0F} = 2.0 - 1.8 = 0.20
+$$
+
+- This is also part of the unexplained component (baseline difference not due to $X$).
+
+
+- Total unexplained:
+
+$$
+\text{Unexplained (total)} 
+= 0.32 + 0.20 = 0.52
+$$
+
+
+## Blinder-Oaxaca Decomposition
+
+- The decomposition is therefore:
+
+$$
+0.68 = \underbrace{0.16}_{\text{explained}} + \underbrace{0.52}_{\text{unexplained}}
+$$
+
+- Interpretation:
+
+- Explained: $0.16$ (about $24\%$ of the gap)  
+  - Due to men having higher average education and experience.  
+- Unexplained: $0.52$ (about $76\%$ of the gap)  
+  - Due to different returns to characteristics and intercept differences  
