@@ -1060,6 +1060,466 @@ Fall 2025
 <li>Due to different returns to characteristics and intercept differences</li>
 </ul></li>
 </ul>
+</section>
+<section id="blinder-oaxaca-decomposition-11" class="slide level2">
+<h2>Blinder-Oaxaca Decomposition</h2>
+<ul>
+<li><p>Here is an example using real data from Canada</p>
+<ul>
+<li>Labour Force Survey from September 2025</li>
+<li>Restricted to people aged 35-54</li>
+<li>Have wages <span class="math inline">\(&gt;0\)</span></li>
+</ul></li>
+<li><p>First examine some summary statistics</p></li>
+<li><p>Then do a regular regression</p></li>
+<li><p>Finish with decomposition</p></li>
+</ul>
+</section>
+<section id="blinder-oaxaca-decomposition-12" class="slide level2">
+<h2>Blinder-Oaxaca Decomposition</h2>
+
+<img data-src="index_files/figure-revealjs/unnamed-chunk-1-1.png" width="960" class="r-stretch"></section>
+<section id="blinder-oaxaca-decomposition-13" class="slide level2">
+<h2>Blinder-Oaxaca Decomposition</h2>
+
+<img data-src="index_files/figure-revealjs/unnamed-chunk-2-1.png" width="960" class="r-stretch"></section>
+<section id="blinder-oaxaca-decomposition-14" class="slide level2">
+<h2>Blinder-Oaxaca Decomposition</h2>
+
+<img data-src="index_files/figure-revealjs/unnamed-chunk-3-1.png" width="960" class="r-stretch"></section>
+<section id="blinder-oaxaca-decomposition-15" class="slide level2">
+<h2>Blinder-Oaxaca Decomposition</h2>
+
+<img data-src="index_files/figure-revealjs/unnamed-chunk-4-1.png" width="960" class="r-stretch"></section>
+<section id="blinder-oaxaca-decomposition-16" class="slide level2">
+<h2>Blinder-Oaxaca Decomposition</h2>
+<div class="cell">
+<div class="cell-output-display">
+<!-- preamble start -->
+
+    <script>
+
+      function styleCell_8iduphb6evz7jvli47pn(i, j, css_id) {
+          var table = document.getElementById("tinytable_8iduphb6evz7jvli47pn");
+          var cell = table.rows[i]?.cells[j];  // Safe navigation to avoid errors
+          if (cell) {
+              console.log(`Styling cell at (${i}, ${j}) with class ${css_id}`);
+              cell.classList.add(css_id);
+          } else {
+              console.warn(`Cell at (${i}, ${j}) not found.`);
+          }
+      }
+      function insertSpanRow(i, colspan, content) {
+        var table = document.getElementById('tinytable_8iduphb6evz7jvli47pn');
+        var newRow = table.insertRow(i);
+        var newCell = newRow.insertCell(0);
+        newCell.setAttribute("colspan", colspan);
+        // newCell.innerText = content;
+        // this may be unsafe, but innerText does not interpret <br>
+        newCell.innerHTML = content;
+      }
+      function spanCell_8iduphb6evz7jvli47pn(i, j, rowspan, colspan) {
+        var table = document.getElementById("tinytable_8iduphb6evz7jvli47pn");
+        const targetRow = table.rows[i];
+        const targetCell = targetRow.cells[j];
+        for (let r = 0; r < rowspan; r++) {
+          // Only start deleting cells to the right for the first row (r == 0)
+          if (r === 0) {
+            // Delete cells to the right of the target cell in the first row
+            for (let c = colspan - 1; c > 0; c--) {
+              if (table.rows[i + r].cells[j + c]) {
+                table.rows[i + r].deleteCell(j + c);
+              }
+            }
+          }
+          // For rows below the first, delete starting from the target column
+          if (r > 0) {
+            for (let c = colspan - 1; c >= 0; c--) {
+              if (table.rows[i + r] && table.rows[i + r].cells[j]) {
+                table.rows[i + r].deleteCell(j);
+              }
+            }
+          }
+        }
+        // Set rowspan and colspan of the target cell
+        targetCell.rowSpan = rowspan;
+        targetCell.colSpan = colspan;
+      }
+      // tinytable span after
+      window.addEventListener('load', function () {
+          var cellsToStyle = [
+            // tinytable style arrays after
+          { positions: [ { i: 10, j: 2 }, { i: 10, j: 1 }, { i: 10, j: 3 },  ], css_id: 'tinytable_css_37nzmydh2n1xdhq15z54',}, 
+          { positions: [ { i: 2, j: 3 }, { i: 2, j: 1 }, { i: 2, j: 2 },  ], css_id: 'tinytable_css_7w612n1x40rx5g0iwl4f',}, 
+          { positions: [ { i: 4, j: 2 }, { i: 4, j: 1 }, { i: 1, j: 1 }, { i: 6, j: 1 }, { i: 3, j: 1 }, { i: 8, j: 1 }, { i: 5, j: 1 }, { i: 1, j: 3 }, { i: 7, j: 1 }, { i: 1, j: 2 }, { i: 4, j: 3 }, { i: 3, j: 2 }, { i: 6, j: 3 }, { i: 5, j: 2 }, { i: 6, j: 2 }, { i: 7, j: 2 }, { i: 8, j: 2 }, { i: 9, j: 2 }, { i: 3, j: 3 }, { i: 9, j: 1 }, { i: 5, j: 3 }, { i: 7, j: 3 }, { i: 8, j: 3 }, { i: 9, j: 3 },  ], css_id: 'tinytable_css_upuddq7wywkrupelg18d',}, 
+          { positions: [ { i: 0, j: 1 }, { i: 0, j: 3 }, { i: 0, j: 2 },  ], css_id: 'tinytable_css_6tp7nckj0l5ho24gxq3t',}, 
+          { positions: [ { i: 10, j: 0 },  ], css_id: 'tinytable_css_su7q6fba4tjkuv7r7ezo',}, 
+          { positions: [ { i: 2, j: 0 },  ], css_id: 'tinytable_css_wij5ew411z3vcc8u1rdq',}, 
+          { positions: [ { i: 1, j: 0 }, { i: 6, j: 0 }, { i: 3, j: 0 }, { i: 4, j: 0 }, { i: 5, j: 0 }, { i: 7, j: 0 }, { i: 8, j: 0 }, { i: 9, j: 0 },  ], css_id: 'tinytable_css_bi397ks7ctrzay8v9xeh',}, 
+          { positions: [ { i: 0, j: 0 },  ], css_id: 'tinytable_css_a06moqyg2ub9s87ozh9g',}, 
+          ];
+
+          // Loop over the arrays to style the cells
+          cellsToStyle.forEach(function (group) {
+              group.positions.forEach(function (cell) {
+                  styleCell_8iduphb6evz7jvli47pn(cell.i, cell.j, group.css_id);
+              });
+          });
+      });
+    </script>
+
+    <style>
+      /* tinytable css entries after */
+      .table td.tinytable_css_37nzmydh2n1xdhq15z54, .table th.tinytable_css_37nzmydh2n1xdhq15z54 { text-align: center; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_7w612n1x40rx5g0iwl4f, .table th.tinytable_css_7w612n1x40rx5g0iwl4f { text-align: center; border-bottom: solid black 0.05em; }
+      .table td.tinytable_css_upuddq7wywkrupelg18d, .table th.tinytable_css_upuddq7wywkrupelg18d { text-align: center; }
+      .table td.tinytable_css_6tp7nckj0l5ho24gxq3t, .table th.tinytable_css_6tp7nckj0l5ho24gxq3t { text-align: center; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+      .table td.tinytable_css_su7q6fba4tjkuv7r7ezo, .table th.tinytable_css_su7q6fba4tjkuv7r7ezo { text-align: left; border-bottom: solid #d3d8dc 0.1em; }
+      .table td.tinytable_css_wij5ew411z3vcc8u1rdq, .table th.tinytable_css_wij5ew411z3vcc8u1rdq { text-align: left; border-bottom: solid black 0.05em; }
+      .table td.tinytable_css_bi397ks7ctrzay8v9xeh, .table th.tinytable_css_bi397ks7ctrzay8v9xeh { text-align: left; }
+      .table td.tinytable_css_a06moqyg2ub9s87ozh9g, .table th.tinytable_css_a06moqyg2ub9s87ozh9g { text-align: left; border-top: solid #d3d8dc 0.1em; border-bottom: solid #d3d8dc 0.05em; }
+    </style>
+    <div class="container">
+      <table class="table table-borderless" id="tinytable_8iduphb6evz7jvli47pn" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing="true">
+        <thead>
+        
+              <tr>
+                <th scope="col"> </th>
+                <th scope="col">Wage</th>
+                <th scope="col">Log Wage</th>
+                <th scope="col">Log Wage (with Controls)</th>
+              </tr>
+        </thead>
+        
+        <tbody>
+                <tr>
+                  <td>Women</td>
+                  <td>-5.032</td>
+                  <td>-0.122</td>
+                  <td>-0.174</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td>(0.247)</td>
+                  <td>(0.006)</td>
+                  <td>(0.005)</td>
+                </tr>
+                <tr>
+                  <td>Num.Obs.</td>
+                  <td>25233</td>
+                  <td>25233</td>
+                  <td>25233</td>
+                </tr>
+                <tr>
+                  <td>R2</td>
+                  <td>0.016</td>
+                  <td>0.018</td>
+                  <td>0.227</td>
+                </tr>
+                <tr>
+                  <td>R2 Adj.</td>
+                  <td>0.016</td>
+                  <td>0.018</td>
+                  <td>0.226</td>
+                </tr>
+                <tr>
+                  <td>AIC</td>
+                  <td>221896.5</td>
+                  <td>212082.5</td>
+                  <td>206091.9</td>
+                </tr>
+                <tr>
+                  <td>BIC</td>
+                  <td>221920.9</td>
+                  <td>212106.9</td>
+                  <td>206335.9</td>
+                </tr>
+                <tr>
+                  <td>Log.Lik.</td>
+                  <td>-110945.268</td>
+                  <td>-15494.659</td>
+                  <td>-12472.344</td>
+                </tr>
+                <tr>
+                  <td>F</td>
+                  <td>413.611</td>
+                  <td>466.878</td>
+                  <td>264.816</td>
+                </tr>
+                <tr>
+                  <td>RMSE</td>
+                  <td>19.65</td>
+                  <td>0.45</td>
+                  <td>0.40</td>
+                </tr>
+        </tbody>
+      </table>
+    </div>
+<!-- hack to avoid NA insertion in last line -->
+</div>
+</div>
+</section>
+<section id="blinder-oaxaca-decomposition-17" class="slide level2">
+<h2>Blinder-Oaxaca Decomposition</h2>
+<div class="cell">
+<div class="cell-output-display">
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Component</th>
+<th style="text-align: right;">Estimate</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Overall Difference</td>
+<td style="text-align: right;">0.122</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Explained (Endowments)</td>
+<td style="text-align: right;">-0.051</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Unexplained (Coefficients)</td>
+<td style="text-align: right;">0.173</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>
+<section id="collider-bias" class="slide level2">
+<h2>Collider Bias</h2>
+<ul>
+<li><p>Sometimes researchers will control for variables in a regression to adjust the wage gap</p>
+<ul>
+<li>What is the gap if we hold constant age, education, experience, occupation, industry, hours worked, etc.</li>
+</ul></li>
+<li><p>The idea is to compare people who are the same on all relevant characteristics</p>
+<ul>
+<li>So that any remaining difference is (possibly) due to discrimination</li>
+</ul></li>
+<li><p>When doing this, you run into a tricky issue called <strong>collider bias</strong></p>
+<ul>
+<li>Controlling for certain variables can actually <strong>create bias</strong> in estimates</li>
+</ul></li>
+</ul>
+</section>
+<section id="collider-bias-1" class="slide level2">
+<h2>Collider Bias</h2>
+<ul>
+<li><p>Easiest to understand with an example</p></li>
+<li><p>Suppose we examine the tech industry</p>
+<ul>
+<li>Men and women have equal ability in the general population</li>
+<li>Ability is positively related to wages</li>
+<li>Women face discrimination in tech, so to get the job they must have very high ability</li>
+<li>Men can enter even with moderate ability</li>
+</ul></li>
+<li><p>If you look at the wage gap in tech jobs, it might appear to favour women</p>
+<ul>
+<li>In the same occupation, women will have <strong>higher</strong> ability because they had to overcome discrimination</li>
+<li>So comparing men and women within occupation <strong>creates</strong> ability bias</li>
+</ul></li>
+</ul>
+</section>
+<section id="collider-bias-2" class="slide level2">
+<h2>Collider Bias</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-layout-panel" data-layout="[[-1], [1], [-1]]">
+<div class="quarto-layout-row">
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/google.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</div><div class="column" style="width:50%;">
+<ul>
+<li><p>This happened at Google several years back</p></li>
+<li><p>There was a complaint that women were being underpaid</p></li>
+<li><p>But they did an analysis and found that <strong>men</strong> were underpaid</p></li>
+<li><p>Was a perfect example of collider bias</p>
+<ul>
+<li>They looked within jobs</li>
+<li>Women of very high ability were likely selected into those jobs</li>
+<li>Their wages were higher because of that</li>
+</ul></li>
+</ul>
+</div></div>
+</section>
+<section id="collider-bias-3" class="slide level2">
+<h2>Collider Bias</h2>
+<ul>
+<li><p>How to avoid collider bias?</p></li>
+<li><p>Do not add variables that are outcomes of discrimination to regression</p>
+<ul>
+<li>Occupation is often an outcome of discrimination</li>
+<li>Industry may also be an outcome</li>
+</ul></li>
+<li><p>Instead include only predetermined characteristics</p>
+<ul>
+<li>Things that are not affected by discrimination</li>
+<li>Includes mainly basic demographics, possibly education and exprience</li>
+</ul></li>
+</ul>
+</section></section>
+<section>
+<section id="additional-evidence-on-gender-pay-gaps" class="title-slide slide level1">
+<h1>Additional Evidence on Gender Pay Gaps</h1>
+
+</section>
+<section id="introduction-3" class="slide level2">
+<h2>Introduction</h2>
+<ul>
+<li><p>There has been significant statistical work on this issue</p></li>
+<li><p>Why?</p>
+<ul>
+<li>Its importance</li>
+<li>Availability of data</li>
+</ul></li>
+<li><p>We will briefly review some of the evidence here</p>
+<ul>
+<li>A slightly greater focus on Canadian studies</li>
+</ul></li>
+</ul>
+</section>
+<section id="evidence" class="slide level2">
+<h2>Evidence</h2>
+<ul>
+<li><p>Across several studies, women in Canada earn about 60% of what men earn</p></li>
+<li><p>After controlling for characteristics, the gap shrinks to about 85%</p></li>
+<li><p>Pay gap is smaller in the public sector</p>
+<ul>
+<li>Pay practices are more egalitarian in the government</li>
+</ul></li>
+<li><p>Gap has been falling over time</p>
+<ul>
+<li>Many factors could contribute to this</li>
+</ul></li>
+<li><p>Internationally, gaps are smaller with stronger bargaining structures</p></li>
+<li><p>Gap is smaller the more competitive the industry</p></li>
+</ul>
+</section>
+<section id="evidence-1" class="slide level2">
+<h2>Evidence</h2>
+<ul>
+<li><p>Occupational segregation does not explain a large part of the gap</p>
+<ul>
+<li>Gap is explained more by <em>industry</em> rather than occupation</li>
+</ul></li>
+<li><p>Women face career penalties from family responsibilities</p></li>
+<li><p>Glass ceilings are an observed phenomenon</p>
+<ul>
+<li>At the top end of the pay distribution, gaps are larger</li>
+<li>Lots of international evidence of differences in career advancement</li>
+</ul></li>
+<li><p>Unions have a higher impact on women than men</p>
+<ul>
+<li>Offset by the fact that women are less likely to be unionized</li>
+</ul></li>
+</ul>
+</section>
+<section id="evidence-2" class="slide level2">
+<h2>Evidence</h2>
+<ul>
+<li><p>Mixed evidence on job protected leave</p>
+<ul>
+<li>Leave is good because it protects jobs for women</li>
+<li>But might make employers less likely to hire women in the first place</li>
+<li>Evidence shows it lowers wages for women in the U.S.</li>
+<li>In Canada it increases job continuity</li>
+</ul></li>
+<li><p>Some evidence that gap grows with more work experience</p>
+<ul>
+<li>Upon initial entry, gap is small</li>
+<li>Grows over time</li>
+</ul></li>
+</ul>
+</section></section>
+<section>
+<section id="other-groups" class="title-slide slide level1">
+<h1>Other Groups</h1>
+
+</section>
+<section id="introduction-4" class="slide level2">
+<h2>Introduction</h2>
+<ul>
+<li><p>The chapter is nominally about gender wage gaps</p></li>
+<li><p>But the same techniques can be used to estimate gaps for other groups</p></li>
+<li><p>This is usually done by race or ethnicity</p>
+<ul>
+<li>U.S. studies have focused in particular on racial discrimination</li>
+</ul></li>
+<li><p>We will briefly cover this here</p></li>
+</ul>
+</section>
+<section id="evidence-for-other-groups" class="slide level2">
+<h2>Evidence for Other Groups</h2>
+<ul>
+<li><p>Indigenous peoples in Canada face significant wage gaps</p>
+<ul>
+<li>About 85% of non-Indigenous wages off reserve</li>
+<li>Shrinks after controlling for characteristics</li>
+</ul></li>
+<li><p>Some work on ethnic-white wage gaps in Canada</p>
+<ul>
+<li>Complicated by the fact that many non-white Canadians are also immigrants</li>
+<li>Immigration has its own independent effect on wages</li>
+<li>Controlling for this, gaps are very high</li>
+<li>Summarized on next slide</li>
+</ul></li>
+</ul>
+</section>
+<section id="evidence-for-other-groups-1" class="slide level2">
+<h2>Evidence for Other Groups</h2>
+
+<img data-src="images/ben54842_tb1201.jpg" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="evidence-for-other-groups-2" class="slide level2">
+<h2>Evidence for Other Groups</h2>
+<ul>
+<li><p>Evidence is different in the U.S.</p></li>
+<li><p>Large literature on Black-white wage gaps</p>
+<ul>
+<li><p>About 68% of white wages</p></li>
+<li><p>Shrinks when controlling for past test scores (as measure of pre-market productivity)</p>
+<ul>
+<li>Discrimination also coming from pre-market factors</li>
+</ul></li>
+<li><p>Large component of discrimination</p></li>
+</ul></li>
+<li><p>Gaps favour Chinese and Southeast Asian workers</p>
+<ul>
+<li>Not the same in Canada</li>
+</ul></li>
+</ul>
+</section></section>
+<section>
+<section id="policies-to-combat-gender-discrimination" class="title-slide slide level1">
+<h1>Policies to Combat Gender Discrimination</h1>
+
+</section>
+<section id="introduction-5" class="slide level2">
+<h2>Introduction</h2>
+<ul>
+<li><p>Gender discrimination has been an issue for a long time</p></li>
+<li><p>Several policies are enacted to combat these</p></li>
+<li><p>Some examples:</p>
+<ul>
+<li>Equal pay</li>
+<li>Equal employment opportunity</li>
+<li>Policies to facilitate female employment</li>
+</ul></li>
+</ul>
 
 
 </section></section>
@@ -1280,6 +1740,44 @@ Fall 2025
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")

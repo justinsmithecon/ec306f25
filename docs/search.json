@@ -1894,6 +1894,18 @@
     ]
   },
   {
+    "objectID": "content/discrim.html#sample-questions",
+    "href": "content/discrim.html#sample-questions",
+    "title": "Discrimination and Male-Female Earnings Differentials",
+    "section": "Sample Questions",
+    "text": "Sample Questions\nA PDF with all the in-class questions covered in class is here. Note that we cover the solutions live in class, so they are not posted here.",
+    "crumbs": [
+      "Content",
+      "Course content",
+      "Discrimination and Male-Female Earnings Differentials"
+    ]
+  },
+  {
     "objectID": "assignments/assign2.html",
     "href": "assignments/assign2.html",
     "title": "Assignment 2",
@@ -2382,6 +2394,349 @@
     "title": "EC306 - Wages and Employment",
     "section": "Statistical Discrimination",
     "text": "Statistical Discrimination\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\nIn this graph the quality of the signal is the same\nSlopes of the lines are the same\nBut there are differences in average productivity\n\nMale line lies above female line\n\nMen will be paid more because of the average difference"
+  },
+  {
+    "objectID": "slides/discrim/index.html#supply-side-theories",
+    "href": "slides/discrim/index.html#supply-side-theories",
+    "title": "EC306 - Wages and Employment",
+    "section": "Supply-Side Theories",
+    "text": "Supply-Side Theories\n\nWe discussed demand-side theories of discrimination\n\nFocused on employer behaviour\n\nDiscrimination may also arise on the labour supply side\n\nFactors that affect where women choose or are able to work"
+  },
+  {
+    "objectID": "slides/discrim/index.html#crowding-hypothesis",
+    "href": "slides/discrim/index.html#crowding-hypothesis",
+    "title": "EC306 - Wages and Employment",
+    "section": "Crowding Hypothesis",
+    "text": "Crowding Hypothesis\n\nOlder theory emphasizing that women are overrepresented in certain occupations\nThis pushes up their labour supply in those occupations\n\nWhich depresses wages relative to men\n\nDiscrimination comes from the supply side\n\nWomen are paid their marginal product\nBut are corralled into a small set of jobs, which depresses wages"
+  },
+  {
+    "objectID": "slides/discrim/index.html#dual-labour-market-theory",
+    "href": "slides/discrim/index.html#dual-labour-market-theory",
+    "title": "EC306 - Wages and Employment",
+    "section": "Dual Labour Market Theory",
+    "text": "Dual Labour Market Theory\n\nSimilar in spirit to the crowding hypothesis\nTheory says there are two labour markets\n\nPrimary market\n\nHigh wages, good working conditions, opportunities for advancement\nUnionized, stable, expanding\n\nSecondary market\n\nLow wages, poor working conditions, little opportunity for advancement\nNon-unionized, highly competitive, declining\n\n\nTheory posits that women are concentrated in the secondary market\nPrejudice prevents women from entering primary market"
+  },
+  {
+    "objectID": "slides/discrim/index.html#lower-reservation-wages",
+    "href": "slides/discrim/index.html#lower-reservation-wages",
+    "title": "EC306 - Wages and Employment",
+    "section": "Lower Reservation Wages",
+    "text": "Lower Reservation Wages\n\nOne theory is that female reservation wages are lower because\n\nCostly to search for non-discriminating employers\nJob search is limited by strong household ties\nAbility to negotiate higher pay limited by lower threat of leaving\n\nWith a lower reservation wage, women are more likely to be paid less\n\nContributes to pay gap\n\nSome evidence of this in empirical studies"
+  },
+  {
+    "objectID": "slides/discrim/index.html#risk-aversion",
+    "href": "slides/discrim/index.html#risk-aversion",
+    "title": "EC306 - Wages and Employment",
+    "section": "Risk Aversion",
+    "text": "Risk Aversion\n\nLarge literature documenting that women are less aggressive/competitive in bargaining\nAlso less confident in their abilities\nEvidence of this in many studies in economics and psychology\nMight mean women are less likely to compete for higher paying jobs"
+  },
+  {
+    "objectID": "slides/discrim/index.html#differences-in-preferences",
+    "href": "slides/discrim/index.html#differences-in-preferences",
+    "title": "EC306 - Wages and Employment",
+    "section": "Differences in Preferences",
+    "text": "Differences in Preferences\n\nMay be differences in preferences for\n\nEducation\nTraining\nHours\nWork conditions\nOccupation\n\nAll of these are correlated with pay\nIssue is that these choices are sometimes a product of discrimination\n\nSTEM fields are an example\nHistory of discrimination in this field may lead women not to choose it\n\nHard to separate out preferences from discrimination effects\nWe will cover this in more detail in a few slides"
+  },
+  {
+    "objectID": "slides/discrim/index.html#non-competitive-theories",
+    "href": "slides/discrim/index.html#non-competitive-theories",
+    "title": "EC306 - Wages and Employment",
+    "section": "Non-Competitive Theories",
+    "text": "Non-Competitive Theories\n\nOne issue with the above theories is that they assume competitive markets\nMen and women are assumed to have equal productivity\nDiscriminating firms hire less women because of prejudice\nBut non-discriminating firms can hire more women at lower wages\n\nWould increase their profits\n\nNon-discriminating firms would bid up the wages of women\n\nShould close the gap"
+  },
+  {
+    "objectID": "slides/discrim/index.html#non-competitive-theories-1",
+    "href": "slides/discrim/index.html#non-competitive-theories-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Non-Competitive Theories",
+    "text": "Non-Competitive Theories\n\nBut the gap continues to exist\nNon-competitive theories of discrimination try to explain this\nThe unifying theme is that markets are not perfectly competitive\n\nMay be monopsony power, imperfect information, search frictions, etc.\n\nThis can lead to persistent wage gaps"
+  },
+  {
+    "objectID": "slides/discrim/index.html#imperfect-information",
+    "href": "slides/discrim/index.html#imperfect-information",
+    "title": "EC306 - Wages and Employment",
+    "section": "Imperfect Information",
+    "text": "Imperfect Information\n\nEven if firms know that they can increase profits by hiring more women, they might not be able to immediately change workforce\nHiring and recruiting are costly\n\nThere are search frictions\nQuasi-fixed costs\n\nFirms may be slow to adjust to profit opportunities\nThis can lead to persistent wage gaps\nBut does not explain why the gaps have persisted for so long"
+  },
+  {
+    "objectID": "slides/discrim/index.html#queueing-theory",
+    "href": "slides/discrim/index.html#queueing-theory",
+    "title": "EC306 - Wages and Employment",
+    "section": "Queueing Theory",
+    "text": "Queueing Theory\n\nSome firms pay efficiency wages\n\nWages above the market clearing level to increase productivity\n\nThis results in a queue of workers wanting to work at the firm\n\nDue to the higher wages\n\nWhile rationing jobs, firms may discriminate"
+  },
+  {
+    "objectID": "slides/discrim/index.html#political-pressure",
+    "href": "slides/discrim/index.html#political-pressure",
+    "title": "EC306 - Wages and Employment",
+    "section": "Political Pressure",
+    "text": "Political Pressure\n\nIt is sometimes the case that markets decisions are overriden by political pressures\nA male-centric government or union may\n\nHire more men in government jobs\nBe discriminatory with education and training\n\nThe political pressure could come from interest groups\n\nMay have a lot of money to lobby the government"
+  },
+  {
+    "objectID": "slides/discrim/index.html#monopsony-power",
+    "href": "slides/discrim/index.html#monopsony-power",
+    "title": "EC306 - Wages and Employment",
+    "section": "Monopsony Power",
+    "text": "Monopsony Power\n\nMonopsony gives firms power to set wages\nMonopsonies may take advantage of relative immobility of women to lower their wages\n\nRecall they may have stronger ties to household\n\nThey may also try to pit men and women against each other\n\nCreate competition between the groups to lower wages"
+  },
+  {
+    "objectID": "slides/discrim/index.html#systemic-discrimination",
+    "href": "slides/discrim/index.html#systemic-discrimination",
+    "title": "EC306 - Wages and Employment",
+    "section": "Systemic Discrimination",
+    "text": "Systemic Discrimination\n\nIdea is that discrimination is embedded in social and economic systems\nHas been going on for so long, that it is now self-perpetuating\nCould come from\n\nExistence of “old boys” mentality\nOld job requirements that implicitly discriminate but continue to exist"
+  },
+  {
+    "objectID": "slides/discrim/index.html#productivity-differences-1",
+    "href": "slides/discrim/index.html#productivity-differences-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Productivity Differences",
+    "text": "Productivity Differences\n\nIt may be the case that men and women have productivity differences\n\nThis could determine pay differences even in competitive markets\n\nNote: not innate productivity differences\nDifferences coming from acquisision of human capital over time\n\nEducation\nTraining\nWork experience\n\nIf human capital investments are a choice, then pay differences are not discrimination\nBut it could be that choices are influenced by discrimination"
+  },
+  {
+    "objectID": "slides/discrim/index.html#dual-role",
+    "href": "slides/discrim/index.html#dual-role",
+    "title": "EC306 - Wages and Employment",
+    "section": "Dual Role",
+    "text": "Dual Role\n\nTraditionally women have more of a dual role than men\n\nBalance household and market work\n\nIf this continues to be true, then women\n\nHave less continuity in work (mainly from interruptions for children)\nAre more likely to have periods of paid work and labour force withdrawals\n\nThis leads to lower accumulation of human capital\n\nBecause there is less time to recoup the costs\n\nIn some sense this is a rational choice\n\nBut is rooted in a society that does not accommodate enough for working mothers"
+  },
+  {
+    "objectID": "slides/discrim/index.html#pre-market-discrimination",
+    "href": "slides/discrim/index.html#pre-market-discrimination",
+    "title": "EC306 - Wages and Employment",
+    "section": "Pre-Market Discrimination",
+    "text": "Pre-Market Discrimination\n\nDiscrimination may influence choices in\n\nEducation\nTraining\nCareer path\n\nThus what looks like a rational choice is itself affected by discrimination\n\nIn the literature this is called pre-market discrimination\n\nExample: STEM jobs\n\nPay well, but are male dominated\nWomen are discouraged from entering these fields\nThus do not have access to the higher pay that comes with these jobs"
+  },
+  {
+    "objectID": "slides/discrim/index.html#introduction-1",
+    "href": "slides/discrim/index.html#introduction-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nNow that we have discussed theories of discrimination, how do we measure it?\nDifficult because in most cases discrimination is not directly observable\n\nThere is not a “discrimination” variable in datasets\n\nCan design experiments to measure discrimination\n\nAudit studies\nField experiments\n\nBut in most cases we have to rely on observational data"
+  },
+  {
+    "objectID": "slides/discrim/index.html#introduction-2",
+    "href": "slides/discrim/index.html#introduction-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nMeasuring discrimination involves comparing people of equal productivity\n\nSo that any left over wage differences could be due to discrimination\n\nBut we do not observe productivity directly\nInstead, hold constant variables related to productivity\n\nEducation\nExperience\nOccupation\nIndustry\nHours worked\n\nThen decompose wage difference into part due to characteristics and part due to other factors"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\nMethod to decompose differences in average earnings between any two groups into\n\nPart due to differences in characteristics (explained)\nPart due to differences in returns to those characteristics (unexplained)\n\nSuppose we estimate a regression of log earnings on observed characteristics for men and women\nThe predicted value (which is also equal to the mean of log earnings) is\n\n\\[ \\ln(Y_m) =\\hat\\beta_m  \\bar{X}_m \\]\n\\[ \\ln(Y_f) =\\hat\\beta_f  \\bar{X}_f \\]"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-1",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\nThe difference in average log earnings is\n\n\\[ \\ln(Y_m) - \\ln(Y_f) = \\hat\\beta_m  \\bar{X}_m - \\hat\\beta_f  \\bar{X}_f \\]\n\nWe can add and subtract \\(\\hat\\beta_m  \\bar{X}_f\\) to get\n\n\\[ \\ln(Y_m) - \\ln(Y_f) = \\hat\\beta_m  (\\bar{X}_m - \\bar{X}_f) + \\bar{X}_f (\\hat\\beta_m - \\hat\\beta_f) \\]\n\nDoing this allows us to separate the difference into two parts\nThe first part is the explained part\n\nDue to differences in characteristics\nHolds the slope constant at \\(\\hat\\beta_m\\) and looks at differences in average \\(X\\)"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-2",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\nThe second part is the unexplained part\n\nDue to differences in returns to characteristics\nHolds the average characteristics constant at \\(\\bar{X}_f\\) and looks at differences in slopes\nThe slopes are the returns to characteristics\n\nTraditionally, the unexplained part is interpreted as discrimination\n\nBut could also be due to unobserved productivity differences"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-3",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-4",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\nHere is an example of how this works\nSuppose we have run the following regression separately for men and women\n\n\\[\n\\ln Y  = \\beta_0 + \\beta_1 \\text{Educ} + \\beta_2 \\text{Experience}\n\\]\n\nThe estimated coefficients are:\nMen: \\(\\beta^M = (\\beta_0^M, \\beta_1^M, \\beta_2^M) = (2.0,\\; 0.10,\\; 0.02)\\)\n\nWomen: \\(\\beta^F = (\\beta_0^F, \\beta_1^F, \\beta_2^F) = (1.8,\\; 0.08,\\; 0.015)\\)"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-5",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\nThe mean of the observed characteristics are\nMen: \\(\\bar{\\text{Educ}}_M = 14\\), \\(\\bar{\\text{Exp}}_M = 15\\)\n\nWomen: \\(\\bar{\\text{Educ}}_F = 13\\), \\(\\bar{\\text{Exp}}_F = 12\\)\nThe average predicted log wage for men\n\n\\[\n\\bar{ln Y}_M\n= 2.0 + 0.10 \\cdot 14 + 0.02 \\cdot 15\n= 2.0 + 1.4 + 0.3\n= 3.7\n\\]"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-6",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-6",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\nThe average predicted log wage for women\n\n\\[\n\\bar{ln Y}_F\n= 1.8 + 0.08 \\cdot 13 + 0.015 \\cdot 12\n= 1.8 + 1.04 + 0.18\n= 3.02\n\\]\n\nThe wage gap us therefore\n\n\\[\n\\bar{ln Y}_M - \\bar{ln Y}_F = 3.70 - 3.02 = 0.68\n\\]\n\nThis says that the wage gap is about \\(0.68\\) log points\n\nRoughly a 68% higher wage for men"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-7",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-7",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\nWe decompose:\n\\[\n\\bar{\\ln Y}_M - \\bar{\\ln Y}_F = \\text{Explained} + \\text{Unexplained}\n\\]\n\nExplained (due to characteristics) component is\n\n\\[\n\\text{Explained}\n= (\\bar{X}_M - \\bar{X}_F)\\beta^M\n\\]\n\nCompute differences in means:\nEducation: \\(14 - 13 = 1\\)\n\nExperience: \\(15 - 12 = 3\\)"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-8",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-8",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\nThen:\n\n\\[\n\\text{Explained}\n= 1 \\cdot 0.10 + 3 \\cdot 0.02\n= 0.10 + 0.06\n= 0.16\n\\]\n-About \\(0.16\\) log points of the gap are due to men having more education and experience.\n-Unexplained (slopes) component is\n\\[\n\\text{Unexplained (slopes)}\n= \\bar{X}_F \\left(\\beta_M - \\beta_F\\right)\n\\]\n\nCoefficient differences:\nEducation: \\(0.10 - 0.08 = 0.02\\)\n\nExperience: \\(0.02 - 0.015 = 0.005\\)"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-9",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-9",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\nThen:\n\n\\[\n\\text{Unexplained (slopes)}\n= 13 \\cdot 0.02 + 12 \\cdot 0.005\n= 0.26 + 0.06\n= 0.32\n\\]\n\nIntercept difference:\n\n\\[\n\\beta_{0M} - \\beta_{0F} = 2.0 - 1.8 = 0.20\n\\]\n\nThis is also part of the unexplained component (baseline difference not due to \\(X\\)).\nTotal unexplained:\n\n\\[\n\\text{Unexplained (total)}\n= 0.32 + 0.20 = 0.52\n\\]"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-10",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-10",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\nThe decomposition is therefore:\n\n\\[\n0.68 = \\underbrace{0.16}_{\\text{explained}} + \\underbrace{0.52}_{\\text{unexplained}}\n\\]\n\nInterpretation:\nExplained: \\(0.16\\) (about \\(24\\%\\) of the gap)\n\nDue to men having higher average education and experience.\n\n\nUnexplained: \\(0.52\\) (about \\(76\\%\\) of the gap)\n\nDue to different returns to characteristics and intercept differences"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-11",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-11",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\nHere is an example using real data from Canada\n\nLabour Force Survey from September 2025\nRestricted to people aged 35-54\nHave wages \\(&gt;0\\)\n\nFirst examine some summary statistics\nThen do a regular regression\nFinish with decomposition"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-12",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-12",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-13",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-13",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-14",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-14",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-15",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-15",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-16",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-16",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\n\n\n\n    \n\n    \n    \n      \n        \n        \n              \n                 \n                Wage\n                Log Wage\n                Log Wage (with Controls)\n              \n        \n        \n        \n                \n                  Women\n                  -5.032\n                  -0.122\n                  -0.174\n                \n                \n                  \n                  (0.247)\n                  (0.006)\n                  (0.005)\n                \n                \n                  Num.Obs.\n                  25233\n                  25233\n                  25233\n                \n                \n                  R2\n                  0.016\n                  0.018\n                  0.227\n                \n                \n                  R2 Adj.\n                  0.016\n                  0.018\n                  0.226\n                \n                \n                  AIC\n                  221896.5\n                  212082.5\n                  206091.9\n                \n                \n                  BIC\n                  221920.9\n                  212106.9\n                  206335.9\n                \n                \n                  Log.Lik.\n                  -110945.268\n                  -15494.659\n                  -12472.344\n                \n                \n                  F\n                  413.611\n                  466.878\n                  264.816\n                \n                \n                  RMSE\n                  19.65\n                  0.45\n                  0.40"
+  },
+  {
+    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-17",
+    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-17",
+    "title": "EC306 - Wages and Employment",
+    "section": "Blinder-Oaxaca Decomposition",
+    "text": "Blinder-Oaxaca Decomposition\n\n\n\n\n\nComponent\nEstimate\n\n\n\n\nOverall Difference\n0.122\n\n\nExplained (Endowments)\n-0.051\n\n\nUnexplained (Coefficients)\n0.173"
+  },
+  {
+    "objectID": "slides/discrim/index.html#collider-bias",
+    "href": "slides/discrim/index.html#collider-bias",
+    "title": "EC306 - Wages and Employment",
+    "section": "Collider Bias",
+    "text": "Collider Bias\n\nSometimes researchers will control for variables in a regression to adjust the wage gap\n\nWhat is the gap if we hold constant age, education, experience, occupation, industry, hours worked, etc.\n\nThe idea is to compare people who are the same on all relevant characteristics\n\nSo that any remaining difference is (possibly) due to discrimination\n\nWhen doing this, you run into a tricky issue called collider bias\n\nControlling for certain variables can actually create bias in estimates"
+  },
+  {
+    "objectID": "slides/discrim/index.html#collider-bias-1",
+    "href": "slides/discrim/index.html#collider-bias-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Collider Bias",
+    "text": "Collider Bias\n\nEasiest to understand with an example\nSuppose we examine the tech industry\n\nMen and women have equal ability in the general population\nAbility is positively related to wages\nWomen face discrimination in tech, so to get the job they must have very high ability\nMen can enter even with moderate ability\n\nIf you look at the wage gap in tech jobs, it might appear to favour women\n\nIn the same occupation, women will have higher ability because they had to overcome discrimination\nSo comparing men and women within occupation creates ability bias"
+  },
+  {
+    "objectID": "slides/discrim/index.html#collider-bias-2",
+    "href": "slides/discrim/index.html#collider-bias-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Collider Bias",
+    "text": "Collider Bias\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis happened at Google several years back\nThere was a complaint that women were being underpaid\nBut they did an analysis and found that men were underpaid\nWas a perfect example of collider bias\n\nThey looked within jobs\nWomen of very high ability were likely selected into those jobs\nTheir wages were higher because of that"
+  },
+  {
+    "objectID": "slides/discrim/index.html#collider-bias-3",
+    "href": "slides/discrim/index.html#collider-bias-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Collider Bias",
+    "text": "Collider Bias\n\nHow to avoid collider bias?\nDo not add variables that are outcomes of discrimination to regression\n\nOccupation is often an outcome of discrimination\nIndustry may also be an outcome\n\nInstead include only predetermined characteristics\n\nThings that are not affected by discrimination\nIncludes mainly basic demographics, possibly education and exprience"
+  },
+  {
+    "objectID": "slides/discrim/index.html#introduction-3",
+    "href": "slides/discrim/index.html#introduction-3",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nThere has been significant statistical work on this issue\nWhy?\n\nIts importance\nAvailability of data\n\nWe will briefly review some of the evidence here\n\nA slightly greater focus on Canadian studies"
+  },
+  {
+    "objectID": "slides/discrim/index.html#evidence",
+    "href": "slides/discrim/index.html#evidence",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence",
+    "text": "Evidence\n\nAcross several studies, women in Canada earn about 60% of what men earn\nAfter controlling for characteristics, the gap shrinks to about 85%\nPay gap is smaller in the public sector\n\nPay practices are more egalitarian in the government\n\nGap has been falling over time\n\nMany factors could contribute to this\n\nInternationally, gaps are smaller with stronger bargaining structures\nGap is smaller the more competitive the industry"
+  },
+  {
+    "objectID": "slides/discrim/index.html#evidence-1",
+    "href": "slides/discrim/index.html#evidence-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence",
+    "text": "Evidence\n\nOccupational segregation does not explain a large part of the gap\n\nGap is explained more by industry rather than occupation\n\nWomen face career penalties from family responsibilities\nGlass ceilings are an observed phenomenon\n\nAt the top end of the pay distribution, gaps are larger\nLots of international evidence of differences in career advancement\n\nUnions have a higher impact on women than men\n\nOffset by the fact that women are less likely to be unionized"
+  },
+  {
+    "objectID": "slides/discrim/index.html#evidence-2",
+    "href": "slides/discrim/index.html#evidence-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence",
+    "text": "Evidence\n\nMixed evidence on job protected leave\n\nLeave is good because it protects jobs for women\nBut might make employers less likely to hire women in the first place\nEvidence shows it lowers wages for women in the U.S.\nIn Canada it increases job continuity\n\nSome evidence that gap grows with more work experience\n\nUpon initial entry, gap is small\nGrows over time"
+  },
+  {
+    "objectID": "slides/discrim/index.html#introduction-4",
+    "href": "slides/discrim/index.html#introduction-4",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nThe chapter is nominally about gender wage gaps\nBut the same techniques can be used to estimate gaps for other groups\nThis is usually done by race or ethnicity\n\nU.S. studies have focused in particular on racial discrimination\n\nWe will briefly cover this here"
+  },
+  {
+    "objectID": "slides/discrim/index.html#evidence-for-other-groups",
+    "href": "slides/discrim/index.html#evidence-for-other-groups",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence for Other Groups",
+    "text": "Evidence for Other Groups\n\nIndigenous peoples in Canada face significant wage gaps\n\nAbout 85% of non-Indigenous wages off reserve\nShrinks after controlling for characteristics\n\nSome work on ethnic-white wage gaps in Canada\n\nComplicated by the fact that many non-white Canadians are also immigrants\nImmigration has its own independent effect on wages\nControlling for this, gaps are very high\nSummarized on next slide"
+  },
+  {
+    "objectID": "slides/discrim/index.html#evidence-for-other-groups-1",
+    "href": "slides/discrim/index.html#evidence-for-other-groups-1",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence for Other Groups",
+    "text": "Evidence for Other Groups"
+  },
+  {
+    "objectID": "slides/discrim/index.html#evidence-for-other-groups-2",
+    "href": "slides/discrim/index.html#evidence-for-other-groups-2",
+    "title": "EC306 - Wages and Employment",
+    "section": "Evidence for Other Groups",
+    "text": "Evidence for Other Groups\n\nEvidence is different in the U.S.\nLarge literature on Black-white wage gaps\n\nAbout 68% of white wages\nShrinks when controlling for past test scores (as measure of pre-market productivity)\n\nDiscrimination also coming from pre-market factors\n\nLarge component of discrimination\n\nGaps favour Chinese and Southeast Asian workers\n\nNot the same in Canada"
+  },
+  {
+    "objectID": "slides/discrim/index.html#introduction-5",
+    "href": "slides/discrim/index.html#introduction-5",
+    "title": "EC306 - Wages and Employment",
+    "section": "Introduction",
+    "text": "Introduction\n\nGender discrimination has been an issue for a long time\nSeveral policies are enacted to combat these\nSome examples:\n\nEqual pay\nEqual employment opportunity\nPolicies to facilitate female employment"
   },
   {
     "objectID": "slides/intro/index.html#goals-of-this-section-1",
@@ -3558,208 +3913,5 @@
     "title": "EC306 - Wages and Employment",
     "section": "Summary",
     "text": "Summary\n\nLabour supply varies over the life cycle\n\nParticipation highest in prime working years\n\nA life cycle approach helps us understand these patterns\nDynamic life cycle models can analyze effects of wage changes\n\nPermanent unanticipated changes\nAnticipated future changes\nTemporary unanticipated changes\n\nHousehold production is an important part of labour supply decisions\n\nPeople allocate time between work, household production, and leisure\nChanges in prices of goods and time costs affect these choices\n\nFertility decisions are affected by income, prices, tastes, and technology\nRetirement decisions are affected by age, wealth, health, family, and pensions"
-  },
-  {
-    "objectID": "slides/discrim/index.html#supply-side-theories",
-    "href": "slides/discrim/index.html#supply-side-theories",
-    "title": "EC306 - Wages and Employment",
-    "section": "Supply-Side Theories",
-    "text": "Supply-Side Theories\n\nWe discussed demand-side theories of discrimination\n\nFocused on employer behaviour\n\nDiscrimination may also arise on the labour supply side\n\nFactors that affect where women choose or are able to work"
-  },
-  {
-    "objectID": "slides/discrim/index.html#crowding-hypothesis",
-    "href": "slides/discrim/index.html#crowding-hypothesis",
-    "title": "EC306 - Wages and Employment",
-    "section": "Crowding Hypothesis",
-    "text": "Crowding Hypothesis\n\nOlder theory emphasizing that women are overrepresented in certain occupations\nThis pushes up their labour supply in those occupations\n\nWhich depresses wages relative to men\n\nDiscrimination comes from the supply side\n\nWomen are paid their marginal product\nBut are corralled into a small set of jobs, which depresses wages"
-  },
-  {
-    "objectID": "slides/discrim/index.html#dual-labour-market-theory",
-    "href": "slides/discrim/index.html#dual-labour-market-theory",
-    "title": "EC306 - Wages and Employment",
-    "section": "Dual Labour Market Theory",
-    "text": "Dual Labour Market Theory\n\nSimilar in spirit to the crowding hypothesis\nTheory says there are two labour markets\n\nPrimary market\n\nHigh wages, good working conditions, opportunities for advancement\nUnionized, stable, expanding\n\nSecondary market\n\nLow wages, poor working conditions, little opportunity for advancement\nNon-unionized, highly competitive, declining\n\n\nTheory posits that women are concentrated in the secondary market\nPrejudice prevents women from entering primary market"
-  },
-  {
-    "objectID": "slides/discrim/index.html#lower-reservation-wages",
-    "href": "slides/discrim/index.html#lower-reservation-wages",
-    "title": "EC306 - Wages and Employment",
-    "section": "Lower Reservation Wages",
-    "text": "Lower Reservation Wages\n\nOne theory is that female reservation wages are lower because\n\nCostly to search for non-discriminating employers\nJob search is limited by strong household ties\nAbility to negotiate higher pay limited by lower threat of leaving\n\nWith a lower reservation wage, women are more likely to be paid less\n\nContributes to pay gap\n\nSome evidence of this in empirical studies"
-  },
-  {
-    "objectID": "slides/discrim/index.html#risk-aversion",
-    "href": "slides/discrim/index.html#risk-aversion",
-    "title": "EC306 - Wages and Employment",
-    "section": "Risk Aversion",
-    "text": "Risk Aversion\n\nLarge literature documenting that women are less aggressive/competitive in bargaining\nAlso less confident in their abilities\nEvidence of this in many studies in economics and psychology\nMight mean women are less likely to compete for higher paying jobs"
-  },
-  {
-    "objectID": "slides/discrim/index.html#differences-in-preferences",
-    "href": "slides/discrim/index.html#differences-in-preferences",
-    "title": "EC306 - Wages and Employment",
-    "section": "Differences in Preferences",
-    "text": "Differences in Preferences\n\nMay be differences in preferences for\n\nEducation\nTraining\nHours\nWork conditions\nOccupation\n\nAll of these are correlated with pay\nIssue is that these choices are sometimes a product of discrimination\n\nSTEM fields are an example\nHistory of discrimination in this field may lead women not to choose it\n\nHard to separate out preferences from discrimination effects\nWe will cover this in more detail in a few slides"
-  },
-  {
-    "objectID": "slides/discrim/index.html#non-competitive-theories",
-    "href": "slides/discrim/index.html#non-competitive-theories",
-    "title": "EC306 - Wages and Employment",
-    "section": "Non-Competitive Theories",
-    "text": "Non-Competitive Theories\n\nOne issue with the above theories is that they assume competitive markets\nMen and women are assumed to have equal productivity\nDiscriminating firms hire less women because of prejudice\nBut non-discriminating firms can hire more women at lower wages\n\nWould increase their profits\n\nNon-discriminating firms would bid up the wages of women\n\nShould close the gap"
-  },
-  {
-    "objectID": "slides/discrim/index.html#non-competitive-theories-1",
-    "href": "slides/discrim/index.html#non-competitive-theories-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Non-Competitive Theories",
-    "text": "Non-Competitive Theories\n\nBut the gap continues to exist\nNon-competitive theories of discrimination try to explain this\nThe unifying theme is that markets are not perfectly competitive\n\nMay be monopsony power, imperfect information, search frictions, etc.\n\nThis can lead to persistent wage gaps"
-  },
-  {
-    "objectID": "slides/discrim/index.html#imperfect-information",
-    "href": "slides/discrim/index.html#imperfect-information",
-    "title": "EC306 - Wages and Employment",
-    "section": "Imperfect Information",
-    "text": "Imperfect Information\n\nEven if firms know that they can increase profits by hiring more women, they might not be able to immediately change workforce\nHiring and recruiting are costly\n\nThere are search frictions\nQuasi-fixed costs\n\nFirms may be slow to adjust to profit opportunities\nThis can lead to persistent wage gaps\nBut does not explain why the gaps have persisted for so long"
-  },
-  {
-    "objectID": "slides/discrim/index.html#queueing-theory",
-    "href": "slides/discrim/index.html#queueing-theory",
-    "title": "EC306 - Wages and Employment",
-    "section": "Queueing Theory",
-    "text": "Queueing Theory\n\nSome firms pay efficiency wages\n\nWages above the market clearing level to increase productivity\n\nThis results in a queue of workers wanting to work at the firm\n\nDue to the higher wages\n\nWhile rationing jobs, firms may discriminate"
-  },
-  {
-    "objectID": "slides/discrim/index.html#political-pressure",
-    "href": "slides/discrim/index.html#political-pressure",
-    "title": "EC306 - Wages and Employment",
-    "section": "Political Pressure",
-    "text": "Political Pressure\n\nIt is sometimes the case that markets decisions are overriden by political pressures\nA male-centric government or union may\n\nHire more men in government jobs\nBe discriminatory with education and training\n\nThe political pressure could come from interest groups\n\nMay have a lot of money to lobby the government"
-  },
-  {
-    "objectID": "slides/discrim/index.html#monopsony-power",
-    "href": "slides/discrim/index.html#monopsony-power",
-    "title": "EC306 - Wages and Employment",
-    "section": "Monopsony Power",
-    "text": "Monopsony Power\n\nMonopsony gives firms power to set wages\nMonopsonies may take advantage of relative immobility of women to lower their wages\n\nRecall they may have stronger ties to household\n\nThey may also try to pit men and women against each other\n\nCreate competition between the groups to lower wages"
-  },
-  {
-    "objectID": "slides/discrim/index.html#systemic-discrimination",
-    "href": "slides/discrim/index.html#systemic-discrimination",
-    "title": "EC306 - Wages and Employment",
-    "section": "Systemic Discrimination",
-    "text": "Systemic Discrimination\n\nIdea is that discrimination is embedded in social and economic systems\nHas been going on for so long, that it is now self-perpetuating\nCould come from\n\nExistence of “old boys” mentality\nOld job requirements that implicitly discriminate but continue to exist"
-  },
-  {
-    "objectID": "slides/discrim/index.html#productivity-differences-1",
-    "href": "slides/discrim/index.html#productivity-differences-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Productivity Differences",
-    "text": "Productivity Differences\n\nIt may be the case that men and women have productivity differences\n\nThis could determine pay differences even in competitive markets\n\nNote: not innate productivity differences\nDifferences coming from acquisision of human capital over time\n\nEducation\nTraining\nWork experience\n\nIf human capital investments are a choice, then pay differences are not discrimination\nBut it could be that choices are influenced by discrimination"
-  },
-  {
-    "objectID": "slides/discrim/index.html#dual-role",
-    "href": "slides/discrim/index.html#dual-role",
-    "title": "EC306 - Wages and Employment",
-    "section": "Dual Role",
-    "text": "Dual Role\n\nTraditionally women have more of a dual role than men\n\nBalance household and market work\n\nIf this continues to be true, then women\n\nHave less continuity in work (mainly from interruptions for children)\nAre more likely to have periods of paid work and labour force withdrawals\n\nThis leads to lower accumulation of human capital\n\nBecause there is less time to recoup the costs\n\nIn some sense this is a rational choice\n\nBut is rooted in a society that does not accommodate enough for working mothers"
-  },
-  {
-    "objectID": "slides/discrim/index.html#pre-market-discrimination",
-    "href": "slides/discrim/index.html#pre-market-discrimination",
-    "title": "EC306 - Wages and Employment",
-    "section": "Pre-Market Discrimination",
-    "text": "Pre-Market Discrimination\n\nDiscrimination may influence choices in\n\nEducation\nTraining\nCareer path\n\nThus what looks like a rational choice is itself affected by discrimination\n\nIn the literature this is called pre-market discrimination\n\nExample: STEM jobs\n\nPay well, but are male dominated\nWomen are discouraged from entering these fields\nThus do not have access to the higher pay that comes with these jobs"
-  },
-  {
-    "objectID": "slides/discrim/index.html#introduction-1",
-    "href": "slides/discrim/index.html#introduction-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Introduction",
-    "text": "Introduction\n\nNow that we have discussed theories of discrimination, how do we measure it?\nDifficult because in most cases discrimination is not directly observable\n\nThere is not a “discrimination” variable in datasets\n\nCan design experiments to measure discrimination\n\nAudit studies\nField experiments\n\nBut in most cases we have to rely on observational data"
-  },
-  {
-    "objectID": "slides/discrim/index.html#introduction-2",
-    "href": "slides/discrim/index.html#introduction-2",
-    "title": "EC306 - Wages and Employment",
-    "section": "Introduction",
-    "text": "Introduction\n\nMeasuring discrimination involves comparing people of equal productivity\n\nSo that any left over wage differences could be due to discrimination\n\nBut we do not observe productivity directly\nInstead, hold constant variables related to productivity\n\nEducation\nExperience\nOccupation\nIndustry\nHours worked\n\nThen decompose wage difference into part due to characteristics and part due to other factors"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nMethod to decompose differences in average earnings between any two groups into\n\nPart due to differences in characteristics (explained)\nPart due to differences in returns to those characteristics (unexplained)\n\nSuppose we estimate a regression of log earnings on observed characteristics for men and women\nThe predicted value (which is also equal to the mean of log earnings) is\n\n\\[ \\ln(Y_m) =\\hat\\beta_m  \\bar{X}_m \\]\n\\[ \\ln(Y_f) =\\hat\\beta_f  \\bar{X}_f \\]"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-1",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-1",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThe difference in average log earnings is\n\n\\[ \\ln(Y_m) - \\ln(Y_f) = \\hat\\beta_m  \\bar{X}_m - \\hat\\beta_f  \\bar{X}_f \\]\n\nWe can add and subtract \\(\\hat\\beta_m  \\bar{X}_f\\) to get\n\n\\[ \\ln(Y_m) - \\ln(Y_f) = \\hat\\beta_m  (\\bar{X}_m - \\bar{X}_f) + \\bar{X}_f (\\hat\\beta_m - \\hat\\beta_f) \\]\n\nDoing this allows us to separate the difference into two parts\nThe first part is the explained part\n\nDue to differences in characteristics\nHolds the slope constant at \\(\\hat\\beta_m\\) and looks at differences in average \\(X\\)"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-2",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-2",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThe second part is the unexplained part\n\nDue to differences in returns to characteristics\nHolds the average characteristics constant at \\(\\bar{X}_f\\) and looks at differences in slopes\nThe slopes are the returns to characteristics\n\nTraditionally, the unexplained part is interpreted as discrimination\n\nBut could also be due to unobserved productivity differences"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-3",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-3",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-4",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-4",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nHere is an example of how this works\nSuppose we have run the following regression separately for men and women\n\n\\[\n\\ln Y  = \\beta_0 + \\beta_1 \\text{Educ} + \\beta_2 \\text{Experience}\n\\]\n\nThe estimated coefficients are:\nMen: \\(\\beta^M = (\\beta_0^M, \\beta_1^M, \\beta_2^M) = (2.0,\\; 0.10,\\; 0.02)\\)\n\nWomen: \\(\\beta^F = (\\beta_0^F, \\beta_1^F, \\beta_2^F) = (1.8,\\; 0.08,\\; 0.015)\\)"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-5",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-5",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThe mean of the observed characteristics are\nMen: \\(\\bar{\\text{Educ}}_M = 14\\), \\(\\bar{\\text{Exp}}_M = 15\\)\n\nWomen: \\(\\bar{\\text{Educ}}_F = 13\\), \\(\\bar{\\text{Exp}}_F = 12\\)\nThe average predicted log wage for men\n\n\\[\n\\bar{ln Y}_M\n= 2.0 + 0.10 \\cdot 14 + 0.02 \\cdot 15\n= 2.0 + 1.4 + 0.3\n= 3.7\n\\]"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-6",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-6",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThe average predicted log wage for women\n\n\\[\n\\bar{ln Y}_F\n= 1.8 + 0.08 \\cdot 13 + 0.015 \\cdot 12\n= 1.8 + 1.04 + 0.18\n= 3.02\n\\]\n\nThe wage gap us therefore\n\n\\[\n\\bar{ln Y}_M - \\bar{ln Y}_F = 3.70 - 3.02 = 0.68\n\\]\n\nThis says that the wage gap is about \\(0.68\\) log points\n\nRoughly a 68% higher wage for men"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-7",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-7",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\nWe decompose:\n\\[\n\\bar{\\ln Y}_M - \\bar{\\ln Y}_F = \\text{Explained} + \\text{Unexplained}\n\\]\n\nExplained (due to characteristics) component is\n\n\\[\n\\text{Explained}\n= (\\bar{X}_M - \\bar{X}_F)\\beta^M\n\\]\n\nCompute differences in means:\nEducation: \\(14 - 13 = 1\\)\n\nExperience: \\(15 - 12 = 3\\)"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-8",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-8",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThen:\n\n\\[\n\\text{Explained}\n= 1 \\cdot 0.10 + 3 \\cdot 0.02\n= 0.10 + 0.06\n= 0.16\n\\]\n-About \\(0.16\\) log points of the gap are due to men having more education and experience.\n-Unexplained (slopes) component is\n\\[\n\\text{Unexplained (slopes)}\n= \\bar{X}_F \\left(\\beta_M - \\beta_F\\right)\n\\]\n\nCoefficient differences:\nEducation: \\(0.10 - 0.08 = 0.02\\)\n\nExperience: \\(0.02 - 0.015 = 0.005\\)"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-9",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-9",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThen:\n\n\\[\n\\text{Unexplained (slopes)}\n= 13 \\cdot 0.02 + 12 \\cdot 0.005\n= 0.26 + 0.06\n= 0.32\n\\]\n\nIntercept difference:\n\n\\[\n\\beta_{0M} - \\beta_{0F} = 2.0 - 1.8 = 0.20\n\\]\n\nThis is also part of the unexplained component (baseline difference not due to \\(X\\)).\nTotal unexplained:\n\n\\[\n\\text{Unexplained (total)}\n= 0.32 + 0.20 = 0.52\n\\]"
-  },
-  {
-    "objectID": "slides/discrim/index.html#blinder-oaxaca-decomposition-10",
-    "href": "slides/discrim/index.html#blinder-oaxaca-decomposition-10",
-    "title": "EC306 - Wages and Employment",
-    "section": "Blinder-Oaxaca Decomposition",
-    "text": "Blinder-Oaxaca Decomposition\n\nThe decomposition is therefore:\n\n\\[\n0.68 = \\underbrace{0.16}_{\\text{explained}} + \\underbrace{0.52}_{\\text{unexplained}}\n\\]\n\nInterpretation:\nExplained: \\(0.16\\) (about \\(24\\%\\) of the gap)\n\nDue to men having higher average education and experience.\n\n\nUnexplained: \\(0.52\\) (about \\(76\\%\\) of the gap)\n\nDue to different returns to characteristics and intercept differences"
   }
 ]

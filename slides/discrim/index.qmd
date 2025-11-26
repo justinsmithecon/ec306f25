@@ -678,29 +678,29 @@ $$ \ln(Y_m) - \ln(Y_f) = \hat\beta_m  (\bar{X}_m - \bar{X}_f) + \bar{X}_f (\hat\
 
 ## Blinder-Oaxaca Decomposition
 
-- Here is an example of how this works
+-   Here is an example of how this works
 
-- Suppose we have run the following regression separately for men and women
+-   Suppose we have run the following regression separately for men and women
 
 $$
 \ln Y  = \beta_0 + \beta_1 \text{Educ} + \beta_2 \text{Experience}
 $$
 
-- The estimated coefficients are:
+-   The estimated coefficients are:
 
-- Men: $\beta^M = (\beta_0^M, \beta_1^M, \beta_2^M) = (2.0,\; 0.10,\; 0.02)$  
-- Women: $\beta^F = (\beta_0^F, \beta_1^F, \beta_2^F) = (1.8,\; 0.08,\; 0.015)$
+-   Men: $\beta^M = (\beta_0^M, \beta_1^M, \beta_2^M) = (2.0,\; 0.10,\; 0.02)$\
 
+-   Women: $\beta^F = (\beta_0^F, \beta_1^F, \beta_2^F) = (1.8,\; 0.08,\; 0.015)$
 
 ## Blinder-Oaxaca Decomposition
 
-- The mean of the observed characteristics are
+-   The mean of the observed characteristics are
 
-- Men: $\bar{\text{Educ}}_M = 14$, $\bar{\text{Exp}}_M = 15$  
-- Women: $\bar{\text{Educ}}_F = 13$, $\bar{\text{Exp}}_F = 12$
+-   Men: $\bar{\text{Educ}}_M = 14$, $\bar{\text{Exp}}_M = 15$\
 
+-   Women: $\bar{\text{Educ}}_F = 13$, $\bar{\text{Exp}}_F = 12$
 
-- The average predicted log wage for men
+-   The average predicted log wage for men
 
 $$
 \bar{ln Y}_M
@@ -709,10 +709,9 @@ $$
 = 3.7
 $$
 
-
 ## Blinder-Oaxaca Decomposition
 
-- The average predicted log wage for women
+-   The average predicted log wage for women
 
 $$
 \bar{ln Y}_F
@@ -721,15 +720,15 @@ $$
 = 3.02
 $$
 
-- The wage gap us therefore
+-   The wage gap us therefore
 
 $$
 \bar{ln Y}_M - \bar{ln Y}_F = 3.70 - 3.02 = 0.68
 $$
 
-- This says that the wage gap is about $0.68$ log points
+-   This says that the wage gap is about $0.68$ log points
 
-  - Roughly a 68% higher wage for men
+    -   Roughly a 68% higher wage for men
 
 ## Blinder-Oaxaca Decomposition
 
@@ -739,23 +738,22 @@ $$
 \bar{\ln Y}_M - \bar{\ln Y}_F = \text{Explained} + \text{Unexplained}
 $$
 
-
-- Explained (due to characteristics) component is
+-   Explained (due to characteristics) component is
 
 $$
 \text{Explained} 
 = (\bar{X}_M - \bar{X}_F)\beta^M
 $$
 
-- Compute differences in means:
+-   Compute differences in means:
 
-- Education: $14 - 13 = 1$  
-- Experience: $15 - 12 = 3$
+-   Education: $14 - 13 = 1$\
+
+-   Experience: $15 - 12 = 3$
 
 ## Blinder-Oaxaca Decomposition
 
-
-- Then:
+-   Then:
 
 $$
 \text{Explained}
@@ -766,8 +764,6 @@ $$
 
 -About $0.16$ log points of the gap are due to men having more education and experience.
 
-
-
 -Unexplained (slopes) component is
 
 $$
@@ -775,16 +771,15 @@ $$
 = \bar{X}_F \left(\beta_M - \beta_F\right)
 $$
 
-- Coefficient differences:
+-   Coefficient differences:
 
-- Education: $0.10 - 0.08 = 0.02$  
-- Experience: $0.02 - 0.015 = 0.005$
+-   Education: $0.10 - 0.08 = 0.02$\
 
+-   Experience: $0.02 - 0.015 = 0.005$
 
 ## Blinder-Oaxaca Decomposition
 
-
-- Then:
+-   Then:
 
 $$
 \text{Unexplained (slopes)}
@@ -793,37 +788,372 @@ $$
 = 0.32
 $$
 
-
-
-- Intercept difference:
-
+-   Intercept difference:
 
 $$
 \beta_{0M} - \beta_{0F} = 2.0 - 1.8 = 0.20
 $$
 
-- This is also part of the unexplained component (baseline difference not due to $X$).
+-   This is also part of the unexplained component (baseline difference not due to $X$).
 
-
-- Total unexplained:
+-   Total unexplained:
 
 $$
 \text{Unexplained (total)} 
 = 0.32 + 0.20 = 0.52
 $$
 
-
 ## Blinder-Oaxaca Decomposition
 
-- The decomposition is therefore:
+-   The decomposition is therefore:
 
 $$
 0.68 = \underbrace{0.16}_{\text{explained}} + \underbrace{0.52}_{\text{unexplained}}
 $$
 
-- Interpretation:
+-   Interpretation:
 
-- Explained: $0.16$ (about $24\%$ of the gap)  
-  - Due to men having higher average education and experience.  
-- Unexplained: $0.52$ (about $76\%$ of the gap)  
-  - Due to different returns to characteristics and intercept differences  
+-   Explained: $0.16$ (about $24\%$ of the gap)
+
+    -   Due to men having higher average education and experience.\
+
+-   Unexplained: $0.52$ (about $76\%$ of the gap)
+
+    -   Due to different returns to characteristics and intercept differences
+
+## Blinder-Oaxaca Decomposition
+
+-   Here is an example using real data from Canada
+
+    -   Labour Force Survey from September 2025
+    -   Restricted to people aged 35-54
+    -   Have wages $>0$
+
+-   First examine some summary statistics
+
+-   Then do a regular regression
+
+-   Finish with decomposition
+
+## Blinder-Oaxaca Decomposition
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(modelsummary)
+library(oaxaca)
+
+
+lfs <- read_csv("pub0925.csv") %>%
+  clean_names() %>%
+  mutate(age_12 = as.numeric(age_12),
+         hrlyearn = hrlyearn/100,
+         gender = fct_recode(as.factor(gender), "Men" = "1", "Women" = "2"),
+         educ = fct_recode(as.factor(educ),"0-8 yrs" = "0", "Some HS" = "1", "HS Grad" = "2", "Some PS" = "3", "PS Diploma" = "4", "BA" = "5", ">BA" = "6"),
+         prov = fct_recode(as.factor(prov), "NL" = "10", "PEI" = "11", "NS" = "12", "NB" = "13", "QC" = "24", "ON" = "35", "MB" = "46", 
+                           "SK" = "47", "AB" = "48", "BC" = "59"),
+         female = gender == "Women") %>%
+  filter(between(age_12, 5,8), 
+         hrlyearn > 0) 
+
+
+## Kernel density plot of male and female hourly earnings
+
+ggplot(lfs, aes(x=hrlyearn, group = gender, colour = gender)) +
+  geom_density() + 
+  theme_minimal() +
+  labs(title = "Wage Distribution by Gender",
+       subtitle = "Age 35-54, September 2025",
+       x = "Hourly Earnings",
+       y = "Density")
+```
+
+## Blinder-Oaxaca Decomposition
+
+```{r}
+ggplot(lfs, aes(x=log(hrlyearn), group = gender, colour = gender)) +
+  geom_density() + 
+  theme_minimal() +
+  labs(title = "Wage Distribution by Gender (Log Scale)",
+       subtitle = "Age 35-54, September 2025",
+       x = "Hourly Earnings",
+       y = "Density")+
+  scale_x_continuous(
+    labels = function(x) round(exp(x), 0)   # converts log wages → wages
+  )
+
+```
+
+## Blinder-Oaxaca Decomposition
+
+```{r}
+ggplot(lfs, aes(x = educ, y = hrlyearn, fill = gender)) +
+  geom_boxplot(position = position_dodge(width = 0.8), outliers = FALSE) +
+  labs(
+    x = "Schooling Level",
+    y = "Wage",
+    title = "Wage Distribution by Schooling and Gender",
+    fill = "Gender"
+  ) +
+  theme_bw()
+
+```
+
+## Blinder-Oaxaca Decomposition
+
+```{r}
+ggplot(lfs, aes(x = as.factor(prov), y = hrlyearn, fill = gender)) +
+  geom_boxplot(position = position_dodge(width = 0.8), outliers = FALSE) +
+  labs(
+    x = "Schooling Level",
+    y = "Wage",
+    title = "Wage Distribution by Province and Gender",
+    fill = "Gender"
+  ) +
+  theme_bw()
+```
+
+## Blinder-Oaxaca Decomposition
+
+```{r}
+m1 <- lm(hrlyearn ~ gender, data = lfs)
+m2 <- lm(log(hrlyearn) ~ gender, data = lfs)
+m3 <- lm(log(hrlyearn) ~ gender + as.factor(age_12) + educ + as.factor(marstat) + as.factor(immig) + as.factor(union) + as.factor(prov), data = lfs)
+
+modelsummary(
+  list("Wage" = m1, "Log Wage" = m2, "Log Wage (with Controls)" = m3),
+  coef_map = c(
+    "genderWomen" = "Women"   # only show this coefficient
+  )
+)
+```
+
+## Blinder-Oaxaca Decomposition
+
+```{r}
+library(tibble)
+library(knitr)
+
+oaxaca<- oaxaca(log(hrlyearn) ~  as.factor(age_12) + educ + as.factor(marstat) + as.factor(immig) + as.factor(union) + as.factor(prov)|female, data = lfs)
+
+# Convert to data frame
+overall_twofold <- as.data.frame(oaxaca$twofold$overall)
+
+# Select the 0.5 weighting row (default symmetric decomposition)
+row <- overall_twofold[overall_twofold$group.weight == 0.5, ]
+
+# Build table WITHOUT standard errors
+tab <- tibble(
+  Component = c(
+    "Overall Difference",
+    "Explained (Endowments)",
+    "Unexplained (Coefficients)"
+  ),
+  Estimate = c(
+    row[["coef(explained)"]] + row[["coef(unexplained)"]],
+    row[["coef(explained)"]],
+    row[["coef(unexplained)"]]
+  )
+)
+
+kable(tab, digits = 3)
+
+```
+
+## Collider Bias
+
+-   Sometimes researchers will control for variables in a regression to adjust the wage gap
+
+    -   What is the gap if we hold constant age, education, experience, occupation, industry, hours worked, etc.
+
+-   The idea is to compare people who are the same on all relevant characteristics
+
+    -   So that any remaining difference is (possibly) due to discrimination
+
+-   When doing this, you run into a tricky issue called **collider bias**
+
+    -   Controlling for certain variables can actually **create bias** in estimates
+
+## Collider Bias
+
+-   Easiest to understand with an example
+
+-   Suppose we examine the tech industry
+
+    -   Men and women have equal ability in the general population
+    -   Ability is positively related to wages
+    -   Women face discrimination in tech, so to get the job they must have very high ability
+    -   Men can enter even with moderate ability
+
+-   If you look at the wage gap in tech jobs, it might appear to favour women
+
+    -   In the same occupation, women will have **higher** ability because they had to overcome discrimination
+    -   So comparing men and women within occupation **creates** ability bias
+
+## Collider Bias
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/google.png){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-   This happened at Google several years back
+
+-   There was a complaint that women were being underpaid
+
+-   But they did an analysis and found that **men** were underpaid
+
+-   Was a perfect example of collider bias
+
+    -   They looked within jobs
+    -   Women of very high ability were likely selected into those jobs
+    -   Their wages were higher because of that
+:::
+::::::
+
+## Collider Bias
+
+-   How to avoid collider bias?
+
+-   Do not add variables that are outcomes of discrimination to regression
+
+    -   Occupation is often an outcome of discrimination
+    -   Industry may also be an outcome
+
+-   Instead include only predetermined characteristics
+
+    -   Things that are not affected by discrimination
+    -   Includes mainly basic demographics, possibly education and exprience
+
+# Additional Evidence on Gender Pay Gaps
+
+## Introduction
+
+-   There has been significant statistical work on this issue
+
+-   Why?
+
+    -   Its importance
+    -   Availability of data
+
+-   We will briefly review some of the evidence here
+
+    -   A slightly greater focus on Canadian studies
+
+## Evidence
+
+-   Across several studies, women in Canada earn about 60% of what men earn
+
+-   After controlling for characteristics, the gap shrinks to about 85%
+
+-   Pay gap is smaller in the public sector
+
+    -   Pay practices are more egalitarian in the government
+
+-   Gap has been falling over time
+
+    -   Many factors could contribute to this
+
+-   Internationally, gaps are smaller with stronger bargaining structures
+
+-   Gap is smaller the more competitive the industry
+
+## Evidence
+
+-   Occupational segregation does not explain a large part of the gap
+
+    -   Gap is explained more by *industry* rather than occupation
+
+-   Women face career penalties from family responsibilities
+
+-   Glass ceilings are an observed phenomenon
+
+    -   At the top end of the pay distribution, gaps are larger
+    -   Lots of international evidence of differences in career advancement
+
+-   Unions have a higher impact on women than men
+
+    -   Offset by the fact that women are less likely to be unionized
+
+## Evidence
+
+-   Mixed evidence on job protected leave
+
+    -   Leave is good because it protects jobs for women
+    -   But might make employers less likely to hire women in the first place
+    -   Evidence shows it lowers wages for women in the U.S.
+    -   In Canada it increases job continuity
+
+-   Some evidence that gap grows with more work experience
+
+    -   Upon initial entry, gap is small
+    -   Grows over time
+
+# Other Groups
+
+## Introduction
+
+-   The chapter is nominally about gender wage gaps
+
+-   But the same techniques can be used to estimate gaps for other groups
+
+-   This is usually done by race or ethnicity
+
+    -   U.S. studies have focused in particular on racial discrimination
+
+-   We will briefly cover this here
+
+## Evidence for Other Groups
+
+-   Indigenous peoples in Canada face significant wage gaps
+
+    -   About 85% of non-Indigenous wages off reserve
+    -   Shrinks after controlling for characteristics
+
+-   Some work on ethnic-white wage gaps in Canada
+
+    -   Complicated by the fact that many non-white Canadians are also immigrants
+    -   Immigration has its own independent effect on wages
+    -   Controlling for this, gaps are very high
+    -   Summarized on next slide
+
+## Evidence for Other Groups
+
+![](images/ben54842_tb1201.jpg){fig-align="center"}
+
+## Evidence for Other Groups
+
+- Evidence is different in the U.S.
+
+- Large literature on Black-white wage gaps
+
+    -   About 68% of white wages
+    -   Shrinks when controlling for past test scores (as measure of pre-market productivity)
+    
+        - Discrimination also coming from pre-market factors
+        
+    - Large component of discrimination
+    
+- Gaps favour Chinese and Southeast Asian workers
+
+    -   Not the same in Canada
+    
+    
+# Policies to Combat Gender Discrimination
+
+## Introduction
+
+- Gender discrimination has been an issue for a long time
+
+- Several policies are enacted to combat these
+
+- Some examples:
+
+    - Equal pay
+    - Equal employment opportunity
+    - Policies to facilitate female employment
+    
+    
