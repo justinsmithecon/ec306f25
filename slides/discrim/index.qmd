@@ -1175,12 +1175,12 @@ kable(tab, digits = 3)
 
 ## Equal Pay
 
--   Equal pay for equal work broadens the scope if pay equity
+-   Equal pay for equal work broadens the scope of pay equity
 
     -   Assigns points to jobs based on skill, effort, responsibility, working conditions
     -   Jobs with similar points should receive similar pay
     -   Can apply to different occupations, but still in same firm/industry
-    -   Applies only to jobs that are predominantly male or female ($>70%$ in one gender)
+    -   Applies only to jobs that are predominantly male or female (>70 percent in one gender)
     -   Pay in female dominated jobs adjusted to that of male dominated jobs
 
 ## Equal Pay
