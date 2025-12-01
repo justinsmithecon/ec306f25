@@ -1126,34 +1126,256 @@ kable(tab, digits = 3)
 
 ## Evidence for Other Groups
 
-- Evidence is different in the U.S.
+-   Evidence is different in the U.S.
 
-- Large literature on Black-white wage gaps
+-   Large literature on Black-white wage gaps
 
     -   About 68% of white wages
+
     -   Shrinks when controlling for past test scores (as measure of pre-market productivity)
-    
-        - Discrimination also coming from pre-market factors
-        
-    - Large component of discrimination
-    
-- Gaps favour Chinese and Southeast Asian workers
+
+        -   Discrimination also coming from pre-market factors
+
+    -   Large component of discrimination
+
+-   Gaps favour Chinese and Southeast Asian workers
 
     -   Not the same in Canada
-    
-    
+
 # Policies to Combat Gender Discrimination
 
 ## Introduction
 
-- Gender discrimination has been an issue for a long time
+-   Gender discrimination has been an issue for a long time
 
-- Several policies are enacted to combat these
+-   Several policies are enacted to combat these
 
-- Some examples:
+-   Some examples:
 
-    - Equal pay
-    - Equal employment opportunity
-    - Policies to facilitate female employment
+    -   Equal pay
+    -   Equal employment opportunity
+    -   Policies to facilitate female employment
+
+## Equal Pay
+
+-   Equal pay legislation takes two forms
+
+    -   Pay equity
+    -   Equal pay for equal work
+
+-   Pay equity requires that jobs which are substantially similar receive equal pay
+
+    -   Looks at very similar jobs
+
+    -   Minor differences are allowed
+
+    -   Issue is that it deals with similar jobs in similar establishments
+
+        -   Does not address equity issues across jobs/industries
+
+## Equal Pay
+
+-   Equal pay for equal work broadens the scope if pay equity
+
+    -   Assigns points to jobs based on skill, effort, responsibility, working conditions
+    -   Jobs with similar points should receive similar pay
+    -   Can apply to different occupations, but still in same firm/industry
+    -   Applies only to jobs that are predominantly male or female ($>70%$ in one gender)
+    -   Pay in female dominated jobs adjusted to that of male dominated jobs
+
+## Equal Pay
+
+:::::: columns
+:::: {.column width="50%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](images/payequity.png){fig-align="center"}
+:::
+::::
+
+::: {.column width="50%"}
+-  Equal pay for equal work example to the left
+
+- Pay is plotted against point scores
+
+- In this example, male dominated jobs have generally higher pay
+
+- Solutions could be
+
+  - Raise female line to male line
+  - Raise female pay to male pay point by point for similar scores
+  - Raise female points to male line at each point value
+:::
+::::::
+
+## Equal Pay
+
+- Worth noting that equal pay for equal work is based on administrative concept of value
+
+  - Points assigned for skill, effort, responsibility, working conditions
+  
+- It is not based on economic (market) value
+
+  - Jobs may be worth different amounts in the market
+  
+- This is purposeful
+
+  - Market value reflects discrimination
+  - Administrative value tries to remove this
+  
+## Equal Employment Opportunity   
+
+- As the name suggests, equal pay focused on equalizing wages
+
+- Equal opportunity focused on equalizing access to jobs
+
+  - But by equalizing access, we also expect wages to equalize
+
+- Key initiative is affirmative action (aka employment equity)
+
+## Equal Employment Opportunity
+
+- Affirmative action is the most salient equal employment policy
+
+- Generally involves preferential treatment for minority groups 
+
+  - Idea is to overcome past and current discrimination
+  - Designed to be used temporarily to restore balance
+  
+- Not as rigid in Canada as in the U.S.
+
+  - Applies only to federal workforce, about 10% of jobs
+  - Applies to four targeted groups: women, visible minorities, disabled persons, indigenous peoples
+  
+- Continues to be very controversial  
+  
+## Facilitating Policies  
+
+- Finally, there are policies that can help facilitate women in the workforce
+
+- Examples include
+
+  - Parental leave
+  - Child care subsidies
+  - Flexible work arrangements
+  
+- Canada has done well on the first two
+
+  - Expansion of child care subsidies recently is a good example
+  
+## Facilitating Policies  
+
+- Some consider expanding unionization to be a facilitating policy
+
+  - Unions bargain for greater pay, working conditions
+  - Expanding this to cover more women would help
+  - May also help generate more power for women to argue for other types of legislation we discussed
+  
+- Finally, removing pay secrecy has the ability to help
+
+  - If employees know what others are paid, they can better negotiate
+  - Pay secrecy tends to hide discrimination
+  - Some jurisdictions have passed laws banning pay secrecy
+  
+## Preference and Attitudes
+
+- We saw that discrimination in part is due to preferences and attitudes
+
+  - Taste based discrimination is one example
+  
+- Could use public policy to try to change these attitudes
+
+  - Public awareness campaigns
+  - Education programs
+  
+- Not clear how well this works
+
+
+# Impact of Policies
+
+## Introduction
+
+- We have outlined briefly the different anti-discrimination policies
+
+- How effective are these policies?
+
+- Relatively straighforward to analyze statistically
+
+  - Use Program Evaluation techniques
+  - Data generally available
+
+
+
+
+
+## Pay Equity
+
+- Generally these are ineffective in closing gender gap
     
+- Some evidence of an impact in the UK
+  
+- In U.S., pay equity difficult to disentangle from other civil rights legislation
+
+  - Effects are inconclusive
+  
+  
+## Equal Pay for Equal Work
+
+- Analyzed mostly in the public sector
+
+- Recall that the legislation is limited in scope
+
+  - Male/female dominated jobs in same firm/industry
+  
+- Policy shown to closes about one-third of the gender gap in public sector
+
+  - Limited evidence in private sector
+  
+## Affirmative Action
+
+- Affirmative action is most prominent in the U.S.
+
+- Several studies have examined its effect
+
+- Evidence that it helped employment opportunities of Black men
+
+  - Were the main targets of the legislation in earlier years
+  
+- In later years, helped both Black men and women 
+
+  - Targets were explanded in later years
+  
+## Facilitating Policies
+
+- Parental leave policies help create job continuity
+
+- Subsidized child care increases female labour force participation
+
+    - Good evidence from Quebec
     
+- Pay transparency reduces the gender gap by about 30% in academia
+  
+    - Using evidence from "sunshine list" in Ontario
+    
+- "Tenure clock stopping" policies reduce tenure rates for women
+
+  - Unintended consequence is men are able to increase productivity
+  
+- Banning asking about past criminal history hurt employment of Black men
+
+  - Increased use of discrimination
+  
+# Summary
+
+## Summary
+
+- Discrimination can arise from tastes, statistical discrimination, supply-side factors, and non-competitive markets
+
+- Measuring discrimination is difficult because productivity is not observed
+
+    -   Blinder-Oaxaca decomposition is a common method
+    
+- Collider bias is a potential issue when controlling for certain variables
+
+- There are a number of initiatives to reduce discrimination
+
+    -   Mixed evidence on their effectiveness
